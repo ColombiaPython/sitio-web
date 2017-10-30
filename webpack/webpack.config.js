@@ -16,7 +16,7 @@ module.exports = {
   devtool: '#cheap-module-source-map',
   resolve: {
     modules: [
-      path.join(__dirname, "src"),
+      path.join(__dirname, "js/helpers"),
       'node_modules',
     ],
     extensions: ['.js']
@@ -36,7 +36,7 @@ module.exports = {
     },
     {
       test: /\.css$/,
-      loaders: ["style-loader","css-loader"]
+      loaders: ["style-loader", "css-loader"]
     },
 
       {
@@ -57,9 +57,16 @@ module.exports = {
       allChunks: true
     }),
     new webpack.ProvidePlugin({
-        $: "jquery",
-        jQuery: "jquery"
+        '$': 'jquery',
+        'jQuery': 'jquery',
+        'window.jQuery': 'jquery',
+        'Popper': ['popper.js', 'default'],
     }),
     new webpack.optimize.UglifyJsPlugin()
   ],
+  externals: {
+    // require("jquery") is external and available
+    //  on the global var jQuery
+    "jquery": "jQuery"
+  }
 };

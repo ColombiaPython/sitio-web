@@ -1,1 +1,15 @@
-@import "~bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+@import "~bootstrap/scss/bootstrap.scss";
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+}
