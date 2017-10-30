@@ -1,0 +1,21 @@
+[project]
+name = Python Colombia
+url = http://python.org.co
+
+[packages]
+lektor-webpack-support = 0.3
+lektor-markdown-header-anchors = 0.1
+
+[alternatives.en]
+name = English
+locale = en
+url_prefix = /en/
+
+[alternatives.es]
+primary = yes
+name = Español
+locale = es
+
+[servers.master]
+name = Production
+target = ghpages+https://colombiapython/sitio-web?cname=www.python.org.co
