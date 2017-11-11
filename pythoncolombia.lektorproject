@@ -1,6 +1,7 @@
 [project]
 name = Python Colombia
 url = http://python.org.co
+url_style = absolute
 
 [packages]
 lektor-webpack-support = 0.3

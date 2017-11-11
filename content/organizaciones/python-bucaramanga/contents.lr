@@ -1,0 +1,25 @@
+_model: organization
+---
+name: Python Bucaramanga
+---
+ciudad: Bucaramanga
+---
+country: Colombia
+---
+email: pythonbucaramanga
+---
+facebook_handle: PythonBucaramanga
+---
+organizers: gonzalo-pena-castellanos
+---
+province: Santander
+---
+summary: Comunidad de Python en Bucaramanga
+---
+telegram_handle: PythonBucaramanga
+---
+twitter_handle: pybuc
+---
+type: comunidad
+---
+web: http://pybuc.org
