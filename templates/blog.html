@@ -4,30 +4,29 @@
 
 {% block title %}{{ this.title }}{% endblock %}
 {% block content %}
-    <br>
-	<section class="" id="">
-		<div class="container">
-			<div class="row">
+<br>
+<section class="" id="">
+  <div class="container">
+    <div class="row">
 
-				<!-- section title -->
-				<div class="title text-center ">
-					<h2> <span class="color">Publicaciones</span></h2>
-					<div class="border"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus facere accusamus, reprehenderit libero inventore nam.</p>
-				</div>
-				<!-- /section title -->
+      <div class="title text-center ">
+        <h2> <span class="color">Publicaciones</span></h2>
+        <div class="border"></div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus facere accusamus, reprehenderit libero inventore nam.</p>
+      </div>
 
-                  {% for child in this.pagination.items %}
-                    {{ render_blog_post(child, from_index=true) }}
-                  {% endfor %}
-			</div> <!-- end row -->
+      {% for child in this.pagination.items %}
+        {{ render_blog_post(child, from_index=true) }}
+      {% endfor %}
 
-			<div class="row">
-				<div class="title text-center ">
-                  {{ render_pagination(this.pagination) }}
-			    </div>
-    			</div>
+    </div> <!-- end row -->
 
-		</div> <!-- end container -->
-	</section> <!-- end section -->
+    <div class="row">
+      <div class="title text-center ">
+        {{ render_pagination(this.pagination) }}
+      </div>
+    </div>
+
+  </div>
+</section>
 {% endblock %}
