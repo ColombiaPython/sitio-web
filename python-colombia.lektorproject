@@ -1,7 +1,7 @@
 [project]
 name = Python Colombia
-url = https://python.org.co
-url_style = absolute
+url = https://colombiapython.github.io/sitio-web-desarrollo/
+url_style = relative
 
 [packages]
 lektor-webpack-support = 0.3

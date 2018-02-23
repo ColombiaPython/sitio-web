@@ -1,20 +1,20 @@
 {% macro render_blog_post(post, from_index=false) %}
-  <div class="blog-post">
-  {% if from_index %}
-    <h2><a href="{{ post|url }}">{{ post.title }}</a></h2>
-  {% else %}
-    <h2>{{ post.title }}</h2>
-  {% endif %}
-  <p class="meta">
-    written by
-    {% if post.twitter_handle %}
-      <a href="https://twitter.com/{{ post.twitter_handle
-        }}">{{ post.author or post.twitter_handle }}</a>
-    {% else %}
-      {{ post.author }}
-    {% endif %}
-    on {{ post.pub_date }}
-  </p>
-  {{ post.body }}
-  </div>
+
+				<!-- single blog post -->
+				<article class="col-md-4 col-sm-6 col-xs-12 clearfix " >
+					<div class="post-item">
+						<div class="media-wrapper">
+							<img src="{{ post|url }}{{ post.image }}" alt="coverimage" class="img-responsive">
+						</div>
+
+						<div class="content">
+							<h3><a href="{{ post|url }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;<small>{{ post.pub_date }}</small></h3>
+							<h4>{{ post.author }}</h4>
+							<p>{{ post.summary }}</p>
+							<a class="btn btn-main" href="{{ post|url }}">Leer más</a>
+						</div>
+					</div>
+				</article>
+				<!-- /single blog post -->
+
 {% endmacro %}

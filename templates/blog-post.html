@@ -1,6 +1,28 @@
-{% extends "layout.html" %}
+{% extends "page.html" %}
 {% from "macros/blog.html" import render_blog_post %}
+
 {% block title %}{{ this.title }}{% endblock %}
-{% block body %}
-  {{ render_blog_post(this) }}
+
+{% block content %}
+    <br>
+	<section class="" id="">
+		<div class="container">
+			<div class="row">
+
+				<!-- section title -->
+				<div class="title text-center ">
+					<h2> <span class="color">{{ this.tilte }}</span></h2>
+					<div class="border"></div>
+					<p>{{ this.summary }}</p>
+				</div>
+				<!-- /section title -->
+
+                  {{ this.body }}
+
+			</div> <!-- end row -->
+
+
+		</div> <!-- end container -->
+	</section> <!-- end section -->
+
 {% endblock %}
