@@ -1,0 +1,23 @@
+[project]
+name = Python Colombia
+url = https://colombiapython.github.io/sitio-web-desarrollo/
+url_style = relative
+
+[alternatives.es]
+name = Spanish
+primary = yes
+locale = es
+
+[alternatives.en]
+name = English
+url_prefix = /en/
+locale = en
+
+[servers.develop]
+name = Develop
+target = ghpages+https://colombiapython/sitio-web-desarrollo
+default = yes
+
+[servers.production]
+name = Production
+target = ghpages+https://colombiapython/sitio-web-produccion

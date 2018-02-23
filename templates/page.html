@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+
+{%- if this.banner -%}
+  {%- set banner = this|url+this.banner -%}
+{%- else -%}
+  {%- set banner = '/'|url+'static/images/banner.jpg' -%}
+{%- endif -%}
+
+<section class="single-page-header" style="background-image: url({{  banner }});">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2>{{ this.title }}</h2>
+                    <ol class="breadcrumb header-bradcrumb">
+                        {% set crumbs = [] %}
+                        {% set current = {'crumb': this} %}
+                        {% for i in this._path.split("/") %}
+                            {% if current.crumb is not none %}
+                                {% if crumbs.insert(0, current.crumb) %}{% endif %}
+                                {% if current.update({"crumb": current.crumb.parent}) %}{% endif %}
+                            {% endif %}
+                        {% endfor %}
+                        {% for crumb in crumbs %}
+                            {% if this._path == crumb._path %}
+                                <li class="active">{{ crumb.title }}</li>
+                            {% else %}
+                                <li><a href="{{ crumb|url }}">{{ crumb.title }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                    </ol>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+      <br><br>
+      {%- block content -%}
+        {{ this.body }}
+      {%- endblock -%}
+      <br><br>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,26 @@
+language: python
+
+python: 3.6
+
+cache:
+  directories:
+    - $HOME/.cache/pip
+    - $HOME/.cache/lektor/builds
+
+install:
+  - "pip install -U pip"
+  # Uncomment when new Lektor package is available
+  # - "pip install Lektor"
+  - "pip install git+https://github.com/lektor/lektor#egg=Lektor"
+
+script: "lektor build"
+
+deploy:
+  - provider: script
+    script: "lektor deploy develop"
+    on:
+       branch: develop
+  - provider: script
+    script: "lektor deploy production"
+    on:
+       branch: production
