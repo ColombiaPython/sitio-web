@@ -1,0 +1,28 @@
+[project]
+name = Python Colombia
+url = https://python.org.co
+url_style = absolute
+
+[packages]
+lektor-webpack-support = 0.3
+lektor-markdown-header-anchors = 0.1
+
+[alternatives.es]
+name = Español
+primary = yes
+locale = es
+
+[alternatives.en]
+name = English
+url_prefix = /en/
+locale = en
+
+[servers.develop]
+name = Develop
+target = ghpages+https://colombiapython/sitio-web-desarrollo
+# ?cname=develop.pycon.co
+
+[servers.production]
+name = Production
+target = ghpages+https://colombiapython/sitio-web-produccion
+# ?cname=www.pycon.co
