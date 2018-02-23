@@ -1,3 +1,14 @@
 _model: page
 ---
 title: Sobre Nosotros
+---
+body:
+
+Contenido de prueba
+
+**Negrita**
+*Italica*
+
+- Lista 1
+- Lista 2
+

@@ -22,7 +22,7 @@ class PythonColombiaPlugin(Plugin):
             """Estimate reading time in minutes for content."""
             words = content.split(' ')
             time = len(words)/200.0  # Avergae word reading time for adults
-            return round(time, 0)
+            return int(round(time, 0))
 
         self.env.jinja_env.globals.update(dir=dir)
         self.env.jinja_env.globals.update(OrderedDict=OrderedDict)

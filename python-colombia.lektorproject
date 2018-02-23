@@ -8,7 +8,7 @@ lektor-webpack-support = 0.3
 lektor-markdown-header-anchors = 0.1
 
 [alternatives.es]
-name = Español
+name = Spanish
 primary = yes
 locale = es
 

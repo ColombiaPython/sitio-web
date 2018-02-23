@@ -4,25 +4,17 @@
 {% block title %}{{ this.title }}{% endblock %}
 
 {% block content %}
-    <br>
-	<section class="" id="">
-		<div class="container">
-			<div class="row">
-
-				<!-- section title -->
-				<div class="title text-center ">
-					<h2> <span class="color">{{ this.tilte }}</span></h2>
-					<div class="border"></div>
-					<p>{{ this.summary }}</p>
-				</div>
-				<!-- /section title -->
-
-                  {{ this.body }}
-
-			</div> <!-- end row -->
-
-
-		</div> <!-- end container -->
-	</section> <!-- end section -->
+<!-- section title -->
+<div class="title text-center ">
+  <h2> <span class="color">{{ this.tilte }}</span></h2>
+  <div class="border"></div>
+  <p>{{ this.summary }}</p>
+</div>
+<!-- /section title -->
+<div class="row">
+  <div class="col-md-offset-1 col-md-10">
+  {{ this.body }}
+  </div>
+</div>
 
 {% endblock %}

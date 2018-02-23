@@ -35,8 +35,18 @@
 	</div>
 </section>
 
-{% block content %}
-  {{ this.body }}
-{% endblock %}
+<section class="">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+      <br><br>
+      {%- block content -%}
+        {{ this.body }}
+      {%- endblock -%}
+      <br><br>
+      </div>
+    </div>
+  </div>
+</section>
 
 {% endblock %}
