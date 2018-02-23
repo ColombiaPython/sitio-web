@@ -15,4 +15,9 @@ locale = en
 
 [servers.develop]
 name = Develop
-target = ghpages://colombiapython/sitio-web-desarrollo
+target = ghpages+https://colombiapython/sitio-web-desarrollo
+default = yes
+
+[servers.production]
+name = Production
+target = ghpages+https://colombiapython/sitio-web-produccion
