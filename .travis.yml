@@ -9,8 +9,6 @@ cache:
 
 install:
   - "pip install -U pip"
-  # Uncomment when new Lektor package is available
-  # - "pip install Lektor"
   - "pip install git+https://github.com/lektor/lektor#egg=Lektor"
 
 script: "lektor build"
