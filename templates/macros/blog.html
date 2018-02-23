@@ -9,9 +9,11 @@
     <div class="content">
       <h3><a href="{{ post|url }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;<small>{{ post.pub_date }}&nbsp;&nbsp;·&nbsp;&nbsp;{{ estimate_reading_time(post.body.source) }} min</small></h3>
       {% for author_blk in post.authors.blocks %}
-      {% set user = site.get('/usuarios/'+author_blk.username) %}
-      <h4>{{ user.name }} {{ user.last_name }}</h4>
+      <h4>
+      {% set user = site.get('/usuarios/' + author_blk.username + '/') %}
+      {{ user.name }} {{ user.last_name }}{% if not loop.last %},&nbsp{% endif %}
       {% endfor %}
+      </h4>
       <p>{{ post.summary }}</p>
       <a class="btn btn-main" href="{{ post|url }}">Leer más</a>
     </div>

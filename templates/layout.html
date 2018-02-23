@@ -70,8 +70,8 @@
             <li{% if this._path == '/' %} class="active"{% endif %}><a href="{{ '/'|url }}">Python Colombia</a></li>
             {% for href, title in [
                   ['/blog', 'Blog'],
-                  ['/sobre-nosotros', 'Sobre Nosotros'],
                   ['/contacto', 'Contacto'],
+                  ['/sobre-nosotros', 'Sobre Nosotros'],
                 ] %}
             <li{% if this.is_child_of(href) %} class="active"{% endif%}><a href="{{ href|url }}">{{ title }}</a></li>
             {% endfor %}
