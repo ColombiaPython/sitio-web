@@ -4,22 +4,20 @@
 
 {% block title %}{{ this.title }}{% endblock %}
 {% block content %}
-<br>
-<section class="" id="">
-  <div class="container">
-    <div class="row">
+
+<div class="row">
 
       <div class="title text-center ">
         <h2> <span class="color">Publicaciones</span></h2>
         <div class="border"></div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus facere accusamus, reprehenderit libero inventore nam.</p>
+        <p>Bienvenido a la seccion de noticias y publicaciones de la comunidad!</p>
       </div>
 
       {% for child in this.pagination.items %}
         {{ render_blog_post(child, from_index=true) }}
       {% endfor %}
 
-    </div> <!-- end row -->
+</div>
 
     <div class="row">
       <div class="title text-center ">
@@ -27,6 +25,6 @@
       </div>
     </div>
 
-  </div>
-</section>
+
+
 {% endblock %}
