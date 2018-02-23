@@ -67,8 +67,9 @@
 
         <nav class="collapse navbar-collapse navbar-right">
           <ul id="nav" class="nav navbar-nav menu">
-            <li{% if this._path == '/' %} class="active"{% endif %}><a href="{{ '/'|url }}">Python Colombia</a></li>
+            <li{% if this._path == '/' %} class="active"{% endif %}><a href="{{ '/'|url }}">Home</a></li>
             {% for href, title in [
+                  ['/django-girls', 'Django Girls'],
                   ['/blog', 'Blog'],
                   ['/contacto', 'Contacto'],
                   ['/sobre-nosotros', 'Sobre Nosotros'],
@@ -97,9 +98,9 @@
             <div class="col-sm-3 col-md-3 col-lg-3">
               <ul>
                 <li><h3>Proyectos</h3></li>
-                <li><a href="#">Django Girls Colombia</a></li>
-                <li><a href="#">PyLadies Colombia</a></li>
-                <li><a href="#">Data Ladies Colombia</a></li>
+                <li><a href="{{ '/django-girls'|url }}">Django Girls Colombia</a></li>
+                {#<li><a href="#">PyLadies Colombia</a></li>#}
+                {#<li><a href="#">Data Ladies Colombia</a></li>#}
               </ul>
             </div>
 
