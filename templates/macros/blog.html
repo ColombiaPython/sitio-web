@@ -3,7 +3,7 @@
 <article class="col-md-4 col-sm-6 col-xs-12 clearfix " >
   <div class="post-item">
     <div class="media-wrapper">
-      <img src="{{ post|url }}{{ post.image }}" alt="coverimage" class="img-responsive">
+      <img src="{{ post|url }}{{ post.banner }}" alt="coverimage" class="img-responsive">
     </div>
 
     <div class="content">
@@ -15,7 +15,7 @@
       {% endfor %}
       </h4>
       <p>{{ post.summary }}</p>
-      <a class="btn btn-main" href="{{ post|url }}">Leer más</a>
+      <div class="text-center"><a class="btn btn-main" href="{{ post|url }}">Leer más</a></div>
     </div>
   </div>
 </article>
