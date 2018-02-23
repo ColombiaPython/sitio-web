@@ -4,172 +4,133 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!-->
 <html class="no-js"> <!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Bingo One page parallax responsive HTML Template ">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Sitio web de la comunidad de Python Colombia">
+    <meta name="author" content="Python Colombia">
+    <title>{% block title %}{{ this.title }}{% endblock %}</title>
 
-  <meta name="author" content="Themefisher.com">
+    <!-- Mobile Specific Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% block title %}{{ this.title }}{% endblock %}</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/'|url }}static/images/favicon.png" />
 
-<!-- Mobile Specific Meta
-  ================================================== -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS -->
+    <!-- Themefisher Icon font -->
+    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/themefisher-font/style.css">
+    <!-- bootstrap.min css -->
+    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/bootstrap/css/bootstrap.min.css">
+    <!-- Lightbox.min css -->
+    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/lightbox2/dist/css/lightbox.min.css">
+    <!-- Slick Carousel -->
+    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/slick-carousel/slick/slick-theme.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="{{ '/'|url }}static/css/style.css">
 
-  <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="{{ '/'|url }}static/images/favicon.png" />
+    <!-- Colors -->
+    <!-- <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/green.css" title="green">
+    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/red.css" title="light-red">
+    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/blue.css" title="blue">
+    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/light-blue.css" title="light-blue">
+    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/yellow.css" title="yellow">
+    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/light-green.css" title="light-green"> -->
 
-  <!-- CSS
-  ================================================== -->
-  <!-- Themefisher Icon font -->
-  <link rel="stylesheet" href="{{ '/'|url }}static/vendor/themefisher-font/style.css">
-  <!-- bootstrap.min css -->
-  <link rel="stylesheet" href="{{ '/'|url }}static/vendor/bootstrap/css/bootstrap.min.css">
-  <!-- Lightbox.min css -->
-  <link rel="stylesheet" href="{{ '/'|url }}static/vendor/lightbox2/dist/css/lightbox.min.css">
-  <!-- Slick Carousel -->
-  <link rel="stylesheet" href="{{ '/'|url }}static/vendor/slick-carousel/slick/slick.css">
-  <link rel="stylesheet" href="{{ '/'|url }}static/vendor/slick-carousel/slick/slick-theme.css">
-  <!-- Main Stylesheet -->
-  <link rel="stylesheet" href="{{ '/'|url }}static/css/style.css">
+  </head>
 
-
-  <!-- Colors -->
-  <!-- <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/green.css" title="green">
-  <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/red.css" title="light-red">
-  <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/blue.css" title="blue">
-  <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/light-blue.css" title="light-blue">
-  <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/yellow.css" title="yellow">
-  <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/light-green.css" title="light-green"> -->
-
-
-</head>
-
-<body id="body">
-
- <!--
-  Start Preloader
-  ==================================== -->
-  <div id="preloader">
-    <div class='preloader'>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-  </div>
-  <!--
-  End Preloader
-  ==================================== -->
-
-<!--
-Fixed Navigation
-==================================== -->
-<header class="navigation navbar navbar-fixed-top">
-   <div class="container">
-      <div class="navbar-header">
-         <!-- responsive nav button -->
-         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-         <span class="sr-only">Toggle navigation</span>
-         <span class="icon-bar"></span>
-         <span class="icon-bar"></span>
-         <span class="icon-bar"></span>
-         </button>
-         <!-- /responsive nav button -->
-         <!-- logo -->
-         <a class="navbar-brand logo" href="{{ '/'|url }}">Python Colombia</a>
-         <!-- /logo -->
+  <body id="body">
+    <div id="preloader">
+      <div class='preloader'>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
       </div>
-      <!-- main nav -->
-      <nav class="collapse navbar-collapse navbar-right">
-         <ul id="nav" class="nav navbar-nav menu">
-              <li{% if this._path == '/' %} class="active"{% endif
-                %}><a href="{{ '/'|url }}">Python Colombia</a></li>
-              {% for href, title in [
-                ['/blog', 'Blog'],
-                ['/sobre-nosotros', 'Sobre Nosotros'],
-                ['/contacto', 'Contacto'],
-              ] %}
-                <li{% if this.is_child_of(href) %} class="active"{% endif
-                  %}><a href="{{ href|url }}">{{ title }}</a></li>
-              {% endfor %}
-              </li>
-         </ul>
-      </nav>
-      <!-- /main nav -->
-   </div>
-</header>
-<!--
-End Fixed Navigation
-==================================== -->
+    </div>
 
- <!--
-Welcome Slider
-==================================== -->
+    <header class="navigation navbar navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <!-- responsive nav button -->
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+          <a class="navbar-brand logo" href="{{ '/'|url }}">Python Colombia</a>
+        </div>
+
+        <nav class="collapse navbar-collapse navbar-right">
+          <ul id="nav" class="nav navbar-nav menu">
+            <li{% if this._path == '/' %} class="active"{% endif %}><a href="{{ '/'|url }}">Python Colombia</a></li>
+            {% for href, title in [
+                  ['/blog', 'Blog'],
+                  ['/sobre-nosotros', 'Sobre Nosotros'],
+                  ['/contacto', 'Contacto'],
+                ] %}
+            <li{% if this.is_child_of(href) %} class="active"{% endif%}><a href="{{ href|url }}">{{ title }}</a></li>
+            {% endfor %}
+            </li>
+          </ul>
+        </nav>
+        <!-- /main nav -->
+      </div>
+    </header>
 
 {% block body %}
 {% endblock %}
 
-<footer id="footer" class="bg-one">
-  <div class="top-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-3 col-md-3 col-lg-3">
-          <h3>Sobre Nosotros</h3>
-          <p>Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere.</p>
-        </div>
-        <!-- End of .col-sm-3 -->
+    <footer id="footer" class="bg-one">
+      <div class="top-footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-3 col-md-3 col-lg-3">
+              <h3>Sobre Nosotros</h3>
+              <p>Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere.</p>
+            </div>
 
-        <div class="col-sm-3 col-md-3 col-lg-3">
-          <ul>
-            <li><h3>Proyectos</h3></li>
-            <li><a href="#">Django Girls Colombia</a></li>
-            <li><a href="#">PyLadies Colombia</a></li>
-            <li><a href="#">Data Ladies Colombia</a></li>
-          </ul>
-        </div>
-        <!-- End of .col-sm-3 -->
+            <div class="col-sm-3 col-md-3 col-lg-3">
+              <ul>
+                <li><h3>Proyectos</h3></li>
+                <li><a href="#">Django Girls Colombia</a></li>
+                <li><a href="#">PyLadies Colombia</a></li>
+                <li><a href="#">Data Ladies Colombia</a></li>
+              </ul>
+            </div>
 
-        <div class="col-sm-3 col-md-3 col-lg-3">
-          <ul>
-            <li><h3>Enlaces Rapidos</h3></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="/contacto">Contacto</a></li>
-            <li><a href="/sobre-nosotros">Sobre Nosotros</a></li>
-          </ul>
-        </div>
-        <!-- End of .col-sm-3 -->
+            <div class="col-sm-3 col-md-3 col-lg-3">
+              <ul>
+                <li><h3>Enlaces Rapidos</h3></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="/contacto">Contacto</a></li>
+                <li><a href="/sobre-nosotros">Sobre Nosotros</a></li>
+              </ul>
+            </div>
 
-        <div class="col-sm-3 col-md-3 col-lg-3">
-          <ul>
-            <li><h3>Redes Sociales</h3></li>
-            <li><a href="https://www.facebook.com/ColombiaPython" target="_blank">Facebook</a></li>
-            <li><a href="https://www.twitter.com/ColombiaPython" target="_blank">Twitter</a></li>
-            <li><a href="https://t.me/pythoncolombia" target="_blank">Telegram</a></li>
-          </ul>
-        </div>
-        <!-- End of .col-sm-3 -->
+            <div class="col-sm-3 col-md-3 col-lg-3">
+              <ul>
+                <li><h3>Redes Sociales</h3></li>
+                <li><a href="https://www.facebook.com/ColombiaPython" target="_blank">Facebook</a></li>
+                <li><a href="https://www.twitter.com/ColombiaPython" target="_blank">Twitter</a></li>
+                <li><a href="https://t.me/pythoncolombia" target="_blank">Telegram</a></li>
+              </ul>
+            </div>
 
+          </div>
+        </div> <!-- end container -->
       </div>
-    </div> <!-- end container -->
-  </div>
-  <div class="footer-bottom">
-    <h5>Derechos de Autor. Todos los Derechos Reservados.</h5>
-    <h6>Diseño por <a href="https://themefisher.com/" target="_black">Themefisher</a>. Hecho con <a href="https://www.python.org/">Python</a> y <a href="https://www.getlektor.com/">Lektor</a> en Colombia.</h6>
-  </div>
-</footer> <!-- end footer -->
 
+      <div class="footer-bottom">
+        <h5>Derechos de Autor. Todos los Derechos Reservados.</h5>
+        <h6>Diseño por <a href="https://themefisher.com/" target="_black">Themefisher</a>. Hecho con <a href="https://www.python.org/">Python</a> y <a href="https://www.getlektor.com/">Lektor</a> en Colombia.</h6>
+      </div>
+    </footer> <!-- end footer -->
 
-    <!-- end Footer Area
-    ========================================== -->
-
-
-
-    <!--
-    Essential Scripts
-    =====================================-->
     <!-- Main jQuery -->
     <script src="{{ '/'|url }}static/vendor/jquery/dist/jquery.min.js"></script>
     <!-- Google Map -->
