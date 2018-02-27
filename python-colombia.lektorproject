@@ -1,7 +1,7 @@
 [project]
 name = Python Colombia
-url = https://colombiapython.github.io/sitio-web-desarrollo/
-url_style = relative
+url = http://python.org.co
+url_style = absolute
 
 [alternatives.es]
 name = Spanish
@@ -15,9 +15,9 @@ locale = en
 
 [servers.develop]
 name = Develop
-target = ghpages+https://colombiapython/sitio-web-desarrollo
+target = ghpages+https://colombiapython/sitio-web-desarrollo?cname=develop.python.org.co
 default = yes
 
 [servers.production]
 name = Production
-target = ghpages+https://colombiapython/sitio-web-produccion
+target = ghpages+https://colombiapython/sitio-web-produccion?cname=www.python.org.co
