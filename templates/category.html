@@ -1,0 +1,12 @@
+{% extends "page.html" %}
+{% from "macros/blog.html" import render_category_nav, render_blog_list %}
+
+{% block title %}Blog Category{{ this.name }}{% endblock %}
+
+{% block content %}
+  <h1>Blog Category {{ this.name }}</h1>
+  {{ render_category_nav(active=this._id) }}
+  <br>
+  <h1>Blogs</h1>
+  {{ render_blog_list(this.children) }}
+{% endblock %}

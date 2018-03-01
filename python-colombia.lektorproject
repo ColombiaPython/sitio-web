@@ -1,6 +1,6 @@
 [project]
 name = Python Colombia
-url = http://python.org.co
+url = https://www.python.org.co
 url_style = absolute
 
 [alternatives.es]
@@ -21,3 +21,6 @@ default = yes
 [servers.production]
 name = Production
 target = ghpages+https://colombiapython/sitio-web-produccion?cname=www.python.org.co
+
+[packages]
+lektor-disqus-comments = 0.1

@@ -1,0 +1,65 @@
+title: Django Girls Colombia: ¿Como fue mi experiencia organizando Django Girls Medellín?
+---
+pub_date: 2017-12-25
+---
+body:
+
+En principios de abril del 2015 y me encontraba trabajando en un nuevo proyecto web utilizando el framework Python-Django. Era la primera vez que lo utilizaba y estaba feliz:
+
+Era genial, simple, elegante, robusto, modular. Con pocas líneas ya tenía todo el core del proyecto listo, el admin, los formularios, el login, etc. Era demasiado bueno para ser verdad.
+
+Indagando en internet, encontré muchísimas personas y startups que lo estaban utilizando para crear sus productos. En todas partes del mundo se habían creado comunidades que reunían a decenas de entusiastas, deseosos de conocer, explorar, aprender y compartir conocimiento alrededor de Python y Django. En New York, en San Francisco, en Madrid, en Buenos Aires. La ola se estaba expandiendo, así que pensé: Porqué no crear nuestra propia comunidad en Medellín? Una búsqueda rápida en google y hago link con **David**, un estadounidense que por la época estaba radicado en la ciudad y era CEO de su propia startup. Hablamos sobre nuestro interés de iniciar una comunidad python local y promover el lenguaje dentro del ecosistema emprendedor de la ciudad. Como nos unía la misma pasión y visión, decidimos reunir esfuerzos y nace [La comunidad Medellín Python y Django](https://www.meetup.com/es/Medellin-Python-y-Django-Meetup/)
+
+A los pocos días muchísimas personas se unen a nuestro MeetUp. Dos meses después, ya estábamos realizando nuestro primer evento.
+
+**Es en este contexto cuando nace la iniciativa de realizar el evento Django Girls Medellín 2017.**
+
+Django Girls es una organización sin ánimo de lucro fundada por dos programadoras europeas, cuya misión es acercar a las mujeres el mundo de la programación y la tecnología. Su dinámica, es la realización de un taller de un día de duración, donde las participantes desde cero, desarrollan un blog utilizando #Python, #Django, #CSS y #HTML. Ellas están permanentemente acompañadas por un guía, quien ofrece su conocimiento y experiencia de manera voluntaria.
+
+Es un hecho, que a pesar de los grandes avances que las mujeres han logrado en la reivindicación sus derechos en los últimos 50 años, hoy en día ellas siguen cumpliendo un rol secundario en el mundo de la tecnología. Son pocas las CEOs, directoras y ejecutivas en las grandes compañías de la era digital. Desafortunadamente, aún sigue existiendo una gran brecha de género en nuestra industria, y el índice de participación de las mujeres es bastante bajo. Es un tema complejo imposible de abordar en unas pocas líneas.
+
+Lo importante es qué acciones estamos realizando para cambiar ésto y es aquí donde iniciativas como Django Girls son tan importantes.
+
+<img src="banner.jpeg" class="img-responsive" />
+<p class="text-center"><small><a href="https://argentinaenpython.com/galeria/django-girls-medellin/">Foto Grupal del Taller de Programación para mujeres Django Girls Medellín</a>, realizado el 24 de Junio de 2017</small></p>
+
+La idea de realizar el **[Taller de programación para mujeres Django Girls en Medellín](https://argentinaenpython.com/django-girls/2017/06/medellin/)** partió de **[John Roa](https://twitter.com/jhonjairoroa87)** y **[Johanna Sanchez](https://twitter.com/EllaQuimica)**.
+
+Fue un proceso de tres meses, liderado por [Johanna Sanchez](https://twitter.com/EllaQuimica), quien es co-fundadora de [Argentina en Python](https://twitter.com/argenpython), un proyecto colaborativo cuyo objetivo es promover el uso de Python a través de toda Latinoamérica y **John** líder de la comunidad **[Python Colombia](https://www.facebook.com/colombiapython/)**, con una amplia experiencia en la organización de eventos de comunidad locales y [PyCon Colombia](http://2017.pycon.co/). Ellos, junto con **[Manuel Kaufmann](https://twitter.com/reydelhumo)**, Embajador Python para Latinoamérica de la Python Software Foundation —** PSF** y fundador de Argentina en Python, fueron los encargados de liderar el equipo de trabajo, establecer las tareas y fijar el cronograma de trabajo para esos tres meses. Sin su invaluable apoyo, el evento no hubiera sido posible.
+
+Con la ayuda de miembros voluntarios de la comunidad python medellín y colaboradores externos, logramos ejecutar las actividades de divulgación y organización.
+
+Gracias a mi buen amigo **Fabio Hurtado**, periodista y comunicador, tuve la oportunidad de aparecer en dos medios locales: Radio Universidad de Antioquia y Telemedellín TV, para hablar sobre la iniciativa Django Girls.
+
+El diseño de todas las piezas gráficas estuvo a cargo de **[Bryan Lombana](https://www.facebook.com/blure.bkc)**, diseñador gráfico y gran amigo también.
+
+El lugar escogido para realizar el taller fué [Atom House](https://www.facebook.com/groups/atomhouseMDE/), un espacio de trabajo colaborativo, quienes han sido siempre muy generosos en abrirnos sus espacios para todas las actividades de comunidad que hemos venido realizando. **[Juan Carlos Rodríguez](https://twitter.com/jcrodriguezu)**, miembro de Python Medellín y co-organizador de los meetups, fué quien se encargó de asegurarse que el espacio cumplía con los requisitos necesarios y estuvo siempre pendiente de toda la logística del lugar.
+
+El dinero necesario que nos permitió llevar a buen puerto el taller, fueron aportados por nuestros patrocinadores. Tuvimos la suerte de contar con su generosidad y apoyo. Gracias a [Monoku](https://medium.com/monoku), [Platzi](https://www.facebook.com/platzi/), [Growth Acceleration](https://www.facebook.com/gapcr), GitHub, [PSF](https://twitter.com/ThePSF), [Argentina en Python](https://www.facebook.com/argentinaenpython/), [Anomali](https://www.facebook.com/threatstream/) y [Lending Front](http://www.lendingfront.com/).
+
+<img src="01.png" class="img-responsive" />
+<p class="text-center"><small></p>
+
+El día del evento fue muy gratificante ver la gran asistencia: más de 30 personas reunidas, con las ganas por aprender algo nuevo. Un espacio de conocimiento, inclusión y aprendizaje. Fue una jornada larga pero muy satisfactoria, donde gracias al esfuerzo de todos, logramos realizar un evento de altísima calidad, comprometidos siempre en nuestro objetivo: lograr que más mujeres ingresen al mundo de la tecnología y se conviertan en agentes activas y transformadoras de su entorno.
+
+<img src="02.png" class="img-responsive" />
+<p class="text-center"><small>Participantes del Taller de Programación para mujeres Django Girls Medellin</small></p>
+
+Por supuesto, no puedo olvidar mencionar a todos nuestros guías: Cesar, Diego, Gonzalo, Esteban, Gustavo, Luis y Mauricio. Su participación fue vital para el éxito del evento.
+
+<img src="03.png" class="img-responsive" />
+<p class="text-center"><small>El Equipo de organizadores</small></p>
+
+
+Esperamos repetir en el 2018 y verlos a todos nuevamente. Por el momento, suerte y pulso.
+---
+categories: django-girls, colombia, python
+---
+summary: Todo empieza con la idea de de crear una comunidad alrededor del lenguaje de programación que amamos: Python.
+---
+authors:
+
+#### user ####
+username: davoshack
+---
+banner: banner.jpeg

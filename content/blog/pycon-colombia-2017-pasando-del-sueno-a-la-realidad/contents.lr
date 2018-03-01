@@ -1,0 +1,124 @@
+title: PyCon Colombia 2017: Pasando del sueño a la Realidad
+---
+body:
+
+Algunos datos importantes a resaltar sobre esta son:
+
+- 2 Días de conferencias
+- 209 Asistentes
+- 40 Voluntarios
+- 9 Países participantes
+- 4 Oradores internacionales
+- 28 Conferencistas
+- 6 Talleristas
+- 32 Charlas
+
+La conferencia tuvo lugar en las modernas instalaciones de la [Universidad Santo Tomás](http://www.usta.edu.co/), gracias al compromiso del grupo docente de la Facultad de Estadística y el apoyo de las directivas de la universidad, tanto en las actividades de la conferencia como el la logística del evento. Además contamos con el importante apoyo de los sponsor [Python Software Foundation](https://www.python.org/psf/), [Monoku](http://www.monoku.com/) y [Piensa Labs](http://piensa.co/), quienes también apoyaron con su equipo humano al contenido de conocimiento de la conferencia, presentando temas en el campo del internet de las cosas, Análisis semántico y procesamiento de imágenes, entre otros.
+
+<img src="01.jpeg" class="img-responsive" />
+<p class="text-center"><small>Participantes del evento junto a pendones con logos de los sponsor</small></p>
+
+El apoyo de aliados como [Tappsi](https://tappsi.co/), [Bogodev](http://bogodev.org/), [Pulso Social](http://pulsosocial.com/), [Social Atom PR](http://socialatompr.com/), [Sikuani](http://socialatompr.com/), y [PyCharm](https://www.jetbrains.com/pycharm/) ,quienes suministraron transporte, difusión en redes sociales, publicación de contenido en revistas digitales y licencias, permitió que la conferencia tuviera un gran impacto.
+
+Se recibieron más de 70 propuestas, y finalmente fueron seleccionados 34 conferencistas quienes, sumados a los 4 oradores principales, dieron al evento una participación total de 9 países, entre ellos: Rusia, Eslovakia, México, Estados Unidos, Argentina, Brasil, Perú y Colombia; demostrando así que el PyCon Colombia 2017 fue un evento de talla internacional con impacto en el continente Americano, Europeo y Latinoamericano. Fueron dos días colmados de conocimiento de alta calidad en el campo de desarrollo y programación, se trabajaron simultáneamente en 2 auditorios con un total de 32 charlas y un espacio para 6 talleres prácticos.
+
+El primer día se dio inició con la intervención de [John Roa](https://www.linkedin.com/in/johnroa27), organizador principal del evento, dando la bienvenida a los asistentes, conferencistas y talleristas, siendo la apertura oficial al evento.
+
+Las charlas iniciaron en el auditorio principal con [David Cournapeau](https://twitter.com/cournape), orador principal que habló de [packaging en Python](https://drive.google.com/file/d/0B0u2KUWiyrlxbnhtcGx6dEJRZ28), su importancia y su futuro.
+
+<img src="02.jpeg" class="img-responsive" />
+<p class="text-center"><small>David Cournapeau— PyCon Colombia 2017</small></p>
+
+Después de esta charla y a lo largo del día se presentaron los siguientes conferencistas:
+
+- **[Sebatián Ramirez](https://twitter.com/tiangolo):** [Introducción a Celery para desarrollo distribuido con Python cons](https://drive.google.com/open?id=0B0u2KUWiyrlxckFKc1c4c2tCTHM)
+- **Ariel Nuñez:** [Interviniendo mi carro con Python](https://drive.google.com/open?id=0B0u2KUWiyrlxdmc4OHN2cEp1NmM)
+- **Mario García:** Flask: Introducción a Python para la web
+- **[Juan Pablo Scaletti](https://twitter.com/jpscaletti):** [Internacionalización Pythónica inspirada en Rails](https://drive.google.com/open?id=0B0u2KUWiyrlxMjctRTlleWdBN2s)
+- **[Jorge Martínez](https://twitter.com/_jorgemartinezg):** [Procesamiento de imágenes y visión por computador](https://drive.google.com/open?id=0B0u2KUWiyrlxMFRRdVpSSXc0UzA)
+- **Julian Amaya:** [Creando skills para Alexa](https://drive.google.com/open?id=0B0u2KUWiyrlxU2M0cUJ0NHhQbmc)
+- **Lennin Suescun:** [Enseñándole a los computadores como entender el mundo](https://drive.google.com/open?id=0B0u2KUWiyrlxdlhFc1pCQk5RYWc)
+- **David Cardozo:** [Julia: un nuevo lenguaje para computación numérica y científica](http://slides.com/dgromov/julia-lenguaje#/)
+- **Fabian Latorre:** [Modelado no supervisado de temas y texto con una representación eficiente de contenedores de frases](https://drive.google.com/open?id=0B0u2KUWiyrlxVzdCUFRLOG4zNVU)
+- **Pedro Rivera: Tornado:** Web asíncrona de alto desempeño
+- **[Cristian García](https://twitter.com/cgarciae88):** Introducción al “Aprendizaje Profundo” con TensorFlow
+- **Cristian Salamea:** Arquitectura de OpenEdX
+- **Jennifer Velez:** [Python en bioinformática](https://drive.google.com/open?id=0B0u2KUWiyrlxdkQtcDEwR0g1Vjg)
+- **[Paulo Alvarado](https://twitter.com/czpython):** [Creando páginas web con django CMS](https://drive.google.com/open?id=0B0u2KUWiyrlxUi1EOVp4VzNGMTg)
+- **[Gonzalo Peña Castellanos](https://twitter.com/goanpeca):** [Construye aplicaciones de escritorio multi-plataforma con Python y Qt](https://drive.google.com/open?id=0B0u2KUWiyrlxZkttTVp5V2hjMlk)
+- **Jaime Forero:** Mapeando el universo con Python
+- **[Gustavo Angulo](https://twitter.com/woakas):** [Python en microcontroladores con Micropython](http://slides.com/woakas/python-en-microcontroladores#/)
+
+Al final del día se presentó el segundo orador principal, Eric Holsher quien compartió sus reflexiones con respecto al pasado, presente y futuro de la documentación.
+
+<img src="03.jpeg" class="img-responsive" />
+<p class="text-center"><small>Eric Holscher — PyCon Colombia 2017. Photo taken from (https://twitter.com/nobmann88/status/830175550002036740/photo/1)</small></p>
+
+El orador principal [Peadar Coyle](https://twitter.com/Springcoil) dio apertura al segundo día, compartiendo lecciones aprendidas desarrollado productos orientados al manejo de datos.
+
+<img src="04.jpeg" class="img-responsive" />
+<p class="text-center"><small>Peadar Coyle — PyCon Colombia 2017</small></p>
+
+Durante éste día también se presentaron los siguientes conferencistas:
+
+- **[Manuel Kauffman](https://twitter.com/reydelhumo):** Argentina en Python: comunidad, sueños, viajes y aprendizaje
+- **[Pablo Vallejo](https://twitter.com/pablovallejo_):** [De VirtualEnv a Docker con Django](http://slides.com/pablovallejo/docker-django#/)
+- **[Alejandro Correa Bahnsen](https://twitter.com/albahnsen):** [Aprendizaje de Máquina práctico con Scikit-Learn](https://github.com/albahnsen/Tutorial_PracticalMachineLearning_Pycon)
+- **[Camilo Nova](https://twitter.com/camilonova):** [Jazzband](http://slides.com/camilonova/jazzband#/)
+- **[Robert Kuska](https://twitter.com/DasIstHerrKuska):** [Alimenta to código a Coala](https://drive.google.com/open?id=0B9fMeDLln_qtRm9mdHQ5dHg0Mms)
+- **Wayner Barrios:** [Entendimiento semántico de alto nivel de actividades humanas en videos](https://drive.google.com/open?id=0B0u2KUWiyrlxbjNzbXpHM2xad0U)
+- **David Altamar:** [Conteo automático de pasajeros en buses en la ciudad de Pereira con Python](https://drive.google.com/open?id=0B0u2KUWiyrlxSmdnenhyeHNRRTQ)
+- **Jorge Armando Martinez De Los Reyes:** [Aplicaciones web sin servidor con Python sobre AWS](https://drive.google.com/open?id=0B0u2KUWiyrlxd1YzME1LN2xSS1U)
+- **Eduardo Galeano:** [Solo funciones! (Programación funcional en Python)](https://drive.google.com/open?id=0B0u2KUWiyrlxei1ra2taUVltdTA)
+- **Juan Carlos Mendez:** [Utilizando Python para analizar datos espaciales](https://drive.google.com/open?id=0B0u2KUWiyrlxVVhXd1Vib0VmSVk)
+- **[Vera Mazhuga](https://twitter.com/vero4ka_ru):** [Flask con todas las arandelas](http://slides.com/vero4ka/flask-con-todas-las-arandelas#/)
+- **[Andres Guijarro](https://twitter.com/victor_andresg):** [Python como una plataforma confiable de negocios para la innovación](https://drive.google.com/open?id=0B0u2KUWiyrlxcW9HM1hXSWhia28)
+- **[Vinicius Pacheco](https://twitter.com/viniciuspach):** Introducción a Gevent
+- **[Daniel Moreno](https://twitter.com/demorenoc):** [Moviendo y transformando datos con Airflow](http://demorenoc.github.io/slides/pycon-co-2017/airflow/#/)
+- **[Diego Peña](https://twitter.com/nervencid):** [Introducción a las herramientas para visualización de datos con Python](https://drive.google.com/open?id=0B0u2KUWiyrlxYnF6WmNHQmFKLWs)
+- **[Rafael Laverde](https://twitter.com/rafa_laverde):** [Canales en Django — WebSockets and HTTP2 con Django](https://drive.google.com/open?id=0B0u2KUWiyrlxZjVCamZER2JZTTA)
+- **[Miguel Cabrera](https://twitter.com/mfcabrera):** [Construyendo líneas de datos con Python](https://drive.google.com/open?id=0B0u2KUWiyrlxX01WRDdWOGVaWjA)
+
+La última charla principal del evento estuvo a cargo de [Jacob Kaplan Moss](https://twitter.com/jacobian), quien dio un excelente cierre al evento compartiendo sus reflexiones sobre diversidad en la industria del software.
+
+<img src="05.jpeg" class="img-responsive" />
+<p class="text-center"><small>Jacob Kaplan Moss — PyCon Colombia 2017</small></p>
+
+Uno de los aspectos más destacados de PyCon es su comunidad caracterizada por estar conformada por individuos con una gran variedad de intereses, y PyCon Colombia no fue la excepción; allí se reunieron estadistas, físicos, químicos, ingenieros de sistemas, matemáticos, científicos de datos, científicos de computación, educadores, entre otros. Fue una combinación fascinante que permitió a cada persona ampliar significativamente su perspectiva de la tecnología y sus aplicaciones en el mundo.
+
+El evento también tuvo dentro de sus objetivos la inclusión de género y equidad en el campo tecnológico, para ello se llevó a cabo el “[Taller de Programación para Mujeres Django Girls — PyCon Colombia](https://twitter.com/djangogirlsco)” el día sábado 12 de Febrero, un taller intensivo de un día donde las participantes aprendieron desde cero a programar su primera página web usando herramientas como Python, Django, HTML, CSS, entre otras.
+
+El factor más importante para lograr un evento de calidad y calidez fue aportado por el aporte humano de los voluntarios, quienes jugaron un papel fundamental en la realización de la PyCon Colombia 2017, fue gracias a ellos que se pudo llevar a la realidad tangible el sueño de realizar un evento de carácter internacional que vinculó a toda la comunidad de programadores y desarrolladores a estar en un mismo lugar compartiendo conocimiento y experiencias. Ellos son: [John Roa](https://twitter.com/jhonjairoroa87) (Organizador del evento), [Mario Morales](https://www.linkedin.com/in/emetricz) (Contacto con la PSF), [Edwin Jeréz](https://twitter.com/soyelhijo) (Director de arte y diseño), [Patricia Montoya](https://www.linkedin.com/in/montoyapatricia) (Mercadeo de tiquetes), [Carlos Salgado](https://twitter.com/cadavidst) (Logística), [Jeniffer Velez](https://www.linkedin.com/in/jennifer-velez-segura-34502958/) (Logística), Juan Carlos Rodriguez (Logística), [Jorge Martinez](https://twitter.com/_jorgemartinezg) (Logística), [Carlos Andrés Sierra](https://co.linkedin.com/in/casierrav) (Conferencistas), [Valéria Blandón](https://co.linkedin.com/in/blandonvaleria/en) (Conferencistas), María Angélica Velandia (Redes sociales), [Andrés Duque](https://twitter.com/saduqz) (Redes sociales), [Cristian Otálvaro](http://www.linkedin.com/in/cristianotalvarog) (Redes sociales), [Jorge Galvis](https://twitter.com/jorlugaqui) (Aplicación Móvil), [Michael Pierre](https://www.linkedin.com/in/michael-pierre-60516712a) (Patrocinadores), Ana Milena Suárez (Sitio web), [Ivan Ramirez](https://twitter.com/ivancarrancho) (Manejo de personal), [Nicolás Molina](https://twitter.com/nicobytes) (Manejo de personal, Patrocinadores), [Gustavo Angulo](https://twitter.com/woakas) (Manejo de personal), Andrea Molina Monroy (Mercadeo), Fernando Duque (Diseño), [Andrés Muñoz](https://twitter.com/pipemun) (Django Girls), [Johanna Sanchez](https://twitter.com/EllaQuimica) (Django Girls), [Paola Pacheco](https://twitter.com/pk_pacheco) (Django Girls), [José Fernando Zea](https://co.linkedin.com/in/jos%C3%A9-fernando-zea-b627a62a) (Lugar y auditorios), [Alejandro Correa](https://twitter.com/albahnsen) (Lugar y auditorios).
+
+PyCon Colombia 2017 fue el momento adecuado para formalizar la comunidad de [Python Colombia](https://twitter.com/ColombiaPython), que actúa como facilitador y promotor de los distintos grupos y actividades relacionados con Python en todo el territorio colombiano.
+
+<img src="06.png" class="img-responsive" />
+<p class="text-center"><small>Participantes del PyCon Colombia 2017</small></p>
+
+# Lo que se viene para el 2018
+
+Un día después de la PyCon Colombia 2017, los integrantes del equipo organizador compuesto por John Roa, Gonzalo Peña, Johana Sanchez y Carlos Sierra, ya estaban pensando en PyCon Colombia 2018 quien vé en la academia una gran oportunidad para conectarse con más personas que ya están usando Python, y desafortunadamente muchos de ellos desconocen la existencia del evento PyCon Colombia, la comunidad Python Colombia y los meetups que se vienen realizando a nivel nacional.
+
+Las expectativas de PyCon Colombia 2018 son bastante ambiciosas, el grupo organizador sabe que es un gran reto que requiere un gran esfuerzo para llevarlo a cabo. Esto es lo que se tiene proyectado:
+
+- +350 Asistentes
+- +60 Voluntarios
+- 3 Días de conferencias
+- 6 Oradores principales
+- +30 Oradores
+- + 30 Charlas
+- +10 Talleres prácticos
+
+Conforme el grupo organizador vaya avanzando con las tareas propuestas, serán comunicados los avances y modificaciones por los canales oficiales para que la comunidad siga de cerca las labores de preparación del PyCon Colombia 2018.
+
+Si quieres recibir información sobre la próxima conferencia de Python en Colombia — PyCon Colombia 2018 [¡Subscríbete Aquí!](https://goo.gl/forms/2rrxRQ7N7CPwpyx43)
+
+[Facebook](https://www.facebook.com/PyConColombia), [Twitter](https://twitter.com/pyconcolombia), [Youtube](https://www.youtube.com/channel/UCjor6U0ZF5zGAYLJJt9gr0A), [Instagram](http://instagram.com/pyconcolombia/), [Medium](https://medium.com/@pyconcolombia) y [correo electrónico](mailto:hello@pycon.co) son los canales oficiales con los cuales PyCon Colombia cuenta actualmente.
+---
+pub_date: 2017-05-28
+---
+summary: El pasado 10 y 11 de Febrero del presente año se llevó a cabo en la ciudad de Bogotá, Colombia la **[Primera Conferencia de Python en Colombia — PyCon Colombia.](https://2017.pycon.co)**
+---
+banner: banner.png
+---
+categories: aprendizaje-automatico, ciencia-de-datos, colombia, pycon, python

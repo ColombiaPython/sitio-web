@@ -1,4 +1,4 @@
-title: Django Girls Colombia — ¿Cómo fue organizar Django Girls Cartagena?
+title: Django Girls Colombia:  ¿Cómo fue organizar Django Girls Cartagena?
 ---
 pub_date: 2017-11-03
 ---
@@ -41,3 +41,5 @@ authors:
 
 #### user ####
 username: alelles16
+---
+categories: python, django-girls, colombia

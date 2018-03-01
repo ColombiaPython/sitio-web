@@ -68,9 +68,12 @@
         </div>
         <!-- /section title -->
 
-        {%- set blogs = site.query('/blog').order_by('-pub-date').limit(3) -%}
+        {%- set blogs = site.query('/blog', alt=this.alt).limit(3) -%}
         {% for post in blogs %}
+        {# Ignore categories #}
+        {% if post._model == 'blog-post' %}
           {{ render_blog_post(post, from_index=true) }}
+        {% endif %}
         {% endfor %}
 
     </div> <!-- end row -->
