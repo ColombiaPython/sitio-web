@@ -14,7 +14,10 @@
       </div>
 
       {% for child in this.pagination.items %}
+        {# Ignore categories #}
+        {% if child._model == 'blog-post' %}
         {{ render_blog_post(child, from_index=true) }}
+      {% endif %}
       {% endfor %}
 
 </div>

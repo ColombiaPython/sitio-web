@@ -12,8 +12,37 @@
 </div>
 <!-- /section title -->
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-offset-2 col-md-8">
+  {% if 'en' in get_alts(this) and this.alt == 'es' %}
+  <p><i>(To read this article in english please click <a href="{{ ('/blog/'+this._id)|url(alt='en') }}">here</a>)</i></p>
+  {% elif 'es' in get_alts() and this.alt == 'en' %}
+  <p><i>(Para leer éste artículo en español haga clic <a href="{{ ('/blog/'+this._id)|url(alt='es') }}">aquí</a>)</i></p>
+  {% endif %}
+  <br>
   {{ this.body }}
+  </div>
+</div>
+
+<div class="row">
+  <div class="comments">
+    <div class="col-md-offset-2 col-md-8">
+      <h2>Categorias</h2>
+      <ul>
+      {% for category in this.categories %}
+        {% set cat = site.get('/blog/categorias/'+category, alt=this.alt) %}
+        <li><a href="{{ cat|url(alt=this.alt) }}">{{ cat.title }}</a></li>
+      {% endfor %}
+      </ul>
+      <br>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="comments">
+    <div class="col-md-offset-2 col-md-8">
+    {{ render_disqus_comments() }}
+    </div>
   </div>
 </div>
 

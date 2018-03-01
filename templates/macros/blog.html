@@ -7,12 +7,15 @@
     </div>
 
     <div class="content">
-      <h3><a href="{{ post|url }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;<small>{{ post.pub_date }}&nbsp;&nbsp;·&nbsp;&nbsp;{{ estimate_reading_time(post.body.source) }} min</small></h3>
+      <h3><a href="{{ post|url }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;</h3>
+      <small>{{ post.pub_date }}&nbsp;&nbsp;·&nbsp;&nbsp;{{ estimate_reading_time(post.body.source) }} min</small>
+      {% if post.authors %}
       {% for author_blk in post.authors.blocks %}
       <h4>
       {% set user = site.get('/usuarios/' + author_blk.username + '/') %}
       {{ user.name }} {{ user.last_name }}{% if not loop.last %},&nbsp{% endif %}
       {% endfor %}
+      {% endif %}
       </h4>
       <p>{{ post.summary }}</p>
       <div class="text-center"><a class="btn btn-main" href="{{ post|url }}">Leer más</a></div>
@@ -20,4 +23,21 @@
   </div>
 </article>
 
+{% endmacro %}
+
+{% macro render_category_nav(active=none) %}
+  <ul>
+  {% for category in site.query('/blog/categorias') %}
+    <li{% if category._id == active %} class="active"{% endif
+      %}><a href="{{ category|url }}">{{ category.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endmacro %}
+
+{% macro render_blog_list(blogs) %}
+  <ul>
+  {% for blog in blogs %}
+    <li><a href="{{ blog|url }}">{{ blog.title }}</a></li>
+  {% endfor %}
+  </ul>
 {% endmacro %}
