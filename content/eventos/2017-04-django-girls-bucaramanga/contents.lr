@@ -27,9 +27,9 @@ username: argentina-en-python
 #### organization ####
 username: python-bucaramanga
 #### organization ####
-username: cusol-uis
-#### organization ####
 username: django-girls-colombia
+#### organization ####
+username: cusol-uis
 #### user ####
 username: ellaquimica
 #### user ####
@@ -76,4 +76,8 @@ username: github
 #### organization ####
 username: uis
 ---
-location: Universidad Industrial de Santander escuela de sistemas, Bucaramanga Colombia
+location: Universidad Industrial de Santander, Centro de Estudios de la Escuela de Ingeniería de Sistemas
+---
+latitude: 7.141392
+---
+longitude: -73.122760

@@ -1,60 +1,9 @@
 {% extends "page.html" %}
-{% block title %}{{ this.name }} {{ this.last_name }}{% endblock %}
-{% block content %}
 
-
-
-
-
-    <style>
-      /* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
-      #map {
-        height: 100%;
-      }
-      /* Optional: Makes the sample page fill the window. */
-      html, body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
-      #floating-panel {
-        position: absolute;
-        top: 10px;
-        left: 25%;
-        z-index: 5;
-        background-color: #fff;
-        padding: 5px;
-        border: 1px solid #999;
-        text-align: center;
-        font-family: 'Roboto','sans-serif';
-        line-height: 30px;
-        padding-left: 10px;
-      }
-    </style>
-    
-    
-<style>
-.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-}
-.embed-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-#map_canvas {
-  height: 100%;
-  width: 100%;
-}
-</style>
-
+{%- set lon_ll = this.longitude - 0.001 -%}
+{%- set lon_ur = this.longitude + 0.001 -%}
+{%- set lat_ll = this.latitude - 0.002 -%}
+{%- set lat_ur = this.latitude + 0.002 -%}
 {%- set organizers_users = [] -%}
 {%- set organizers_orgs = [] -%}
 {%- set collaborators_users = [] -%}
@@ -90,6 +39,29 @@
   {%- endfor -%}
 {%- endif -%}
 
+{% block title %}{{ this.name }} {{ this.last_name }}{% endblock %}
+{% block content %}
+
+<style>
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#mapsource {
+  pointer-events: none;
+}  
+</style>
+
 <h1 class="text-center">Taller Django Girls en {{ this.city }}, {{ this.country}}</h1>
 <p>
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que&nbsp;
@@ -105,10 +77,10 @@
   <b>{{ user.name }}</b>
 {%- endfor -%}
 
-&nbsp; estamos organizando un taller en el cual podrás construir tu propio sitio
-web <i>desde cero</i> en un día. Además, vamos a utilizar todas las herramientas que
-programadores profesionales utilizan diariamente. ¡Y de una manera muy
-sencilla!
+&nbsp; estamos organizando un taller en el cual podrás construir tu propio
+sitio web <i>desde cero</i> en un día. Además, vamos a utilizar todas las
+herramientas que programadores profesionales utilizan diariamente. ¡Y de una
+manera muy sencilla!
 </p>
 
 <h2>¡Es hora de aprender a programar!</h2>
@@ -117,15 +89,17 @@ sencilla!
     <p>
 El taller comienza por la mañana temprano en donde presentamos la dinámica,
 explicamos en pocos minutos como va a ser la jornada y preparamos todas las
-herramientas necesarias. Además, presentamos a cada uno de <a href="#guias">nuestros guías</a> que
-nos van a ayudar durante todo el día con los problemas que se nos vayan
-presentando.
+herramientas necesarias. Además, presentamos a cada uno de
+<a href="#guias">nuestros guías</a> que nos van a ayudar durante todo el día
+con los problemas que se nos vayan presentando.
 <br />
 <br />
 Una vez que estamos listos, comenzamos leyendo el
-<a href="https://argentinaenpython.com/django-girls/tutorial/" target="_blank">tutorial</a>
-<i>autoguiado</i> escrito
-especialmente para ti por <a href="https://djangogirls.org" target="_blank">Django Girls</a>
+<a href="https://argentinaenpython.com/django-girls/tutorial/"
+   target="_blank">tutorial</a>
+<i>autoguiado</i> escrito especialmente para ti por 
+<a href="https://djangogirls.org"
+   target="_blank">Django Girls</a>
 (una fundación sin fines de lucro que
 motiva a las mujeres a programar, organizando estos eventos en todo el mundo).
 Leyendo este tutorial aprenderemos conceptos básicos sobre cómo funciona
@@ -154,7 +128,8 @@ con la programación. ¡Felicitaciones, lo has logrado!
     </p>
   </div>
   <div class="col-md-4">
-    <img src="{{ this|url(alt='es') }}{{ this.image }}" class="img-responsive" />
+    <img src="{{ this|url(alt='es') }}{{ this.image }}"
+         class="img-responsive" />
   </div>
 
   <div class="col-md-12">
@@ -166,44 +141,85 @@ contigo que también realice el taller <a href="#condicion">[1]</a>.
   </div>
 </div>
 
-<h2>¿Dónde y cuándo?</h2>
-<h3>Lugar:</h3>
-<p>
-{{ this.location_extra }}
-</p>
-
+<h2>¿Cuándo y dónde?</h2>
 <h3>Fecha:</h3>
 <p>
-{{ this.date_start }} (¡puntual!) a {{ this.date_end }}.
+{{ this.date_start|datetimeformat('EEEE', locale='es')|capitalize }}
+{{ this.date_start|datetimeformat('d', locale='es') }} de 
+{{ this.date_start|datetimeformat('MMMM', locale='es') }} de 
+{{ this.date_start|datetimeformat('YYYY', locale='es') }}
+desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }} (¡puntual!) hasta las {{ this.date_end|datetimeformat('HH:mm', locale='es') }}.
+</p>
+<h3>Lugar:</h3>
+<p>
+{{ this.location }}.
+<br>
+{{ this.city }}, {{ this.country }}.
 </p>
 
-    <div id="floating-panel">
-      <input id="address" type="textbox" value="Sydney, NSW">
-      <input id="submit" type="button" value="Geocode">
-    </div>
-
-
 <div class="embed-container">
-  <div id="map"></div>
+<iframe id= "mapsource" scrollwheel="false" width="800" height="600"
+        frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+        src="https://www.openstreetmap.org/export/embed.html?bbox={{ lon_ll }}%2C{{ lat_ll }}%2C{{ lon_ur }}%2C{{ lat_ur }}&amp;layer=mapnik&amp;marker={{ this.latitude }}%2C{{ this.longitude }}" style="border: 1px solid black"></iframe>
 </div>
+<small>
+<a href="https://www.openstreetmap.org/#map=18/{{ this.latitude }}/{{ this.longitude }}">
+Ver mapa de mayor tamaño
+</a>
+</small>
 
 <div class="row">
   <div class="col-md-8">
     <h2>Ten en cuenta que…</h2>
     <ul>
-      <li>tenés que inscribirte utilizando el botón “¡Quiero inscribirme!”</li>
-      <li>los cupos son limitados, así que luego de inscribirte debes esperar una confirmación por parte de los organizadores para poder asistir.</li>
-      <li>te recomendamos seguirnos en Twitter @argenpython y/o Facebook Argentina en Python, Python Bucaramanga y Cusol donde publicaremos novedades sobre el evento.</li>
-      <li>no es necesario saber programar o tener algún conocimiento previo de programación.</li>
-      <li>es necesario llevar notebook para poder trabajar con ella durante todo el día.</li>
-      <li>el taller es gratuito. Sin embargo, se aceptan donaciones para que el proyecto pueda realizar más talleres gratuitos.</li>
-      <li>en lo posible, debes llevar un extensor de corriente.</li>
-      <li>agrega la dirección argentinaenpython@gmail.com a tu libreta de direcciones así evitamos que el email llegue a SPAM</li>
-      <li>vamos a respetar las fechas publicadas en el timeline (línea de tiempo de más abajo)</li>
-      <li>debes registrarte como Asistente o como Guía -no ambos.</li>
-      <li>al momento de completar el formulario, pon mucha atención en tu dirección de email, ya que es el único contacto tuyo que tenemos.</li>
-      <li>te recomendamos llevar un abrigo.</li>
-      <li>todos los participantes deben seguir el Código de Conducta (ver Preguntas frecuentes).</li>
+      <li>
+      tienes que <b>inscribirte</b> utilizando el botón “¡Quiero inscribirme!”
+      </li>
+      <li>
+      los cupos son limitados, así que luego de inscribirte <b>debes
+      esperar</b> 
+      una confirmación por parte de los organizadores para poder asistir.
+      </li>
+      <li>
+      te recomendamos seguirnos en Twitter donde publicaremos novedades sobre
+      el evento.
+      </li>
+      <li>
+      no es necesario saber programar o tener algún conocimiento previo de
+      programación.
+      </li>
+      <li>
+      es necesario <b>llevar computador portatil</b> para poder trabajar con este
+      durante todo el día.
+      </li>
+      <li>
+      el taller es gratuito. Sin embargo, se aceptan donaciones para que el
+      proyecto pueda realizar más talleres gratuitos.
+      </li>
+      <li>
+      en lo posible, debes llevar una extension de corriente.
+      </li>
+      <li>
+      agrega la dirección djangogirlscolombia@gmail.com a tu libreta de
+      direcciones así evitamos que el email llegue a SPAM
+      </li>
+      <li>
+      vamos a respetar las fechas publicadas en el cronograma
+      </li>
+      <li>
+      debes registrarte como Asistente o como Guía -no ambos.
+      </li>
+      <li>
+      al momento de completar el formulario, pon mucha atención en tu dirección
+      de email, ya que es el único contacto tuyo que tenemos.
+      </li>
+      <li>
+      te recomendamos llevar un abrigo.
+      </li>
+      <li>
+      todos los participantes deben seguir el <b>Código de Conducta</b> (ver
+      Preguntas frecuentes).
+      </li>
     </ul>
   </div>
 
@@ -211,7 +227,6 @@ contigo que también realice el taller <a href="#condicion">[1]</a>.
     <h2>Contacto</h2>
     <p>
     Cualquier duda que tengas sobre el taller, nos puedes escribir a
-    argentinaenpython@gmail.com, pythonbucaramanga@gmail.com y
     djangogirlscolombia@gmail.com, para ponerte en contacto con nosotros.
     </p>
   </div>
@@ -222,12 +237,13 @@ contigo que también realice el taller <a href="#condicion">[1]</a>.
 
 <div class="row">
   <div class="col-md-12">
-  <img src="{{ this|url(alt='es') }}{{ this.timeline }}" class="img-responsive" />
+  <img src="{{ this|url(alt='es') }}{{ this.timeline }}"
+       class="img-responsive" />
   </div>
   <div class="col-md-4">
     <p>
-    Tienes tiempo hasta el 21 de Marzo para inscribirte. Te recomendamos leer la
-    paǵina de forma completa y prestar mucha atención en el formulario.
+    Tienes tiempo hasta el 21 de Marzo para inscribirte. Te recomendamos leer
+    la paǵina de forma completa y prestar mucha atención en el formulario.
     </p>
   </div>
   <div class="col-md-4">
@@ -248,14 +264,18 @@ contigo que también realice el taller <a href="#condicion">[1]</a>.
 
   <div class="col-md-12">
     <p class="text-center">
-¡Atención!: hemos alcanzado el cupo máximo de inscriptos para el taller. Sin embargo, si estás interesada en participar, inscribite y pasarás automáticamente a una lista de espera que, en caso de que alguien no pueda asistir, nos estaremos comunicando con vos para informarte.!
+    ¡Atención!: hemos alcanzado el cupo máximo de inscriptos para el taller.
+    Sin embargo, si estás interesada en participar, inscribite y pasarás
+    automáticamente a una lista de espera que, en caso de que alguien no pueda
+    asistir, nos estaremos comunicando con vos para informarte.!
     </p>
   </div>
   
   {%- if this.form_attendees -%}
   <div class="col-md-12">
     <p class="text-center">
-      <a class="btn btn-primary btn-lg" href="{{ this.form_attendees }}" role="button" target="_blank">
+      <a class="btn btn-primary btn-lg" href="{{ this.form_attendees }}"
+         role="button" target="_blank">
         Quiero inscribirme!
       </a>
     </p>
@@ -264,7 +284,8 @@ contigo que también realice el taller <a href="#condicion">[1]</a>.
 
   <div class="col-md-12">
     <p class="text-center">
-¡Sólo necesitás tener buena onda, el sábado completo libre y muchas ganas de aprender! ¡Sumate!
+    ¡Sólo necesitás tener buena onda, el sábado completo libre y muchas ganas
+    de aprender! ¡Sumate!
     </p>
   </div>
 
@@ -291,7 +312,8 @@ detalles.
 
 {%- if this.form_guides -%}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg" href="{{ this.form_guides }}" role="button" target="_blank">
+  <a class="btn btn-primary btn-lg" href="{{ this.form_guides }}" role="button"
+     target="_blank">
   Quiero inscribirme como guia
   </a>
 </p>
@@ -371,7 +393,9 @@ por lo que cualquiera que use y apoye Python pueda unirse.
 </p>
 <p>
 Para saber más, lee sobre
-<a href="https://www.python.org/psf/membership">como convertirte en un miembro.</a>
+<a href="https://www.python.org/psf/membership">
+como convertirte en un miembro.
+</a>
 </p>
 
 <h2>Preguntas frecuentes</h2>

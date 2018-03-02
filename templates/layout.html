@@ -1,3 +1,5 @@
+{%- set base_url = '/'|url(alt='es') -%}
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -14,31 +16,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ '/'|url }}static/images/favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ base_url }}static/images/favicon.png" />
 
     <!-- CSS -->
     <!-- Themefisher Icon font -->
-    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/themefisher-font/style.css">
+    <link rel="stylesheet" href="{{ base_url }}static/vendor/themefisher-font/style.css">
     <!-- bootstrap.min css -->
-    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ base_url }}static/vendor/bootstrap/css/bootstrap.min.css">
     <!-- Lightbox.min css -->
-    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/lightbox2/dist/css/lightbox.min.css">
+    <link rel="stylesheet" href="{{ base_url }}static/vendor/lightbox2/dist/css/lightbox.min.css">
     <!-- Slick Carousel -->
-    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="{{ '/'|url }}static/vendor/slick-carousel/slick/slick-theme.css">
+    <link rel="stylesheet" href="{{ base_url }}static/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="{{ base_url }}static/vendor/slick-carousel/slick/slick-theme.css">
     <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="{{ '/'|url }}static/css/style.css">
+    <link rel="stylesheet" href="{{ base_url }}static/css/style.css">
 
     <!-- Colors -->
-    <!-- <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/green.css" title="green">
-    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/red.css" title="light-red">
-    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/blue.css" title="blue">
-    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/light-blue.css" title="light-blue">
-    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/yellow.css" title="yellow">
-    <link rel="stylesheet" type="text/css" href="{{ '/'|url }}static/css/colors/light-green.css" title="light-green"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/green.css" title="green">
+    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/red.css" title="light-red">
+    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/blue.css" title="blue">
+    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/light-blue.css" title="light-blue">
+    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/yellow.css" title="yellow">
+    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/light-green.css" title="light-green"> -->
 
     <script>
-function initMap() { var map = new google.maps.Map(document.getElementById('map'), { zoom: 8, center: {lat: -34.397, lng: 150.644} }); var geocoder = new google.maps.Geocoder(); document.getElementById('submit').addEventListener('click', function() { geocodeAddress(geocoder, map); }); } function geocodeAddress(geocoder, resultsMap) { var address = document.getElementById('address').value; geocoder.geocode({'address': address}, function(results, status) { if (status === 'OK') { resultsMap.setCenter(results[0].geometry.location); var marker = new google.maps.Marker({ map: resultsMap, position: results[0].geometry.location }); } else { alert('Geocode was not successful for the following reason: ' + status); } }); }
     </script>
 
   </head>
@@ -138,23 +139,22 @@ function initMap() { var map = new google.maps.Map(document.getElementById('map'
     </footer> <!-- end footer -->
 
     <!-- Main jQuery -->
-    <script src="{{ '/'|url }}static/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="{{ base_url }}static/vendor/jquery/dist/jquery.min.js"></script>
     <!-- Bootstrap 3.7 -->
-    <script src="{{ '/'|url }}static/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ base_url }}static/vendor/bootstrap/js/bootstrap.min.js"></script>
     <!-- Parallax -->
-    <script src="{{ '/'|url }}static/vendor/parallax/jquery.parallax-1.1.3.js"></script>
+    <script src="{{ base_url }}static/vendor/parallax/jquery.parallax-1.1.3.js"></script>
     <!-- lightbox -->
-    <script src="{{ '/'|url }}static/vendor/lightbox2/dist/js/lightbox.min.js"></script>
+    <script src="{{ base_url }}static/vendor/lightbox2/dist/js/lightbox.min.js"></script>
     <!-- Owl Carousel -->
-    <script src="{{ '/'|url }}static/vendor/slick-carousel/slick/slick.min.js"></script>
+    <script src="{{ base_url }}static/vendor/slick-carousel/slick/slick.min.js"></script>
     <!-- Portfolio Filtering -->
-    <script src="{{ '/'|url }}static/vendor/mixitup/dist/mixitup.min.js"></script>
+    <script src="{{ base_url }}static/vendor/mixitup/dist/mixitup.min.js"></script>
     <!-- Smooth Scroll js -->
-    <script src="{{ '/'|url }}static/vendor/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+    <script src="{{ base_url }}static/vendor/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
 
     <!-- Custom js -->
-    <script src="{{ '/'|url }}static/js/script.js"></script>
+    <script src="{{ base_url }}static/js/script.js"></script>
 
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKlxoefA1kqWrOsoZJiN6UOXgrpanKjUc&callback=initMap"></script>
   </body>
 </html>
