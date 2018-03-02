@@ -1,0 +1,79 @@
+_model: event-dg
+---
+title: Django Girls Bucaramanga
+---
+date_end: 2017-04-24 18:00:00 -0500
+---
+date_start: 2017-04-24 08:00:00 -0500
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+province: Santander
+---
+timeline: timeline.png
+---
+_slug: 2017/04/django-girls-bucaramanga
+---
+image: banner.png
+---
+location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS, Bucaramanga, Colombia.
+---
+organizers:
+
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: python-bucaramanga
+#### organization ####
+username: cusol-uis
+#### organization ####
+username: django-girls-colombia
+#### user ####
+username: ellaquimica
+#### user ####
+username: wandarinca
+#### user ####
+username: goanpeca
+#### user ####
+username: humitos
+---
+guides:
+
+#### user ####
+username: astrojuanlu
+#### user ####
+username: jhonjairoroa87
+#### user ####
+username: rlaverde
+#### user ####
+username: yurs_ksf1
+#### user ####
+username: andrea-perez-be
+#### user ####
+username: gustabot42
+#### user ####
+username: dacostaortiz
+---
+collaborators:
+
+#### organization ####
+username: psf
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: python-colombia
+---
+sponsors:
+
+#### organization ####
+username: sihsaco
+#### organization ####
+username: monoku
+#### organization ####
+username: github
+#### organization ####
+username: uis
+---
+location: Universidad Industrial de Santander escuela de sistemas, Bucaramanga Colombia

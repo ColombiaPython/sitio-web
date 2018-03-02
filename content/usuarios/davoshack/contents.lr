@@ -11,3 +11,5 @@ last_name: Hernández Giraldo
 name: Juan David
 ---
 province: Antioquia
+---
+type: persona

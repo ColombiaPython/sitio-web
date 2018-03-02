@@ -1,0 +1,410 @@
+{% extends "page.html" %}
+{% block title %}{{ this.name }} {{ this.last_name }}{% endblock %}
+{% block content %}
+
+
+
+
+
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #floating-panel {
+        position: absolute;
+        top: 10px;
+        left: 25%;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+    </style>
+    
+    
+<style>
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#map_canvas {
+  height: 100%;
+  width: 100%;
+}
+</style>
+
+{%- set organizers_users = [] -%}
+{%- set organizers_orgs = [] -%}
+{%- set collaborators_users = [] -%}
+{%- set collaborators_orgs = [] -%}
+{%- set sponsors = [] -%}
+
+{%- if this.organizers -%}
+  {%- for userblock in this.organizers.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- if userblock._flowblock == 'user' -%}
+      {%- set a = organizers_users.append(user) -%}
+    {%- else -%}
+      {%- set b = organizers_orgs.append(user) -%}  
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if this.collaborators -%}
+  {%- for userblock in this.collaborators.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- if userblock._flowblock == 'user' -%}
+      {%- set a = collaborators_users.append(user) -%}
+    {%- else -%}
+      {%- set b = collaborators_orgs.append(user) -%}  
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if this.sponsors -%}
+  {%- for userblock in this.sponsors.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- set a = sponsors.append(user) -%}
+  {%- endfor -%}
+{%- endif -%}
+
+<h1 class="text-center">Taller Django Girls en {{ this.city }}, {{ this.country}}</h1>
+<p>
+¡Queremos animar a más mujeres a dominar la web! Es por eso que&nbsp;
+
+{%- for user in organizers_orgs -%}
+  {%- if loop.first -%}
+  &nbsp;
+  {%- elif not loop.last -%}
+  ,&nbsp;
+  {%- else -%}
+  &nbsp;y&nbsp;
+  {%- endif -%}
+  <b>{{ user.name }}</b>
+{%- endfor -%}
+
+&nbsp; estamos organizando un taller en el cual podrás construir tu propio sitio
+web <i>desde cero</i> en un día. Además, vamos a utilizar todas las herramientas que
+programadores profesionales utilizan diariamente. ¡Y de una manera muy
+sencilla!
+</p>
+
+<h2>¡Es hora de aprender a programar!</h2>
+<div class="row">
+  <div class="col-md-8">
+    <p>
+El taller comienza por la mañana temprano en donde presentamos la dinámica,
+explicamos en pocos minutos como va a ser la jornada y preparamos todas las
+herramientas necesarias. Además, presentamos a cada uno de <a href="#guias">nuestros guías</a> que
+nos van a ayudar durante todo el día con los problemas que se nos vayan
+presentando.
+<br />
+<br />
+Una vez que estamos listos, comenzamos leyendo el
+<a href="https://argentinaenpython.com/django-girls/tutorial/" target="_blank">tutorial</a>
+<i>autoguiado</i> escrito
+especialmente para ti por <a href="https://djangogirls.org" target="_blank">Django Girls</a>
+(una fundación sin fines de lucro que
+motiva a las mujeres a programar, organizando estos eventos en todo el mundo).
+Leyendo este tutorial aprenderemos conceptos básicos sobre cómo funciona
+internet y luego nos sumergiremos en el desarrollo de nuestro primer sitio web:
+¡un blog!
+<br />
+<br />
+Aprenderemos a utilizar las herramientas básicas al principio, como así también
+los conceptos de programación para comenzar a programar nosotros mismos nuestro
+blog.
+<br />
+<br />
+Habrá descansos programados dentro del tutorial, y al medio día un almuerzo (no
+incluído por la organización) donde podremos compartir qué hemos hecho hasta el
+momento y charlar con todos los miembros del taller libremente.
+<br />
+<br />
+Durante la tarde seguiremos trabajando para finalmente montar nuestro sitio web
+en internet y así tener una dirección (¡en internet!) para poder compartir con
+nuestros amigos y que vean la obra de arte que acabamos de crear ;)
+<br />
+<br />
+Finalmente, una charla de despedida y una tormenta de ideas y sugerencias para
+así poder mejorar nuestra próxima experiencia y animar a más mujeres a trabajar
+con la programación. ¡Felicitaciones, lo has logrado!
+    </p>
+  </div>
+  <div class="col-md-4">
+    <img src="{{ this|url(alt='es') }}{{ this.image }}" class="img-responsive" />
+  </div>
+
+  <div class="col-md-12">
+    <h3>¡Me quiero sumar!, pero soy hombre :’(</h3>
+    <p>
+¡No te preocupes, puedes sumarte igual!. La condición: llevar a una mujer 
+contigo que también realice el taller <a href="#condicion">[1]</a>.
+    </p>
+  </div>
+</div>
+
+<h2>¿Dónde y cuándo?</h2>
+<h3>Lugar:</h3>
+<p>
+{{ this.location_extra }}
+</p>
+
+<h3>Fecha:</h3>
+<p>
+{{ this.date_start }} (¡puntual!) a {{ this.date_end }}.
+</p>
+
+    <div id="floating-panel">
+      <input id="address" type="textbox" value="Sydney, NSW">
+      <input id="submit" type="button" value="Geocode">
+    </div>
+
+
+<div class="embed-container">
+  <div id="map"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-8">
+    <h2>Ten en cuenta que…</h2>
+    <ul>
+      <li>tenés que inscribirte utilizando el botón “¡Quiero inscribirme!”</li>
+      <li>los cupos son limitados, así que luego de inscribirte debes esperar una confirmación por parte de los organizadores para poder asistir.</li>
+      <li>te recomendamos seguirnos en Twitter @argenpython y/o Facebook Argentina en Python, Python Bucaramanga y Cusol donde publicaremos novedades sobre el evento.</li>
+      <li>no es necesario saber programar o tener algún conocimiento previo de programación.</li>
+      <li>es necesario llevar notebook para poder trabajar con ella durante todo el día.</li>
+      <li>el taller es gratuito. Sin embargo, se aceptan donaciones para que el proyecto pueda realizar más talleres gratuitos.</li>
+      <li>en lo posible, debes llevar un extensor de corriente.</li>
+      <li>agrega la dirección argentinaenpython@gmail.com a tu libreta de direcciones así evitamos que el email llegue a SPAM</li>
+      <li>vamos a respetar las fechas publicadas en el timeline (línea de tiempo de más abajo)</li>
+      <li>debes registrarte como Asistente o como Guía -no ambos.</li>
+      <li>al momento de completar el formulario, pon mucha atención en tu dirección de email, ya que es el único contacto tuyo que tenemos.</li>
+      <li>te recomendamos llevar un abrigo.</li>
+      <li>todos los participantes deben seguir el Código de Conducta (ver Preguntas frecuentes).</li>
+    </ul>
+  </div>
+
+  <div class="col-md-4">
+    <h2>Contacto</h2>
+    <p>
+    Cualquier duda que tengas sobre el taller, nos puedes escribir a
+    argentinaenpython@gmail.com, pythonbucaramanga@gmail.com y
+    djangogirlscolombia@gmail.com, para ponerte en contacto con nosotros.
+    </p>
+  </div>
+
+</div>
+
+<h2>Cronograma</h2>
+
+<div class="row">
+  <div class="col-md-12">
+  <img src="{{ this|url(alt='es') }}{{ this.timeline }}" class="img-responsive" />
+  </div>
+  <div class="col-md-4">
+    <p>
+    Tienes tiempo hasta el 21 de Marzo para inscribirte. Te recomendamos leer la
+    paǵina de forma completa y prestar mucha atención en el formulario.
+    </p>
+  </div>
+  <div class="col-md-4">
+    <p>
+    El 22 de Marzo anunciaremos los participantes que fueron CONFIRMADOS para
+    participar en el taller, como así también los que están en LISTA DE ESPERA.
+    Ese día debes revisar tu correo electrónico buscando un email nuestro en
+    Bandeja de Entrada y SPAM y confirmar tu asistencia respondiéndolo.
+    </p>
+  </div>
+  <div class="col-md-4">
+    <p>
+    El 31 de Marzo anunciaremos los participantes que estaban en LISTA DE
+    ESPERA y que han pasado a estar CONFIRMADOS. Si estabas en LISTA DE ESPERA
+    es un buen momento para revisar tu correo electrónico.
+    </p>
+  </div>
+
+  <div class="col-md-12">
+    <p class="text-center">
+¡Atención!: hemos alcanzado el cupo máximo de inscriptos para el taller. Sin embargo, si estás interesada en participar, inscribite y pasarás automáticamente a una lista de espera que, en caso de que alguien no pueda asistir, nos estaremos comunicando con vos para informarte.!
+    </p>
+  </div>
+  
+  {%- if this.form_attendees -%}
+  <div class="col-md-12">
+    <p class="text-center">
+      <a class="btn btn-primary btn-lg" href="{{ this.form_attendees }}" role="button" target="_blank">
+        Quiero inscribirme!
+      </a>
+    </p>
+  </div>
+  {%- endif -%}
+
+  <div class="col-md-12">
+    <p class="text-center">
+¡Sólo necesitás tener buena onda, el sábado completo libre y muchas ganas de aprender! ¡Sumate!
+    </p>
+  </div>
+
+  
+</div>
+
+<h2>Guías / Entrenadores</h2>
+
+<p>
+Los guías son una parte muy importante del evento. Son las personas que tienen
+conocimiento sobre programación (no necesariamente Python/Django) pero que
+están más acostumbradas al manejo de herramientas tradicionales como ser
+sistemas de control de versiones, Internet, consola de GNU/Linux, programación
+básica y otros.
+</p>
+
+<h3>Quiero ser guía</h3>
+
+<p>Si querés colaborar con este evento y sumarte a los guías que serán nuestra
+ayuda durante todo el día del evento en esos momentos de caos, registrate en el
+siguiente formulario y nos pondremos en contacto contigo para coordinar los
+detalles.
+</p>
+
+{%- if this.form_guides -%}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg" href="{{ this.form_guides }}" role="button" target="_blank">
+  Quiero inscribirme como guia
+  </a>
+</p>
+{%- endif -%}
+
+{%- if this.guides -%}
+<h3><a id="guias"></a>¡Conoce a nuestros guías!</h3>
+<div class="row">
+{%- for userblock in this.guides.blocks -%}
+  {%- if userblock._flowblock == 'user' -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    <div class="col-md-3">
+    {{ user.name }} {{ user.last_name }}
+    </div>
+  {%- endif -%}
+{%- endfor -%}
+</div>
+{%- endif -%}
+
+
+{%- if organizers_users -%}
+<h2>¡Los organizadores!</h2>
+<div class="row">
+{%- for user in organizers_users -%}
+  <div class="col-md-3">
+  {{ user.name }} {{ user.last_name }}
+  </div>
+{%- endfor -%}
+</div>
+{%- endif -%}
+
+{%- if collaborators_users -%}
+<h2>¡Los colaboradores!</h2>
+{%- endif -%}
+
+{%- if sponsors -%}
+<h2>Patrocinadores</h2>
+<div class="row">
+{%- for user in sponsors -%}
+  <div class="col-md-3">
+  {{ user.name }}
+  </div>
+{%- endfor -%}
+</div>
+{%- endif -%}
+
+{%- if collaborators_orgs -%}
+<h2>Con el apoyo de</h2>
+<div class="row">
+{%- for user in collaborators_orgs -%}
+  <div class="col-md-3">
+  {{ user.name }}
+  </div>
+{%- endfor -%}
+</div>
+{%- endif -%}
+<hr>
+
+<h3>¿Te gustaría que tu empresa sea parte de este evento?</h3>
+<p>
+Contáctanos para hacerlo posible y así apoyar a que haya más eventos de
+programación en la ciudad.
+</p>
+
+<h2>Python Software Foundation</h2>
+<p>
+La misión de la Python Software Foundation es promover, proteger y potenciar
+el lenguaje de programación Python, además de apoyar y facilitar el crecimiento
+de la diversidad y la comunidad internacional de programadores Python. El mayor
+trabajo de la PSF está enfocado en empoderar y apoyar personas dentro de la
+comunidad de Python. La PSF posee un activo programa de subvención para apoyar
+sprints, conferencias, meetups, grupos de usuarios y esfuerzos de desarrollo en
+Python en todo el mundo. Sumado a esto, la PSF lleva adelante la conferencia
+PyCon US, que es la conferencia principal en la comunidad de Python.
+Recientemente, cambiamos la PSF para ser una organización miembros abierta,
+por lo que cualquiera que use y apoye Python pueda unirse.
+</p>
+<p>
+Para saber más, lee sobre
+<a href="https://www.python.org/psf/membership">como convertirte en un miembro.</a>
+</p>
+
+<h2>Preguntas frecuentes</h2>
+<p>
+Algunas pequeñas preguntas que te pueden sacar algunas dudas. De cualquier
+forma, si hay algo que no quede claro aquí, por favor escribinos un email y nos
+pondremos en contacto contigo.
+</p>
+<ul>
+  <li>¿Necesito saber programación?</li>
+  <li>¿Habrá comida?</li>
+  <li>¿Debo traer mi propia laptop?</li>
+  <li>¿Necesito instalar algo en mi laptop?</li>
+  <li>No soy mujer, ¿puedo ir?</li>
+  <li>¿Por qué hacen esto?</li>
+  <li>Código de Conducta</li>
+</ul>
+
+<br>
+<h2>Nota</h2>
+<p>
+¡Ayudanos con la difusión compartiendo esta página y comentando sobre el taller
+las redes sociales, tu universidad y entre tus amigos!
+
+Este evento forma parte de Django Girls y tiene su propio sitio web bajo esta
+marca: <b>Django Girls {{ this.city }}</b>
+</p>
+
+<p>
+<a id="condicion">[1]</a> Regístrate en el formulario y comenta con quien vas.
+Además, dile a ella que también se registre e indique que va contigo.
+</p>
+
+
+
+{% endblock %}

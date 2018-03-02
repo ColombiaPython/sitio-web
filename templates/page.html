@@ -24,7 +24,9 @@
         {% endfor %}
         {% for crumb in crumbs %}
             {% if this._path == crumb._path %}
-                <li class="active">{{ crumb.title }}</li>
+                {% set last_name = crumb.last_name if crumb.last_name else '' %}
+                {% set name = crumb.title if crumb.title else crumb.name + ' ' + last_name %}
+                <li class="active">{{ name }}</li>
             {% else %}
                 <li><a href="{{ crumb|url }}">{{ crumb.title }}</a></li>
             {% endif %}
@@ -35,7 +37,7 @@
   </div>
 </section>
 
-<section class="blog" id="blog">
+<section>
   <div class="container">
     <div class="row">
       <div class="col-md-offset-1 col-md-10">

@@ -1,0 +1,23 @@
+{% extends "page.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+
+{% block title %}{{ this.title }}{% endblock %}
+{% block content %}
+  <h2>Eventos de la comunidad</h2>
+  <ul>
+  {% for event in this.children %}
+  <li>
+    <a href="{{event|url}}">
+    {{ event.date_start|dateformat('YYYY/MM/d') }}: {{ event .title}} ({{ event.city }}, {{ event.country }})
+    </a>
+  </li>
+  {% endfor%}
+  </ul>
+  
+    <div class="row">
+      <div class="title text-center ">
+        {{ render_pagination(this.pagination) }}
+      </div>
+    </div>
+
+{% endblock %}
