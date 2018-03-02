@@ -4,9 +4,6 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block content %}
 
-{%- set users = this.pagination.items.filter(F.type != 'persona') -%}
-    
-
 <h1>Usuarios</h1>
       <ul>
       {% for child in this.pagination.items.filter(F.type == 'persona') %}
@@ -18,12 +15,27 @@
       </ul>
 
 
-<h1>Empresas / Organizaciones / Comunidades</h1>
+<h1>Empresas / Organizaciones / Universidades</h1>
       <ul>
-      {% for child in this.pagination.items.filter(F.type != 'persona') %}
+      {% for child in this.pagination.items %}
+      {%- if child.type not in ['comunidad', 'persona'] -%}
       <li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
       {%- if child._id != child.username -%}
       <h1>ERROR</h1>
+      {%- endif -%}
+      {%- endif -%}
+      {% endfor %}
+      </ul>
+
+
+<h1>Comunidades</h1>
+      <ul>
+      {% for child in this.pagination.items %}
+      {%- if child.type == 'comunidad' -%}
+      <li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
+      {%- if child._id != child.username -%}
+      <h1>ERROR</h1>
+      {%- endif -%}
       {%- endif -%}
       {% endfor %}
       </ul>
