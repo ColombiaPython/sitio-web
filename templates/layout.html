@@ -31,16 +31,9 @@
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="{{ base_url }}static/css/style.css">
 
-    <!-- Colors -->
-    <!-- <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/green.css" title="green">
-    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/red.css" title="light-red">
-    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/blue.css" title="blue">
-    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/light-blue.css" title="light-blue">
-    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/yellow.css" title="yellow">
-    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/colors/light-green.css" title="light-green"> -->
-
-    <script>
-    </script>
+    {%- block scripts_top -%}
+    <script></script>
+    {%- endblock %}
 
   </head>
 
@@ -79,18 +72,17 @@
                   ['/blog', 'Blog'],
                   ['/contacto', 'Contacto'],
                   ['/sobre-nosotros', 'Sobre Nosotros'],
-                ] %}
+                ] -%}
             <li{% if this.is_child_of(href) %} class="active"{% endif%}><a href="{{ href|url }}">{{ title }}</a></li>
-            {% endfor %}
-            </li>
+            {% endfor -%}
           </ul>
         </nav>
         <!-- /main nav -->
       </div>
     </header>
 
-{% block body %}
-{% endblock %}
+  {%- block body -%}
+  {%- endblock -%}
 
     <footer id="footer" class="bg-one">
       <div class="top-footer">
@@ -138,6 +130,7 @@
       </div>
     </footer> <!-- end footer -->
 
+    {% block scripts_bottom -%}
     <!-- Main jQuery -->
     <script src="{{ base_url }}static/vendor/jquery/dist/jquery.min.js"></script>
     <!-- Bootstrap 3.7 -->
@@ -155,6 +148,7 @@
 
     <!-- Custom js -->
     <script src="{{ base_url }}static/js/script.js"></script>
+    {%- endblock %}
 
   </body>
 </html>

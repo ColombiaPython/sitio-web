@@ -2,9 +2,9 @@ _model: event-dg
 ---
 title: Django Girls Bucaramanga
 ---
-date_end: 2017-04-24 18:00:00 -0500
+date_end: 2017-04-08 18:00:00 -0500
 ---
-date_start: 2017-04-24 08:00:00 -0500
+date_start: 2017-04-08 08:00:00 -0500
 ---
 city: Bucaramanga
 ---
@@ -81,3 +81,11 @@ location: Universidad Industrial de Santander, Centro de Estudios de la Escuela 
 latitude: 7.141392
 ---
 longitude: -73.122760
+---
+delta_announcement: 8
+---
+delta_close: 18
+---
+delta_limit: 6
+---
+delta_open: 31

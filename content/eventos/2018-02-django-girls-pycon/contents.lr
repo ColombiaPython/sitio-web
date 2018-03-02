@@ -30,12 +30,24 @@ username: python-colombia
 username: argentina-en-python
 #### user ####
 username: ellaquimica
+----
+description: 
+#### user ####
+username: javidazac
+----
+description: 
 #### user ####
 username: jhonjairoroa87
+----
+description: 
 #### user ####
 username: davoshack
+----
+description: 
 #### user ####
 username: humitos
+----
+description: 
 ---
 guides:
 
@@ -47,6 +59,12 @@ username: jhonjairoroa87
 username: gustabot42
 #### user ####
 username: goanpeca
+#### user ####
+username: gudarjs
+#### user ####
+username: camigomez35
+#### user ####
+username: iris9112
 ---
 collaborators:
 
@@ -57,20 +75,26 @@ username: eafit
 #### organization ####
 username: pionerasdev
 #### user ####
-username: aerendon
+username: anaguicas
+----
+description: 
 #### user ####
 username: marianvilla
+----
+description: 
+#### user ####
+username: aerendon
+----
+description: 
 ---
 sponsors:
 
 #### organization ####
-username: sihsaco
+username: avanet
 #### organization ####
-username: monoku
+username: codies
 #### organization ####
 username: github
-#### organization ####
-username: uis
 ---
 location:
 

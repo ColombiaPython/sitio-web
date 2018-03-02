@@ -10,6 +10,30 @@
 {%- set collaborators_orgs = [] -%}
 {%- set sponsors = [] -%}
 
+{%- if this.date_start -%}
+
+  {%- if this.delta_open -%}
+    {%- set date_open = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_open) -%}
+  {%- endif -%}
+
+  {%- if this.delta_close -%}
+    {%- set date_close = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_close) -%}
+  {%- endif -%}
+
+  {%- if this.delta_close -%}
+    {%- set date_announcement = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_close + 1) -%}
+  {%- endif -%}
+
+  {%- if this.delta_announcement -%}
+    {%- set date_announcement_2 = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_announcement) -%}
+  {%- endif -%}
+
+  {%- if this.delta_limit -%}
+    {%- set date_limit = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_limit) -%}
+  {%- endif -%}
+
+{%- endif -%}
+
 {%- if this.organizers -%}
   {%- for userblock in this.organizers.blocks -%}
     {%- set user = site.get('/usuarios/' + userblock.username) -%}
@@ -39,7 +63,7 @@
   {%- endfor -%}
 {%- endif -%}
 
-{% block title %}{{ this.name }} {{ this.last_name }}{% endblock %}
+{% block title %}{{ this.title }} - {{ this.date_start|dateformat('YYYY/MM/dd') }}{% endblock %}
 {% block content %}
 
 <style>
@@ -159,20 +183,23 @@ de programación en Python más grande del país.
 {{ this.date_start|datetimeformat('d', locale='es') }} de 
 {{ this.date_start|datetimeformat('MMMM', locale='es') }} de 
 {{ this.date_start|datetimeformat('YYYY', locale='es') }}
-desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }} (¡puntual!) hasta las {{ this.date_end|datetimeformat('HH:mm', locale='es') }}.
+desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }}
+(¡puntual!) hasta las {{ this.date_end|datetimeformat('HH:mm', locale='es') }}.
 </p>
 
 <h3>Lugar:</h3>
+{{ this.location }}
 <p>
-{{ this.location }}.
-<br>
 {{ this.city }}, {{ this.country }}.
+<br><br>
 </p>
 
 <div class="embed-container">
   <iframe id= "mapsource" scrollwheel="false" width="800" height="600"
           frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-          src="https://www.openstreetmap.org/export/embed.html?bbox={{ lon_ll }}%2C{{ lat_ll }}%2C{{ lon_ur }}%2C{{ lat_ur }}&amp;layer=mapnik&amp;marker={{ this.latitude }}%2C{{ this.longitude }}" style="border: 1px solid black"></iframe>
+          src="https://www.openstreetmap.org/export/embed.html?bbox={{ lon_ll }}%2C{{ lat_ll }}%2C{{ lon_ur }}%2C{{ lat_ur }}&amp;layer=mapnik&amp;marker={{ this.latitude }}%2C{{ this.longitude }}"
+          style="border: 1px solid black">
+  </iframe>
 </div>
 <small>
   <a href="https://www.openstreetmap.org/#map=18/{{ this.latitude }}/{{ this.longitude }}">
@@ -239,7 +266,8 @@ desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }} (¡puntual!
     <h2>Contacto</h2>
     <p>
     Cualquier duda que tengas sobre el taller, nos puedes escribir a
-    djangogirlscolombia@gmail.com, para ponerte en contacto con nosotros.
+    <a href="mailto:djangogirlscolombia@gmail.">djangogirlscolombia@gmail.com
+    </a>, para ponerte en contacto con nosotros.
     </p>
   </div>
 
@@ -248,32 +276,59 @@ desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }} (¡puntual!
 <h2>Cronograma</h2>
 
 <div class="row">
+
+  {%- if this.timeline -%}
   <div class="col-md-12">
   <img src="{{ this|url(alt='es') }}{{ this.timeline }}"
        class="img-responsive" />
   <br />
   </div>
+  {%- endif -%}
+
+  {%- if date_close -%}
   <div class="col-md-4">
     <p>
-    Tienes tiempo hasta el 21 de Marzo para inscribirte. Te recomendamos leer
-    la paǵina de forma completa y prestar mucha atención en el formulario.
+    {%- if date_open -%}
+    El <b>{{ date_open|dateformat('d') }} de
+    {{ date_open|dateformat('MMMM')|capitalize }}</b> se abren las
+    inscripciones.
+    {%- endif -%}
+    Tienes tiempo hasta el <b>{{ date_close|dateformat('d') }}
+    de {{ date_close|dateformat('MMMM')|capitalize }}</b> para inscribirte. Te
+    recomendamos leer la paǵina de forma completa y prestar mucha atención en
+    el formulario.
     </p>
   </div>
+  {%- endif -%}
+
+  {%- if date_announcement -%}
   <div class="col-md-4">
     <p>
-    El 22 de Marzo anunciaremos los participantes que fueron CONFIRMADOS para
-    participar en el taller, como así también los que están en LISTA DE ESPERA.
-    Ese día debes revisar tu correo electrónico buscando un email nuestro en
-    Bandeja de Entrada y SPAM y confirmar tu asistencia respondiéndolo.
+    El <b>{{ date_announcement|dateformat('d') }} de
+    {{ date_announcement|dateformat('MMMM')|capitalize }}</b> anunciaremos los
+    participantes que fueron <b>CONFIRMADOS</b> para participar en el taller,
+    como así también los que están en <b>LISTA DE ESPERA</b>. Ese día debes
+    revisar tu correo electrónico buscando un email nuestro en Bandeja de
+    Entrada y <i>SPAM</i> y confirmar tu asistencia respondiéndolo.
     </p>
   </div>
+  {%- endif -%}
+  {%- if date_announcement_2 -%}
   <div class="col-md-4">
     <p>
-    El 31 de Marzo anunciaremos los participantes que estaban en LISTA DE
-    ESPERA y que han pasado a estar CONFIRMADOS. Si estabas en LISTA DE ESPERA
-    es un buen momento para revisar tu correo electrónico.
+    El <b>{{ date_announcement_2|dateformat('d') }} de
+    {{ date_announcement_2|dateformat('MMMM')|capitalize }}</b> anunciaremos
+    los participantes que estaban en <b>LISTA DE ESPERA</b> y que han pasado a
+    estar <b>CONFIRMADOS</b>. Si estabas en <b>LISTA DE ESPERA</b> es un buen
+    momento para revisar tu correo electrónico.&nbsp;
+    {%- if date_limit -%}
+    Tendras hasta el <b>{{ date_limit|dateformat('d') }} de
+    {{ date_limit|dateformat('MMMM')|capitalize }}</b> para confirmar tu
+    asistencia si estas en <b>LISTA DE ESPERA</b>.
+    {%- endif -%}
     </p>
   </div>
+  {%- endif -%}
 
   <div class="col-md-12">
     <p class="text-center">
@@ -389,7 +444,6 @@ detalles.
   </div>
 {%- endfor -%}
 </div>
-{%- endif -%}
 <hr>
 
 <h3>¿Te gustaría que tu empresa sea parte de este evento?</h3>
@@ -397,6 +451,7 @@ detalles.
 Contáctanos para hacerlo posible y así apoyar a que haya más eventos de
 programación en la ciudad.
 </p>
+{%- endif -%}
 
 <h2>Python Software Foundation</h2>
 <p>
@@ -440,15 +495,13 @@ pondremos en contacto contigo.
 ¡Ayudanos con la difusión compartiendo esta página y comentando sobre el taller
 las redes sociales, tu universidad y entre tus amigos!
 
-Este evento forma parte de Django Girls y tiene su propio sitio web bajo esta
-marca: <b>Django Girls {{ this.city }}</b>
+Este evento forma parte de <b>Django Girls</b> y tiene su propio sitio web bajo
+esta marca: <b>Django Girls {{ this.city }}</b>
 </p>
 
 <p>
 <a id="condicion">[1]</a> Regístrate en el formulario y comenta con quien vas.
 Además, dile a ella que también se registre e indique que va contigo.
 </p>
-
-
 
 {% endblock %}

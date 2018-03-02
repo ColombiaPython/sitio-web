@@ -1,0 +1,47 @@
+_model: event-dg
+---
+title: Django Girls Barranquilla
+---
+date_end: 2017-07-24 19:00:00 -0500
+---
+date_start: 2017-07-24 08:30:00 -0500
+---
+city: Barranquilla
+---
+country: Colombia
+---
+province: Atlántico
+---
+timeline: timeline.png
+---
+_slug: 2017/07/django-girls-barranquilla
+---
+image: banner.png
+---
+location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS, Bucaramanga, Colombia.
+---
+organizers: 
+---
+guides: 
+---
+collaborators: 
+---
+sponsors: 
+---
+location: [LYD HOUSE Coworking](http://lydhouse.com/) en Carrera 49C # 75- 47
+---
+latitude: 10.999602
+---
+longitude: -74.807466
+---
+delta_close: 44
+---
+delta_open: 
+---
+form_attendees: https://goo.gl/forms/DJw3VWzxAGvCXQ1n1
+---
+form_guides: https://goo.gl/forms/JqrqHXgwHmKjG6Bi2
+---
+delta_announcement: 33
+---
+delta_limit: 30

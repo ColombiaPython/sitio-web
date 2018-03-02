@@ -1,0 +1,95 @@
+_model: event-dg
+---
+title: Django Girls Medellín
+---
+date_end: 2017-06-24 19:00:00 -0500
+---
+date_start: 2017-06-24 08:30:00 -0500
+---
+city: Medellín
+---
+country: Colombia
+---
+province: Antioquia
+---
+timeline: timeline.png
+---
+_slug: 2017/06/django-girls-medellin
+---
+image: banner.png
+---
+organizers:
+
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: python-medellin
+#### organization ####
+username: django-girls-colombia
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: humitos
+----
+description: 
+#### user ####
+username: jhonjairoroa87
+----
+description: 
+#### user ####
+username: davoshack
+----
+description: 
+---
+guides:
+
+#### user ####
+username: goanpeca
+----
+description: Python Bucaramanga
+---
+collaborators:
+
+#### organization ####
+username: python-colombia
+#### organization ####
+username: python-argentina
+#### organization ####
+username: atom-house
+#### organization ####
+username: pionerasdev
+---
+sponsors:
+
+#### organization ####
+username: monoku
+#### organization ####
+username: growth-acceleration-partners
+#### organization ####
+username: platzi
+#### organization ####
+username: anomali
+#### organization ####
+username: lending-front
+#### organization ####
+username: github
+#### organization ####
+username: psf
+---
+location: [Atom House Coworking](http://atomhouse.com/), en la Calle 8 # 43a-­49 cerca del Parque el Poblado
+---
+latitude: 6.2092551
+---
+longitude: -75.5716548
+---
+delta_announcement: 10
+---
+delta_close: 21
+---
+delta_limit: 7
+---
+form_attendees: https://goo.gl/forms/MzP5fJMWmbd87JE03
+---
+form_guides: https://goo.gl/forms/COkQKqtHCuiouh793

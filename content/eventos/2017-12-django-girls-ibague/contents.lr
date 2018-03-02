@@ -1,0 +1,47 @@
+_model: event-dg
+---
+title: Django Girls Ibagué
+---
+date_end: 2017-12-02 19:00:00 -0500
+---
+date_start: 2017-12-02 08:00:00 -0500
+---
+city: Ibagué
+---
+country: Colombia
+---
+province: Tolima
+---
+timeline: timeline.png
+---
+_slug: 2017/12/django-girls-ibague
+---
+image: volante.png
+---
+location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS, Bucaramanga, Colombia.
+---
+organizers: 
+---
+guides: 
+---
+collaborators: 
+---
+sponsors: 
+---
+location: [Universidad Coperativa de Colombia sede Ibagué](https://www.ucc.edu.co/ibague), en la Calle 10 # 1 - 64 Barrio Centro
+---
+latitude: 4.443765
+---
+longitude: -75.243380
+---
+form_attendees: https://goo.gl/forms/Jj59AfAOilKkhDFw1
+---
+form_guides: https://goo.gl/forms/y7eEtD3cXEtt7yCU2
+---
+delta_open: 38
+---
+delta_announcement: 11
+---
+delta_close: 18
+---
+delta_limit: 6

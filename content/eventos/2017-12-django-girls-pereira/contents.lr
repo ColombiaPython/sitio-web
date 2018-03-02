@@ -1,0 +1,45 @@
+_model: event-dg
+---
+title: Django Girls Pereira
+---
+date_end: 2017-12-08 18:00:00 -0500
+---
+date_start: 2017-12-08 08:00:00 -0500
+---
+city: Pereira
+---
+country: Colombia
+---
+province: Risaralda
+---
+timeline: timeline.png
+---
+_slug: 2017/12/django-girls-pereira
+---
+image: banner.png
+---
+location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS, Bucaramanga, Colombia.
+---
+organizers: 
+---
+collaborators: 
+---
+sponsors: 
+---
+location: [Auditorio Mecánica - Universidad Tecnológica de Pereira](http://utp.edu.co/), en la Carrera 27 # 10-02 Barrio Alamos
+---
+latitude: 4.795511
+---
+longitude: -75.688582
+---
+delta_announcement: 17
+---
+delta_close: 24
+---
+delta_limit: 12
+---
+delta_open: 52
+---
+form_attendees: https://goo.gl/forms/a3rDQ9A193fELk8e2
+---
+form_guides: https://goo.gl/forms/7ArhLMeTbmmgkbjm1
