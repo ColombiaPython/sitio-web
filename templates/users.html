@@ -1,5 +1,29 @@
 {% extends "page.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+
 {% block title %}{{ this.title }}{% endblock %}
 {% block content %}
-  {{ this.body }}
+
+<h1>Usuarios</h1>
+      <ul>
+      {% for child in this.pagination.items.filter(F.type == 'persona') %}
+      <li><a href="{{ child|url }}">{{ child.name }} {{ child.last_name }}</a></li>
+      {% endfor %}
+      </ul>
+
+
+<h1>Empresas / Organizaciones / Comunidades</h1>
+      <ul>
+      {% for child in this.pagination.items.filter(F.type != 'persona') %}
+      <li><a href="{{ child|url }}">{{ child.name }} {{ child.last_name }}</a></li>
+      {% endfor %}
+      </ul>
+
+
+    <div class="row">
+      <div class="title text-center ">
+        {{ render_pagination(this.pagination) }}
+      </div>
+    </div>
+
 {% endblock %}
