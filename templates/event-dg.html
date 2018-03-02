@@ -85,49 +85,51 @@ manera muy sencilla!
 
 <h2>¡Es hora de aprender a programar!</h2>
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-6">
     <p>
-El taller comienza por la mañana temprano en donde presentamos la dinámica,
-explicamos en pocos minutos como va a ser la jornada y preparamos todas las
-herramientas necesarias. Además, presentamos a cada uno de
-<a href="#guias">nuestros guías</a> que nos van a ayudar durante todo el día
-con los problemas que se nos vayan presentando.
-<br />
-<br />
-Una vez que estamos listos, comenzamos leyendo el
-<a href="https://argentinaenpython.com/django-girls/tutorial/"
-   target="_blank">tutorial</a>
-<i>autoguiado</i> escrito especialmente para ti por 
-<a href="https://djangogirls.org"
-   target="_blank">Django Girls</a>
-(una fundación sin fines de lucro que
-motiva a las mujeres a programar, organizando estos eventos en todo el mundo).
-Leyendo este tutorial aprenderemos conceptos básicos sobre cómo funciona
-internet y luego nos sumergiremos en el desarrollo de nuestro primer sitio web:
-¡un blog!
-<br />
-<br />
-Aprenderemos a utilizar las herramientas básicas al principio, como así también
-los conceptos de programación para comenzar a programar nosotros mismos nuestro
-blog.
-<br />
-<br />
-Habrá descansos programados dentro del tutorial, y al medio día un almuerzo (no
-incluído por la organización) donde podremos compartir qué hemos hecho hasta el
-momento y charlar con todos los miembros del taller libremente.
-<br />
-<br />
-Durante la tarde seguiremos trabajando para finalmente montar nuestro sitio web
-en internet y así tener una dirección (¡en internet!) para poder compartir con
-nuestros amigos y que vean la obra de arte que acabamos de crear ;)
-<br />
-<br />
-Finalmente, una charla de despedida y una tormenta de ideas y sugerencias para
-así poder mejorar nuestra próxima experiencia y animar a más mujeres a trabajar
-con la programación. ¡Felicitaciones, lo has logrado!
+    El taller comienza por la mañana temprano en donde presentamos la dinámica,
+    explicamos en pocos minutos como va a ser la jornada y preparamos todas las
+    herramientas necesarias. Además, presentamos a cada uno de
+    <a href="#guias">nuestros guías</a> que nos van a ayudar durante todo el
+    día con los problemas que se nos vayan presentando.
+    <br />
+    <br />
+    Una vez que estamos listos, comenzamos leyendo el
+    <a href="https://argentinaenpython.com/django-girls/tutorial/"
+       target="_blank">tutorial</a>
+    <i>autoguiado</i> escrito especialmente para ti por 
+    <a href="https://djangogirls.org"
+       target="_blank">Django Girls</a>
+    (una fundación sin fines de lucro que
+    motiva a las mujeres a programar, organizando estos eventos en todo el
+    mundo). Leyendo este tutorial aprenderemos conceptos básicos sobre cómo
+    funciona internet y luego nos sumergiremos en el desarrollo de nuestro
+    primer sitio web: ¡un blog!
+    <br />
+    <br />
+    Aprenderemos a utilizar las herramientas básicas al principio, como así
+    también los conceptos de programación para comenzar a programar nosotros
+    mismos nuestro blog.
+    <br />
+    <br />
+    Habrá descansos programados dentro del tutorial, y al medio día un almuerzo
+    (no incluído por la organización) donde podremos compartir qué hemos hecho
+    hasta el momento y charlar con todos los miembros del taller libremente.
+    <br />
+    <br />
+    Durante la tarde seguiremos trabajando para finalmente montar nuestro sitio
+    web en internet y así tener una dirección (¡en internet!) para poder
+    compartir con nuestros amigos y que vean la obra de arte que acabamos de
+    crear ;)
+    <br />
+    <br />
+    Finalmente, una charla de despedida y una tormenta de ideas y sugerencias
+    para así poder mejorar nuestra próxima experiencia y animar a más mujeres a
+    trabajar con la programación. ¡Felicitaciones, lo has logrado!
     </p>
   </div>
-  <div class="col-md-4">
+
+  <div class="col-md-6">
     <img src="{{ this|url(alt='es') }}{{ this.image }}"
          class="img-responsive" />
   </div>
@@ -135,13 +137,22 @@ con la programación. ¡Felicitaciones, lo has logrado!
   <div class="col-md-12">
     <h3>¡Me quiero sumar!, pero soy hombre :’(</h3>
     <p>
-¡No te preocupes, puedes sumarte igual!. La condición: llevar a una mujer 
-contigo que también realice el taller <a href="#condicion">[1]</a>.
+    ¡No te preocupes, puedes sumarte igual!. La condición: llevar a una mujer 
+    contigo que también realice el taller <a href="#condicion">[1]</a>.
     </p>
   </div>
+
 </div>
 
 <h2>¿Cuándo y dónde?</h2>
+
+{%- if 'pycon' in this.title|lower -%}
+<p>
+Este taller de Django Girls se realiza en el marco de la Conferencia de
+PyCon Colombia organizado por la comunidad de Python Colombia. Es el evento
+de programación en Python más grande del país.
+{%- endif -%}
+
 <h3>Fecha:</h3>
 <p>
 {{ this.date_start|datetimeformat('EEEE', locale='es')|capitalize }}
@@ -150,6 +161,7 @@ contigo que también realice el taller <a href="#condicion">[1]</a>.
 {{ this.date_start|datetimeformat('YYYY', locale='es') }}
 desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }} (¡puntual!) hasta las {{ this.date_end|datetimeformat('HH:mm', locale='es') }}.
 </p>
+
 <h3>Lugar:</h3>
 <p>
 {{ this.location }}.
@@ -158,14 +170,14 @@ desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }} (¡puntual!
 </p>
 
 <div class="embed-container">
-<iframe id= "mapsource" scrollwheel="false" width="800" height="600"
-        frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-        src="https://www.openstreetmap.org/export/embed.html?bbox={{ lon_ll }}%2C{{ lat_ll }}%2C{{ lon_ur }}%2C{{ lat_ur }}&amp;layer=mapnik&amp;marker={{ this.latitude }}%2C{{ this.longitude }}" style="border: 1px solid black"></iframe>
+  <iframe id= "mapsource" scrollwheel="false" width="800" height="600"
+          frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+          src="https://www.openstreetmap.org/export/embed.html?bbox={{ lon_ll }}%2C{{ lat_ll }}%2C{{ lon_ur }}%2C{{ lat_ur }}&amp;layer=mapnik&amp;marker={{ this.latitude }}%2C{{ this.longitude }}" style="border: 1px solid black"></iframe>
 </div>
 <small>
-<a href="https://www.openstreetmap.org/#map=18/{{ this.latitude }}/{{ this.longitude }}">
-Ver mapa de mayor tamaño
-</a>
+  <a href="https://www.openstreetmap.org/#map=18/{{ this.latitude }}/{{ this.longitude }}">
+  Ver mapa de mayor tamaño
+  </a>
 </small>
 
 <div class="row">
@@ -189,8 +201,8 @@ Ver mapa de mayor tamaño
       programación.
       </li>
       <li>
-      es necesario <b>llevar computador portatil</b> para poder trabajar con este
-      durante todo el día.
+      es necesario <b>llevar computador portatil</b> para poder trabajar con
+      este durante todo el día.
       </li>
       <li>
       el taller es gratuito. Sin embargo, se aceptan donaciones para que el
@@ -239,6 +251,7 @@ Ver mapa de mayor tamaño
   <div class="col-md-12">
   <img src="{{ this|url(alt='es') }}{{ this.timeline }}"
        class="img-responsive" />
+  <br />
   </div>
   <div class="col-md-4">
     <p>
@@ -347,6 +360,13 @@ detalles.
 
 {%- if collaborators_users -%}
 <h2>¡Los colaboradores!</h2>
+<div class="row">
+{%- for user in collaborators_users -%}
+  <div class="col-md-3">
+  {{ user.name }} {{ user.last_name }}
+  </div>
+{%- endfor -%}
+</div>
 {%- endif -%}
 
 {%- if sponsors -%}

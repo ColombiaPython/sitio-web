@@ -8,7 +8,7 @@
   {% for event in this.children %}
   <li>
     <a href="{{event|url}}">
-    {{ event.date_start|dateformat('YYYY/MM/d') }}: {{ event .title}} ({{ event.city }}, {{ event.country }})
+    {{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event .title}} ({{ event.city }}, {{ event.country }})
     </a>
   </li>
   {% endfor%}
