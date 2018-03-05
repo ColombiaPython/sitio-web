@@ -2,7 +2,7 @@
 
 Este es el repositorio del sitio web de la comunidad servido por
 [Github](https://colombiapython.github.io/sitio-web-desarrollo/), y
-construido utilizando [lektor](https://www.getlektor.com)
+construido utilizando [lektor](https://www.getlektor.com). Se utilizó la plantilla [BINGO](http://demo.themefisher.com/themefisher/bingo/index-text.html) como base.
 
 # Flujo de trabajo
 
