@@ -12,7 +12,7 @@ Hay 2 ramas de git, `develop` and `production`.
 
 Es la rama por defecto y se despliega a través de gh-pages con Lektor a
 https://colombiapython.github.io/sitio-web-desarrollo/
-(pronto en http://develop.python.org.co)
+(en http://develop.python.org.co)
 
 ## Production
 
@@ -41,4 +41,16 @@ $ conda install lektor -c conda-forge
 
 ```
 $ lektor server
+```
+
+### Problemas comunes
+
+Si en algun momento luego de instalar python3 y crear tu virtualenv. haces `lektor server` y ves este error:
+```
+RuntimeError: Click will abort further execution because Python 3 was configured to use ASCIas encoding for the environment.  Consult http://click.pocoo.org/python3/for mitigation steps.
+```
+Haz esto adentro de tu virtualenv:
+```
+export LC_ALL=en_us.UTF-8
+export LANG=en_us.UTF-8
 ```
