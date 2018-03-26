@@ -37,15 +37,22 @@ $ pip install -U Lektor
 $ conda install lektor -c conda-forge
 ```
 
+## Instala (reinstala) los `plugins` locales
+
+```
+$ lektor plugins reinstall
+```
+
 ## Corre el servidor local
 
 ```
 $ lektor server
 ```
 
-### Problemas comunes
+## Problemas comunes
 
-Si en algun momento luego de instalar python3 y crear tu virtualenv. haces `lektor server` y ves este error:
+* Si en algun momento luego de instalar python3 y crear tu virtualenv. haces `lektor server` y ves este error:
+
 ```
 RuntimeError: Click will abort further execution because Python 3 was configured to use ASCIas encoding for the environment.  Consult http://click.pocoo.org/python3/for mitigation steps.
 ```
@@ -53,4 +60,10 @@ Haz esto adentro de tu virtualenv:
 ```
 export LC_ALL=en_us.UTF-8
 export LANG=en_us.UTF-8
+```
+
+* Si ves `jinja2.exceptions.UndefinedError: 'estimate_reading_time' is undefined` significa que necesitas instalar o reinstalar los `plugins` de lektor. Puedes hacer esto ejecutando
+
+```
+$ lektor plugins reinstall
 ```
