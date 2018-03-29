@@ -2112,5 +2112,9 @@ a:focus, a:hover {
 
 .logo-intro { margin: 0 auto; }
 .logo-container { margin: 10px; }
-.social { text-align: right; }
 .top-footer { padding: 50px; }
+
+.social { 
+  margin: 15px;
+  text-align: right;
+} 
