@@ -30,6 +30,8 @@
     <link rel="stylesheet" href="{{ base_url }}static/vendor/slick-carousel/slick/slick-theme.css">
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="{{ base_url }}static/css/style.css">
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
 
     {%- block scripts_top -%}
     <script></script>
@@ -88,12 +90,15 @@
       <div class="top-footer">
         <div class="container">
           <div class="row">
-            <div class="col-sm-3 col-md-3 col-lg-3">
+            <div class="col-sm-12 col-md-6 col-lg-6">
               <h3>Sobre Nosotros</h3>
-              <p>Somos una comunidad enfocada en extender en el territorio nacional el uso y aprendizaje de las distintas tecnologías python y sus numerosas aplicaciones.</p>
+              <div class="logo-container">
+                <img src="{{ '/'|url }}static/images/about-us-footer.png" class="logo-intro img-responsive" alt="">
+              </div>
+              <p>Somos una comunidad enfocada en extender en el territorio nacional el uso y aprendizaje de las distintas tecnologías Python y sus numerosas aplicaciones.</p>
             </div>
 
-            <div class="col-sm-3 col-md-3 col-lg-3">
+            <div class="col-sm-12 col-md-3 col-lg-3">
               <ul>
                 <li><h3>Proyectos</h3></li>
                 <li><a href="{{ '/django-girls'|url }}">Django Girls Colombia</a></li>
@@ -102,31 +107,37 @@
               </ul>
             </div>
 
-            <div class="col-sm-3 col-md-3 col-lg-3">
+            <div class="col-sm-12 col-md-3 col-lg-3">
               <ul>
                 <li><h3>Enlaces Rapidos</h3></li>
                 <li><a href="{{ '/blog'|url }}">Blog</a></li>
+                <li><a href="{{ '/eventos'|url }}">Eventos</a></li>
                 <li><a href="{{ '/contacto'|url }}">Contacto</a></li>
                 <li><a href="{{ '/sobre-nosotros'|url }}">Sobre Nosotros</a></li>
               </ul>
             </div>
-
-            <div class="col-sm-3 col-md-3 col-lg-3">
-              <ul>
-                <li><h3>Redes Sociales</h3></li>
-                <li><a href="https://www.facebook.com/ColombiaPython" target="_blank">Facebook</a></li>
-                <li><a href="https://www.twitter.com/ColombiaPython" target="_blank">Twitter</a></li>
-                <li><a href="https://t.me/pythoncolombia" target="_blank">Telegram</a></li>
-              </ul>
-            </div>
-
           </div>
         </div> <!-- end container -->
       </div>
 
       <div class="footer-bottom">
-        <h5>Derechos de Autor. Todos los Derechos Reservados.</h5>
-        <h6>Diseño por <a href="https://themefisher.com/" target="_black">Themefisher</a>. Hecho con <a href="https://www.python.org/">Python</a> y <a href="https://www.getlektor.com/">Lektor</a> en Colombia.</h6>
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6 col-md-6 col-lg-6">
+              <h5>Derechos de Autor. Todos los Derechos Reservados.</h5>
+              <h6>Diseño por <a href="https://themefisher.com/" target="_black">Themefisher</a>. Hecho con <a href="https://www.python.org/">Python</a> y <a href="https://www.getlektor.com/">Lektor</a> en Colombia.</h6>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-6">
+              <div class="social">
+                <a href="mailto:colombiapython@gmail.com" target="_blank"><i class="fas fa-envelope fa-2x fa-fw"></i></a>
+                <a href="https://www.facebook.com/ColombiaPython" target="_blank"><i class="fab fa-facebook-f fa-2x fa-fw"></i></a>
+                <a href="https://www.twitter.com/ColombiaPython" target="_blank"><i class="fab fa-twitter fa-2x fa-fw"></i></a>
+                <a href="https://t.me/pythoncolombia" target="_blank"><i class="fab fa-telegram-plane fa-2x fa-fw"></i></a>
+                <a href="https://github.com/ColombiaPython" target="_blank"><i class="fab fa-github-alt fa-2x fa-fw"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </footer> <!-- end footer -->
 
