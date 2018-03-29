@@ -2110,6 +2110,7 @@ a:focus, a:hover {
 
 /*# sourceMappingURL=maps/style.css.map */
 
-.logo-intro {
-  margin: 0 auto;
-}
+.logo-intro { margin: 0 auto; }
+.logo-container { margin: 10px; }
+.social { text-align: right; }
+.top-footer { padding: 50px; }
