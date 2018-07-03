@@ -1,165 +1,191 @@
 {%- set base_url = '/'|url(alt='es') -%}
 
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js"> <!--<![endif]-->
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Sitio web de la comunidad de Python Colombia">
-    <meta name="author" content="Python Colombia">
-    <title>{% block title %}{{ this.title }}{% endblock %}</title>
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 
-    <!-- Mobile Specific Meta -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta name="description" content="Sitio web de la comunidad de Python Colombia">
+  <meta name="author" content="Python Colombia">
+  <title>{% block title %}{{ this.title }}{% endblock %}</title>
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="{{ base_url }}static/images/favicon.png" />
+  
+  <!-- CSS -->
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ base_url }}static/css/main.css" />
+</head>
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ base_url }}static/images/favicon.png" />
+<body class="is-preload">
 
-    <!-- CSS -->
-    <!-- Themefisher Icon font -->
-    <link rel="stylesheet" href="{{ base_url }}static/vendor/themefisher-font/style.css">
-    <!-- bootstrap.min css -->
-    <link rel="stylesheet" href="{{ base_url }}static/vendor/bootstrap/css/bootstrap.min.css">
-    <!-- Lightbox.min css -->
-    <link rel="stylesheet" href="{{ base_url }}static/vendor/lightbox2/dist/css/lightbox.min.css">
-    <!-- Slick Carousel -->
-    <link rel="stylesheet" href="{{ base_url }}static/vendor/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="{{ base_url }}static/vendor/slick-carousel/slick/slick-theme.css">
-    <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="{{ base_url }}static/css/style.css">
-    <!-- Icons -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
+  <!-- Wrapper -->
+  <div id="wrapper">
 
-    {%- block scripts_top -%}
-    <script></script>
-    {%- endblock %}
+    <!-- Main -->
+    <div id="main">
+      <div class="inner">
 
-  </head>
+        <!-- Header -->
+        <header id="header">
+          <a href="{{ '/'|url }}" class="logo">
+            <strong>Python Colombia</strong></a>
+          <ul class="icons">
+            <li>
+              <a href="#" class="icon fa-mail">
+                <span class="label">Email</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="icon fa-twitter">
+                <span class="label">Twitter</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="icon fa-facebook">
+                <span class="label">Facebook</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="icon fa-meetup">
+                <span class="label">Meetup</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="icon fa-instagram">
+                <span class="label">Instagram</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="icon fa-github-alt">
+                <span class="label">Github</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="icon fa-telegram">
+                <span class="label">Telegram</span>
+              </a>
+            </li>
+          </ul>
+        </header>
 
-  <body id="body">
-    <div id="preloader">
-      <div class='preloader'>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
+        <!-- Body -->
+        {%- block body -%}{%- endblock -%}
+
       </div>
     </div>
 
-    <header class="navigation navbar navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <!-- responsive nav button -->
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
+    <!-- Sidebar -->
+    <div id="sidebar">
+      <div class="inner">
 
-          <a class="navbar-brand logo" href="{{ '/'|url }}">Python Colombia</a>
-        </div>
+        <!-- Search -->
+        <!-- <section id="search" class="alt">
+          <form method="post" action="#">
+            <input type="text" name="query" id="query" placeholder="Search" />
+          </form>
+        </section> -->
 
-        <nav class="collapse navbar-collapse navbar-right">
+        <!-- Menu -->
+        <nav id="menu">
+          <header class="major">
+            <h2>Menu</h2>
+          </header>
           <ul id="nav" class="nav navbar-nav menu">
-            <li{% if this._path == '/' %} class="active"{% endif %}><a href="{{ '/'|url }}">Home</a></li>
-            {% for href, title in [
-                  ['/django-girls', 'Django Girls'],
-                  ['/eventos', 'Eventos'],
-                  ['/blog', 'Blog'],
-                  ['/contacto', 'Contacto'],
-                  ['/sobre-nosotros', 'Sobre Nosotros'],
-                ] -%}
-            <li{% if this.is_child_of(href) %} class="active"{% endif%}><a href="{{ href|url }}">{{ title }}</a></li>
-            {% endfor -%}
+            <li{% if this._path=='/' %} class="active" {% endif %}>
+              <a href="{{ '/'|url }}">Home</a>
+              </li>
+              {% for href, title in [ ['/django-girls', 'Django Girls'], ['/eventos', 'Eventos'], ['/blog', 'Blog'], ['/contacto', 'Contacto'],
+              ['/sobre-nosotros', 'Sobre Nosotros'], ] -%}
+              <li{% if this.is_child_of(href) %} class="active" {% endif%}>
+                <a href="{{ href|url }}">{{ title }}</a>
+                </li>
+                {% endfor -%}
           </ul>
         </nav>
-        <!-- /main nav -->
-      </div>
-    </header>
 
-  {%- block body -%}
-  {%- endblock -%}
-
-    <footer id="footer" class="bg-one">
-      <div class="top-footer">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <h3>Sobre Nosotros</h3>
-              <div class="logo-container">
-                <img src="{{ '/'|url }}static/images/about-us-footer.png" class="logo-intro img-responsive" alt="">
-              </div>
-              <p>Somos una comunidad enfocada en extender en el territorio nacional el uso y aprendizaje de las distintas tecnologías Python y sus numerosas aplicaciones.</p>
-            </div>
-
-            <div class="col-sm-12 col-md-3 col-lg-3">
-              <ul>
-                <li><h3>Proyectos</h3></li>
-                <li><a href="{{ '/django-girls'|url }}">Django Girls Colombia</a></li>
-                {#<li><a href="#">PyLadies Colombia</a></li>#}
-                {#<li><a href="#">Data Ladies Colombia</a></li>#}
-              </ul>
-            </div>
-
-            <div class="col-sm-12 col-md-3 col-lg-3">
-              <ul>
-                <li><h3>Enlaces Rapidos</h3></li>
-                <li><a href="{{ '/blog'|url }}">Blog</a></li>
-                <li><a href="{{ '/eventos'|url }}">Eventos</a></li>
-                <li><a href="{{ '/contacto'|url }}">Contacto</a></li>
-                <li><a href="{{ '/sobre-nosotros'|url }}">Sobre Nosotros</a></li>
-              </ul>
-            </div>
+        <!-- Section -->
+        <!-- <section>
+          <header class="major">
+            <h2>Ante interdum</h2>
+          </header>
+          <div class="mini-posts">
+            <article>
+              <a href="#" class="image">
+                <img src="images/pic07.jpg" alt="" />
+              </a>
+              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+            </article>
+            <article>
+              <a href="#" class="image">
+                <img src="images/pic08.jpg" alt="" />
+              </a>
+              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+            </article>
+            <article>
+              <a href="#" class="image">
+                <img src="images/pic09.jpg" alt="" />
+              </a>
+              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+            </article>
           </div>
-        </div> <!-- end container -->
+          <ul class="actions">
+            <li>
+              <a href="#" class="button">More</a>
+            </li>
+          </ul>
+        </section> -->
+
+        <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Get in touch</h2>
+          </header>
+          <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
+            Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+          <ul class="contact">
+            <li class="fa-envelope-o">
+              <a href="#">information@untitled.tld</a>
+            </li>
+            <li class="fa-phone">(000) 000-0000</li>
+            <li class="fa-home">1234 Somewhere Road #8254
+              <br /> Nashville, TN 00000-0000</li>
+          </ul>
+        </section>
+
+        <!-- Footer -->
+        <footer id="footer">
+          <p class="copyright">&copy; Untitled. All rights reserved. Demo Images:
+            <a href="https://unsplash.com">Unsplash</a>. Design:
+            <a href="https://html5up.net">HTML5 UP</a>.</p>
+        </footer>
+
       </div>
+    </div>
 
-      <div class="footer-bottom">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-6 col-md-6 col-lg-6">
-              <h5>Derechos de Autor. Todos los Derechos Reservados.</h5>
-              <h6>Diseño por <a href="https://themefisher.com/" target="_black">Themefisher</a>. Hecho con <a href="https://www.python.org/">Python</a> y <a href="https://www.getlektor.com/">Lektor</a> en Colombia.</h6>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-6">
-              <div class="social">
-                <a href="mailto:colombiapython@gmail.com" target="_blank"><i class="fas fa-envelope fa-2x fa-fw"></i></a>
-                <a href="https://www.facebook.com/ColombiaPython" target="_blank"><i class="fab fa-facebook-f fa-2x fa-fw"></i></a>
-                <a href="https://www.twitter.com/ColombiaPython" target="_blank"><i class="fab fa-twitter fa-2x fa-fw"></i></a>
-                <a href="https://t.me/pythoncolombia" target="_blank"><i class="fab fa-telegram-plane fa-2x fa-fw"></i></a>
-                <a href="https://github.com/ColombiaPython" target="_blank"><i class="fab fa-github-alt fa-2x fa-fw"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer> <!-- end footer -->
+  </div>
 
-    {% block scripts_bottom -%}
-    <!-- Main jQuery -->
-    <script src="{{ base_url }}static/vendor/jquery/dist/jquery.min.js"></script>
-    <!-- Bootstrap 3.7 -->
-    <script src="{{ base_url }}static/vendor/bootstrap/js/bootstrap.min.js"></script>
-    <!-- Parallax -->
-    <script src="{{ base_url }}static/vendor/parallax/jquery.parallax-1.1.3.js"></script>
-    <!-- lightbox -->
-    <script src="{{ base_url }}static/vendor/lightbox2/dist/js/lightbox.min.js"></script>
-    <!-- Owl Carousel -->
-    <script src="{{ base_url }}static/vendor/slick-carousel/slick/slick.min.js"></script>
-    <!-- Portfolio Filtering -->
-    <script src="{{ base_url }}static/vendor/mixitup/dist/mixitup.min.js"></script>
-    <!-- Smooth Scroll js -->
-    <script src="{{ base_url }}static/vendor/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+  <!-- Scripts -->
+   {% block scripts_bottom -%}
+  <script src="{{ base_url }}static/js/jquery.min.js"></script>
+  <script src="{{ base_url }}static/js/browser.min.js"></script>
+  <script src="{{ base_url }}static/js/breakpoints.min.js"></script>
+  <script src="{{ base_url }}static/js/util.js"></script>
+  <script src="{{ base_url }}static/js/main.js"></script>
+  
+  <!-- Custom js -->
+  <!-- <script src="{{ base_url }}static/js/script.js"></script> -->
+  
+  {%- endblock %}
 
-    <!-- Custom js -->
-    <script src="{{ base_url }}static/js/script.js"></script>
-    {%- endblock %}
 
-  </body>
+</body>
+
 </html>
