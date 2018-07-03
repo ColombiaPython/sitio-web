@@ -102,7 +102,7 @@
             <li{% if this._path=='/' %} class="active" {% endif %}>
               <a href="{{ '/'|url }}">Home</a>
               </li>
-              {% for href, title in [ ['/django-girls', 'Django Girls'], ['/eventos', 'Eventos'], ['/blog', 'Blog'], ['/contacto', 'Contacto'],
+              {% for href, title in [ ['/django-girls', 'Django Girls'], ['/eventos', 'Eventos'], ['/blog', 'Blog'], ['/contacto', 'Contacto'], ['/usuarios', 'Comunidad'],
               ['/sobre-nosotros', 'Sobre Nosotros'], ] -%}
               <li{% if this.is_child_of(href) %} class="active" {% endif%}>
                 <a href="{{ href|url }}">{{ title }}</a>
