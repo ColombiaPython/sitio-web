@@ -5,29 +5,19 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block content %}
 
-<div class="row">
-
-      <div class="title text-center ">
-        <h2> <span class="color">Publicaciones</span></h2>
-        <div class="border"></div>
-        <p>Bienvenido a la seccion de noticias y publicaciones de la comunidad!</p>
-      </div>
-
-      {% for child in this.pagination.items %}
-        {# Ignore categories #}
-        {% if child._model == 'blog-post' %}
-        {{ render_blog_post(child, from_index=true) }}
-      {% endif %}
-      {% endfor %}
-
-</div>
-
-    <div class="row">
-      <div class="title text-center ">
-        {{ render_pagination(this.pagination) }}
-      </div>
-    </div>
-
-
-
+<section>
+  <header class="major">
+    <h2>Publicaciones</h2>
+  </header>
+  <div class="content">
+    <p>Bienvenido a la seccion de noticias y publicaciones de la comunidad!</p>
+  </div>
+  <div class="posts">
+     {% for child in this.pagination.items %} {# Ignore categories #} {% if child._model == 'blog-post' %} {{ render_blog_post(child,
+    from_index=true) }} {% endif %} {% endfor %}
+  </div>
+  <div>
+    {{ render_pagination(this.pagination) }}
+  </div>
+</section>
 {% endblock %}
