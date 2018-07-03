@@ -3567,3 +3567,33 @@ input, select, textarea {
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+
+/* Custom */
+
+/* Container holding the image and the text */
+.banner {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+/* Centered text */
+.banner-title {
+	background: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;
+	height: 100%;
+}
+
+.banner-text > h1 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #fff;
+	width: 100%;
+}

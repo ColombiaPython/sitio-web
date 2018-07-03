@@ -10,10 +10,18 @@
 
 <section>
   <div class="content">
-    <h1>{{ this.title }}</h1>
+    <!-- <h1>{{ this.title }}</h1>
     <span class="image fit">
       <img src="{{ banner }}" alt="">
-    </span>
+    </span> -->
+
+    <div class="image fit banner">
+      <img src="{{ banner }}" alt="Banner" />
+      <div class="banner-title">
+        <div class="banner-text">
+          <h1>{{ this.title }}</h1></div>
+        </div>
+    </div>
   
     {%- set crumbs = [] -%}
     {%- set current = {'crumb': this} -%}
