@@ -16,13 +16,27 @@ timeline: timeline.png
 ---
 _slug: 2017/12/django-girls-pereira
 ---
-image: banner.png
+image: poster.png
 ---
 location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS, Bucaramanga, Colombia.
 ---
-organizers: 
+organizers:
+
+#### user ####
+username: goanpeca
+----
+description: 
 ---
-collaborators: 
+collaborators:
+
+#### user ####
+username: aerendon
+----
+description: 
+#### user ####
+username: anaguicas
+----
+description: 
 ---
 sponsors: 
 ---
@@ -43,3 +57,7 @@ delta_open: 52
 form_attendees: https://goo.gl/forms/a3rDQ9A193fELk8e2
 ---
 form_guides: https://goo.gl/forms/7ArhLMeTbmmgkbjm1
+---
+banner: 
+---
+membrete: banner.png

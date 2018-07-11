@@ -22,28 +22,21 @@
   {{ this.body }}
   </div>
 </div>
-
-<div class="row">
-  <div class="comments">
-    <div class="col-md-offset-2 col-md-8">
-      <h2>Categorias</h2>
-      <ul>
-      {% for category in this.categories %}
-        {% set cat = site.get('/blog/categorias/'+category, alt=this.alt) %}
-        <li><a href="{{ cat|url(alt=this.alt) }}">{{ cat.title }}</a></li>
-      {% endfor %}
-      </ul>
-      <br>
-    </div>
+<hr class="major" />
+<section>
+  <div class="content">
+    <h2>Categorias</h2>
+    {% for category in this.categories %}
+      {% set cat = site.get('/blog/categorias/'+category, alt=this.alt) %}
+      <a href="{{ cat|url(alt=this.alt) }}">{{ cat.title }} </a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    {% endfor %}
   </div>
-</div>
-
-<div class="row">
-  <div class="comments">
-    <div class="col-md-offset-2 col-md-8">
-    {{ render_disqus_comments() }}
-    </div>
+</section>
+<hr class="major" />
+<section>
+  <div class="content">
+  {{ render_disqus_comments() }}
   </div>
-</div>
+</section>
 
 {% endblock %}

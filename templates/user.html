@@ -1,5 +1,81 @@
 {% extends "page.html" %}
 {% block title %}{{ this.name }} {{ this.last_name }}{% endblock %}
 {% block content %}
-  {{ this.name }} {{ this.last_name }}
+<section class="about" id="about">
+  <div class="content">
+    <div class="row">
+      <div class="col-4 col-12-small">
+        {% if this.image %}
+        <img class="image fit" src="{{ this.image }}" alt="{{ this.username }}">
+        {% endif %}
+        <h2>{{ this.name }} {{ this.last_name }}</h2>
+        <p>{{ this.summary }}</p>
+        {% if this.web %}
+        <p><a href="{{ this.web }}" class="icon fa-link" target="_blank">
+          <span class="label">Web</span> {{ this.web }}
+        </a></p>
+        {% endif %}
+
+        <ul class="icons">
+          {% if this.email %}
+          <li>
+            <a href="mailto:{{ this.email }}" class="icon fa-envelope" target="_blank">
+              <span class="label">Email</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if this.twitter_handle %}
+          <li>
+            <a href="https://www.twitter.com/{{ this.twitter_handle }}" class="icon fa-twitter" target="_blank">
+              <span class="label">Twitter</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if this.facebook_handle %}
+          <li>
+            <a href="https://www.facebook.com/{{ this.facebook_handle }}" class="icon fa-facebook" target="_blank">
+              <span class="label">Facebook</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if this.instagram_handle %}
+          <li>
+            <a href="https://www.instagram.com/{{ this.instagram_handle }}" class="icon fa-instagram">
+              <span class="label">Instagram</span>
+            </a>
+          </li>
+           {% endif %}
+          {% if this.github_handle %}
+          <li>
+            <a href="https://github.com/{{ this.github_handle }}" class="icon fa-github-alt">
+              <span class="label">Github</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if this.telegram_handle %}
+          <li>
+            <a href="https://t.me/{{ this.telegram_handle }}" class="icon fa-telegram">
+              <span class="label">Telegram</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if this.linkedin_handle %}
+          <li>
+            <a href="https://https://www.linkedin.com/in/{{ this.linkedin_handle }}" class="icon fa-linkedin">
+              <span class="label">Linkedin</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+      <div class="col-8 col-12-small">
+        <h3>Información</h3>
+        <div class="content">
+          {{ this.information }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 {% endblock %}
+

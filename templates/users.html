@@ -4,46 +4,42 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block content %}
 
-<h1>Usuarios</h1>
-      <ul>
-      {% for child in this.pagination.items.filter(F.type == 'persona') %}
-      <li><a href="{{ child|url }}">{{ child.name }} {{ child.last_name }} - <i>({{ child._id }})</i></a></li>
-      {%- if child._id != child.username -%}
-      <h1>ERROR</h1>
-      {%- endif -%}
-      {% endfor %}
-      </ul>
+<h2>Usuarios</h2>
+<ul>
+{% for child in this.pagination.items.filter(F.type == 'persona') %}
+<li><a href="{{ child|url }}">{{ child.name }} {{ child.last_name }} - <i>({{ child._id }})</i></a></li>
+{%- if child._id != child.username -%}
+<h1>ERROR</h1>
+{%- endif -%}
+{% endfor %}
+</ul>
 
 
-<h1>Empresas / Organizaciones / Universidades</h1>
-      <ul>
-      {% for child in this.pagination.items %}
-      {%- if child.type not in ['comunidad', 'persona'] -%}
-      <li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
-      {%- if child._id != child.username -%}
-      <h1>ERROR</h1>
-      {%- endif -%}
-      {%- endif -%}
-      {% endfor %}
-      </ul>
+<h2>Empresas / Organizaciones / Universidades</h2>
+<ul>
+{% for child in this.pagination.items %}
+{%- if child.type not in ['comunidad', 'persona'] -%}
+<li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
+{%- if child._id != child.username -%}
+<h1>ERROR</h1>
+{%- endif -%}
+{%- endif -%}
+{% endfor %}
+</ul>
 
 
-<h1>Comunidades</h1>
-      <ul>
-      {% for child in this.pagination.items %}
-      {%- if child.type == 'comunidad' -%}
-      <li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
-      {%- if child._id != child.username -%}
-      <h1>ERROR</h1>
-      {%- endif -%}
-      {%- endif -%}
-      {% endfor %}
-      </ul>
+<h2>Comunidades</h2>
+<ul>
+{% for child in this.pagination.items %}
+{%- if child.type == 'comunidad' -%}
+<li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
+{%- if child._id != child.username -%}
+<h1>ERROR</h1>
+{%- endif -%}
+{%- endif -%}
+{% endfor %}
+</ul>
 
-    <div class="row">
-      <div class="title text-center ">
-        {{ render_pagination(this.pagination) }}
-      </div>
-    </div>
+{{ render_pagination(this.pagination) }}
 
 {% endblock %}

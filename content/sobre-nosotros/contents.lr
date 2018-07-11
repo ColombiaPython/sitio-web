@@ -4,11 +4,12 @@ title: Sobre Nosotros
 ---
 body:
 
-Contenido de prueba
+<img src="/static/images/slider/pycon-colombia-2018.jpg" class="image fit" />
 
-**Negrita**
-*Italica*
+Somos una comunidad enfocada en extender en el territorio nacional el uso y aprendizaje de las distintas tecnologías python y sus numerosas aplicaciones.
 
-- Lista 1
-- Lista 2
+Nuestra comunidad está conformada por personas con diferentes niveles de conocimiento siempre dispuestas a aprender y compartir nuestro saber mostrando una gran empatía y respeto hacia los demás.
+
+Siempre motivados a crecer mucho más y totalmente comprometidos a promover la diversidad y la inclusión en cada una de nuestras actividades y eventos.
+
 
