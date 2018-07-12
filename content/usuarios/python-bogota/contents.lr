@@ -7,3 +7,13 @@ meetup_handle: https://www.meetup.com/es/pythonbogota/
 name: Python Bogotá
 ---
 image: python-bogota.jpg
+---
+type: comunidad
+---
+city: Bogotá
+---
+country: Colombia
+---
+meetup_url: https://www.meetup.com/es/pythonbogota/
+---
+province: Cundinamarca

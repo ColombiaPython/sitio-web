@@ -11,3 +11,7 @@ country: Colombia
 meetup_handle: https://www.meetup.com/PyData-Bogota/
 ---
 province: Cundinamarca
+---
+meetup_url: https://www.meetup.com/PyData-Bogota/
+---
+image: python-medellin.jpg

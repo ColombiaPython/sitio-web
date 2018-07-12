@@ -38,3 +38,5 @@ city: Cali
 country: Colombia
 ---
 province: Valle del Cauca
+---
+meetup_url: https://www.meetup.com/Python-Cali/

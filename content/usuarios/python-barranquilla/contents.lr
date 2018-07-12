@@ -5,3 +5,25 @@ name: Python Barranquilla
 type: comunidad
 ---
 image_alt: pybaq-horizontal.png
+---
+city: Barranquilla
+---
+country: Colombia
+---
+facebook_group_handle: 813920708682845
+---
+facebook_handle: pybaq
+---
+github_handle: PyBAQ
+---
+meetup_url: https://www.meetup.com/pythonbaq/
+---
+province: Atlántico
+---
+slack_handle: pybaq
+---
+twitter_handle: pybaq
+---
+web: http://pybaq.co/
+---
+image: pybaq.jpg

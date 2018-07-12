@@ -5,3 +5,11 @@ meetup_handle: https://www.meetup.com/Pyladies-Co-Bogota/
 name: PyLadies Bogotá
 ---
 type: comunidad
+---
+city: Bogotá
+---
+country: Colombia
+---
+meetup_url: https://www.meetup.com/Pyladies-Co-Bogota/
+---
+province: Cundinamarca

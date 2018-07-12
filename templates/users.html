@@ -21,7 +21,7 @@
 {%- if child.type not in ['comunidad', 'persona'] -%}
 <li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
 {%- if child._id != child.username -%}
-<h1>ERROR</h1>
+<h2>ERROR</h2>
 {%- endif -%}
 {%- endif -%}
 {% endfor %}
