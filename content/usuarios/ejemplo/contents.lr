@@ -1,0 +1,53 @@
+username: ejemplo
+---
+city: Ciudad
+---
+country: Colombia
+---
+dob: 2000-01-10
+---
+email: usuario@ejemplo.co
+---
+facebook_group_handle: 129361287312873612
+---
+facebook_handle: usuario-ejemplo
+---
+github_handle: usuario-ejemplo
+---
+information:
+
+Una descripción más detallada. Soporta **Markdown**
+
+- Lista 1
+- Lista 2
+- Lista 3
+
+Y un par de [enlaces](https://www.google.com)!
+
+*Para la foto de usuario utilizar una cuadrada de 400x400 pixeles en formato jpg.*
+---
+instagram_handle: usuario-ejemplo
+---
+last_name: Ejemplo
+---
+linkedin_handle: usuario-ejemplo
+---
+medium_handle: usuario-ejemplo
+---
+meetup_url: 
+---
+name: Usuario
+---
+province: Departamento
+---
+summary: Un resumen corto de 1 linea
+---
+telegram_handle: usuario-ejemplo
+---
+twitter_handle: usuario-ejemplo
+---
+type: persona
+---
+web: https://ejemplo.co
+---
+image: empty-avatar.png
