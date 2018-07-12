@@ -26,6 +26,14 @@ position:
 date_start: 
 ----
 date_end: 
+#### member ####
+username: carlosp81
+----
+position: 
+----
+date_start: 
+----
+date_end: 
 ---
 province: Santander
 ---
@@ -48,3 +56,5 @@ Una vez al mes tenemos un taller o charla sobre diferentes temas, y el resto de 
 
 ---
 meetup_url: https://www.meetup.com/es/PythonBucaramanga/
+---
+summary: Somos una comunidad de desarrollo tecnológico en el área metropolitana de Bucaramanga
