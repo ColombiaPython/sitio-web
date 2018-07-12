@@ -23,21 +23,96 @@ location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Indus
 organizers:
 
 #### user ####
-username: javierdaza
+username: humitos
 ----
 description: 
 #### user ####
 username: ellaquimica
 ----
 description: 
+#### user ####
+username: javierdaza
+----
+description: 
+#### user ####
+username: caherdenez
+----
+description: 
 ---
-guides: 
+guides:
+
+#### user ####
+username: jhonjairoroa87
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: juansarmiento23
+----
+description: 
+#### user ####
+username: asmateus
+----
+description: 
+#### user ####
+username: jdash99
+----
+description: 
+#### user ####
+username: jorgemartinezg
+----
+description: 
+#### user ####
+username: leonardoo
+----
+description: 
+#### user ####
+username: oalmario
+----
+description: 
+#### user ####
+username: 0sw4l
+----
+description: 
+#### user ####
+username: waybarrios
+----
+description: 
+#### user ####
+username: gudarjs
+----
+description: 
 ---
-collaborators: 
+collaborators:
+
+#### organization ####
+username: python-colombia
+#### organization ####
+username: python-argentina
+#### organization ####
+username: lyd-house
+#### organization ####
+username: geek-girls-latam
 ---
-sponsors: 
+sponsors:
+
+#### organization ####
+username: monoku
+#### organization ####
+username: github
+#### organization ####
+username: piensa
+#### organization ####
+username: marea-digital
+#### organization ####
+username: get-on-board
+#### organization ####
+username: psf
 ---
-location: [LYD HOUSE Coworking](http://lydhouse.com/) en Carrera 49C # 75- 47
+location: LYD HOUSE Coworking en Carrera 49C # 75- 47
 ---
 latitude: 10.999602
 ---
@@ -54,3 +129,7 @@ form_guides: https://goo.gl/forms/JqrqHXgwHmKjG6Bi2
 delta_announcement: 33
 ---
 delta_limit: 30
+---
+membrete: membrete-djangogirls-barranquilla.png
+---
+delta_selection: 41
