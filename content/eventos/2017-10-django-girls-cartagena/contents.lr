@@ -20,15 +20,99 @@ image: poster.png
 ---
 location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS, Bucaramanga, Colombia.
 ---
-organizers: 
+organizers:
+
+#### organization ####
+username: django-girls-colombia
+#### organization ####
+username: python-cartagena
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: jdash99
+----
+description: 
+#### user ####
+username: javierdaza
+----
+description: 
+#### user ####
+username: jhonjairoroa87
+----
+description: 
 ---
-guides: 
+guides:
+
+#### user ####
+username: caherdenez
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: davoshack
+----
+description: 
+#### user ####
+username: cmarioherrera
+----
+description: 
+#### user ####
+username: carlosp81
+----
+description: 
+#### user ####
+username: gudarjs
+----
+description: 
 ---
-collaborators: 
+collaborators:
+
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: python-colombia
+#### organization ####
+username: python-argentina
+#### organization ####
+username: python-barranquilla
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: humitos
+----
+description: 
+#### user ####
+username: jesus-rodriguez
+----
+description: 
+#### user ####
+username: belsy-castillo
+----
+description: 
 ---
-sponsors: 
+sponsors:
+
+#### organization ####
+username: monoku
+#### organization ####
+username: lsv-tech-sas
+#### organization ####
+username: github
+#### organization ####
+username: constructora-jemur
+#### organization ####
+username: unicolombo
+#### organization ####
+username: psf
 ---
-location: [UNICOLOMBO](http://www.unicolombo.edu.co/) en Avenida Pedro de Heredia. Sector 4 vientos. No. 31-50
+location: UNICOLOMBO en Avenida Pedro de Heredia. Sector 4 vientos # 31 - 50
 ---
 latitude: 10.407003
 ---
@@ -37,3 +121,15 @@ longitude: -75.501656
 form_attendees: https://goo.gl/forms/GmyMeiyv2BdWLOnK2
 ---
 form_guides: https://goo.gl/forms/MzlmHmJmpQKNDrXH2
+---
+delta_announcement: 10
+---
+delta_close: 23
+---
+delta_limit: 7
+---
+delta_open: 
+---
+delta_selection: 22
+---
+membrete: membrete-djangogirls-cartagena.png
