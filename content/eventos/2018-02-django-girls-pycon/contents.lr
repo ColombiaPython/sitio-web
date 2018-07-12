@@ -137,3 +137,17 @@ form_guides: https://goo.gl/forms/wZtJ3DIrELU811He2
 image: poster.png
 ---
 membrete: membrete-djangogirls-pyconcolombia2018.png
+---
+color_primary: 3f1988
+---
+color_secondary: 64ecfd
+---
+delta_open: 
+---
+delta_announcement: 10
+---
+delta_close: 19
+---
+delta_limit: 7
+---
+delta_selection: 18
