@@ -91,8 +91,8 @@
     {%- set date_close = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_close) -%}
   {%- endif -%}
 
-  {%- if this.delta_close -%}
-    {%- set date_announcement = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_close + 1) -%}
+  {%- if this.delta_selection -%}
+    {%- set date_announcement = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_selection) -%}
   {%- endif -%}
 
   {%- if this.delta_announcement -%}
@@ -420,11 +420,13 @@
         {%- endif -%}
       </div>
 
-      <div class="box">
+      <div class="col-md-12">
+        <div class="box">
         ¡Atención!: hemos alcanzado el cupo máximo de inscriptos para el taller.
         Sin embargo, si estás interesada en participar, inscribite y pasarás
         automáticamente a una lista de espera que, en caso de que alguien no pueda
         asistir, nos estaremos comunicando con vos para informarte.!
+        </div>
       </div>
       
       {%- if this.form_attendees -%}

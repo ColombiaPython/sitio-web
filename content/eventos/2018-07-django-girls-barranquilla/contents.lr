@@ -44,7 +44,7 @@ delta_close: 23
 ---
 delta_limit: 7
 ---
-delta_open: 45
+delta_open: 
 ---
 guides:
 
@@ -65,6 +65,10 @@ username: deiry
 ----
 description: 
 #### user ####
+username: jorgemartinezg
+----
+description: 
+#### user ####
 username: caherdenez
 ----
 description: 
@@ -79,8 +83,63 @@ description:
 username: melissageliz
 ----
 description: 
+#### user ####
+username: xaraxx
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
 ---
 sponsors:
 
 #### organization ####
+username: native-apps
+#### organization ####
+username: koombea
+#### organization ####
+username: piensa
+#### organization ####
 username: monoku
+#### organization ####
+username: extreme-technologies
+#### organization ####
+username: restaurante-la-garosa
+#### organization ####
+username: impact-hub-barranquilla
+#### organization ####
+username: uninorte
+---
+delta_selection: 20
+---
+collaborators:
+
+#### user ####
+username: pandrearro
+----
+description: 
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: sorelyss
+----
+description: 
+#### user ####
+username: jorgemartinezg
+----
+description: 
+#### user ####
+username: humitos
+----
+description: 
+#### organization ####
+username: psf
+#### organization ####
+username: python-colombia
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: python-cartagena
