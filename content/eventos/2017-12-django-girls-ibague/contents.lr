@@ -20,15 +20,95 @@ image: poster.png
 ---
 location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS, Bucaramanga, Colombia.
 ---
-organizers: 
+organizers:
+
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: jhonjairoroa87
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
 ---
-guides: 
+guides:
+
+#### user ####
+username: camilo-andres-galeano
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: jomazao
+----
+description: 
+#### user ####
+username: ppsirg
+----
+description: 
+#### user ####
+username: rlaverde
+----
+description: 
+#### user ####
+username: seorjuela
+----
+description: 
+#### user ####
+username: pcu4dros
+----
+description: 
+#### user ####
+username: jonthdiaz
+----
+description: 
 ---
-collaborators: 
+collaborators:
+
+#### organization ####
+username: python-colombia
+#### organization ####
+username: indesco
+#### organization ####
+username: psf
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: python-argentina
+#### user ####
+username: capoveda92
+----
+description: 
+#### user ####
+username: juanssalazar
+----
+description: 
+#### user ####
+username: gandysaavedra
+----
+description: 
+#### user ####
+username: adrianamatallanam
+----
+description: 
 ---
-sponsors: 
+sponsors:
+
+#### organization ####
+username: alcaldia-ibague
+#### organization ####
+username: punto-vive-digital-ibague
+#### organization ####
+username: universidad-cooperativa-colombia
 ---
-location: [Universidad Coperativa de Colombia sede Ibagué](https://www.ucc.edu.co/ibague), en la Calle 10 # 1 - 64 Barrio Centro
+location: Universidad Coperativa de Colombia sede Ibagué, en la Calle 10 # 1 - 64 Barrio Centro
 ---
 latitude: 4.443765
 ---
@@ -45,3 +125,11 @@ delta_announcement: 11
 delta_close: 18
 ---
 delta_limit: 6
+---
+delta_selection: 17
+---
+membrete: portada-ibague.png
+---
+color_primary: 60a196
+---
+color_secondary: e2cc61
