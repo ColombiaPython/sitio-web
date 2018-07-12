@@ -3,3 +3,52 @@ username: pycon-colombia
 name: PyCon Colombia
 ---
 type: comunidad
+---
+members:
+
+#### member ####
+username: jhonjairoroa87
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: ellaquimica
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: goanpeca
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+country: Colombia
+---
+email: pyconcolombia@gmail.com
+---
+image: pycon-2108.png
+---
+facebook_group_handle: 
+---
+facebook_handle: pyconcolombia
+---
+github_handle: pyconcolombia
+---
+instagram_handle: pyconcolombia
+---
+linkedin_handle: company/pycon-colombia/
+---
+medium_handle: pyconcolombia
+---
+twitter_handle: pyconcolombia
+---
+web: https://www.python.org.co/pycon

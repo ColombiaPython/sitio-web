@@ -3,3 +3,17 @@ username: python-santa-marta
 name: Python Santa Marta
 ---
 type: comunidad
+---
+city: Santa Marta
+---
+country: Colombia
+---
+facebook_handle: pythonsantamarta
+---
+meetup_handle: https://www.meetup.com/python-santamarta/
+---
+province: Magdalena
+---
+image: python-santa-marta.jpg
+---
+meetup_url: https://www.meetup.com/python-santamarta/

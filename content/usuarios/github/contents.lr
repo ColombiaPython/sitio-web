@@ -3,3 +3,7 @@ username: github
 name: Github
 ---
 type: empresa
+---
+image: github-horizontal.png
+---
+image_alt: github-horizontal.png

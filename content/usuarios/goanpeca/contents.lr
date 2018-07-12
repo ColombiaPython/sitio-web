@@ -12,9 +12,9 @@ facebook_handle: goanpeca
 ---
 github_handle: goanpeca
 ---
-last_name: Peña Castellanos
+last_name: Peña C.
 ---
-name: Gonzalo Andrés
+name: Gonzalo A.
 ---
 province: Santander
 ---
@@ -27,3 +27,9 @@ image: goanpeca.jpg
 linkedin_handle: goanpeca
 ---
 type: persona
+---
+information:
+
+Soy Ingeniero de Recursos Hídricos con un pregrado en Ingeniería Civil, una Maestría en Hidro-Informática y una maestría en Ingeniería Sanitaria. Desde 2009, he estado trabajando con el lenguaje Python y su stack de informática científica para resolver problemas relacionados con la hidrología (escalado estocástica de precipitación), hidráulica (modelado de dinámica de ríos) y calidad del agua (simulación de reactores biológicos). Desde 2015 he trabajado a tiempo parcial como Ingeniero de Software usando Flask, PyQt en conjunto con el ecosistema de Conda, Miniconda y Anaconda, y medio tiempo como Ingeniero de Proyectos en temas relacionados con el agua.
+
+Actualmente soy el Líder Técnico del proyecto Anaconda Navigator en [Anaconda, Inc](https://www.anaconda.com/) y desarrollador principal para el **Entorno de Desarrollo Científico** - [Spyder](http://www.spyder-ide.org) y proyectos relacionados (QtPy, QtAwesome, Conda-Manager), Líder de área del proyecto [PyBee](https://github.com/pybee/pybee.github.io/wiki/Project-Area%20-Leaders), colaborador en la iniciativa [Open Water Analytics](https://github.com/openwateranalytics/) e Ingeniero de Proyectos en [Sistemas Hidráulicos y Sanitarios Ltda](http://sihsa.co).

@@ -7,3 +7,15 @@ last_name: Kaufmann
 name: Manuel
 ---
 type: persona
+---
+country: Argentina
+---
+facebook_handle: argentinaenpython
+---
+github_handle: humitos
+---
+image: humitos.jpeg
+---
+twitter_handle: reydelhumo
+---
+web: https://elblogdehumitos.com/

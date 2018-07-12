@@ -1,0 +1,86 @@
+_model: event-dg
+---
+title: Django Girls Barranquilla
+---
+color_primary: fda729
+---
+form_attendees: https://goo.gl/forms/y3dHJEavz8BuYUnh1
+---
+form_guides: https://goo.gl/forms/uTxNTxBgFDOzr11b2
+---
+location: Koombea, Carrera 53 # 85 - 154
+---
+information:
+
+
+
+
+---
+latitude: 11.008291
+---
+longitude: -74.817094
+---
+date_end: 2018-07-14 19:30 -0500
+---
+date_start: 2018-07-14 08:30 -0500
+---
+city: Barranquilla
+---
+country: Colombia
+---
+province: Atlántico
+---
+image: flyer.png
+---
+timeline: timeline.png
+---
+membrete: membrete-djangogirls-barranquilla.png
+---
+_slug: 2018/07/django-girls-barranquilla
+---
+delta_announcement: 10
+---
+delta_close: 23
+---
+delta_limit: 7
+---
+delta_open: 45
+---
+guides:
+
+#### user ####
+username: pandrearro
+----
+description: 
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: sorelyss
+----
+description: 
+#### user ####
+username: deiry
+----
+description: 
+#### user ####
+username: caherdenez
+----
+description: 
+---
+organizers:
+
+#### user ####
+username: javierdaza
+----
+description: 
+#### user ####
+username: melissageliz
+----
+description: 
+---
+sponsors:
+
+#### organization ####
+username: monoku

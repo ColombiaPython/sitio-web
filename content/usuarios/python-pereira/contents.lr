@@ -3,3 +3,52 @@ username: python-pereira
 name: Python Pereira
 ---
 type: comunidad
+---
+image: pypereira.png
+---
+members:
+
+#### member ####
+username: anaguicas
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: carogomezt
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: aerendon
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+city: Pereira
+---
+country: Colombia
+---
+facebook_handle: pythonpereira
+---
+instagram_handle: pythonpereira
+---
+linkedin_handle: 
+---
+meetup_handle: https://www.meetup.com/es/pythonpereira/
+---
+province: Risaralda
+---
+twitter_handle: pythonpereira
+---
+web: http://pypereira.co/
+---
+meetup_url: https://www.meetup.com/es/pythonpereira/

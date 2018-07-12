@@ -3,3 +3,7 @@ username: eafit
 name: Universidad EAFIT
 ---
 type: universidad
+---
+image: eafit-horizontal.png
+---
+image_alt: eafit-horizontal.png

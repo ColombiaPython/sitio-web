@@ -46,6 +46,10 @@ description:
 guides:
 
 #### user ####
+username: estebanx64
+----
+description: 
+#### user ####
 username: goanpeca
 ----
 description: Python Bucaramanga
@@ -60,6 +64,10 @@ username: python-argentina
 username: atom-house
 #### organization ####
 username: pionerasdev
+#### user ####
+username: jcrodriguezu
+----
+description: 
 ---
 sponsors:
 

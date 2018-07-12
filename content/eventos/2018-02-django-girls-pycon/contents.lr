@@ -23,17 +23,15 @@ organizers:
 #### organization ####
 username: django-girls-colombia
 #### organization ####
-username: pyconcol
-#### organization ####
 username: python-colombia
 #### organization ####
 username: argentina-en-python
 #### user ####
-username: ellaquimica
+username: javierdaza
 ----
 description: 
 #### user ####
-username: javidazac
+username: ellaquimica
 ----
 description: 
 #### user ####
@@ -48,23 +46,53 @@ description:
 username: humitos
 ----
 description: 
+#### user ####
+username: carogomezt
+----
+description: 
 ---
 guides:
 
 #### user ####
-username: yurs_ksf1
+username: gudarjs
+----
+description: 
 #### user ####
-username: jhonjairoroa87
-#### user ####
-username: gustabot42
+username: estebanx64
+----
+description: 
 #### user ####
 username: goanpeca
+----
+description: 
 #### user ####
-username: gudarjs
-#### user ####
-username: camigomez35
+username: gustabot42
+----
+description: 
 #### user ####
 username: iris9112
+----
+description: 
+#### user ####
+username: jsteerv
+----
+description: 
+#### user ####
+username: jcrodriguezu
+----
+description: 
+#### user ####
+username: keveenrodz
+----
+description: 
+#### user ####
+username: camigomez35
+----
+description: 
+#### user ####
+username: yurs_ksf1
+----
+description: 
 ---
 collaborators:
 
@@ -96,10 +124,7 @@ username: codies
 #### organization ####
 username: github
 ---
-location:
-
-Aula del 4to piso en el Bloque 19 - Universidad EAFIT sede Medellín.
-Carrera 49
+location: Aula del 4to piso en el Bloque 19 - Universidad EAFIT sede Medellín. Carrera 49
 ---
 latitude: 6.197866979668658
 ---
@@ -108,3 +133,7 @@ longitude: -75.57960212230682
 form_attendees: https://goo.gl/forms/P5kqLJAJAtVyCLaR2
 ---
 form_guides: https://goo.gl/forms/wZtJ3DIrELU811He2
+---
+image: poster.png
+---
+membrete: membrete-djangogirls-pyconcolombia2018.png

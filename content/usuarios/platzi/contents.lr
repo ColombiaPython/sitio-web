@@ -3,3 +3,7 @@ username: platzi
 name: Platzi
 ---
 type: empresa
+---
+image: platzi-horizontal.png
+---
+image_alt: platzi-horizontal.png

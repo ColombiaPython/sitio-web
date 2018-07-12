@@ -3,3 +3,15 @@ username: python-popayan
 name: Python Popayán
 ---
 type: comunidad
+---
+city: Popayán
+---
+country: Colombia
+---
+meetup_handle: https://www.meetup.com/comunidad-python-popayan/
+---
+province: Cauca
+---
+image: python.jpg
+---
+meetup_url: https://www.meetup.com/comunidad-python-popayan/

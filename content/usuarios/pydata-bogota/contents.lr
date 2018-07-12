@@ -3,3 +3,11 @@ username: pydata-bogota
 name: PyData Bogotá
 ---
 type: comunidad
+---
+city: Bogotá
+---
+country: Colombia
+---
+meetup_handle: https://www.meetup.com/PyData-Bogota/
+---
+province: Cundinamarca

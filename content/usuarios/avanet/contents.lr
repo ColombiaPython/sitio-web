@@ -3,3 +3,7 @@ username: avanet
 name: Fundación Avanet
 ---
 type: fundacion
+---
+image_alt: avanet-horizontal.png
+---
+image: avanet-horizontal.png

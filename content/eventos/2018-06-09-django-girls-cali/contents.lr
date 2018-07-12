@@ -1,0 +1,147 @@
+_model: event-dg
+---
+title: Django Girls Cali
+---
+date_end: 2018-06-09 19:00 -0500
+---
+date_start: 2018-06-09 08:30 -0500
+---
+sponsors:
+
+#### organization ####
+username: monadical
+#### organization ####
+username: monoku
+#### organization ####
+username: swapps
+#### organization ####
+username: rady
+---
+latitude: 3.353451
+---
+longitude: -76.522848
+---
+city: Cali
+---
+country: Colombia
+---
+province: Valle del Cauca
+---
+_slug: /2018/06/django-girls-cali
+---
+color_primary: 00492e
+---
+color_secondary: 00492e
+---
+delta_announcement: 16
+---
+delta_close: 28
+---
+delta_limit: 11
+---
+delta_open: 47
+---
+form_attendees: https://docs.google.com/forms/d/e/1FAIpQLSdcqWYb872rWjtT79_y9izL8ep3AGGEAjcvvD8XLdNinKks_Q/viewform
+---
+form_guides: https://goo.gl/forms/8neRA6kOzgJqqONP2
+---
+image: flyer-cali.png
+---
+timeline: timeline-cali.png
+---
+collaborators:
+
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: python-colombia
+#### organization ####
+username: psf
+#### organization ####
+username: universidad-autonoma-occidente
+#### user ####
+username: ma0
+----
+description: 
+#### user ####
+username: ppsirg
+----
+description: 
+#### user ####
+username: caroguza
+----
+description: 
+#### user ####
+username: cdvv7788
+----
+description: 
+---
+organizers:
+
+#### user ####
+username: andresgz
+----
+description: 
+#### user ####
+username: anaguicas
+----
+description: 
+#### user ####
+username: carogomezt
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: iris9112
+----
+description: 
+#### user ####
+username: miltonln
+----
+description: 
+---
+membrete: membrete-dg-cali.png
+---
+location: Universidad Autónoma de Occidente, Auditorio Lile. Calle 25 # 115 - 85.
+---
+guides:
+
+#### user ####
+username: anaguicas
+----
+description: 
+#### user ####
+username: carogomezt
+----
+description: 
+#### user ####
+username: caroguza
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: iris9112
+----
+description: 
+#### user ####
+username: avarajar
+----
+description: 
+#### user ####
+username: camigomez35
+----
+description: 
+#### user ####
+username: ma0
+----
+description: 
+#### user ####
+username: ppsirg
+----
+description: 

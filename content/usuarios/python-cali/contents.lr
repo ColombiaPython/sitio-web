@@ -3,3 +3,38 @@ username: python-cali
 name: Python Cali
 ---
 type: comunidad
+---
+web: https://www.pythoncali.com/
+---
+image: logo-python-cali.png
+---
+facebook_handle: pythoncali
+---
+meetup_handle: https://www.meetup.com/Python-Cali/
+---
+members:
+
+#### member ####
+username: andresgz
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: 
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+twitter_handle: pythoncali
+---
+city: Cali
+---
+country: Colombia
+---
+province: Valle del Cauca

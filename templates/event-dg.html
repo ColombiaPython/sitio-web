@@ -4,11 +4,82 @@
 {%- set lon_ur = this.longitude + 0.001 -%}
 {%- set lat_ll = this.latitude - 0.002 -%}
 {%- set lat_ur = this.latitude + 0.002 -%}
+{%- set guides_users = [] -%}
 {%- set organizers_users = [] -%}
 {%- set organizers_orgs = [] -%}
 {%- set collaborators_users = [] -%}
 {%- set collaborators_orgs = [] -%}
 {%- set sponsors = [] -%}
+
+
+{% macro render_users(users, title, extra=true, image_alt=false, items=4) %}
+  <br />
+  {%- if users -%}
+  <h2>{{ title }}</h2>
+  <div class="row">
+  {%- for user in users -%}
+    <div class="col-md-3" style="max-width: {{ 100.0/items }}%;">
+
+      <a href="{{ user|url }}">
+      {% if image_alt and user.image_alt %}
+      <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" />
+      {% elif not image_alt and user.image %}
+      <img class="image fit" src="{{ user|url }}/{{ user.image }}" alt="{{ user.username }}" />
+      {% elif image_alt and not user.image_alt %}
+      <img class="image fit" src="{{ base_url }}static/images/empty-2x1.png" alt="{{ user.username }}" />
+      {% elif not image_alt and not user.image %}
+      <img class="image fit" src="{{ base_url }}static/images/empty-avatar.png" alt="{{ user.username }}" />
+      {% endif %}
+      </a>
+
+      {% if extra %}
+      <span>{{ user.name }} {{ user.last_name }}</span>
+        <ul class="icons">
+          {% if user.web %}
+          <li>
+            <a href="{{ user.web }}" class="icon fa-globe" target="_blank">
+              <span class="label">Website</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if user.email %}
+          <li>
+            <a href="mailto:{{ user.email }}" class="icon fa-envelope" target="_blank">
+              <span class="label">Email</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if user.facebook_handle %}
+          <li>
+            <a href="https://facebook.com/{{ user.facebook_handle}}" class="icon fa-facebook" target="_blank">
+              <span class="label">Facebook</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if user.twitter_handle %}
+          <li>
+            <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
+              <span class="label">Twitter</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if user.github_handle %}
+          <li>
+            <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
+              <span class="label">Github</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      {% endif %}
+    </div>
+    
+  {%- endfor -%}
+  </div>
+
+  {%- endif -%}
+{% endmacro %}
 
 {%- if this.date_start -%}
 
@@ -33,6 +104,19 @@
   {%- endif -%}
 
 {%- endif -%}
+
+
+{%- if this.guides -%}
+  {%- for userblock in this.guides.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- if userblock._flowblock == 'user' -%}
+      {%- set a = guides_users.append(user) -%}
+    {%- else -%}
+      {%- set b = guides_orgs.append(user) -%}  
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
 
 {%- if this.organizers -%}
   {%- for userblock in this.organizers.blocks -%}
@@ -177,22 +261,20 @@
     <div class="row">
       <div class="col-6 col-12-small"> 
         <h3>Fecha:</h3>
-        <p>
+        <p><b>
         {{ this.date_start|datetimeformat('EEEE', locale='es')|capitalize }}
         {{ this.date_start|datetimeformat('d', locale='es') }} de 
         {{ this.date_start|datetimeformat('MMMM', locale='es') }} de 
-        {{ this.date_start|datetimeformat('YYYY', locale='es') }}
-        desde las {{ this.date_start|datetimeformat('HH:mm', locale='es') }}
-        (¡puntual!) hasta las {{ this.date_end|datetimeformat('HH:mm', locale='es') }}.
+        {{ this.date_start|datetimeformat('YYYY', locale='es') }}</b>
+        desde las <b>{{ this.date_start|datetimeformat('HH:mm', locale='es') }}</b>
+        (¡puntual!) hasta las <b>{{ this.date_end|datetimeformat('HH:mm', locale='es') }}</b>.
         </p>
       </div>
       <div class="col-6 col-12-small">
         <h3>Lugar:</h3>
-        {{ this.location }}
-        <p>
-        {{ this.city }}, {{ this.country }}.
+        <span>{{ this.location }}<span></br>
+        <span>{{ this.city }}, {{ this.country }}</span>
         <br><br>
-        </p>
       </div>
     </div>
 
@@ -357,10 +439,6 @@
       {%- endif -%}
 
       <div class="col-md-12">
-        <p class="text-center">
-        ¡Sólo necesitás tener buena onda, el sábado completo libre y muchas ganas
-        de aprender! ¡Sumate!
-        </p>
       </div>
     </div>
   </div>
@@ -380,7 +458,7 @@
 
     <h3>Quiero ser guía</h3>
 
-    <p>Si querés colaborar con este evento y sumarte a los guías que serán nuestra
+    <p>Si quieres colaborar con este evento y sumarte a los guías que serán nuestra
     ayuda durante todo el día del evento en esos momentos de caos, registrate en el
     siguiente formulario y nos pondremos en contacto contigo para coordinar los
     detalles.
@@ -397,64 +475,16 @@
   </div>
 </section>
 
+{{ render_users(guides_users , '¡Conoce a nuestros guías!', items=5) }}
 
-{%- if this.guides -%}
-<h3><a id="guias"></a>¡Conoce a nuestros guías!</h3>
-<div class="row">
-{%- for userblock in this.guides.blocks -%}
-  {%- if userblock._flowblock == 'user' -%}
-    {%- set user = site.get('/usuarios/' + userblock.username) -%}
-    <div class="col-md-3">
-    {{ user.name }} {{ user.last_name }}
-    </div>
-  {%- endif -%}
-{%- endfor -%}
-</div>
-{%- endif -%}
+{{ render_users(organizers_users , '¡Los organizadores!') }}
 
+{{ render_users(collaborators_users , '¡Los colaboradores!', items=5) }}
 
-{%- if organizers_users -%}
-<h2>¡Los organizadores!</h2>
-<div class="row">
-{%- for user in organizers_users -%}
-  <div class="col-md-3">
-  {{ user.name }} {{ user.last_name }}
-  </div>
-{%- endfor -%}
-</div>
-{%- endif -%}
+{{ render_users(sponsors , 'Patrocinadores', extra=false, image_alt=true) }}
 
-{%- if collaborators_users -%}
-<h2>¡Los colaboradores!</h2>
-<div class="row">
-{%- for user in collaborators_users -%}
-  <div class="col-md-3">
-  {{ user.name }} {{ user.last_name }}
-  </div>
-{%- endfor -%}
-</div>
-{%- endif -%}
+{{ render_users(collaborators_orgs, 'Con el apoyo de', extra=false, image_alt=true) }}
 
-{%- if sponsors -%}
-<h2>Patrocinadores</h2>
-<div class="row">
-{%- for user in sponsors -%}
-  <div class="col-md-3">
-  {{ user.name }}
-  </div>
-{%- endfor -%}
-</div>
-{%- endif -%}
-
-{%- if collaborators_orgs -%}
-<h2>Con el apoyo de</h2>
-<div class="row">
-{%- for user in collaborators_orgs -%}
-  <div class="col-md-3">
-  {{ user.name }}
-  </div>
-{%- endfor -%}
-</div>
 <hr>
 
 <h3>¿Te gustaría que tu empresa sea parte de este evento?</h3>
@@ -462,7 +492,6 @@
 Contáctanos para hacerlo posible y así apoyar a que haya más eventos de
 programación en la ciudad.
 </p>
-{%- endif -%}
 
 <hr class="major" />
 <section>

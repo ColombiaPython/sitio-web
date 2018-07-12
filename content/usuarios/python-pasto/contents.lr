@@ -3,3 +3,28 @@ username: python-pasto
 name: Python Pasto
 ---
 type: comunidad
+---
+facebook_handle: PythonPasto
+---
+meetup_handle: https://www.meetup.com/Pasto-Python/
+---
+image: python-pasto.jpg
+---
+members:
+
+#### member ####
+username: kafrans12
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+city: Pasto
+---
+country: Colombia
+---
+province: Nariño
+---
+meetup_url: https://www.meetup.com/Pasto-Python/

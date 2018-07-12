@@ -68,6 +68,12 @@
                 <span class="label">Telegram</span>
               </a>
             </li>
+            <li>
+              {%- set extra_slash = '/' if this.path[-1] != '/' else '' -%}
+              {%- set edit_link = 'https://github.com/ColombiaPython/sitio-web/edit/develop/content' + this.path.split('@')[0] + extra_slash + 'contents' + '.lr' -%}
+              <a href="{{ edit_link }}" target="_blank">Editar en Github</span>
+              </a>
+            </li>
           </ul>
         </header>
 
@@ -97,7 +103,7 @@
             <li{% if this._path=='/' %} class="active" {% endif %}>
               <a href="{{ '/'|url }}">Inicio</a>
               </li>
-              {% for href, title in [ ['/django-girls', 'Django Girls'], ['/eventos', 'Eventos'], ['/blog', 'Blog'], ['/contacto', 'Contacto'], ['/usuarios', 'Comunidad'],
+              {% for href, title in [ ['/django-girls', 'Django Girls'], ['/pyladies', 'PyLadies'], ['/pycon', 'Conferencia'], ['/eventos', 'Eventos'], ['/usuarios', 'Comunidad'], ['/blog', 'Blog'],
               ['/sobre-nosotros', 'Sobre Nosotros'], ] -%}
               <li{% if this.is_child_of(href) %} class="active" {% endif%}>
                 <a href="{{ href|url }}">{{ title }}</a>

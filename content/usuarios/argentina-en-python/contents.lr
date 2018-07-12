@@ -2,4 +2,45 @@ username: argentina-en-python
 ---
 name: Argentina en Python
 ---
-type: comunidad
+type: organizacion
+---
+facebook_group_handle: 
+---
+facebook_handle: argentinaenpython
+---
+members:
+
+#### member ####
+username: humitos
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: ellaquimica
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+twitter_handle: argenpython
+---
+web: https://argentinaenpython.com/
+---
+image: logo-argentina-en-python.png
+---
+information:
+
+**¿Qué?**
+
+Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python para resolver problemas cotidianos en usuarios comunes, como así también desarrollar programas poderosos y complejos de una forma sencilla, estimulando el aprendizaje colaborativo y la filosofía del Software Libre.
+
+**¿Cómo?**
+
+La metodología que el proyecto lleva adelante para poder promover Python (entre otras cosas de interés personal) es viajando por diferentes ciudades, siguiendo la energía de las comunidades de Software Libre regionales y contactándose con gente que esté interesada en un curso o una charla sobre el tema. Así como también simplemente compartir momentos en común charlando sobre otras actividades y conociendo diferentes culturas y formas de vida.
+---
+image_alt: argentina-python-horizontal.png

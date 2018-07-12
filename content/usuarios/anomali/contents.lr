@@ -3,3 +3,7 @@ username: anomali
 name: Anomali
 ---
 type: empresa
+---
+image: anomali-horizontal.png
+---
+image_alt: anomali-horizontal.png

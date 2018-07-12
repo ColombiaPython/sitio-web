@@ -3,3 +3,19 @@ username: python-cartagena
 name: Python Cartagena
 ---
 type: comunidad
+---
+city: Cartagena
+---
+country: Colombia
+---
+facebook_group_handle: pydjctg
+---
+facebook_handle: Python-CTG-122260291668601
+---
+meetup_handle: https://www.meetup.com/Python-Django-CTG/
+---
+province: Bolivar
+---
+image: python-cartagena.jpg
+---
+meetup_url: https://www.meetup.com/Python-Django-CTG/

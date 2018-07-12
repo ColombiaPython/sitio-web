@@ -5,3 +5,13 @@ last_name: Cano
 name: Juan Luis
 ---
 type: persona
+---
+country: España
+---
+github_handle: juanlu001
+---
+image: juan-luis-cano.jpg
+---
+twitter_handle: pybonacci
+---
+web: http://pybonacci.org/

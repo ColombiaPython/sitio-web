@@ -3,3 +3,7 @@ username: psf
 name: Python Software Foundation
 ---
 type: fundacion
+---
+image: psf-horizontal.png
+---
+image_alt: psf-horizontal.png

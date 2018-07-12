@@ -3,3 +3,74 @@ username: python-colombia
 name: Python Colombia
 ---
 type: comunidad
+---
+country: Colombia
+---
+dob: 2016-09-01
+---
+facebook_group_handle: pythonco
+---
+facebook_handle: ColombiaPython
+---
+github_handle: ColombiaPython
+---
+instagram_handle: 
+---
+medium_handle: pythoncolombia
+---
+slack_handle: python-colombia
+---
+telegram_handle: pythoncolombia
+---
+twitter_handle: colombiapython
+---
+web: https://www.python.org.co/
+---
+email: colombiapython@gmail.com
+---
+members:
+
+#### member ####
+username: jhonjairoroa87
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: ellaquimica
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: goanpeca
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: javierdaza
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: aerendon
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+image: pythoncolombia.png
+---
+image_alt: python-colombia-horizontal.png

@@ -3,3 +3,7 @@ username: monoku
 name: Monoku
 ---
 type: empresa
+---
+image: monoku-square.png
+---
+image_alt: monoku-horizontal.png
