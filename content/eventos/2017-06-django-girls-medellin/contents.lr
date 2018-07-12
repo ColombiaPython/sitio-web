@@ -46,6 +46,14 @@ description:
 guides:
 
 #### user ####
+username: cesar-augusto-cartagena-ocampo
+----
+description: 
+#### user ####
+username: dipaco
+----
+description: 
+#### user ####
 username: estebanx64
 ----
 description: 
@@ -53,6 +61,18 @@ description:
 username: goanpeca
 ----
 description: Python Bucaramanga
+#### user ####
+username: woakas
+----
+description: 
+#### user ####
+username: luismorenolopera
+----
+description: 
+#### user ####
+username: ma0
+----
+description: 
 ---
 collaborators:
 
@@ -86,7 +106,7 @@ username: github
 #### organization ####
 username: psf
 ---
-location: [Atom House Coworking](http://atomhouse.com/), en la Calle 8 # 43a-­49 cerca del Parque el Poblado
+location: Atom House Coworking, en la Calle 8 # 43a-­49 cerca del Parque el Poblado
 ---
 latitude: 6.2092551
 ---
@@ -101,3 +121,9 @@ delta_limit: 7
 form_attendees: https://goo.gl/forms/MzP5fJMWmbd87JE03
 ---
 form_guides: https://goo.gl/forms/COkQKqtHCuiouh793
+---
+delta_selection: 20
+---
+color_primary: 1baad2
+---
+membrete: membrete-djangogirls-medellin.png
