@@ -23,13 +23,6 @@ location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Indus
 organizers:
 
 #### user ####
-username: goanpeca
-----
-description: 
----
-collaborators:
-
-#### user ####
 username: aerendon
 ----
 description: 
@@ -37,8 +30,60 @@ description:
 username: anaguicas
 ----
 description: 
+#### user ####
+username: carogomezt
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: jhonjairoroa87
+----
+description: 
 ---
-sponsors: 
+collaborators:
+
+#### user ####
+username: kala855
+----
+description: 
+#### user ####
+username: humitos
+----
+description: 
+#### user ####
+username: vanevela
+----
+description: 
+#### organization ####
+username: python-colombia
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: joint-developer
+#### organization ####
+username: psf
+#### organization ####
+username: python-argentina
+---
+sponsors:
+
+#### organization ####
+username: cientificas-de-datos
+#### organization ####
+username: github
+#### organization ####
+username: monoku
+#### organization ####
+username: rockalabs
+#### organization ####
+username: grupo-sirius
 ---
 location: Auditorio Mecánica - Universidad Tecnológica de Pereira. Carrera 27 # 10-02 Barrio Alamos
 ---
@@ -61,3 +106,48 @@ form_guides: https://goo.gl/forms/7ArhLMeTbmmgkbjm1
 banner: 
 ---
 membrete: banner.png
+---
+guides:
+
+#### user ####
+username: alsuga
+----
+description: 
+#### user ####
+username: salazarfelipe
+----
+description: 
+#### user ####
+username: jdmorales
+----
+description: 
+#### user ####
+username: jotangutierrez
+----
+description: 
+#### user ####
+username: avarajar
+----
+description: 
+#### user ####
+username: juankzuhe
+----
+description: 
+#### user ####
+username: davoshack
+----
+description: 
+#### user ####
+username: jjmedinas
+----
+description: 
+#### user ####
+username: julian-amaya
+----
+description: 
+#### user ####
+username: nickatc
+----
+description: 
+---
+delta_selection: 23

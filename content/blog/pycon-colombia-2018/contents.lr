@@ -1,0 +1,277 @@
+body:
+
+Some numbers we would like to share:
+
+* 3 Conference days
+* 311 attendees
+* 6 Sponsors — partners
+* 60 volunteers
+* 31 talks
+* 14 workshops
+* Attendees from 10 different countries
+* 7 international keynote speakers
+* 45 speakers
+* 8 Scholarships
+
+## Sponsors
+
+The conference took place at EAFIT university. It was astonishing, so much that one of the conference sponsors said: “This feels like we are having a conference in a Resort”. But not only that, the university personnel help was invaluable, they were part of the event logistics team to make sure PyCon Colombia 2018 ran smoothly.
+
+<img src="blog-pycon-2018-01.jpg" class="image fit" />
+<small>EAFIT University, Medellín — Building 19. Engineering building</small>
+
+<img src="blog-pycon-2018-02.jpg" class="image fit" />
+<small>EAFIT University, Medellín — Building 28: Fundadores Auditorium (left), Building 29: Financial and administrative department, Department of Continuing education, Alumni Center, Student Groups, Classrooms (right)
+</small>
+
+[EAFIT University](http://www.eafit.edu.co/english/Paginas/english-version-universidad-eafit-medellin-colombia-south-america.aspx): EAFIT is a university that inspires the current generations to embark on a life project that maximizes their potential. It is an institution that both conveys and generates knowledge, thus fulfilling its role as a teaching and research university. Research-backed teaching is another focal point of the institution’s roadmap, in so far as the goal is is not only to convey but to generate knowledge. In that regard, the budget allocated to this area has increased over time and enabled EAFIT to achieve a range of objectives, including the recognition by Colciencias of 38 research groups, the registration of 13 patents, and the participation of more than 900 students in research incubators. Another of the university’s primary objectives is to extend its national and international reach and impact. In that regard, it offers students the chance to participate in exchange programs abroad that enhance their academic and cultural development.
+
+<img src="blog-pycon-2018-03.jpg" class="image fit" />
+<small>Sponsors and Partner PyCon Colombia 2018</small>
+
+[Python Software Foundation](https://www.python.org/psf/) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. They manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. They also run the North American PyCon conference annually, support other Python conferences around the world, and fund Python related development with their grants program and by funding special projects.
+
+[Monoku](https://monoku.com/). More than design, development or consulting, Monoku seeks to go beyond, not limiting themselves to meet a schedule or to settle by giving the minimum. They are driven and passionate about not staying still, and they want this to be reflected in everything they do.
+
+[HDE](https://www.hde.co.jp/en/) is one of the first IT ventures in Japan, established 22 years ago. Owning over 73% market share in the whole Japan, HDE is the #1 cloud-based security provider based in Tokyo, Japan. With over 3,5 million users in over 4,000 companies, they have keenly presented themselves in the global plenary; they are looking for talented engineers to join their team in Tokyo.
+
+[SIHSA](http://www.sihsa.co/es/), with over 30 years of experience in water treatment, Hydraulic and Sanitary Systems offers a wide range of products and services in sectors such as Municipal, Industrial, Oil , and Gas, Recreational and Rural.
+
+[PSL](http://psl.com.co/) is an agile software development company, specialized in offering IT services from its development hubs in Latin America.
+
+## Event Description
+
+### Friday
+
+The big day finally came, it started with the words of Claudia María Zea Restrepo, EAFIT’s Vice-rector for Education. She mentioned that the university, through the Systems Engineering program, has inspired and has created many technological ecosystems for social transformation with the use of digital technologies; that’s why for EAFIT University, it was an honor to host an event such as PyCon Colombia 2018 that connects technological Innovation, strengthening Colombian ecosystems and integrate them into these international networks, generating learning and business opportunities.
+
+<img src="blog-pycon-2018-04.jpg" class="image fit" />
+<small>Claudia María Zea Restrepo, Vice-rector for Education — opening speech</small>
+
+After that, the chief event organizer John Roa gave his speech in which he highlighted how the passion, hard work, purpose and a clear strategy were crucial elements that kept the core team, collaborators and volunteers focused and motivated to deliver a world-class technology event.
+
+<img src="blog-pycon-2018-05.jpg" class="image fit" />
+<small>John Roa, PyCon Colombia Chief — opening speech</small>
+
+The first conference keynote was given by [Satya Mallick](https://twitter.com/LearnOpenCV), an expert in computer vision and principal author of the famous blog [LearnOpenCV](http://www.learnopencv.com/). His talk was designed to set and explain why computer vision is one of the fastest growing and most exciting disciplines of Artificial Intelligence in today’s Academia and industry. From object detection and recognition to face swapping, he went to many applications of this area, settling the importance of learning from data. Finally, he invited many of the attendees to join to this computer vision revolution.
+
+<img src="blog-pycon-2018-06.jpg" class="image fit" />
+<small>Satya Mallick — Friday morning opening keynote.</small>
+
+Some attendees then proceed to go the other two auditoriums to enjoy the scheduled talks for the morning:
+
+* Navid Sheikhol (Italy). FBJE is a framework used at Facebook for developing workflows in Python. Language: English
+* Milton Lenis (Colombia). Multitenant Architectures in Python. Language: Spanish
+* Sergio Florez Galeano (Colombia) Deep learning: From academia to practice using microservices Language: Spanish
+* Santiago Mesa Velásquez. Solar System Simulator Language: Spanish
+* Jonathan Sandoval Cardona (Colombia). Introduction to asynchronous programming with Python and Twisted. Language: Spanish
+* Alizishaan Khatri (India). Detecting offensive messages using Deep Learning: A microservice based approach Language: English
+
+<img src="blog-pycon-2018-07.jpg" class="image fit" />
+<small>Some talks during Friday morning</small>
+
+* Jose Zapata (Colombia). Audio signal analysis with python. Language: Spanish
+* Jonas Obrist (Switzerland). Why you might want to go async. Language: English
+* Isabel Ruiz Buriticá (Colombia). Painting Chaos with Python. Language: Spanish
+* Maria Remolina-Gutiérrez (Colombia). AMUSE: Taking python to the stars. Language: English
+* David Przybilla (Colombia). Python in the land of Serverless. Language: English
+* Nicolás Guarín-Zapata (Colombia). SolidsPy: A FEM Framework for Teaching Computational Modeling with Python. Language: Spanish
+* Santiago Mesa has been the youngest speaker Pycon Colombia 2018 has ever had, with only 16 years old he delighted the speakers committee with his submitted talk about a solar system simulator using python. He shared with the audience his love for astronomy and how much he enjoys to share all the things he has learned. One of his quotes on the presentation was: “Since its most primitive ancestors, the human being has been astonished by everything that surrounds him, and is precisely this astonishment what I enjoy sharing with people. PyCon Colombia 2018 was the perfect opportunity to share one of my greatest passions through programming: Astronomy”
+
+<img src="blog-pycon-2018-08.jpg" class="image fit" />
+<small>Some talks during Friday morning</small>
+
+On Friday afternoon, the set of talks were:
+
+* Gonzalo Peña Castellanos (Colombia). Take your (Storm) Water Modeling to the next level with PySWMM and the OpenWaterAnalytics Initiative. Language: English
+* Oscar Maestre Sanmiguel (Colombia). iQoS, VoIP quality of service tests with Python and Linux. Language: Spanish
+* Robert Kuska. Bits and bytes of Python memory management. Language: English
+
+<img src="blog-pycon-2018-09.jpg" class="image fit" />
+<small>Some talks during Friday afternoon</small>
+
+The attendees had the privilege of having [Christine Doig-Cardet](https://twitter.com/ch_doig), Senior Product manager and data scientist, to listen to her closing keynote of the first day. The main topic of her talk was about how data science has evolved through history. From the beginning of base Python modules, she stated the importance of current libraries, setting up the importance of commitment and collaboration of people in open-source software. Finally, Christine set up the challenges and the future of data science, and the effects in our behavior and daily lives.
+
+<img src="blog-pycon-2018-10.jpg" class="image fit" />
+<small>Christine Doing — Friday afternoon keynote</small>
+
+Attendees were thrilled with the talks and keynotes of the first day and ended their day. Keynote speakers and the organizer’s group that had a delightful evening playing Tejo, eating typical Colombian food and drinking a couple of beers.
+
+<img src="blog-pycon-2018-11.jpg" class="image fit" />
+<small>Keynote speakers and PyCon Colombia 2018 Organizing team members</small>
+
+<img src="blog-pycon-2018-12.jpg" class="image fit" />
+<small>Some Keynote speakers and some PyCon Colombia 2018 Organizing team members</small>
+
+<img src="blog-pycon-2018-13.jpg" class="image fit" />
+<small>Keynote speakers and some PyCon Colombia 2018 Organizing team members playing Tejo</small>
+
+### Saturday
+
+PyCon Colombia second day started with big expectations. The opening keynote of the day was held by [Lorena Mesa](https://twitter.com/loooorenanicole), data scientist and member of the Board of Directors at Python Software Foundation. Her talk was about data science and ethics, explaining with examples the challenges and all the consequences of collecting and using people’s data for economic and social benefits. From measuring the rate of positive tweets for political elections to detection of cyberbullying in schools, Lorena showed the process of development and testing of data science algorithms.
+
+<img src="blog-pycon-2018-14.jpg" class="image fit" />
+<small>Lorena Mesa — Saturday’s morning opening keynote</small>
+
+The talks held during the morning were:
+
+* Carlos Martinez Morales (Colombia). Creating a GraphQL API in Django. Language: Spanish
+* Manuela Jaramillo Rendon (Colombia). TalkScript2Media. Language: Spanish
+* Jonatas Baldin (Brazil). Serverless for Pythonistas. Language: English
+* Manuel Franco Galeano (Colombia). Introduction to Recommendation Systems. Language: English
+* Edward Villegas-Pulgarin (Colombia). Using Jupyter in the classroom. Language: Spanish
+* Jorge Galvis Quintero (Colombia). Architecture for machine learning apps (Django flavored). Language: Spanish
+
+The talks held during the afternoon were:
+
+* Javier Mansilla (Argentina). Python and Data Science in e-commerce: A success story. Language: Spanish
+* Rocky Bernstein (USA). Decompilation and Pandora’s box. Language: English
+* Jorge Martinez (Colombia). Detection vs. Tracking: A computer vision approach. Language: Spanish
+* Max Humber (Canada). Personal Pynance. Language: English
+* Johanna Sanchez Vallejo (Colombia). Django Girls Colombia: Technological inclusion and results achieved in 2017. Language: Spanish
+* Darío Guzmán (Colombia). Facial recognition with neural networks. Language: Spanish
+* Jennifer Vélez Segura (Colombia). Data mining with clinical and genomic data. Language: Spanish
+* Manuel Kaufmann (Argentina). What is the Python Software Foundation? Language: Spanish
+* Carlos Díaz Berrío (Colombia), Sebastian Racedo (Brazil). Software for the segmentation and characterization of images of cells taken by a microscope. Language: Spanish
+
+<img src="blog-pycon-2018-15.jpg" class="image fit" />
+<small>Some talks during Saturday morning</small>
+
+On the afternoon break all the attendees had the opportunity to have an exceptional dessert: the PyCon Colombia 2018 cake:
+
+<img src="blog-pycon-2018-16.jpg" class="image fit" />
+<small>PyCon Colombia 2018 Cake</small>
+
+[Naomi Ceder](https://twitter.com/NaomiCeder), Chair of Board of Directors at Python Software Foundation, closed the second day of the conference talking about how diversity brings benefits for every community, population, team and organization and how a diverse team is better at solving problems and is even more profitable and creative. She shared with the audience how was her perspective as a man and as a woman, inviting the audience to think always about inclusion when referring to diversity and the many obstacles that get in the way while trying to promote them. Naomi highlighted that society needs more education about inclusion, take more responsibilities and not leaving it to the minorities, listening to people who suffer it and understanding that diversity has many dimensions including economics, gender, race, religion, sexuality among others.
+
+<img src="blog-pycon-2018-17.jpg" class="image fit" />
+<small>Naomi Ceder — Saturday afternoon keynote</small>
+
+On the final activity of the second day; keynote speakers, speakers, workshoppers, and sponsors had a quiet time having Typical Colombian food at [HatoViejo](http://hatoviejo.com/), spending some time together talking about their projects, personal experiences and of course, the Colombian Python community.
+
+<img src="blog-pycon-2018-18.jpg" class="image fit" />
+<small>Typical Colombian food — Photo taken from (hatoviejo.com)</small>
+
+### Sunday
+
+Sunday started, is was the time for the workshoppers to share their knowledge through a set of theoretical-practical sessions, these are the workshops that were held:
+
+* Matt Harrison (USA). Welcome to the Jungle: Random Forests for Fun and Profit. Language: English
+* Mauricio Collazos (Colombia). Introduction to Chatbots with Python. Language: Spanish
+* Sergio Pulgarin (Colombia). Python API for C programs. Language: Spanish
+* Juan Táutiva (Colombia). Programming for non-programmers: The four pillars of object-oriented programming. Language: Spanish
+* Cesar Herdenez (Colombia). Design your own CLI with Python. Language: Spanish
+* Angie Reyes Betancourt (Colombia). Identification of Colombian Bird species using Python. Language: Spanish
+* Edwin Caldon (Colombia). Multiplatform development with Kivy Framework. Language: Spanish
+* Alejandro Correa Bahnsen (Colombia). Practical Machine Learning with Scikit-Learn. Language: Spanish
+* Rafael Laverde (Colombia). Build a powerful static website using Lektor. Language: Spanish
+* Moises Vargas (Colombia). Classifying human faces using Convolutional Neural Networks. Language: Spanish
+* Sebastián Parada (Colombia), María Guerrero Giraldo (Colombia). Introductory Functional Programming Workshop with Python. Language: Spanish
+* Esteban Echeverry (Colombia). Clean Architecture with Python. Language: Spanish
+* Juan Velásquez-Henao (Colombia). Cashflows: Financial investment modeling and advanced engineering economics using Python. Language: Spanish
+* Justyna Janczyszyn (Poland). Build your own serverless image sharing website with Lambda, API Gateway, DynamoDB, and S3. Language: English
+
+Once the workshops finished, the attendees proceed to enjoy their third-day lunch which was a unique typical Colombia plate: Cazuela Tipica.
+
+<img src="blog-pycon-2018-20.jpg" class="image fit" />
+<small>Cazuela Típica. Photo taken from (hatoviejo.com)</small>
+
+The afternoon of the final day of the conference started with a set of open spaces where multiple topics were discussed. Some of those topics were Python Colombia strategies for 2018, and Scikit learn.
+
+At 3pm, [Deborah Hanus](https://twitter.com/deborahhanus), Entrepreneur and Machine Learning researcher at MIT and Harvard, started her keynote talking about the importance of data collection in machine learning development. Instead of choosing which models fit best in the data, she explained the reasons of selecting or constructing good datasets. She also pointed out that it is very important to understand the data that is used to have insights and purge wrong inputs in the models.
+
+<img src="blog-pycon-2018-21.jpg" class="image fit" />
+<small>Debora Hanus — Sunday afternoon keynote</small>
+
+The last keynote of the event was given by [Audrey Roy Greenfeld](https://twitter.com/audreyr) and [Daniel Roy Greenfeld](https://twitter.com/pydanny) coauthors of [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11), and with their talk focused on the importance of open source projects and why they are still doing it. Among the benefits of open source software, they talked about the idea of crowdsourcing their problems and having the community to help them solve problems or think about new features. They encouraged the audience to build and release more projects in the [Python Package Index](https://pypi.org/), not only because of the crowdsourcing fact but also as a duty of the community to push Python language forward and help the ecosystem to grow with all the fantastic free tools that can be found. Finally, they drove us in the process of releasing [arepa](https://pypi.python.org/pypi/arepa/0.2.3), an open source project built using a boilerplate project Audrey created, called [cookie-cutter](https://github.com/audreyr/cookiecutter).
+
+<img src="blog-pycon-2018-22.jpg" class="image fit" />
+<small>Audrey Roy Greenfeld and Daniel Roy Greenfeld — closing event keynote.</small>
+
+It was finally time for the closing event; it started with some raffles among the attendees, some of the prizes were: PyCon Argentina t-shirts, Argentina en Python t-shirts, Read The docs t-shirts, Two scoops of Django Book, Scale Conf ticket. Also, a set of Pycon Colombia 2018 t-shirts and handles was given to the Python Colombia leaders of each city.
+
+Followed by the raffle and gifts, PyCon Colombia gave awards to the most important sponsors and key individuals that have supported multiple python colombía community events, the awards were:
+
+Monoku: For their Unconditional support sponsoring PyCon Colombia 2017 and 2018
+The Python software foundation: For their Unconditional support sponsoring PyCon Colombia 2017 and 2018
+Github: For their Unconditional support sponsoring all 6 Django Girls Events during 2017
+Johana Sanchez: For her remarkable leadership organizing all 6 Django Girls Events during 2017
+
+<img src="blog-pycon-2018-23.jpg" class="image fit" />
+<small>PyCon Colombia 2018 award to Monoku</small>
+
+The Closing party was in Woka Bar were some the attendees, volunteers, Collaborators and Organizers had a couple of beers and got some time to relax.
+
+## Scholarships
+
+The scholarships program is about the Python Colombia Community nurturing itself by making itself more accessible at PyCon Colombia. At PyCon Colombia 2017 the budget was tight, and the event could not set up scholarships program, in 2018 the organizers felt very proud to launch the scholarships program allowing tickets to be totally free for a group of 8 individuals that otherwise might not be able to attend to the conference, some of them shared their experience at PyCon Colombia 2018:
+
+* [My first PyCon Colombia by Jose Giraldo](https://wetdog.github.io/posts/2018/03/blog-post-2/)
+* [PyCon Colombia 2018 by Rafael Pardo](https://rafaelpardosr.blogspot.com.co/2018/02/pycon-colombia-2018.html)
+* [How was PyCon Colombia 2018](https://pycon129210605.wordpress.com/)
+
+There was a very unique moment when David Martinez, a 12 year old Colombian kid that sent an email (written in English!) to the event organizers asking for a scholarship to go to PyCon Colombia 2018 , he taught himself python with Codecademy and Udemy courses , also learned English at school and Duolingo, he wants to be an AI developer.
+
+<img src="blog-pycon-2018-24.jpg" class="image fit" />
+<small>David Martinez</small>
+
+<img src="blog-pycon-2018-25.jpg" class="image fit" />
+<small><a href="https://www.instagram.com/p/BeY447HlTEp/?taken-by=david_martinezqw" target="_blank">Letter written by David Martinez to PyCon Colombia organizers</a></small>
+
+The team was amazed there is such great example of hope for the childhood of this country, a ‘third world’ Spanish speaking country that unfortunately many people recognize internationally only because of drugs, “narcos”, internal armed civil conflict, among others.
+
+It was a huge reminder for the PyCon Colombia team that there is still a lot to do to make this case, not an exception but a norm, a norm where 12-year-old Colombian girls and boys are very interested in learning how to code, how to speak a new language, learning to do what they love to do.
+
+## Volunteers
+
+PyCon Colombia 2018 event was possible thanks to their volunteers that put their time and effort to make it happen, thanks to all of them it was possible the second version of the Colombian Python event joining enthusiast and professionals. The volunteers were:
+
+Angelica Aguirre Castro (Logistics), Any Ruiz (Logistics), Carolina Londoño Agudelo (Logistics), Catalina Meneses (Logistics), Deiry Sofía Navas Muriel (Logistics), Diana Carolina Arboleda Gómez (Logistics), Estefany Alvarez Meneses (Logistics), Gustavo Diaz Jaimes (Logistics), Kevin Martinez (Logistics), Lina Maria Montaño Ramirez (Logistics), Linda Gutiérrez (Logistics), Lorena Correa (Logistics), Maria Camila Gómez (Logistics), Maria Carlina Hernandez (Logistics), Maris Botero (Logistics), Mayerli López (Logistics), Paula Aragón (Logistics), Sergio Carlos Orozco Torres (Logistics), Sara Galván (Logistics), Sharon Camacho (Logistics), Valentina Sánchez Bermúdez (Logistics), Yurley Sanchez (Logistics).
+
+Alejandro E. Rendon (Social Media), Ana Milena Suárez (Logistics), Andrés Duque (Logistics), Carlos David Salgado (Logistics), Carolina Gómez Trejos (Django Girls), Edwin Jeréz (Art Director), Geraldine Echavarría Cortes (Logistics), Iván Roa (OnSite Marketing), Jorge Luis Galvis Quintero (Mobile App), Manuel Kaufmann (Python Software Foundation), Marian Villa (Venue), Nancy Acuña (Logistics), Nicolas Roa (Logistics), Oliver Rubio Maya (Venue), Rafael Laverde (Website).
+
+Juan David Hernandez (Co-Organizer) Javier Daza (Co-Organizer) Carlos Sierra (Co-Organizer) Jorge Martinez (Co-Organizer) Gonzalo Peña (Co-Organizer) Johana Sanchez (Co-Organizer) John Roa (Chief Event Organizer),
+
+<img src="blog-pycon-2018-26.jpg" class="image fit" />
+<small>Pycon Colombia 2018 group photo</small>
+
+## What is Next?
+
+PyCon Colombia 2018 finally came to an end, and behind it there was a team that was exhausted from 3 full conference days but with a single thing in their mind: How are we going to take PyCon Colombia to the next level in 2019?
+
+<img src="blog-pycon-2018-27.jpg" class="image fit" />
+<small>PyCon Colombia 2018 core team (Left to Right): Gonzalo Peña, Juan David Hernandez, Carlos Sierra, Johana Sanchez, John Roa, Jorge Martinez and Javier Daza</small>
+
+The next PyCon Colombia is currently planned for the 8, 9 and 10th of February of 2019, and the team has big and ambitious goals such as:
+
+* 3 conference days
+* 450 attendees
+* 10 sponsors
+* 5 Partners
+* 10 organizers
+* 70 volunteers
+* 8 keynote speakers
+* 30 speakers
+* 20 workshops
+* 20 Scholarships
+
+There is currently a [super fan ticket with a 35% discount](https://www.eventbrite.com/e/pycon-colombia-2019-tickets-43119726262) for all PyCon Colombia fans that liked PyCon Colombia 2017, loved PyCon Colombia 2018 and although they have no idea what is coming for PyCon Colombia 2019 , they feel will have a blast in the event the organizing team will prepare for next year.
+
+As we make progress in the organization of the event for next year 2019, we will be posting updates and proposals on the different official communication channels so the Python community in Colombia can follow and learn about the different tasks and opportunities for volunteers to help with.
+
+If you would like to receive additional information about Python Conferences taking place in Colombia in the next and following years, subscribe to our newsletter by clicking on the following link:  [¡Subscribe now!](https://www.pycon.co/)
+
+The official communication channels for PyCon Colombia are [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](https://twitter.com/pyconcolombia), [Youtube](https://www.youtube.com/channel/UCjor6U0ZF5zGAYLJJt9gr0A), [Instagram](http://instagram.com/pyconcolombia/), [Medium](https://medium.com/@pyconcolombia) and [email](hello@pycon.co).
+---
+categories: pycon, python, colombia
+---
+pub_date: 2018-04-22
+---
+summary:
+
+The art of coding.
+
+We are excited to share this overview of the second edition of Colombia’s Python Conference: PyCon Colombia 2018, that took place in the beautiful city of Medellín during February 9, 10 and 11 of 2018.
+
+---
+title: PyCon Colombia 2018
