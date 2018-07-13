@@ -5,51 +5,53 @@
 <!-- Banner -->
 <section id="banner">
 	<div class="content">
-		<header>
-			<h1>Python Colombia</h1>
-			<p>Somos una Comunidad
-			<br>de Desarrollo Tecnológico</p>
-		</header>
-		<!-- <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis,
-			nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus
-			erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p> -->
-		<ul class="actions">
-			<li>
-				<a href="#about" class="button primary big">Sobre Nosotros</a>
-			</li>
-			<li>
-				<a href="/contacto/" class="button primary big">Más información</a>
-			</li>
-		</ul>
+		<div class="row">
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<header>
+					<h1>Python Colombia</h1>
+					<p>Somos una Comunidad
+					<br>de Desarrollo Tecnológico</p>
+				</header>
+				<div class="row justify-content-md-center">
+					<ul class="actions">
+						<li>
+							<a href="#about" class="button primary big">Sobre Nosotros</a>
+						</li>
+						<li>
+							<a href="/contacto/" class="button primary big">Más información</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<img src="{{ '/'|url }}static/images/slider/pycon-colombia-2018.jpg" alt="" class="img-fluid rounded" />
+			</div>
+		</div>
 	</div>
-	<span class="image fit">
-		<img src="{{ '/'|url }}static/images/slider/pycon-colombia-2018.jpg" alt="" />
-	</span>
 </section>
 
 <section class="about" id="about">
   <div class="content">
 		<h2>Sobre Nosotros</h2>
   	<div class="row">
-			<div class="col-6 col-12-small">
+			<div class="col-md-6 col-sm-12 col-xs-12">
 				<p>Somos una comunidad enfocada en extender en el territorio nacional el uso y aprendizaje de las distintas tecnologías python y sus numerosas aplicaciones.</p>
 				<p>Nuestra comunidad está conformada por personas con diferentes niveles de conocimiento siempre dispuestas a aprender y compartir nuestro saber mostrando una gran empatía y respeto hacia los demás.</p>
 			</div>
-
-			<div class="col-6 col-12-small">
-				<img src="{{ '/'|url }}static/images/about-us.jpg" class="image fit" alt="">
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<img src="{{ '/'|url }}static/images/about-us.jpg" class="img-thumbnail" alt="">
 			</div>
 		</div>
 		<p>Siempre motivados a crecer mucho más y totalmente comprometidos a promover la diversidad y la inclusión en cada una de nuestras actividades y eventos.</p>
-
-		<ul class="actions">
-			<li>
-				<a href="/sobre-nosotros/" class="button primary big">Más información</a>
-			</li>
-		</ul>
+		<div class="row justify-content-md-center">
+			<ul class="actions">
+				<li>
+					<a href="/sobre-nosotros/" class="button primary big">Más información</a>
+				</li>
+			</ul>
+		</div>
 	</div>
 </section>
-
 <section id="blog">
 	<header class="major">
 		<h2>Publicaciones Recientes</h2>
