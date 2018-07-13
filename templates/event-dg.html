@@ -255,8 +255,9 @@
     {%- if 'pycon' in this.title|lower -%}
     <p>
     Este taller de Django Girls se realiza en el marco de la Conferencia de
-    PyCon Colombia organizado por la comunidad de Python Colombia. Es el evento
-    de programación en Python más grande del país.</p>
+    <a href="{{ site.get('/pycon')|url }}">PyCon Colombia</a> organizado por la
+    comunidad de <a href="{{ site.get('/sobre-nosotros')|url }}">Python Colombia</a>.
+    Es el evento de programación en Python más grande del país.</p>
     {%- endif -%}
     <div class="row">
       <div class="col-6 col-12-small"> 
@@ -300,51 +301,51 @@
         <h2>Ten en cuenta que…</h2>
         <ul>
           <li>
-          tienes que <b>inscribirte</b> utilizando el botón “¡Quiero inscribirme!”
+          Tienes que <b>inscribirte</b> utilizando el botón <b>¡Quiero inscribirme!</b>
           </li>
           <li>
-          los cupos son limitados, así que luego de inscribirte <b>debes
-          esperar</b> 
-          una confirmación por parte de los organizadores para poder asistir.
+          Los cupos son limitados, así que luego de inscribirte <b>debes
+          esperar</b> una confirmación por parte de los organizadores para poder asistir.
           </li>
           <li>
-          te recomendamos seguirnos en Twitter donde publicaremos novedades sobre
-          el evento.
+          Te recomendamos seguirnos en <a href="https://twitter.com/DjangoGirlsCo" target="_blank">Twitter</a>
+          donde publicaremos novedades sobre el evento.
           </li>
           <li>
-          no es necesario saber programar o tener algún conocimiento previo de
+          No es necesario saber programar o tener algún conocimiento previo de
           programación.
           </li>
           <li>
-          es necesario <b>llevar computador portatil</b> para poder trabajar con
+          Es necesario <b>llevar computador portátil</b> para poder trabajar con
           este durante todo el día.
           </li>
           <li>
-          el taller es gratuito. Sin embargo, se aceptan donaciones para que el
+          El taller es <b>gratuito</b>. Sin embargo, se aceptan donaciones para que el
           proyecto pueda realizar más talleres gratuitos.
           </li>
           <li>
-          en lo posible, debes llevar una extension de corriente.
+          En lo posible, debes llevar una extension de corriente.
           </li>
           <li>
-          agrega la dirección djangogirlscolombia@gmail.com a tu libreta de
-          direcciones así evitamos que el email llegue a SPAM
+          Te recomendamos agregar la dirección djangogirlscolombia@gmail.com a tu libreta de
+          direcciones así evitamos que el email llegue a <b>SPAM</b>.
           </li>
           <li>
-          vamos a respetar las fechas publicadas en el cronograma
+          Es importante respetar las fechas publicadas en el cronograma!
           </li>
           <li>
-          debes registrarte como Asistente o como Guía -no ambos.
+          Debes registrarte como Asistente o como Guía -no ambos.
           </li>
           <li>
-          al momento de completar el formulario, pon mucha atención en tu dirección
+          Al momento de completar el formulario, pon mucha atención en tu dirección
           de email, ya que es el único contacto tuyo que tenemos.
           </li>
           <li>
-          te recomendamos llevar un abrigo.
+          Te recomendamos llevar un abrigo, en caso de estar trabajando en un ambiente
+          con aire acondicionado.
           </li>
           <li>
-          todos los participantes deben seguir el <b>Código de Conducta</b> (ver
+          Todos los participantes deben seguir el <b>Código de Conducta</b> (ver
           Preguntas frecuentes).
           </li>
         </ul>
@@ -357,6 +358,22 @@
         <a href="mailto:djangogirlscolombia@gmail.">djangogirlscolombia@gmail.com
         </a>, para ponerte en contacto con nosotros.
         </p>
+    
+        <div class="row">
+          <div class="col-12">
+            {%- for user in organizers_orgs -%}
+            <a href="{{ user|url }}">
+            {% if user.image_alt %}
+            <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" />
+            {% else %}
+            <b>Falta agregar foto rectangular al organizador <i>{{ user.username }}</i></b>
+            <br>
+            {% endif %}
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+    
       </div>
     </div>
   </div>
