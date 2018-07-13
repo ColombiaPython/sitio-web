@@ -13,13 +13,15 @@
 <!-- /section title -->
 <div class="row">
   <div class="col-md-offset-2 col-md-8">
-  {% if 'en' in get_alts(this) and this.alt == 'es' %}
-  <p><i>(To read this article in english please click <a href="{{ ('/blog/'+this._id)|url(alt='en') }}">here</a>)</i></p>
-  {% elif 'es' in get_alts() and this.alt == 'en' %}
-  <p><i>(Para leer éste artículo en español haga clic <a href="{{ ('/blog/'+this._id)|url(alt='es') }}">aquí</a>)</i></p>
-  {% endif %}
+    {% if 'en' in get_alts(this) and this.alt == 'es' %}
+    <p><i>(To read this article in english please click <a href="{{ ('/blog/'+this._id)|url(alt='en') }}">here</a>)</i></p>
+    {% elif 'es' in get_alts() and this.alt == 'en' %}
+    <p><i>(Para leer éste artículo en español haga clic <a href="{{ ('/blog/'+this._id)|url(alt='es') }}">aquí</a>)</i></p>
+    {% endif %}
+  </div>
   <br>
-  {{ this.body }}
+  <div class="col-12">
+    {{ this.body }}
   </div>
 </div>
 <hr class="major" />
