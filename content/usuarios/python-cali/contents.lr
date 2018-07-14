@@ -23,7 +23,7 @@ date_start:
 ----
 date_end: 
 #### member ####
-username: 
+username: miltonln
 ----
 position: 
 ----
@@ -40,3 +40,19 @@ country: Colombia
 province: Valle del Cauca
 ---
 meetup_url: https://www.meetup.com/Python-Cali/
+---
+information:
+
+## ¿Quiénes somos?
+
+Somos un grupo de voluntarios quienes, continuando con la misión de la Python Software Foundation y bajo el marco de Python Colombia, nos propusimos el objetivo de promover y contribuir al lenguaje de programación Python así como dar apoyo y facilitar la creación de una comunidad de programadores Python en la ciudad de Cali y el suroccidente del territorio colombiano.
+
+Nuestros miembros son voluntarios de diferentes áreas, quienes por amor a su quehacer y al lenguaje, contribuyen a ampliar su uso a través de eventos y actividades complementarias como conferencias, charlas abiertas y talleres prácticos entre otros. La comunidad es un espacio abierto, en el que independientemente de la edad, el género, la educación, o el nivel técnico, toda persona que esté interesada en participar es bienvenida, pues estamos convencidos que todos podemos contribuir de una u otra manera a la comunidad.
+
+## OBJETIVOS
+ 
+* En el corto plazo, nuestro objetivo es cimentar una comunidad reconocida, con una planilla de miembros constantes y asistentes recurrentes. El principal mecanismo para cumplir este objetivo será la organización de reuniones mensuales donde se genere interés por el lenguaje a través de dos conferencias cortas; una relacionada generalmente con un tema básico del lenguaje y la otra relacionada con un tema más avanzado.
+
+* Nuestro objetivo a mediano plazo es fortalecer las relaciones con la comunidad educativa de la ciudad estableciendo alianzas con las diferentes universidades de la región y generando una relación simbiótica con la academia de manera que los contenidos relacionados al lenguaje de programación Python puedan llegar más fácilmente a los diferentes miembros de la comunidad educativa del suroccidente colombiano.
+
+* Finalmente, y como largo plazo, nuestro objetivo es llegar a la próxima Python Convention Colombia como una comunidad reconocida en la región por contribuir de manera positiva a la sociedad caleña y por no solo crear espacios de enseñanza sino también de discusión y análisis alrededor del lenguaje de programación Python; acorde a la misión de la Python Software Foundation.

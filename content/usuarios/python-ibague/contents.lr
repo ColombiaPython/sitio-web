@@ -3,3 +3,11 @@ username: python-ibague
 name: Python Ibagué
 ---
 type: comunidad
+---
+facebook_handle: PythonIbague
+---
+information: Comunidad para la divulgación de herramientas de código abierto enfocada en el uso de Python.
+---
+twitter_handle: pythonibague
+---
+image: python-ibague.png

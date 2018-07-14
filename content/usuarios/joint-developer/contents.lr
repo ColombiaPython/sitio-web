@@ -1,9 +1,39 @@
 username: joint-developer
 ---
-name: Joint Developer
+name: JointDeveloper
 ---
-type: organizacion
+type: comunidad
 ---
 image: joint-dev-horizontal.png
 ---
 image_alt: joint-dev-horizontal.png
+---
+city: Pereira
+---
+country: Colombia
+---
+email: developerjoint@gmail.com
+---
+facebook_handle: jointdeveloper
+---
+github_handle: jointdeveloper
+---
+google_plus_handle: 113539795181089700851
+---
+information: Somos una comunidad que busca generar interés en la mujer en áreas  TI, apoyando y generando ambientes que promuevan su participación,  de tal manera creamos un espacio diverso que afecta de manera positiva a hombres y mujeres interesados en temas de tecnología e inclusión de género. Esta comunidad comparte conocimientos y recursos técnicos que ayudan a crear una red de intercambio con otras comunidades fortaleciendo nuestra formación y contribuyendo al desarrollo tecnológico de nuestra región.
+---
+instagram_handle: jointdeveloper
+---
+medium_handle: https://medium.com/@jointdeveloper
+---
+meetup_url: https://www.meetup.com/es/jointDeveloper/
+---
+province: Risaralda
+---
+summary: Comunidad y Semillero de Investigación de la Universidad Tecnológica de Pereira
+---
+twitter_handle: jointdev
+---
+web: http://www.jointdeveloper.com
+---
+linkedin_handle: jointdeveloper

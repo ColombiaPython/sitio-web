@@ -17,3 +17,38 @@ country: Colombia
 meetup_url: https://www.meetup.com/es/pythonbogota/
 ---
 province: Cundinamarca
+---
+information:
+
+Python Bogotá es una comunidad creada con el objetivo de agrupar a todos los interesados en el desarrollo en Python y su ecosistema, esto para conocer personas, compartir ideas, crear proyectos, aprender y pasar un rato agradable con personas con los mismos intereses.
+
+Esperamos que todas las personas que asisten a los eventos se comporten de acuerdo con el código de conducta de la DSF https://www.djangoproject.com/conduct/ (Si alguien tiene alguna duda sobre el código de conducta puede consultar con cualquiera de los organizadores).
+
+Como regla general, sé amable con todos los integrantes de la comunidad.
+---
+members:
+
+#### member ####
+username: jhonjairoroa87
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: rlaverde
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: casierrav
+----
+position: 
+----
+date_start: 
+----
+date_end: 

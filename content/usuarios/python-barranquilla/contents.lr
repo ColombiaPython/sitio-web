@@ -27,3 +27,32 @@ twitter_handle: pybaq
 web: http://pybaq.co/
 ---
 image: pybaq.jpg
+---
+information:
+
+Somos una comunidad de desarrolladores web, dev-ops, emprendedores y estudiantes. La mayoría de nosotros tenemos nuestros propios empresas mientras que los otros trabajamos en las empresas de estos compañeros. Otro grupo de djangonautas sigue en la universidad o siguen su propio camino abriendose paso en el mundo del emprendimiento o el freelance.
+
+Creada en el 2015 por Javier Daza, la idea inicial de la comunidad era reunirse para hablar y aprender sobre herramientas y nuevas tecnologías en Python y Django.
+
+Hoy en día la comunidad es un referente para otras comunidades en la ciudad, sino que también sirve para ayudar a encontrar empleo a los miembros que participan y se destacan activamente en las actividades que realizamos en la comunidad. Esperamos en un futuro lograr un impacto significativo en la ciudad y en el mundo.
+---
+members:
+
+#### member ####
+username: javierdaza
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: alelles16
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+summary: Somos una comunidad de desarrolladores web, dev-ops, emprendedores y estudiantes. Entusiastas en Python y Django ¡Están invitados!
