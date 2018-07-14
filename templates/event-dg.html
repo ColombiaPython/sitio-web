@@ -16,9 +16,9 @@
   <br />
   {%- if users -%}
   <h2>{{ title }}</h2>
-  <div class="row">
+  <div class="row justify-content-md-center">
   {%- for user in users -%}
-    <div class="col-md-3" style="max-width: {{ 100.0/items }}%;">
+    <div class="col-lg-3 col-md-3 col-xs-12">
 
       <a href="{{ user|url }}">
       {% if image_alt and user.image_alt %}
@@ -33,7 +33,10 @@
       </a>
 
       {% if extra %}
-      <span>{{ user.name }} {{ user.last_name }}</span>
+      <div class="row justify-content-md-center">
+        <h4>{{ user.name }} {{ user.last_name }}</h4>
+      </div>
+      <div class="row justify-content-md-center">
         <ul class="icons">
           {% if user.web %}
           <li>
@@ -72,6 +75,7 @@
           </li>
           {% endif %}
         </ul>
+      </div>
       {% endif %}
     </div>
     
@@ -172,7 +176,7 @@
 
 <section>
   <div class="content">
-    <div class="col-12-small">
+    <div class="col-12">
       {% if this.membrete %}
       <span class="image fit">
         <img src="{{ this|url(alt='es') }}{{ this.membrete }}" />
@@ -202,7 +206,7 @@
     </p>
 
     <div class="row">
-      <div class="col-7 col-6-medium col-12-small">
+      <div class="col-lg-7 col-md-6 col-sm-12 col-12">
         <h2>¡Es hora de aprender a programar!</h2>
         <p>
           El taller comienza por la mañana temprano en donde presentamos la dinámica, explicamos en pocos minutos como va a ser la
@@ -230,7 +234,7 @@
           y animar a más mujeres a trabajar con la programación. ¡Felicitaciones, lo has logrado!
         </p>
       </div>
-      <div class="col-5 col-6-medium col-12-small">
+      <div class="col-lg-5 col-md-6 col-sm-12">
         <span class="image fit">
           <img src="{{ this|url(alt='es') }}{{ this.image }}" />
         </span>
@@ -260,7 +264,7 @@
     Es el evento de programación en Python más grande del país.</p>
     {%- endif -%}
     <div class="row">
-      <div class="col-6 col-12-small"> 
+      <div class="col-lg-6 col-md-6 col-sm-12 col-12"> 
         <h3>Fecha:</h3>
         <p><b>
         {{ this.date_start|datetimeformat('EEEE', locale='es')|capitalize }}
@@ -271,7 +275,7 @@
         (¡puntual!) hasta las <b>{{ this.date_end|datetimeformat('HH:mm', locale='es') }}</b>.
         </p>
       </div>
-      <div class="col-6 col-12-small">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <h3>Lugar:</h3>
         <span>{{ this.location }}<span></br>
         <span>{{ this.city }}, {{ this.country }}</span>
@@ -297,7 +301,7 @@
 <section>
   <div class="content">
     <div class="row">
-      <div class="col-8 col-12-small">
+      <div class="col-lg-8 col-md-6 col-sm-12 col-12">
         <h2>Ten en cuenta que…</h2>
         <ul>
           <li>
@@ -351,7 +355,7 @@
         </ul>
       </div>
 
-      <div class="col-4 col-12-small">
+      <div class="col-lg-4 col-md-6 col-sm-12 col-12">
         <h2>Contacto</h2>
         <p>
         Cualquier duda que tengas sobre el taller, nos puedes escribir a
@@ -392,7 +396,7 @@
       {%- endif -%}
       <div class="row">
         {%- if date_close -%}
-        <div class="col-4 col-12-small">
+        <div class="col-lg-4 col-md-4 col-sm-12 col-12">
           <p>
           {%- if date_open -%}
           El <b>{{ date_open|dateformat('d') }} de
@@ -408,7 +412,7 @@
         {%- endif -%}
 
         {%- if date_announcement -%}
-        <div class="col-4 col-12-small">
+        <div class="col-lg-4 col-md-4 col-sm-12 col-12">
           <p>
           El <b>{{ date_announcement|dateformat('d') }} de
           {{ date_announcement|dateformat('MMMM')|capitalize }}</b> anunciaremos los
@@ -420,7 +424,7 @@
         </div>
         {%- endif -%}
         {%- if date_announcement_2 -%}
-        <div class="col-4 col-12-small">
+        <div class="col-lg-4 col-md-4 col-sm-12 col-12">
           <p>
           El <b>{{ date_announcement_2|dateformat('d') }} de
           {{ date_announcement_2|dateformat('MMMM')|capitalize }}</b> anunciaremos
@@ -448,17 +452,14 @@
       
       {%- if this.form_attendees -%}
       <div class="col-md-12">
-        <p class="text-center">
+        <div class="row justify-content-md-center">
           <a class="button primary large" href="{{ this.form_attendees }}"
             role="button" target="_blank">
             Quiero inscribirme!
           </a>
-        </p>
+        </div>
       </div>
       {%- endif -%}
-
-      <div class="col-md-12">
-      </div>
     </div>
   </div>
 </section>
@@ -484,12 +485,12 @@
     </p>
 
     {%- if this.form_guides -%}
-    <p class="text-center">
+    <div class="row justify-content-md-center">
       <a class="button primary large" href="{{ this.form_guides }}" role="button"
          target="_blank">
       Quiero inscribirme como guia
       </a>
-    </p>
+    </div>
     {%- endif -%}
   </div>
 </section>
