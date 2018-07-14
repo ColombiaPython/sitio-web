@@ -3,3 +3,60 @@ username: cusol-uis
 name: CUSOL UIS
 ---
 type: comunidad
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+facebook_handle: cusol
+---
+image: cusol-uis.png
+---
+information:
+
+CUSOL-UIS es una comunidad universitaria resultado de la unión de personas que comparten el gusto por el Software Libre. A mediados del 2005, estudiantes de la Universidad Industrial de Santader, motivados por el uso de tecnologías libres y principalmente por la filosofía, deciden iniciar el proyecto CUSOL-UIS, el cual empieza como una comunidad para la propagación y culturización de la sociedad local en el uso y ventajas de tecnologías de Software Libre, en este proceso la Comunidad ha desarrollado eventos que han permitido a la comunidad local espacios para socializar, conocer y debatir acerca de la filosofía y tecnologías del software libre y sus implicaciones en el panorama local, colombiano y mundial.
+
+## Misión
+
+CUSOL-UIS es una comunidad universitaria que promueve y difunde el Software Libre y la Cultura Libre, por medio de actividades académicas, educativas y de integración dentro y fuera de la Universidad Industrial de Santander.
+
+CUSOL-UIS busca resaltar la importancia de la libertad en la educación, mediante la enseñanza de herramientas y alternativas libres, así como la creación de espacios para socializar, conocer y debatir los principios e ideales de la Cultura Libre.
+
+## Visión
+
+CUSOL-UIS se proyecta como una grupo de extensión inter-disciplinario, con reconocimiento en la Universidad y en la ciudad, que preste apoyo a los estudiantes, mediante actividades académicas y culturales, así como la participación activa en proyectos de la Universidad
+---
+members:
+
+#### member ####
+username: rlaverde
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: dacostaortiz
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: wandarinca
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+province: Santander
+---
+summary: Comunidad Universitaria de Software Libre. Promovemos el Software y la Cultura Libre
+---
+twitter_handle: cusol_org
+---
+web: 
