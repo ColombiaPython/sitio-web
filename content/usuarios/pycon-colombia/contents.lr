@@ -30,6 +30,54 @@ position:
 date_start: 
 ----
 date_end: 
+#### member ####
+username: aerendon
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: javierdaza
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: marianvilla
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: miltonln
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: carogomezt
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: camigomez35
+----
+position: 
+----
+date_start: 
+----
+date_end: 
 ---
 country: Colombia
 ---
@@ -52,3 +100,5 @@ medium_handle: pyconcolombia
 twitter_handle: pyconcolombia
 ---
 web: https://www.python.org.co/pycon
+---
+information: Conferencia de Python en Colombia - PyCon Colombia es el evento que convoca a la comunidad de Latinoamŕica y el mundo, en su segunda versión que se realizará en Febrero del 9 al 11 de 2018 en Medellín
