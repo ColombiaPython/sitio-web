@@ -364,16 +364,18 @@
         </p>
     
         <div class="row">
-          <div class="col-12">
+          <div class="col-lg-12 col-md-12 col-sm-6 col-12">
             {%- for user in organizers_orgs -%}
             <a href="{{ user|url }}">
             {% if user.image_alt %}
             <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" />
-            {% else %}
-            <b>Falta agregar foto rectangular al organizador <i>{{ user.username }}</i></b>
-            <br>
-            {% endif %}
             </a>
+            {% else %}
+            <b>Falta agregar foto rectangular a <i>{{ user.username }}</i></b>
+            <br>
+            <br>
+            </a>
+            {% endif %}
             {% endfor %}
           </div>
         </div>

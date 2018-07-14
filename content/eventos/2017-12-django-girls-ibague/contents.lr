@@ -22,6 +22,10 @@ location_extra: Centro de Estudios de Ingenieria de Sistemas - Universidad Indus
 ---
 organizers:
 
+#### organization ####
+username: django-girls-colombia
+#### organization ####
+username: python-ibague
 #### user ####
 username: ellaquimica
 ----
