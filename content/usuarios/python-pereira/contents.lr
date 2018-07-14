@@ -32,6 +32,22 @@ position:
 date_start: 
 ----
 date_end: 
+#### member ####
+username: jotangutierrez
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: leiver-campeon
+----
+position: 
+----
+date_start: 
+----
+date_end: 
 ---
 city: Pereira
 ---
@@ -52,3 +68,9 @@ twitter_handle: pythonpereira
 web: http://pypereira.co/
 ---
 meetup_url: https://www.meetup.com/es/pythonpereira/
+---
+information: Comunidad creada con el objetivo de reunir a los usuarios desarrolladores y apasionados por Python y sus derivados, con el fin de crear y fortalecer una red de conocimiento que ayude con el progreso de la región.
+---
+facebook_group_handle: 
+---
+github_handle: pythonpereira
