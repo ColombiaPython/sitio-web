@@ -17,3 +17,13 @@ province: Boyacá
 image: python.jpg
 ---
 meetup_url: https://www.meetup.com/PythonTunja/
+---
+information:
+
+Python Tunja es un grupo para la divulgación de herramientas de código abierto enfocada en el uso de Python, librería afines, y Python para aplicaciones de investigación científica.
+
+También exploramos las ventajas de la colaboración y el uso de software libre y de código abierto.
+
+Python Tunja forma parte de una iniciativa de crear comunidades de desarrolladores de Python alrededor de toda Colombia
+---
+summary: Comunidad de Python en Tunja
