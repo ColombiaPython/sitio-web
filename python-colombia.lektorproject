@@ -24,3 +24,4 @@ target = ghpages+https://colombiapython/sitio-web-produccion?cname=www.python.or
 
 [packages]
 lektor-disqus-comments = 0.1
+lektor-google-analytics = 0.1.3
