@@ -158,7 +158,8 @@ a {
 
   a:hover {
     border-bottom-color: #28ABE3;
-    color: #28ABE3 !important;
+    color: #01579b !important;
+    text-decoration: none;
   }
 
     a:hover strong {
@@ -784,9 +785,9 @@ ul.icons li:last-child {
   padding-right: 0;
 }
 
-ul.icons li .icon {
+/* ul.icons li .icon {
   color: inherit;
-}
+} */
 
 ul.icons li .icon:before {
   font-size: 1.25em;
@@ -1846,10 +1847,6 @@ button:disabled,
   font-size: 1.125em;
 }
 
-#header .icons {
-  text-align: right;
-}
-
 @media screen and (max-width: 1680px) {
 
   #header {
@@ -2126,3 +2123,46 @@ button:disabled,
   color: #fff;
   width: 100%;
 }
+
+.line-footer {
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  border-bottom: solid 5px #28ABE3;
+  padding: 6em 0 1em 0;
+  position: relative;
+}
+
+#header .icons, #footer .icons {
+  text-align: right;
+}
+
+#footer h5 a {
+  color: #28ABE3 !important;
+}
+
+#footer h5 a:hover {
+  color: #01579b !important;
+}
+
+#footer a:hover {
+  text-decoration: none;
+}
+
+/* Colors */
+
+.red { color: #ff5722 }
+
+.email { color: #bdbdbd; }
+.email:hover { color: #919191 !important;}
+.github { color: #212121; }
+.github:hover { color: #616161 !important;}
+.facebook { color: #01579b; }
+.facebook:hover { color: #0288d1 !important;}
+.instagram { color: #673ab7; }
+.instagram:hover { color: #9575cd !important;}
+.medium { color: #b2ff59; }
+.medium:hover { color: #ccff90 !important;}
+.slack { color: #9c27b0; }
+.slack:hover { color: #ba68c8 !important;}
