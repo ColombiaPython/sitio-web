@@ -41,36 +41,6 @@
             <strong>Python Colombia</strong></a>
           <ul class="icons">
             <li>
-              <a href="mailto:colombiapython@gmail.com" target="blank_" class="icon fa-envelope">
-                <span class="label">Email</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.twitter.com/ColombiaPython" target="blank_" class="icon fab fa-twitter">
-                <span class="label">Twitter</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/ColombiaPython" target="blank_" class="icon fa-facebook">
-                <span class="label">Facebook</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/colombiapython/" target="blank_" class="icon fa-instagram">
-                <span class="label">Instagram</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://github.com/ColombiaPython" target="blank_" class="icon fa-github-alt">
-                <span class="label">Github</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://t.me/pythoncolombia" target="blank_" class="icon fa-telegram">
-                <span class="label">Telegram</span>
-              </a>
-            </li>
-            <li>
               {%- set extra_slash = '/' if this.path[-1] != '/' else '' -%}
               {%- set edit_link = 'https://github.com/ColombiaPython/sitio-web/edit/develop/content' + this.path.split('@')[0] + extra_slash + 'contents' + '.lr' -%}
               <a href="{{ edit_link }}" target="_blank">Editar en Github</span>
@@ -81,7 +51,67 @@
 
         <!-- Body -->
         {%- block body -%}{%- endblock -%}
-
+        <hr class="line-footer" />
+        <!-- Footer -->
+        <footer id="footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm">
+                <h5 class="copyright">Adoptamos el <a href="https://github.com/ColombiaPython/codigo-de-conducta" target="blank_">Código de Conducta</a> de <a href="http://colombia-dev.org/">Colombia Dev</a></h5>
+                <h5 class="copyright">Hecho con
+                  <span class="icon red fa-heart"></span>,
+                  <a href="https://www.python.org/" target="blank_">Python</a> y
+                  <a href="https://www.getlektor.com/" target="blank_">Lektor</a> en Colombia. Diseñado por:
+                  <a href="https://html5up.net" target="blank_">HTML5 UP</a></h5>
+              </div>
+              <div class="col-sm">
+                <ul class="icons">
+                  <li>
+                    <a href="mailto:colombiapython@gmail.com" target="blank_" class="icon email fa-envelope">
+                      <span class="label">Email</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.twitter.com/ColombiaPython" target="blank_" class="icon fab fa-twitter">
+                      <span class="label">Twitter</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.facebook.com/ColombiaPython" target="blank_" class="icon facebook fa-facebook">
+                      <span class="label">Facebook</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.instagram.com/colombiapython/" target="blank_" class="icon instagram fa-instagram">
+                      <span class="label">Instagram</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/ColombiaPython" target="blank_" class="icon github fa-github-alt">
+                      <span class="label">Github</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://t.me/pythoncolombia" target="blank_" class="icon fa-telegram">
+                      <span class="label">Telegram</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://medium.com/@pythoncolombia" target="blank_" class="icon medium fa-medium">
+                      <span class="label">Medium</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://python-colombia.slack.com/" target="blank_" class="icon slack fa-slack">
+                      <span class="label">Slack</span>
+                    </a>
+                  </li>
+                  <h4>2016 - 2018 © Python Colombia</h4>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </footer>
       </div>
     </div>
 
@@ -120,63 +150,6 @@
                 {% endfor -%}
           </ul>
         </nav>
-
-        <!-- Section -->
-        <!-- <section>
-          <header class="major">
-            <h2>Ante interdum</h2>
-          </header>
-          <div class="mini-posts">
-            <article>
-              <a href="#" class="image">
-                <img src="images/pic07.jpg" alt="" />
-              </a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-            <article>
-              <a href="#" class="image">
-                <img src="images/pic08.jpg" alt="" />
-              </a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-            <article>
-              <a href="#" class="image">
-                <img src="images/pic09.jpg" alt="" />
-              </a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-          </div>
-          <ul class="actions">
-            <li>
-              <a href="#" class="button">More</a>
-            </li>
-          </ul>
-        </section> -->
-
-        <!-- Section -->
-        <!-- <section> -->
-          <!-- <header class="major">
-            <h2>Get in touch</h2>
-          </header>
-          <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
-            Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p> -->
-          <!-- <ul class="contact">
-            <li class="fa-envelope">
-              <a href="mailto:colombiapython@gmail.com">colombiapython@gmail.com</a>
-            </li>
-            <li class="fa-home">1234 Somewhere Road #8254
-              <br /> Nashville, TN 00000-0000</li>
-          </ul>
-        </section> -->
-
-        <!-- Footer -->
-        <footer id="footer">
-          <p class="copyright">Hecho con <span class="icon fa-heart"></span>, 
-          <a href="https://www.python.org/">Python</a> y
-          <a href="https://www.getlektor.com/">Lektor</a> en Colombia.</h6> Diseñado por:
-            <a href="https://html5up.net">HTML5 UP</a>.</p>
-        </footer>
-
       </div>
     </div>
 
@@ -191,7 +164,6 @@
   <script src="{{ base_url }}static/js/main.js"></script>
   
   {%- endblock %}
-
 
 </body>
 
