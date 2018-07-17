@@ -1,12 +1,14 @@
 # Sitio Web de la Comunidad de Python Colombia
 
+[![Build Status](https://travis-ci.org/ColombiaPython/sitio-web.svg?branch=develop)](https://travis-ci.org/ColombiaPython/sitio-web)
+
 Este es el repositorio del sitio web de la comunidad servido por
 [Github](https://colombiapython.github.io/sitio-web-desarrollo/), y
-construido utilizando [lektor](https://www.getlektor.com). Se utilizó la plantilla [BINGO](http://demo.themefisher.com/themefisher/bingo/index-text.html) como base.
+construido utilizando [lektor](https://www.getlektor.com). Se utilizó la plantilla [Editorial](https://html5up.net/editorial) como base.
 
 # Flujo de trabajo
 
-Hay 2 ramas de git, `develop` and `production`.
+Hay 2 ramas de git, `develop` y `production`.
 
 ## Develop
 
