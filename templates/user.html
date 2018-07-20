@@ -8,7 +8,7 @@
         {% if this.image %}
         <img class="image fit" src="{{ this.image }}" alt="{{ this.username }}">
         {% endif %}
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-center">
           <h2>{{ this.name }} {{ this.last_name }}</h2>
         </div>
         <p>{{ this.summary }}</p>
@@ -18,7 +18,7 @@
         </a></p>
         {% endif %}
 
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-center">
           <ul class="icons">
             {% if this.email %}
             <li>
@@ -95,7 +95,7 @@
       <div class="col-12">
         <h2>Equipo Organizador</h2>
 
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-center">
         {%- for block in this.members.blocks -%}
         {%- set user = site.get('/usuarios/' + block.username) -%}
           <div class="col-lg-3 col-md-3 col-xs-12">
@@ -108,10 +108,10 @@
               <img class="image fit" src="{{ base_url }}static/images/empty-avatar.png" alt="{{ user.username }}" /> {% endif %}
             </a>
           
-            <div class="row justify-content-md-center">
+            <div class="row justify-content-center">
               <h4>{{ user.name }} {{ user.last_name }}</h4>
             </div>
-            <div class="row justify-content-md-center">
+            <div class="row justify-content-center">
               <ul class="icons">
                 {% if user.web %}
                 <li>

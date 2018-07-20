@@ -11,7 +11,7 @@
      {% set user = site.get('/usuarios/' + author_blk.username + '/') %} {{ user.name }} {{ user.last_name }}{% if not loop.last
       %},&nbsp{% endif %} {% endfor %} {% endif %}</h4>
   <p>{{ post.summary }}</p>
-  <div class="row justify-content-md-center">
+  <div class="row justify-content-center">
     <ul class="actions">
       <li>
         <a href="{{ post|url }}" class="button">Leer más</a>

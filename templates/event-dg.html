@@ -16,7 +16,7 @@
   <br />
   {%- if users -%}
   <h2>{{ title }}</h2>
-  <div class="row justify-content-md-center">
+  <div class="row justify-content-center">
   {%- for user in users -%}
     <div class="col-lg-3 col-md-3 col-xs-12">
 
@@ -33,10 +33,10 @@
       </a>
 
       {% if extra %}
-      <div class="row justify-content-md-center">
+      <div class="row justify-content-center">
         <h4>{{ user.name }} {{ user.last_name }}</h4>
       </div>
-      <div class="row justify-content-md-center">
+      <div class="row justify-content-center">
         <ul class="icons">
           {% if user.web %}
           <li>
@@ -454,7 +454,7 @@
       
       {%- if this.form_attendees -%}
       <div class="col-md-12">
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-center">
           <a class="button primary large" href="{{ this.form_attendees }}"
             role="button" target="_blank">
             Quiero inscribirme!
@@ -487,7 +487,7 @@
     </p>
 
     {%- if this.form_guides -%}
-    <div class="row justify-content-md-center">
+    <div class="row justify-content-center">
       <a class="button primary large" href="{{ this.form_guides }}" role="button"
          target="_blank">
       Quiero inscribirme como guia
