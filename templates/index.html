@@ -59,9 +59,11 @@
 	<div class="content">
 		<p>Bienvenido a la sección de noticias y publicaciones de la comunidad!</p>
 	</div>
-	<div class="posts">
-		 {%- set blogs = site.query('/blog', alt=this.alt).limit(3) -%} {% for post in blogs %} {# Ignore categories #} {% if post._model
-		== 'blog-post' %} {{ render_blog_post(post, from_index=true) }} {% endif %} {% endfor %}
+	<div class="row">
+		<div class="row row-eq-height">
+			{%- set blogs = site.query('/blog', alt=this.alt).limit(3) -%} {% for post in blogs %} {# Ignore categories #} {% if post._model
+		 == 'blog-post' %} {{ render_blog_post(post, from_index=true) }} {% endif %} {% endfor %}
+		</div>
 	</div>
 </section>
 {% endblock %}

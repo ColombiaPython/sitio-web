@@ -12,7 +12,7 @@
   <div class="content">
     <p>Bienvenido a la seccion de noticias y publicaciones de la comunidad!</p>
   </div>
-  <div class="posts">
+  <div class="row">
      {% for child in this.pagination.items %} {# Ignore categories #} {% if child._model == 'blog-post' %} {{ render_blog_post(child,
     from_index=true) }} {% endif %} {% endfor %}
   </div>
