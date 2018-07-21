@@ -1,4 +1,4 @@
-_model: page
+_model: conference
 ---
 title: Conferencia
 ---
@@ -7,54 +7,3 @@ body:
 ## ¿Qué es PyCon Colombia?
 
 Conferencia anual Colombiana que reúne profesionales, entusiastas y aprendices del lenguaje de programación python que asisten a charlas y talleres dictados por expertos de talla mundial.
-
-## 
-
-### [PyCon Colombia 2019 (Expectativa)](http://pycon.co)
-
-* **Ciudad:** Por definir
-* **Anfitrión:** Por definir
-* 3 Días de conferencias 
-* 450 Asistentes 
-* 10 patrocinadores
-* 5 partners
-* 70 Voluntarios 
-* 8 Oradores internacionales 
-* 50 Conferencistas 
-* 20 Talleristas 
-* 30 Charlas
-* 20 Becas
-
-
-### [PyCon Colombia 2018](http://2018.pycon.co)
-
-* **Ciudad:** Medellín
-* **Anfitrión:** Universidad EAFIT
-* 3 Días de conferencias 
-* 311 Asistentes 
-* 6 patrocinadores, partners
-* 60 Voluntarios 
-* 10 Países participantes 
-* 7 Oradores internacionales 
-* 45 Conferencistas 
-* 14 Talleristas 
-* 31 Charlas
-* 8 Becas
-
-### [PyCon Colombia 2017](http://2017.pycon.co)
-
-* **Ciudad:** Bogotá
-* **Anfitrión:** Universidad Santo Tomás
-* 2 Días de conferencias 
-* 209 Asistentes 
-* 4 patrocinadores
-* 40 Voluntarios 
-* 9 Países participantes 
-* 4 Oradores internacionales 
-* 28 Conferencistas 
-* 6 Talleristas 
-* 32 Charlas
-
-
----
-banner: pycon19.PNG

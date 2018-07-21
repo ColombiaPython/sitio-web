@@ -1,0 +1,128 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+
+{%- if this.banner -%}
+  {%- set banner = this|url+this.banner -%}
+{%- else -%}
+  {%- set banner = '/'|url+'static/images/banner.jpg' -%}
+{%- endif -%}
+
+<section>
+  <div class="content">
+    <!-- <h1>{{ this.title }}</h1>
+    <span class="image fit">
+      <img src="{{ banner }}" alt="">
+    </span> -->
+
+    <div class="image fit banner">
+      <img src="{{ banner }}" alt="Banner" />
+      <div class="banner-title">
+        <div class="banner-text">
+          <h1>{{ this.title }}</h1></div>
+        </div>
+    </div>
+  
+    {%- set crumbs = [] -%}
+    {%- set current = {'crumb': this} -%}
+    {%- for i in this._path.split("/") -%}
+        {%- if current.crumb is not none -%}
+            {%- if crumbs.insert(0, current.crumb) -%}{%- endif -%}
+            {%- if current.update({"crumb": current.crumb.parent}) -%}{%- endif -%}
+        {%- endif -%}
+    {%- endfor %}
+    {%- for crumb in crumbs %}
+        {%- if this._path == crumb._path -%}
+            {%- set last_name = crumb.last_name if crumb.last_name else '' -%}
+            {%- set name = crumb.title if crumb.title else crumb.name + ' ' + last_name -%}
+            > {{ name }}
+        {%- else -%}
+            <a href="{{ crumb|url }}">{{ crumb.title }} </a>
+        {%- endif -%}
+    {%- endfor -%}
+  </div>
+</section>
+
+<section>
+  <div class="row">
+    {%- block content -%}
+    <div class="image fit">
+      <img src="{{ this.image }}" alt="Imagen PyCon" />
+    </div>
+
+    <div class="col-6">
+      <dl>
+        <dt>Lugar</dt>
+        <dd>
+          <p>{{ this.venue }}</p>
+        </dd>
+        <dt>Ciudad</dt>
+        <dd>
+          <p>{{ this.city }}</p>
+        </dd>
+        <dt>Días de Conferencia</dt>
+        <dd>
+          <p>{{ this.date }}</p>
+        </dd>
+        <dt>Asistentes</dt>
+        <dd>
+          <p>{{ this.assistants }}</p>
+        </dd>
+        <dt>Patrocinadores</dt>
+        <dd>
+          <p>{{ this.sponsors }}</p>
+        </dd>
+        <dt>Partners</dt>
+        <dd>
+          <p>{{ this.partners }}</p>
+        </dd>
+        <dt>Voluntarios</dt>
+        <dd>
+          <p>{{ this.volunteers }}</p>
+        </dd>
+      </dl>
+    </div>
+    <div class="col-6">
+      <dl>
+        <dt>Países Participantes</dt>
+        <dd>
+          <p>{{ this.countries }}</p>
+        </dd>
+        <dt>Oradores Internacionales</dt>
+        <dd>
+          <p>{{ this.keynotes }}</p>
+        </dd>
+        <dt>Conferencistas</dt>
+        <dd>
+          <p>{{ this.speakers }}</p>
+        </dd>
+        <dt>Talleristas</dt>
+        <dd>
+          <p>{{ this.worshop }}</p>
+        </dd>
+        <dt>Charlas</dt>
+        <dd>
+          <p>{{ this.talks }}</p>
+        </dd>
+        <dt>Becas</dt>
+        <dd>
+          <p>{{ this.scholarships }}</p>
+        </dd>
+      </dl>
+    </div>
+    <div class="col-md-12 col-sm-12 col-xs-12">
+      {% if this.url %}
+      <div class="content">
+      
+        <div class="row justify-content-center">
+          <a href="{{ this.url }}" target="blank_" class="large button primary big">Más información</a>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+    {%- endblock -%}
+  </div>
+</section>
+<section>
+</section>
+{% endblock %}
