@@ -1,4 +1,4 @@
-_model: page
+_model: about
 ---
 title: Sobre Nosotros
 ---
@@ -11,5 +11,26 @@ Somos una comunidad enfocada en extender en el territorio nacional el uso y apre
 Nuestra comunidad está conformada por personas con diferentes niveles de conocimiento siempre dispuestas a aprender y compartir nuestro saber mostrando una gran empatía y respeto hacia los demás.
 
 Siempre motivados a crecer mucho más y totalmente comprometidos a promover la diversidad y la inclusión en cada una de nuestras actividades y eventos.
+---
+team:
 
-
+#### user ####
+username: aerendon
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: javierdaza
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: jhonjairoroa87
+----
+description: 

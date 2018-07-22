@@ -1,0 +1,42 @@
+#mapid ul {
+    padding: 0;
+}
+
+#mapid li {
+    list-style-type: none;
+}
+
+#mapid .icon {
+    width: 20px;
+    height: auto;
+}
+
+#mapid .leaflet-popup-content-wrapper {
+    border-radius: 0;
+}
+
+#mapid a {
+    text-decoration: none;
+}
+
+#mapid a:hover {
+    text-shadow: 0 0 30px #000;
+}
+
+#mapid img {
+    vertical-align: middle; /* | top | bottom */
+}
+
+#mapid div ul li p {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 5px;
+}
+
+#mapid p {
+    margin: 0;
+}
+
+#mapid .leaflet-popup-content p {
+    margin: 5px;
+}
