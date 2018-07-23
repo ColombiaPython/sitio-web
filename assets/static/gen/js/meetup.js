@@ -138,6 +138,11 @@ function meetups() {
         "icon": "pyladies",
         "name": "PyLadies Medell\u00edn",
         "url": "/usuarios/pyladies-medellin"
+      },
+      {
+        "icon": "python",
+        "name": "Python Medell\u00edn",
+        "url": "/usuarios/python-medellin"
       }
     ]
   },
@@ -173,11 +178,6 @@ function meetups() {
       -72.49669
     ],
     "meetups": [
-      {
-        "icon": "python",
-        "name": "Python Medell\u00edn",
-        "url": "/usuarios/python-medellin"
-      },
       {
         "icon": "python",
         "name": "Python Pereira",
