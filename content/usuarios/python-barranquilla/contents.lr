@@ -56,3 +56,5 @@ date_start:
 date_end: 
 ---
 summary: Somos una comunidad de desarrolladores web, dev-ops, emprendedores y estudiantes. Entusiastas en Python y Django ¡Están invitados!
+---
+map: yes

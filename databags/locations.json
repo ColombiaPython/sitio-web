@@ -1,0 +1,59 @@
+{
+  "colombia": {
+    "antioquia": {
+      "medellin": [6.244203, -75.581212]
+    },
+    "arauca": {
+      "arauca": [7.080259, -70.710689]
+    },
+    "atlantico": {
+      "barranquilla": [11.004107, -74.806981]
+    },
+    "bolivar": {
+      "cartagena": [6.547306, -71.002231]
+    },
+    "boyaca": {
+      "tunja": [5.544642, -73.357557]
+    },
+    "caldas": {
+      "manizales": [5.070275, -75.513817]
+    },
+    "cauca": {
+      "popayan": [2.444814, -76.614739]
+    },
+    "cundinamarca": {
+      "bogota": [4.710989, -74.072092]
+    },
+    "huila": {
+      "neiva": [2.934484, -75.280900]
+    },
+    "magdalena": {
+      "santa marta": [11.240355, -74.211023]
+    },
+    "meta": {
+      "villavicencio": [4.151382, -73.637690]
+    },
+    "narino": {
+      "pasto": [1.205884, -77.285787]
+    },
+    "norte de santander": {
+      "cucuta": [7.889097, -72.496690]
+    },
+    "risaralda": {
+      "pereira": [7.889097, -72.496690]
+    },
+    "santander": {
+      "bucaramanga": [7.119349, -73.122742]
+    },
+    "sucre": {
+      "sincelejo": [9.304577, -75.390557]
+    },
+    "tolima": {
+      "ibague": [4.448269, -75.242439]
+    },
+    "valle del cauca": {
+      "cali": [3.451647, -76.531985],
+      "tulua": [4.089869, -76.191499]
+    }
+  }
+}
