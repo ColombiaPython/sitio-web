@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
-"""This is a custom local plugin to ad extra functionality to pybee site."""
+"""Custom plugin to add extra functionality to the Python Colombia site."""
 
 # Standard library imports
 from collections import OrderedDict
+import os
 import sys
 
-# Third party imports
+# Local imports
 from lektor.pluginsystem import Plugin
-
+from lektor.utils import portable_popen
 
 PY3 = sys.version_info[0] == 3
 
@@ -15,6 +16,16 @@ PY3 = sys.version_info[0] == 3
 class PythonColombiaPlugin(Plugin):
     name = 'Python Colombia Custom Lektor Plugin'
     description = 'This is a custom local plugin to add extra functionality.'
+
+    def on_after_build_all(self, *args, **kwargs):
+
+        def run_map_generation_script():
+            """Run the map generation script located at `/scripts/map.py`."""
+            scripts_root = os.path.join(self.env.root_path, 'scripts')
+            args = [sys.executable, os.path.join(scripts_root, 'map.py')]
+            portable_popen(args, cwd=scripts_root).communicate()
+
+        run_map_generation_script()
 
     def on_setup_env(self, **extra):
 

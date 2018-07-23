@@ -19,3 +19,5 @@ meetup_url: https://www.meetup.com/comunidad-python-popayan/
 facebook_handle: pypopayan
 ---
 information: Comunidad de pythonistas de popayan, no solo desarrolladores, tambien emprendedores y curiosos en general!!
+---
+map: yes

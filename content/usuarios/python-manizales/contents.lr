@@ -9,3 +9,11 @@ facebook_handle: manizalescodesinpython
 image: python-manizales.png
 ---
 information: Comunidad de Python en la ciudad de Manizales
+---
+map: yes
+---
+city: Manizales
+---
+country: Colombia
+---
+province: Caldas

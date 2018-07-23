@@ -30,13 +30,13 @@ https://colombiapython.github.io/sitio-web-produccion/
 
 ### Usando pip:
 ```
-$ pip install -U Lektor
+$ pip install -U Lektor unidecode
 ```
 
 ### Usando conda:
 
 ```
-$ conda install lektor -c conda-forge
+$ conda install lektor unidecode -c conda-forge
 ```
 
 ## Instala (reinstala) los `plugins` locales
