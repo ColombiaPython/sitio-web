@@ -174,8 +174,8 @@ function meetups() {
   },
   "Pereira": {
     "coord": [
-      7.889097,
-      -72.49669
+      4.8087174,
+      -75.690601
     ],
     "meetups": [
       {
