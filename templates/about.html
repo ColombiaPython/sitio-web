@@ -1,0 +1,140 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+
+{%- if this.banner -%}
+  {%- set banner = this|url+this.banner -%}
+{%- else -%}
+  {%- set banner = '/'|url+'static/images/banner.jpg' -%}
+{%- endif -%}
+
+<section>
+  <div class="content">
+    <!-- <h1>{{ this.title }}</h1>
+    <span class="image fit">
+      <img src="{{ banner }}" alt="">
+    </span> -->
+
+    <div class="image fit banner">
+      <img src="{{ banner }}" alt="Banner" />
+      <div class="banner-title">
+        <div class="banner-text">
+          <h1>{{ this.title }}</h1></div>
+        </div>
+    </div>
+  
+    {%- set crumbs = [] -%}
+    {%- set current = {'crumb': this} -%}
+    {%- for i in this._path.split("/") -%}
+        {%- if current.crumb is not none -%}
+            {%- if crumbs.insert(0, current.crumb) -%}{%- endif -%}
+            {%- if current.update({"crumb": current.crumb.parent}) -%}{%- endif -%}
+        {%- endif -%}
+    {%- endfor %}
+    {%- for crumb in crumbs %}
+        {%- if this._path == crumb._path -%}
+            {%- set last_name = crumb.last_name if crumb.last_name else '' -%}
+            {%- set name = crumb.title if crumb.title else crumb.name + ' ' + last_name -%}
+            > {{ name }}
+        {%- else -%}
+            <a href="{{ crumb|url }}">{{ crumb.title }} </a>
+        {%- endif -%}
+    {%- endfor -%}
+  </div>
+</section>
+
+<section>
+  <div class="content">
+    <header>
+      <div class="row justify-content-center">
+        <img src="{{ '/'|url }}static/images/about-us.jpg" class="img-thumbnail" alt="">
+      </div>
+      <h4 class="text-center">Somos una Comunidad de Desarrollo Tecnológico</h4>
+    </header>
+    {%- block content -%}
+      {{ this.body }}
+    {%- endblock -%}
+  </div>
+</section>
+
+{# <section>
+  {%- if this.team -%}
+  <div class="row">
+    <div class="col-12">
+      <div>
+        <h2>Equipo Organizador</h2>
+      </div>
+  
+      <div class="row justify-content-center">
+        {%- for block in this.team.blocks -%}
+        {%- set user = site.get('/usuarios/' + block.username) -%}
+        <div class="col-lg-3 col-md-3 col-xs-12">
+  
+          <a href="{{ user|url }}">
+            {% if image_alt and user.image_alt %}
+            <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" /> {% elif not image_alt and user.image %}
+            <img class="image fit" src="{{ user|url }}/{{ user.image }}" alt="{{ user.username }}" /> {% elif image_alt and not user.image_alt %}
+            <img class="image fit" src="{{ base_url }}static/images/empty-2x1.png" alt="{{ user.username }}" /> {% elif not image_alt and not user.image %}
+            <img class="image fit" src="{{ base_url }}static/images/empty-avatar.png" alt="{{ user.username }}" /> {% endif %}
+          </a>
+  
+          <div class="row justify-content-center">
+            <h4>{{ user.name }} {{ user.last_name }}</h4>
+          </div>
+          <div class="row justify-content-center">
+            <ul class="icons">
+              {% if user.web %}
+              <li>
+                <a href="{{ user.web }}" class="icon fa-globe" target="_blank">
+                  <span class="label">Website</span>
+                </a>
+              </li>
+              {% endif %} {% if user.email %}
+              <li>
+                <a href="mailto:{{ user.email }}" class="icon fa-envelope" target="_blank">
+                  <span class="label">Email</span>
+                </a>
+              </li>
+              {% endif %} {% if user.facebook_handle %}
+              <li>
+                <a href="https://facebook.com/{{ user.facebook_handle}}" class="icon fa-facebook" target="_blank">
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+              {% endif %} {% if user.twitter_handle %}
+              <li>
+                <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              {% endif %} {% if user.github_handle %}
+              <li>
+                <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
+                  <span class="label">Github</span>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {%- endif -%}
+</section> #}
+
+<section>
+  <div class="row justify-content-center">
+    <h2>Comunidades de Python en Colombia</h2>
+  </div>
+  <p>Las siguientes son las comunidades Python a lo largo del territorio colombiano</p>
+  <div id="containerMap">
+    <div id="mapid"></div>
+  </div>
+  <blockquote>
+    <a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Código Fuente</a>. Sobre <a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Comunidades Python Colombia</a>
+    </ul>
+  </blockquote>
+</section>
+{% endblock %}

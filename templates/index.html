@@ -6,48 +6,46 @@
 <section id="banner">
 	<div class="content">
 		<div class="row">
-			<div class="col-md-6 col-sm-12 col-xs-12">
+			<div class="col-xs-12">
 				<header>
-					<h1>Python Colombia</h1>
-					<p>Somos una Comunidad
-					<br>de Desarrollo Tecnológico</p>
+					<div class="row justify-content-center">
+						<img src="{{ '/'|url }}static/images/about-us.jpg" class="img-thumbnail" alt="">
+					</div>
+					<h4 class="text-center">Somos una Comunidad de Desarrollo Tecnológico</h4>
 				</header>
+				<div class="row">
+					{{ this.body }}
+				</div>
 				<div class="row justify-content-center">
 					<ul class="actions">
 						<li>
-							<a href="#about" class="button primary big">Sobre Nosotros</a>
-						</li>
-						<li>
-							<a href="/contacto/" class="button primary big">Más información</a>
+							<a href="/sobre-nosotros/" class="button primary big">Más información</a>
 						</li>
 					</ul>
 				</div>
 			</div>
+		</div>
+		<div class="row">
 			<div class="col-md-6 col-sm-12 col-xs-12">
-				<img src="{{ '/'|url }}static/images/slider/pycon-colombia-2018.jpg" alt="" class="img-fluid rounded" />
+				<div id="containerMap">
+					<div id="mapid"></div>
+				</div>
+				<blockquote>
+					<a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Código Fuente</a>. Sobre
+					<a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Comunidades Python Colombia</a>
+					</ul>
+				</blockquote>
 			</div>
-		</div>
-	</div>
-</section>
-<section class="about" id="about">
-  <div class="content">
-		<h2>Sobre Nosotros</h2>
-  	<div class="row">
-			<div class="col-md-6 col-sm-12 col-12">
-				<p>Somos una comunidad enfocada en extender en el territorio nacional el uso y aprendizaje de las distintas tecnologías python y sus numerosas aplicaciones.</p>
-				<p>Nuestra comunidad está conformada por personas con diferentes niveles de conocimiento siempre dispuestas a aprender y compartir nuestro saber mostrando una gran empatía y respeto hacia los demás.</p>
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<div class="row justify-content-center">
+					<h4>Eventos Destacados</h4>
+				</div>
+				<ul>
+					{% for event in site.query('/eventos/') %}
+					<li><a href="{{ event|url }}">{{ event.title }} ({{ event.date_start|dateformat('YYYY/MM/dd') }})</a></li>
+					{% endfor %}
+				</ul>
 			</div>
-			<div class="col-md-6 col-sm-12 col-12">
-				<img src="{{ '/'|url }}static/images/about-us.jpg" class="img-thumbnail" alt="">
-			</div>
-		</div>
-		<p>Siempre motivados a crecer mucho más y totalmente comprometidos a promover la diversidad y la inclusión en cada una de nuestras actividades y eventos.</p>
-		<div class="row justify-content-center">
-			<ul class="actions">
-				<li>
-					<a href="/sobre-nosotros/" class="button primary big">Más información</a>
-				</li>
-			</ul>
 		</div>
 	</div>
 </section>
