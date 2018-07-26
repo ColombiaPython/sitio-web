@@ -30,3 +30,5 @@ province: Nariño
 meetup_url: https://www.meetup.com/Pasto-Python/
 ---
 information: Grupo de desarrolladores en Python, apasionados por el lenguaje y con ganas de aprender cada dia
+---
+map: yes

@@ -17,3 +17,5 @@ province: Huila
 image: python.jpg
 ---
 information: Grupo para la divulgación de herramientas de código abierto, enfocado específicamente en el uso de Python, librería afines, y Python para aplicaciones de investigación científica. También exploraremos las ventajas de la colaboración y el uso de software libre y de código abierto. Este grupo forma parte de una iniciativa para darle la importancia que merece el desarrollo y programación en código abierto y libre en Neiva (Colombia).
+---
+map: yes

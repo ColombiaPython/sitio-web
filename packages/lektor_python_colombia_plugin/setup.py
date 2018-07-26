@@ -5,6 +5,12 @@
 from setuptools import setup
 
 
+requirements = [
+   'Lektor',
+   'unidecode',
+]
+
+
 setup(
     name='lektor-python-colombia-plugin',
     author='Gonzalo Peña-Castellanos',
@@ -13,7 +19,7 @@ setup(
     version='0.1',
     license='MIT',
     py_modules=['lektor_python_colombia_plugin'],
-    install_requires=['Lektor'],
+    install_requires=requirements,
     entry_points={
         'lektor.plugins': [
             'python-colombia-plugin = lektor_python_colombia_plugin:PythonColombiaPlugin',

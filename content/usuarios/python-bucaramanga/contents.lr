@@ -52,9 +52,9 @@ information:
 Comunidad para la divulgación de herramientas de código abierto enfocado en [Python](https://www.python.org/), aplicaciones de investigación científica y desarrollo de código abierto en la ciudad de Bucaramanga.
 
 Una vez al mes tenemos un taller o charla sobre diferentes temas, y el resto de Jueves de cada mes nos reunimos en el Vivelab de Bucaramanga para hacer un laboratorio de Python - [PyLab](http://pybuc.org), donde todos los usuarios de Python  (de cualquier nivel) son bienvenidos para resolver dudas sobre proyectos personales.
-
-
 ---
 meetup_url: https://www.meetup.com/es/PythonBucaramanga/
 ---
 summary: Somos una comunidad de desarrollo tecnológico en el área metropolitana de Bucaramanga
+---
+map: yes

@@ -18,4 +18,12 @@ meetup_url:
 ---
 web: https://argentinaenpython.com/
 ---
+<<<<<<< HEAD
 image: 
+=======
+image: joha-cuadrada.jpg
+---
+information: Aprendiz de programación y científica en transición. Enamorada de la comunidad Python Argentina. Motivadora de científicos anticuados y niños en edad de reproducción neuronal mediante el proyecto [Química & Nómada](https://quimicanomada.wordpress.com/).
+---
+summary: Química apasionada e inquieta!
+>>>>>>> ecd5fa04b01ea88fd731c67655205c31e25295b6
