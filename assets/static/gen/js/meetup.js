@@ -78,8 +78,8 @@ function meetups() {
   },
   "Cartagena": {
     "coord": [
-      6.547306,
-      -71.002231
+      10.3910485,
+      -75.4794257
     ],
     "meetups": [
       {
