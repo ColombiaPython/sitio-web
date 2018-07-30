@@ -1,6 +1,23 @@
 {% extends "page.html" %}
 
 
+
+{%- macro create_events(title, events) %}
+  {%- if events %}
+    <div class="row">
+      <div class="col-12">
+        <h2>{{ title }}</h2>
+        <ul>
+        {%- for event in events %}
+        <li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }}</a></li>
+        {%- endfor %}
+        </ul>
+      </div>
+    </div>
+  {%- endif %}
+{%- endmacro %}
+
+
 {%- macro organizing_team(title, usernames) %}
   {%- if usernames %}
     <div class="row">
@@ -155,6 +172,7 @@
         </div>
       </div>
     </div>
+
     {%- if this.members -%}
     {% set current_members = [] %}
     {% set past_members = [] %}
@@ -172,6 +190,21 @@
     {{ organizing_team('Equipo Organizador Actual', current_members) }}
     {{ organizing_team('Antiguos Colaboradores', past_members) }}
     {%- endif -%}
+
+  {%- if this.type == 'comunidad' and this.map -%}
+    {%- set events = site.query('/eventos/') -%}
+    {%- set events_organized_by_this = [] -%}
+    {%- for event in events -%}
+      {%- for block in event.organizers.blocks -%}
+      {%- if block.username == this.username -%}
+        {%- set _ = events_organized_by_this.append(event) -%}
+      {% endif -%}
+      {% endfor -%}
+    {%- endfor -%}
+    
+    {{ create_events('Eventos', events_organized_by_this) }}
+  {% endif -%}
+
   </div>
 </section>
 {% endblock %}

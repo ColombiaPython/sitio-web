@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/09/2-charlas-mejores-practicas-e-internet-de-las-cosas-python
+---
+title: 2 Charlas: Mejores prácticas e Internet de las cosas (Python)
+---
+information: 
+<p>Hay dos charlas (un principiante y un avanzado) por este Meetup.</p> <p>19:00-19:30: Networking</p> <p>19:30-20:15: Nombre de la Charla: Mejores prácticas para Python (Principiante)</p> <p>Presentador: Daniel Velez</p> <p>20:15-21:00: Nombre de la Charla: Protocoles y formatos para el Internet de las cosas en Python (Avanzado)</p> <p>Presentador: Francisco Piedrahita</p> <p>Descripción: Cuando se tiene una interconexión de muchos nodos entre dispositivos en redes no confiables es necesario optimizar recursos, es por esto que tecnologías como HTTP y JSON quedan fuera de este margen, es por esto que se explicaran tecnologías alterna como son MQTT y los Protocol Buffers.</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/224663561/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57145690917969
+---
+latitude: 6.209054946899414
+---
+location: Atom House Medellín. Calle 8 # 43a-­49
+---
+date_start: 2015-09-23 19:00 -0500
+---
+date_end: 2015-09-23 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/08/deployment-de-django-usando-ansible
+---
+title: Deployment de django usando ansible
+---
+information: 
+<p><img src="http://photos2.meetupstatic.com/photos/event/d/2/b/d/600_440813949.jpeg" /></p> <p>En esta charla exploraremos una alternativa profesional para montar entornos productivos de django. Con Ansible se garantiza la repetibilidad y se tiene un control detallado de las tareas de deploy para crear un stack completo(nginx + gunicorn + django).</p> <p>Ansible es una herramienta de automatización de tareas de aprovisionamiento de infraestructura open source escrita en python y funciona a través de sencillos archivos en formato YAML.</p> <p>Presentado por Felipe Montoya, ingeniero mecatrónico de la Universidad Nacional, y desde el año 2010 dedicado al software. Empezó desarrollando software corporativo en Java y poco después migro a la web cuando empezo a trabajar primero con tecnologías de front y eventualmente django para backend. </p> <p>Desde 2013 dirije el desarrollo en eduNEXT, una empresa que ofrece la tecnología de OpenEdx como servicio. OpenEdx es la plataforma que permite dictar cursos en el sitio web <a href="http://edx.org/">edx.org</a>.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/223394630/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.11273193359375
+---
+latitude: 4.668805122375488
+---
+location: ViveLab Bogotá. ViveLab Bogotá: Señal Colombia - Avenida El Dorado - Cra 45 #26 - 33
+---
+date_start: 2015-08-14 19:00 -0500
+---
+date_end: 2015-08-14 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

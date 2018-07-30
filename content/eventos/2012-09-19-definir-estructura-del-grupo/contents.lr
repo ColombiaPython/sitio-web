@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2012/09/definir-estructura-del-grupo
+---
+title: Definir estructura del grupo
+---
+information: 
+<p>Objetivos:<br/>- Exponer el esquema de reuniones sugerido por la DSF<br/>- Concretar los organizadores del grupo<br/>- Definir los esquemas de patrocinio</p> <p>Tenemos que definir el sitio, donde podamos sentarnos y conversar tranquilamente y la fecha cualquier dia de la próxima semana entre el 17 y el 21 de septiembre. Que proponen?</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/81793012/
+---
+city: Bogota
+---
+country: Colombia
+---
+longitude: -74.0611572265625
+---
+latitude: 4.644121170043945
+---
+location: Social Colectivo. Cll 59 No 6-36 Oficina 504
+---
+date_start: 2012-09-19 18:00 -0500
+---
+date_end: 2012-09-19 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

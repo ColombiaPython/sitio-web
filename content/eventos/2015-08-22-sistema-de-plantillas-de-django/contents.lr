@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/08/sistema-de-plantillas-de-django
+---
+title: Sistema de Plantillas de Django
+---
+information: 
+<p>En este meetup vamos a ver el Sistema de Plantillas de Django y el concepto de Herencia de Plantillas.</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/224615921/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.56048583984375
+---
+latitude: 3.380450963973999
+---
+location:  Biblioteca Departamental Jorge Garcés Borrero, Piso 2, Punto Vive Digital. Callel 5 # 24A - 91
+---
+date_start: 2015-08-22 16:00 -0500
+---
+date_end: 2015-08-22 16:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

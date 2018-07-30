@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/10/introduccion-a-las-migraciones-en-django
+---
+title: Introducción a las migraciones en Django
+---
+information: 
+<p>¿Cómo gestionar las versiones de la base de datos al igual que lo hacemos con el código? ¿Cómo compartir los cambios de la base de datos (modelos) con los demás programadores? ¿Cómo mantener los datos de mis tablas cuando hago un cambio sobre el modelo que tiene asociado? La respuesta a todos estos interrogantes son las migraciones. </p> <p>En esta charla vamos a revisar su funcionamiento desde la óptica de un "rookie", utilizando Django 1.7, que ya trae integrado de forma predeterminada este mecanismo.</p> <p>También hablaremos de South, la aplicación "épica" responsable de las migraciones hasta Django 1.6. Presentado por Jorge Galvis, Ingeniero de Sistemas de la Universidad de Santander (UDES), quien se desempeña como desarrollador Web desde el 2010 en el departamento de sistemas de información de la misma universidad. Entusiasta de Django, se considera un aprendiz del arte de crear software.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/202791302/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0628662109375
+---
+latitude: 4.673194885253906
+---
+location: SECTORTIC.COM. Cra 18A # 103-11
+---
+date_start: 2014-10-02 18:00 -0500
+---
+date_end: 2014-10-02 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/04/django-rest-framework
+---
+title: Django Rest Framework
+---
+information: 
+<p>Muchas veces necesitamos conectar sistemas a Django que no solo son páginas, sino comunicar con aplicaciones mobiles, con aplicaciones para televisores, o incluso muchas veces conectarnos desde otros servidores. Para poder hacer esto por mucho tiempo se utilizaron los Web Services a través de SOAP, Pero últimamente la tendencia ha sido a la creación de RESTFull APIs, y por esto hoy aprenderemos a como crear de manera sencilla un API en Django a través de la librería Django Rest Framework.</p> <p>En esta charla veremos que es un recurso, que es un API y como podemos crear nuestros propios RESTFull APIs en Django de una manera rápida y fácil.</p> <p>Django Rest Framework la herramienta que te ayudará a comunicar Django con cualquier sistema no solo paginas webs, Presentado por Luis Moncaris Gonzalez, Estudiante de último semestre de Ingeniería de Sistemas de la Universidad de Cartagena, desempeñado en el desarrollo WEB con 2 años de experiencia en Django, actualmente labora como desarrollador backend en Nokia Networks, entusiasta en Django, Node.js y muchas otras tecnologías.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking <br/>6:30 - Django Rest Framework<br/>7:15 - Preguntas <br/>7:30 - Pizza y Cerveza</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/221146517/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05081939697266
+---
+latitude: 4.688776969909668
+---
+location: SECTORTIC.COM. Cra 18A # 103-11
+---
+date_start: 2015-04-10 18:00 -0500
+---
+date_end: 2015-04-10 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

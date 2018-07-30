@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/07/la-primera-meetup-una-introduccion-a-python-y-frameworks-diferentes
+---
+title: La primera Meetup! Una introducción a Python y "frameworks" diferentes
+---
+information: 
+<p>Nuestra primera meetup ahora se ha programado! Jueves, 09 de julio a partir de las 19:00 en Ondas Cafe en Floresta. Ondas Cafe está a pocos minutos a pie de la estación de metro de Floresta. Aquí está la dirección: Carrera 81 # 45 g-52. Ondas Cafe es un gran lugar con sofás, un proyector, un montón de espacio, y por supuesto, un excelente café y cervezas también.</p> <p>La presentación será una introducción a Python y "frameworks" diferentes e.g. Django y Flask. Vamos a discutir las ventajas y desventajas de Python (incluyendo Python 2 vs. 3) en comparación con otros lenguajes de programación populares y también los "frameworks" diferentes que están disponibles para ayudar a acelerar el desarrollo web.</p> <p>Vamos a comenzar para networking a las 19-19:30 y luego la presentación comenzará a las 19:30 y luego vamos a tener una discusión abierta para todos.</p> <p>Contaremos con las siguientes presentaciones:</p> <p>-Juan Carlos Rodríguez quien nos hablara sobre Python en general. Por ejemplo, ¿por qué podría ser un buen lenguaje para su próximo proyecto en comparación con otros lenguajes de programación.</p> <p>- Julio Restrepo quien nos hablará sobre las diferencias mas destacadas entre las versiones 2.X y 3.X de Python. <a href="https://prezi.com/z5f6jhnl4osv/python-2-vs-python-3"><a href="https://prezi.com/z5f6jhnl4osv/python-2-vs-python-3" class="linkified">https://prezi.com/z5f6jhnl4osv/python-2-vs-python-3</a></a></p> <p>- Jhon Roa quien nos hablara sobre los frameworks mas populares en python para acelerar el desarrollo de aplicaciones web. <a href="https://slides.com/jhonjairoroa87/popular-python-frameworks"><a href="https://slides.com/jhonjairoroa87/popular-python-frameworks" class="linkified">https://slides.com/jhonjairoroa87/popular-python-frameworks</a></a></p> <p>Debido a que este es un negocio privado que estamos utilizando de forma gratuita, no vamos a ser capaces de ofrecer bebidas gratis este momento. Por favor, apoye el negocio local y comprar una cerveza o un café en el evento. Vamos a tratar de ofrecer bebidas gratis para el próximo evento.</p> <p>Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/221588172/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.59928131103516
+---
+latitude: 6.256260871887207
+---
+location: Ondas Cafe. Carrera 81 # 45 g-52
+---
+date_start: 2015-07-09 19:00 -0500
+---
+date_end: 2015-07-09 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

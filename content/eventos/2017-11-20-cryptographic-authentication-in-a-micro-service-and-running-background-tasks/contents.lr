@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/11/cryptographic-authentication-in-a-micro-service-and-running-background-tasks
+---
+title: Cryptographic Authentication in a Micro Service and Running background tasks
+---
+information: 
+<p>Hi, everybody!!</p> <p>This session will start with 30 minutes of networking (19:00-19:30), first talk of 30 min and 15 min of QA, the second talk of 45 min and 15 min of QA. The event should end around 09:45 pm.</p> <p>The talks detail are:</p> <p>Oscar David Arbeláez Echeverri. Ingeniero Físico, Full stack software developer at BairesDev.</p> <p><a href="https://github.com/odarbelaeze">GitHub 1</a></p> <p><a href="https://github.com/tech-teach">GitHub 2</a></p> <p><a href="https://www.facebook.com/OscarDavidArbelaez">Facebook</a></p> <p>odarbelaez@gmail.com</p> <p><b>Cryptographic Authentication and Authorization in a Micro Service Environment</b></p> <p>In this talk I'm going to walk you through how do JSON Web Tokens, or by extend cryptographically signed messages, can help you build scalable authentication and authorisation systems. We would take a look at how traditional systems, user tables and lockups to session storage put a lot of communication overhead into your application. Furthermore, we would take a look at how historically we were able to build super robust systems with traditional auth systems. Finally, we would see how by implementing cryptographic auth systems we can reduce the communication overhead and ease the development of micro service based systems, this last part by taking a look at a zero overhead example!</p> <p>Juan F Duque. Ingeniero electrónico, desarrollador Backend.  at dyd dinámica y desarrollo sas. </p> <p>&lt;a&gt;Twitter&lt;/a&gt;</p> <p>&lt;a&gt;GitHub&lt;/a&gt;</p> <p><b>Running background tasks using Celery</b></p> <p>i'm going to talk about of celery, a brief introduction,  for what do you use it, which are components it and how settings it up.</p> <p>There'll be an example that show its functionality</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/245160189/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57145690917969
+---
+latitude: 6.209054946899414
+---
+location: Atom House Medellín. Calle 8 # 43a-­49
+---
+date_start: 2017-11-20 19:00 -0500
+---
+date_end: 2017-11-20 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

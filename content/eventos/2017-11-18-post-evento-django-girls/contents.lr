@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/11/post-evento-django-girls
+---
+title: Post-Evento Django Girls
+---
+information: 
+<p>¡Continuamos nuestra aventura con Python!</p> <p>Chicos y chicas! Los invitamos a participar en nuestro 2do Meetup "Post-Evento Django Girls" completamente ¡Gratis! 💪😁😁</p> <p>CUPOS LIMITADOS<br/>Inscripciones -&gt; <a href="http://bit.ly/pyctg-post-djangogirls" class="linkified">http://bit.ly/pyctg-post-djangogirls</a></p> <p>Disfruta de un espacio en el que aprenderás #Python, y crearás tu propio #blog, con la ayuda de los mejores mentores en Python de la ciudad! 😁😉</p> <p>Recuerda que debes llevar tu equipo de computo y extensión de corriente.💻✅</p> 
+---
+web: https://www.meetup.com/pythonctg/events/244978583/
+---
+city: Cartagena
+---
+country: Colombia
+---
+longitude: -75.45655059814453
+---
+latitude: 10.327899932861328
+---
+location: Universidad Tecnológica de Bolívar. Parque Industrial y Tecnológico Carlos Vélez Pombo, Km 1 Vía Turbaco
+---
+date_start: 2017-11-18 09:00 -0500
+---
+date_end: 2017-11-18 09:00 -0500
+---
+province: Bolivar
+---
+organizers: 
+
+#### organization ####
+username: python-cartagena

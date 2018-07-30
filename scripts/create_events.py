@@ -30,9 +30,22 @@ PROJECT = Project.discover()
 ENV = PROJECT.make_env()
 PAD = ENV.new_pad()
 
-BLACKLIST = [
+
+SLUG_WARNING_IGNORE = [
+    '2018/04/pylab-ven-a-trabajar-y-compartir-tus-proyectos-de-python-en-el-vivelab',
+    '2018/05/pylab-ven-a-trabajar-y-compartir-tus-proyectos-de-python-en-el-vivelab',
+    '2017/07/campo-de-juego-para-emprendedores',
+]
+
+
+# Events that should not have been posted on meetup or events that were posted
+# in more than one meetup (why??)
+EVENTS_BLACKLIST = [
     'https://www.meetup.com/pythonctg/events/243208420/',
+    'https://www.meetup.com/pythonbaq/events/237519744/',
     'https://www.meetup.com/Python-Cali/events/237467910/',
+    'https://www.meetup.com/Python-Cali/events/237403492/',
+    'https://www.meetup.com/pythonbogota/events/230113714/',
 ]
 
 
@@ -91,7 +104,6 @@ def _check_latlon(lat_or_lon):
 
 _LEKTOR_TO_MEETUP = OrderedDict()
 _LEKTOR_TO_MEETUP['title'] = 'name'
-_LEKTOR_TO_MEETUP['summary'] = 'name'
 _LEKTOR_TO_MEETUP['information'] = 'description'
 _LEKTOR_TO_MEETUP['web'] = 'link'
 _LEKTOR_TO_MEETUP['city'] = 'venue.city'
@@ -143,8 +155,11 @@ def _meetup_to_lektor_id(data):
         final_slug = slug[:]
     else:
         _SLUG_CACHE[slug] += 1
+
+        if slug not in SLUG_WARNING_IGNORE:
+            print(slug)
+
         final_slug = slug + '-' + str(_SLUG_CACHE[slug])
-        print(slug)
 
     return final_id, final_slug
 
@@ -173,6 +188,9 @@ def process_events_for_lektor(events):
     events_content = OrderedDict()
     for fname, data in events.items():
         for event in reversed(events[fname]):
+            if event['link'] in EVENTS_BLACKLIST:
+                continue
+
             content = OrderedDict()
             for key, val in event.items():
                 if key in ['name']:
@@ -194,8 +212,7 @@ def process_events_for_lektor(events):
                 if key in ['latitude', 'longitude']:
                     content[key] = _check_latlon(val)
 
-            if content['web'] not in BLACKLIST:
-                events_content[id_] = content
+            events_content[id_] = content
 
     return events_content
 
@@ -241,6 +258,7 @@ def create_lektor_content(all_data):
 def main():
     delete_events()
     events = load_events()
+    print('\nPossible duplicates, check:')
     lektor_data = process_events_for_lektor(events)
     create_lektor_content(lektor_data)
 

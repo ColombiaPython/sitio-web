@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/10/porque-python-y-pruebas-unitarias-en-django
+---
+title: Porqué Python y pruebas unitarias en Django
+---
+information: 
+<p><b>¡ Hola Djangonauts ! </b><br/>Anunciamos nuestro próximo meetup el día <b>viernes 2 de octubre en el Vivelab de Bogotá</b>, donde hablaremos de <b>python </b>como lenguaje de programación una vista general del lenguaje y se presentará cómo escribir <b>pruebas unitarias en django</b>, un poco de code coverage, mocks y algunas configuraciones útiles.</p> <p>Les recordamos que la entrada es gratuita pero es necesario realizar la reserva a través del Meetup.</p> <p><b>Agenda </b><br/><b>7:00 pm</b> Llegada de los asistentes<br/><b>7:05 pm</b> Porque python por <b>Eduardo Galeano </b><br/><b>7:50 pm</b> Noticias del meetup (lo que se viene)<br/><b>8:00 pm</b> Pruebas unitarias en django por <b>Jorge Galvis </b><br/><b>8:45 pm</b> Networking con Perros (calientes)</p> <p><b>¿Porqué Python? </b><br/>Veremos una vista general del lenguaje sus ventajas y sus principales usos en la industria.<br/>Presentado por <b>Eduardo Galeano</b>, Presidente de la Rama Estudiantil IEEE de la Universidad Nacional de Colombia Sede Bogotá</p> <p><b>Pruebas unitarias en django </b><br/>En esta charla socializamos cómo escribir pruebas unitarias, un poco de code coverage, mocks y algunas configuraciones útiles. El objetivo es compartir experiencias en esta área tan necesaria para el proceso de desarrollo de software.  <br/>Presentado por <b>Jorge Galvis</b>, Ingeniero de Sistemas de la UDES, Python Developer en Globant. Entusiasta de Django.</p> <p><b>Patrocinadores </b><br/>Vivelab<br/>Axiacore</p> <p>Te esperamos.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/225360722/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0920181274414
+---
+latitude: 4.63784122467041
+---
+location: Vivelab Bogotá Desarrollo. Avenida El Dorado Carrera 45 # 26 - 33 
+---
+date_start: 2015-10-02 19:00 -0500
+---
+date_end: 2015-10-02 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

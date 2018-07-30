@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/02/celery-y-pipeline-herramientas-recomendadas-para-el-desarrollo-con-django
+---
+title: Celery y Pipeline herramientas recomendadas para el desarrollo con Django
+---
+information: 
+<p>Hacer sitios que respondan rápido a los usuarios es uno de los aspectos que requieren mayor atención en el desarrollo web, que la espera para cargar una página esté medida en milisegundos y no segundos es determinante para que los usuarios sientan confianza en un sitio.</p> <p>En este meetup exploraremos dos técnicas para acelerar la percepción del usuario, una dejando las tareas que más demandan tiempo en procesos que se ejecutan posteriormente haciendo uso de Celery.</p> <p>Por otra parte exploraremos Pipeline para lograr que los archivos adicionales relacionados como imágenes, css y javascript estén correctamente desplegados y tarden el menor tiempo posible, además de estar optimizados de forma automatizada.</p> <p>Presentado por Diego Reyes Ingeniero de sistemas, desarrollador de Software House Ltda con 5 años de experiencia en desarrollo Web en continuo aprendizaje quien ha participado en proyectos tanto del sector público como privado y está interesado en compartir conocimientos sobre Django.</p> <p>Sergio Benítez, desarrollador de Software House Ltda. con un corto recorrido en la creación de aplicaciones Web en Django. Interesado en el desarrollo front-end en busca de mejores experiencias de usuario, cuenta con una formación  básica en diseño gráfico, con la certeza que los contenidos visuales deben ser complemento de la parte funcional del software.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking <br/>6:30 - Celery y Pipeline herramientas recomendadas<br/>7:15 - Preguntas <br/>7:30 - Pizza y Cerveza</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/219876660/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0628662109375
+---
+latitude: 4.673194885253906
+---
+location: SECTORTIC.COM. Cra 18A # 103-11
+---
+date_start: 2015-02-05 18:00 -0500
+---
+date_end: 2015-02-05 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

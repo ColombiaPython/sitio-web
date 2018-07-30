@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/02/fundamentos-de-python-y-ejemplo-practico-de-una-aplicacion-django
+---
+title: Fundamentos de Python y ejemplo práctico de una aplicación Django
+---
+information: 
+<p>En este Meetup queremos compartir algunos conocimientos en Python  para el principiante y el avanzado, así como buenas prácticas y su aplicación en un ejemplo práctico que iremos discutiendo y analizando entre los asistentes.</p> <p>Sí aún no conoces de Django y te interesa aprender este maravilloso framework para el desarrollo de aplicaciones profesionales, está es tu oportunidad!</p> <p>3:00 - Networking </p> <p>3:30 - Fundamentos de Python</p> <p>4:00 - Ejemplo Práctico</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/220722050/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.49755859375
+---
+latitude: 3.439850091934204
+---
+location: Biblioteca Departamental Jorge Garcés Borrero, Punto Vive Digital, Cali. Callel 5 # 24A - 91
+---
+date_start: 2015-02-28 15:30 -0500
+---
+date_end: 2015-02-28 15:30 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

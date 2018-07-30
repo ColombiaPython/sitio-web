@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/07/adaptando-django-para-realtime-y-uso-de-websockets
+---
+title: Adaptando Django para realtime y uso de websockets
+---
+information: 
+<p>Presentado por Gustavo Angulo quien es Desarrollador de Ubidots startup de Internet of the Things, cofounder de codetag, Ingeniero de sistema de la Universidad Distrital, con experiencia en proyectos de telemetría, sistemas embebidos, miembro de python colombia y bogotá mesh, amante del buen café, con algo de mas de 7 años en experiencia en desarrollo.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking</p> <p>6:30 - Adaptando Django para realtime y uso de websockets</p> <p>6:45 - Tema principal</p> <p>7:15 - Preguntas</p> <p>7:30 - Pizza y Cerveza</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/180248902/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2014-07-03 18:00 -0500
+---
+date_end: 2014-07-03 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

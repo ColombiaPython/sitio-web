@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2016/08/integrando-una-aplicacion-en-django-con-otros-servicios
+---
+title: Integrando una aplicacion en Django con otros servicios
+---
+information: 
+<p>En esta charla el CTO de <a href="http://www.kaumerdealer.com/">Kaumer Dealer</a> Leonardo Orozco nos explicara como integrar una aplicacion en Django con diferentes tipos de servicios como Node.js, un microcontrolador y otros backends (como asp.net).</p> <p>Los esperamos!!</p> <p><b>Agenda</b></p> <p>• 7:00-7:20pm  -  Llegada, networking </p> <p>• 7:20-8:15pm  -  Charla (Parte 1)</p> <p>• 8:15-8:30pm  -  Comida y networking</p> <p>• 8:30-9:00pm -  Charla (Parte 2)</p> <p>P.D: Como siempre pediremos pizza para comer</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/232926684/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2016-08-08 19:00 -0500
+---
+date_end: 2016-08-08 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

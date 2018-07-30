@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/04/jupyter-notebook-en-el-aula-de-clase-tutormagic-y-librerias-de-python
+---
+title: Jupyter notebook en el aula de clase & Tutormagic y librerias de Python
+---
+information: 
+<p>Hola a todos!!</p> <p>Los invitamos a nuestro meetup de Abril:</p> <p>* Tutormagic y librerias de Python: Como introducción a esta charla veremos sobre instalación y algunos comandos para empezar a trabajar en este ecosistema, seguiremos con Tutor magic que es una extensión para Jupyter notebook, con la cual podemos mostrar paso a paso, línea por línea que hace el código y cómo funciona, muy bueno para que los estudiantes comprendan el funcionamiento del código y su lógica. Se analizará algunas librerías de Python como numpy, matplotlib, pandas, sympy, scipy y que se puede hacer con estas mostrando algunos ejemplos.<br/>Carlos Puerto García es desarrollador y docente investigador de la industria de software en la Corporación Universitaria Americana y también es docente catedrático en el Tecnológico de Antioquia.</p> <p>* Jupyter notebook en el aula de clase: En esta charla se presenta el uso de Jupyter notebook en el entorno educativo. Se explorarán aspectos generales de la aplicación como su funcionamiento, componentes, instalación y edición, para concluir en casos de uso para la educación como una herramienta para la asistencia de actividades de clase y notas interactivas.<br/>Edward Villegas Pulgarin, Vicepresidente y Divulgador en Organización Scalibur para la Investigación y la Ciencia</p> <p>La sesión comenzará con 30 minutos de networking (18:00-18:30), la primera charla de 30 minutos y 15 de QA, la segunda charla de 30 minutos y 15 de QA.</p> <p>--<br/>Hi, everybody!!</p> <p>You are invited to our April meetup:<br/>* Tutormagic y librerias de Python:<br/>Carlos Puerto García, Computer Science Engineer<br/>* Jupyter notebook en el aula de clase:<br/>Edward Villegas Pulgarin, Vicepresidente y Divulgador en Organización Scalibur para la Investigación y la Ciencia</p> <p>This session will start with 30 minutes of networking (18:00-18:30), first talk of 30 min and 15 min of QA, the second talk of 30 min and 15 min of QA.</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/248947666/
+---
+city: Medellin
+---
+country: Colombia
+---
+longitude: -75.5633544921875
+---
+latitude: 6.247570991516113
+---
+location: Corporación Universitaria Americana. Calle 50 # 43 -65
+---
+date_start: 2018-04-04 18:00 -0500
+---
+date_end: 2018-04-04 18:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

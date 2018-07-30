@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/03/bottle-and-mongodb
+---
+title: Bottle and MongoDB
+---
+information: 
+<p><b>¡ Hola a todos !</b></p> <p>Anunciamos nuestro próximo meetup el día <b>jueves 3 de marzo</b>, donde mostraremos los aspectos básicos del <b>Microframework Bottle</b> con una base de datos no relacional (<b>MongoDB</b>), es una charla ideal para personas que quieren empezar a usar <b>Python</b> para la Web.</p> <p>Les recordamos que la entrada es gratuita pero es necesario realizar la reserva a través del Meetup.</p> <p><b>Agenda</b></p> <p>7:00 pm Llegada de los asistentes <br/>7:05 pm<b> Bottle and MongoDB</b> por Jorge Galvis<br/>7:50 pm Noticias del meetup (lo que se viene)<br/>8:00 pm ------- | -------<br/>8:45 pm Networking</p> <p><b>Bottle and MongoDB</b></p> <p>Presentado por <b>Jorge Galvis</b> Python Developer at Globant, entusiasta Django.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/227837427/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.12149047851562
+---
+latitude: 4.6537089347839355
+---
+location: Microsoft Bogota. Carrera 7a. # 71-21, Torre B Piso 15
+---
+date_start: 2016-03-03 19:00 -0500
+---
+date_end: 2016-03-03 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

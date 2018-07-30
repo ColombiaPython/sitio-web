@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/05/desarrollo-de-una-aplicacion-en-django
+---
+title: Desarrollo de una aplicacion en Django
+---
+information: 
+<p>En los siguientes enlaces encontrarás los pasos necesarios para iniciar una aplicación en django. y así estarás alineado con la actividad que vamos a desarrollar en este MeetUp. Todo es licenciado bajo Creative Commons, por lo que no hay que preocuparse por ilegalidades.</p> <p>Inmersión en Python, para Python 3+</p> <p><a href="https://www.dropbox.com/s/xj1m4nev6qv4bss/inmersionEnPython3.0.11.pdf?dl=0"><a href="https://www.dropbox.com/s/xj1m4nev6qv4bss/inmersionEnPython3.0.11.pdf?dl=0" class="linkified">https://www.dropbox.com/s/xj1m4nev6qv4bss/inmersionEnPython3.0.11.pdf?dl=0</a></a></p> <p>Infografía para el manejo de errores en Python:</p> <p><a href="https://www.dropbox.com/s/uyefrscg3z5at46/python_beginners.png?dl=0"><a href="https://www.dropbox.com/s/uyefrscg3z5at46/python_beginners.png?dl=0" class="linkified">https://www.dropbox.com/s/uyefrscg3z5at46/python_beginners.png?dl=0</a></a></p> <p>Cheat Sheet de Python:</p> <p><a href="https://www.dropbox.com/s/wfvkysfpysqp2we/python_cheat_sheet_v1.pdf?dl=0"><a href="https://www.dropbox.com/s/wfvkysfpysqp2we/python_cheat_sheet_v1.pdf?dl=0" class="linkified">https://www.dropbox.com/s/wfvkysfpysqp2we/python_cheat_sheet_v1.pdf?dl=0</a></a></p> <p>Django 1.8:</p> <p><a href="https://www.dropbox.com/s/20psbnbx3ll8lih/libro_django1.8.pdf?dl=0"><a href="https://www.dropbox.com/s/20psbnbx3ll8lih/libro_django1.8.pdf?dl=0" class="linkified">https://www.dropbox.com/s/20psbnbx3ll8lih/libro_django1.8.pdf?dl=0</a></a></p> <p>Python para Desktop con PySide:</p> <p><a href="https://www.dropbox.com/s/dkshzj20knmevnc/PySide_GUI._Development.pdf?dl=0"><a href="https://www.dropbox.com/s/dkshzj20knmevnc/PySide_GUI._Development.pdf?dl=0" class="linkified">https://www.dropbox.com/s/dkshzj20knmevnc/PySide_GUI._Development.pdf?dl=0</a></a></p> <p>para que vayamos practicando, en este repositorio de GitHub encontraras el estado en que se dejo el blog durante nuestra última reunión:</p> <p><a href="https://github.com/sebastian-code/django_cali"><a href="https://github.com/sebastian-code/django_cali" class="linkified">https://github.com/sebastian-code/django_cali</a></a></p> <p>Sería interesante que pudiéramos colaborar con este trabajo y así poder además empezar a avanzar y tener algo muy bien estructurado para cuando nos volvamos a ver.</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/222406248/
+---
+city: Cali
+---
+country: Colombia
+---
+location: Biblioteca Departamental Jorge Garcés Borrero, Salón de Eventos Piso 2 Punto Vive Digital. Callel 5 # 24A - 91
+---
+date_start: 2015-05-16 14:00 -0500
+---
+date_end: 2015-05-16 14:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

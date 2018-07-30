@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2016/06/como-crear-sitios-web-estaticos-con-lektor
+---
+title: Como crear sitios web estáticos con Lektor
+---
+information: 
+<p><img src="http://photos4.meetupstatic.com/photos/event/8/5/d/8/600_449374264.jpeg" /></p> <p>En esta charla veremos como crear sitios web "estaticos" usando <a href="https://www.getlektor.com/">Lektor</a>. Lektor, como lo indica su sitio web, es un sistema de gestión de contenidos en Python. También veremos como subir tu pagina web a Github Pages.</p> <p>Tallerista: Andres Perez, organizador del meetup <a href="http://www.meetup.com/Barranquilla-Learn-Programming-Meetup/">Barranquilla Learn Programming Meetup</a>, entusiasta en tecnología y autoenseñado en lenguajes varios. Mayormente se ha desempeñado como analista de negocio y particularmente en analisis de procesos y requerimientos.</p> <p><b>Agenda</b></p> <p>• 7:00-7:20pm  -  Llegada, networking </p> <p>• 7:20-8:15pm  -  Charla (Parte 1)</p> <p>• 8:15-8:30pm  -  Comida y networking</p> <p>• 8:30-9:00pm -  Charla (Parte 2)</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/231718020/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2016-06-13 19:00 -0500
+---
+date_end: 2016-06-13 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

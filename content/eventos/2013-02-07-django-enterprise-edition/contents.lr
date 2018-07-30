@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2013/02/django-enterprise-edition
+---
+title: Django 'Enterprise Edition'
+---
+information: 
+<p>La tercera charla de las series de socialización de la tecnología Python/Django.</p> <p>En esta charla encontrarás:</p> <p>Es cierto que Java, .NET y Oracle es lo que mi empresa necesita?. Tomando decisiones en una inversion de tecnología para empresas. Mito: Eso del software libre es solo para trabajos de universidad. Mito: Pero de eso nadie da certificados y hay pocas empresas que trabajen bien. Presentado por Camilo Nova CEO de <a href="http://axiacore.com/es/">AxiaCore S.A.S</a>, empresa que desarrolló la plataforma de <a href="http://apps.co">Apps.co</a></p> <p>La agenda del evento es:</p> <p>6:00 - Networking 6:30 - ShowCase: Apps.co por José David Yancés 6:45 - Tema principal 7:15 - Preguntas 7:30 - Pizza y Cerveza Este es un evento inclusivo, nuestro objetivo principal es compartir con personas no relacionadas con tecnología, como: músicos, profesores, comunicadores, periodistas, administradores, deportistas, etc. Si conoces a alguien así invitalo para que venga y abra su mente a nuevas ideas.  Va enfocado a emprendedores para empresas con base tecnológica.</p> <p> </p> 
+---
+web: https://www.meetup.com/pythonbogota/events/84686182/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.071044921875
+---
+latitude: 4.689680099487305
+---
+location: Academia Wayra. Carrera 67 No. 100 20 Piso 2
+---
+date_start: 2013-02-07 18:00 -0500
+---
+date_end: 2013-02-07 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

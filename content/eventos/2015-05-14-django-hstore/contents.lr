@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/05/django-hstore
+---
+title: Django + hstore
+---
+information: 
+<p>Vamos a discutir una de las caracteristicas más interesantes de usar Django con PostgreSQL: hstore. Gracias a esta funcionalidad, PostreSQL se convierte en un híbrido ya que en columnas de tipo hstore se permiten guardar valores como en una base de datos NOSQL K/V.</p> <p>Veremos en la charla un paso a paso de cómo configurar esta integración y ejemplos para sacarle el máximo provecho.</p> <p>Esta charla será presentada por Julián Amaya, cofundador de monoku.com y monomi.co , que trabaja con Django desde el 2009 y que ha dado charlas sobre Django en Bogodev y en este grupo.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/220518546/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.06120300292969
+---
+latitude: 4.6442341804504395
+---
+location: Social Colectivo. Calle 59 # 6 - 36 Oficina 502
+---
+date_start: 2015-05-14 18:30 -0500
+---
+date_end: 2015-05-14 18:30 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

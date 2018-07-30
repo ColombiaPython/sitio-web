@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/07/post-evento-django-girls
+---
+title: Post-evento Django Girls
+---
+information: 
+<p><img src="https://secure.meetupstatic.com/photos/event/8/3/4/5/600_462633605.jpeg" /></p> <p>En esta ocasión vamos a seguir con el tutorial del evento <b>Django Girls</b> realizado 1ero de julio. Las reglas y metodología serán las mismas. También será un espacio para hablar de la organización de un próximo taller de programación para mujeres.</p> <p>Les recordamos que es una <b>versión más informal</b> del evento por lo que no habrá refrigerios ni comida. Contaremos con la asistencia de mentores de la comunidad de Python Barranquilla.</p> <p>Trae tus dudas e ideas para el próximo evento. Te esperamos!!! </p> <p>(El evento es gratuito. Los cupos son limitados.)</p> <p><b>Requisitos:</b></p> <p>• Trae tu laptop</p> <p>• Trae una extensión de corriente</p> <p><b>Lugar:</b></p> <p>CEIPA</p> <p>Cr 58 # 72 - 140. Salón 4</p> <p><b>Adicionales:</b></p> <p>• Este evento es para principiantes, si no eres mentor, por favor abstenerse de inscribirse. (Puedes escribirnos sugiriendo una charla más avanzada)</p> <p><i>¿Quieres patrocinar este evento? Envía un mensaje directo a los organizadores</i></p> 
+---
+web: https://www.meetup.com/pythonbaq/events/241450496/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.79914093017578
+---
+latitude: 11.00226879119873
+---
+location: CEIPA. Cr 58 # 72 - 140
+---
+date_start: 2017-07-15 08:00 -0500
+---
+date_end: 2017-07-15 08:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

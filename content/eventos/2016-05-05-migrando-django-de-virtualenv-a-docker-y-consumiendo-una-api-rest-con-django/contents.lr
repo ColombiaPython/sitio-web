@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/05/migrando-django-de-virtualenv-a-docker-y-consumiendo-una-api-rest-con-django
+---
+title: Migrando Django de Virtualenv a Docker y consumiendo una API Rest con Django
+---
+information: 
+<p><b><i>**********************</i>• <i><a href="https://goo.gl/9LygS7">Registro Aqui!.</a></i></b></p> <p><img src="http://photos4.meetupstatic.com/photos/event/8/2/3/3/600_449613331.jpeg" /></p> <p>En esta oportunidad veremos como pasar Django de <a href="https://virtualenv.pypa.io/">Virtualenv</a> a usar <a href="https://www.docker.com/">Docker</a> que nos ayuda a automatiza el despliegue de aplicaciones dentro de <a href="https://es.wikipedia.org/w/index.php?title=Contenedores_de_software&amp;action=edit&amp;redlink=1">c</a>ontenedores.</p> <p>Presentada por <a href="https://github.com/PabloVallejo">Pablo Vallejo</a>, Web Developer de <a href="http://axiacore.com/">Axiacore</a>, ha trabajado en productos de gran tráfico en Django y Rails. Así mismo, es el creador de la librería de JavaScript <a href="http://pablovallejo.github.io/gillie/">Gillie</a>, que facilita la comunicación con REST APIs.</p> <p>Por otra parte, Pablo es un amante del Open Source, ha creado varios proyectos en <a href="https://github.com/PabloVallejo">GitHub</a> usando tecnologías como <a href="http://nodejs.org/">Node JS</a>, <a href="https://www.mongodb.org/">MongoDb</a>, <a href="http://backbonejs.org/">Backbone</a> y demás.</p> <p><a href="https://github.com/PabloVallejo">GitHub</a></p> <p><a href="https://twitter.com/pablovallejo_">Twitter</a></p> <p>En esta charla veremos , que es un API y como podemos consumirla desde un proyecto en Django de una manera rápida y fácil.</p> <p>Presentada por Jhony Avella, Ingeniero desarrollador de <a href="https://www.edunext.co/">Edunext</a> con amplia experiencia en soluciones web a la medida basadas en el framework Django . Ha participado y colaborado con la comunidad open source de <a href="https://open.edx.org/">open-edx</a>, plataforma construida sobre Django para la creación y administración de cursos en linea.</p> <p><a href="https://github.com/jfavellar90">GitHub</a></p> <p><b>Agenda.</b></p> <p>7:00 pm Bienvenida a los asistentes por MercadoLibre.<br/>7:05 pm Migrando Django de Virtualenv a Docker por Pablo Vallejo.</p> <p>7:50 pm Noticias del meetup (lo que se viene) por Ivan Ramirez</p> <p>8:00 pm Consumo Básico de API por Jhony Fabian Avella<br/>8:45 pm Networking con Pizza y cerveza por MercadoLibre</p> <p>Los esperamos!!!</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/230714415/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.07209014892578
+---
+latitude: 4.710988998413086
+---
+location: Oficinas Mercadolibre.  carrera 17 # 93 09 edificio. ecotower
+---
+date_start: 2016-05-05 19:00 -0500
+---
+date_end: 2016-05-05 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

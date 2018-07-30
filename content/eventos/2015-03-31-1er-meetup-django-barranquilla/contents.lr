@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/03/1er-meetup-django-barranquilla
+---
+title: 1er meetup Django Barranquilla
+---
+information: 
+<p>1. "Bienvenida. Creando expectativas" por Javier Daza<br/>Compartiremos objetivos y expectativas para definir entre todos temas que orienten los futuros talleres de la comunidad. </p> <p>2. "Pruebas unitarios con Django" por Leonardo Orozco</p> <p>3. "Ship with confidence" por Jose Luis Caro</p> <p>4. Networking</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/221175441/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2015-03-31 19:00 -0500
+---
+date_end: 2015-03-31 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

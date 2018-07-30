@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/04/python-pereira-meetup-4
+---
+title: Python Pereira Meetup #4
+---
+information: 
+<p>📣Queremos invitarlos a la 4ta Reunión de Python Pereira 🎉<br/>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉Introducción al procesamiento del lenguaje natural por 😎Germán Grandas(<a href="https://twitter.com/germangrandas" class="linkified">https://twitter.com/germangrandas</a>)</p> <p>Durante la historia de humanidad el conocimiento, en su mayor parte se comunica, se guarda y se maneja en la forma de lenguaje natural,Sin embargo, lo que es conocimiento para nosotros no lo es para las computadoras.<br/>En esta charla aprenderemos acerca de ¿Qué es el procesamiento del Lenguaje?, ¿Qué se encarga de hacer? y algunas técnicas se usan para afrontar los problemas de este tipo, además en que campos de la investigación esta siendo utilizado, Finalmente aprenderemos a hacer un clasificador de críticas de un restaurante apoyandonos en el uso de la librería NTLK una de las mas populares para el procesamiento de texto en python.</p> <p>👉Programación asíncrona con Django Channels por 😎Felipe Salazar (<a href="https://twitter.com/elpipesalazar" class="linkified">https://twitter.com/elpipesalazar</a>).</p> <p>Introducción a Django channels, la última y más importante funcionalidad en las últimas versiones de Django.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en python.pereira@gmail.com .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/249433045/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.68910217285156
+---
+latitude: 4.793649196624756
+---
+location: Universidad Tecnológica de Pereira. Universidad Tecnológica de Pereira, Calle 27, Pereira, Risaralda
+---
+date_start: 2018-04-25 18:30 -0500
+---
+date_end: 2018-04-25 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

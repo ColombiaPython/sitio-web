@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/09/django-smart-select-y-flask-microframework
+---
+title: Django Smart Select Y Flask Microframework
+---
+information: 
+<p>En esta ocasión se realizaran 2 charlas, la primera charla se hablara sobre como filtrar contenido en campos según relaciones con Django ( smart select ) y la segunda charla se realizara una introduccion de Flask un microframework</p> <p>Talleristas:</p> <p>• Oswal Rodriguez  </p> <p>• Cesar Herdenez </p> <p>los esperamos !!</p> <p><a href="http://panchicore.d.pr/6Wf4" class="linkified">http://panchicore.d.pr/6Wf4</a></p> <p><b>Agenda</b></p> <p>• 7:00-7:20pm  -  Llegada, networking </p> <p>•  7:20-8:15pm  -  1 Charla </p> <p>• 8:15-8:30pm  -  Comida y networking)</p> <p>• 8:30-9:00pm -  2 Charla </p> <p>P.D: Como siempre pediremos pizza para comer</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/233723313/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.82133483886719
+---
+latitude: 10.99820327758789
+---
+location: Piensa labs. Calle 84B # 42H - 39
+---
+date_start: 2016-09-05 19:00 -0500
+---
+date_end: 2016-09-05 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

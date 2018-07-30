@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/04/building-a-restful-api-using-django-rest-framework
+---
+title: Building a RESTful API Using Django Rest Framework
+---
+information: 
+<p><b>Building a RESTful API Using Django Rest Framework</b></p> <p>Usualmente no se piensa en <a href="https://www.djangoproject.com/">Django</a> cuando se tiene en mente crear un API debido a que en principio no está pensado para aceptar peticiones REST, sin embargo, con el desarrollo de <a href="http://www.django-rest-framework.org/">Django Rest Framework</a>, este proceso se torna en algo bastante sencillo.</p> <p>Django Rest Framework es una extensión, permite la creación de APIs en Django y facilita exponer de datos en formato JSON con base en modelos.</p> <p>En esta charla pasaremos sobre los conceptos básicos de REST, API, y terminaremos creando un API para guardar "to-do's" la cual recibirá peticiones 4 verbos HTTP.</p> <p><b>Speaker</b></p> <p>Presentada por <a href="https://github.com/PabloVallejo">Pablo Vallejo</a>, Web Developer quien actualmente forma parte del equipo de <a href="http://axiacore.com/">AxiaCore</a>, ha trabajado en productos de gran trafico tanto en Python como PHP. Así mismo, es creador de la librería de JavaScript <a href="http://pablovallejo.github.io/gillie/">Gillie</a>, que facilita la comunicación con REST APIs.</p> <p>Por otra parte, Pablo es un amante del Open Source, así que no duda en hacer un pull request cuando es necesario, de la misma manera, ha creado varios proyectos en GitHub usando tecnologias como <a href="http://nodejs.org/">NodeJS</a>, <a href="https://www.mongodb.org/">MongoDb</a>, <a href="http://backbonejs.org/">Backbone</a> y demas. En estos momentos, esta interesado es la creacion de APIs y la estructuracion del front end de las aplicaciones y su comunicacion con backends mediate peticiones REST.</p> <p>Para saber mas y ver algunos de sus proyectos, este es el link de su cuenta en <a href="https://github.com/PabloVallejo">GitHub</a>.</p> <p><b>Agenda</b></p> <p>Este evento asume que tienes alguna familiaridad con Django, sin embargo estos conocimientos no son requeridos.</p> <p>Durante la presentación, se mostrarán los componentes principales para la creación de un API en Django utilizando Django Rest Framework, este API se podra integrar con una la aplicacion <a href="http://todomvc.com/">TodoMVC</a>.</p> <p><b>La agenda del evento es</b>:</p> <p>6:00 - Networking <br/>6:30 - Tema principal <br/>7:15 - Preguntas <br/>7:30 - Pizza y Cerveza</p> <p>Este es un evento para un perfil inicial técnico, nuestro objetivo principal es compartir con personas estándares y buenas prácticas para usar la tecnología.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/172131892/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2014-04-03 18:00 -0500
+---
+date_end: 2014-04-03 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

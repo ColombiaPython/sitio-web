@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/07/flask-para-desarrolladores-de-django-y-limpieza-de-datos-con-python
+---
+title: Flask para desarrolladores de Django y limpieza de datos con Python
+---
+information: 
+<p><img src="http://photos4.meetupstatic.com/photos/event/e/9/a/5/600_451859813.jpeg" /></p> <p><b>## <a href="http://goo.gl/forms/ob1IHUfSD2tlpHwc2">Registro Aqui!</a></b></p> <p>Hola!, En la charla conoceremos cómo arrancar con aplicación de Flask, ecosistema de librerías para Flask y cómo extenderlo y configurarlo para obtener la funcionalidad de un framework como Django.</p> <p><b>Vera Mazhuga</b> es una MSc en Matemática Aplicada, programadora de Python desde 2010. Trabaja con Django y Flask. Actualmente es desarolladora back-end en Tappsi.</p> <p><a href="https://twitter.com/vero4ka_ru">Twitter</a></p> <p><a href="http://linkedin.com/in/vero4ka">Linkedin</a></p> <p>Hola a todos! En esta charla veremos aplicaciones de Python para datos biológicos obtenidos a partir de secuenciación masiva NGS,  con algunas estadísticas básicas.</p> <p><a href="https://www.facebook.com/jennytombraider?fref=ts">Facebook</a></p> <p><a href="https://github.com/jevelezse">Github</a></p> <p><b>Jennifer Velez Segura</b> es una Lic. en biología  citogenetista. Estudiante de Maestría en bioinformática. En python ha trabajado filtrando datos de archivos de texto. Anteriormente ha trabajando con análisis estadístico en biología y proyectos pequeños con Django.</p> <p>Nos vemos!</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/232186274/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.07209014892578
+---
+latitude: 4.710988998413086
+---
+location: Oficinas Mercadolibre.  carrera 17 # 93 09 edificio. ecotower
+---
+date_start: 2016-07-07 19:00 -0500
+---
+date_end: 2016-07-07 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

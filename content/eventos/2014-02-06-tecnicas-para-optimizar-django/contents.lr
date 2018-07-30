@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/02/tecnicas-para-optimizar-django
+---
+title: Técnicas para optimizar Django
+---
+information: 
+<p>Ya has hecho algunos despliegues de Django, tan exitosos como para ponerse lentos con el tráfico que llega? Tienes un sitio que es alimentado continuamente con datos y quieres preservar los tiempos de respuesta como los cms que renderizan el html?  Sientes que tu base de datos está torturando la interacción con los usuarios?  Hasta ahora estás por comenzar pero quieres conocer otros djangonautas en la ciudad?</p> <p>Presentado por Igor Támara quien comenzó a trabajar con Django desde la versión 0.96, ha colaborado en Django, encontrando algunos bugs, tropezado con ellos y ha tenido la oportunidad de trabajar con Postgresql en proyectos de alta transaccionalidad, ha colaborado en proyectos como Tryton, Debian y GNU, hace parte del equipo de desarrollo de AxiaCore que ha atendido instituciones estatales y grandes empresas colombianas así como startups en Europa y Estados Unidos.</p> <p>Mostrará algunas técnicas para optimizar proyectos basados en Django.</p> <p>1. Herramientas para encontrar cuellos de botella.</p> <p>2. Minimización de uso de consultas.</p> <p>3. Uso de caché.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking <br/>6:30 - Tema principal<br/>7:15 - Preguntas <br/>7:30 - Pizza y Cerveza (Patrocinado por <a href="https://www.sofhouse.net/"><a href="https://www.sofhouse.net/" class="linkified">https://www.sofhouse.net/</a></a>)</p> <p>Este es un evento para un perfil inicial técnico, nuestro objetivo principal es compartir con personas estándares y buenas prácticas para usar la tecnología.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/126255112/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2014-02-06 18:00 -0500
+---
+date_end: 2014-02-06 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

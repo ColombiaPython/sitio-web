@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/06/introduccion-al-estilo-pythonista
+---
+title: Introducción al estilo Pythonista
+---
+information: 
+<p>Python es un lenguaje que destaca por su alto nivel de legibilidad, sin embargo, es común que los programadores no sigan las directrices comunes de Python (En especial los programadores provenientes de otros lenguajes) y terminen produciendo código ilegible o que no aprovecha las bondades que tiene Python.</p> <p>En este meetup hablaremos con ejemplos sobre el estilo que debe seguir un verdadero Pythonista para producir código que cumpla con los estándares mínimos aceptados por la comunidad de Python  </p> <p><b>Nota:</b> Se recomienda tener instalado Python en sus equipos si desean seguir los ejemplos </p> <p><img src="https://secure.meetupstatic.com/photos/event/b/9/2/6/600_461087398.jpeg" /></p> 
+---
+web: https://www.meetup.com/Python-Cali/events/240121439/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54611206054688
+---
+latitude: 3.4333689212799072
+---
+location: El Lab - Coworking Space. Calle 4b # 35a - 11 Barrio San Fernando
+---
+date_start: 2017-06-10 09:45 -0500
+---
+date_end: 2017-06-10 09:45 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

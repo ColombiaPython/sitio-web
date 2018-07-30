@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/12/django-reportes-e-impresion
+---
+title: Django, reportes e impresión
+---
+information: 
+<p>Hacer Diseños con CSS y usar Bootstrap es maravilloso para que en los dispositivos puedan verse los contenidos. Una vez que está todo funcionando viene la temible parte de imprimir: tablas en múltiples páginas, códigos QR, gráficas, márgenes, tipos de papel, imágenes, gráficas, diplomas.</p> <p>En esta charla mostraremos algunas exploraciones hechas con diferentes técnicas para generar archivos PDF o hacer impresión aprovechando la capacidad de los navegadores.</p> <p>Lo triste es que al final se generan documentos que son susceptibles de ser impresos y por lo tanto puede terminar siendo antiecológico el asunto.</p> <p>Presentado por Igor Támara, quien hace parte del selecto grupo de AxiaCore desarrollando aplicaciones web en Django para grandes empresas, gobierno y startups en US y Europa. Ha contribuido en proyectos como Django, django-extensions, django-grapelli, moin-moin, ver más en: <a href="https://github.com/ikks" class="linkified">https://github.com/ikks</a></p> <p>La agenda del evento es:</p> <p>6:00 - Networking<br/>6:30 - Django, reportes e impresión<br/>7:15 - Preguntas<br/>7:30 - Pizza y Cerveza</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/209733652/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0628662109375
+---
+latitude: 4.673194885253906
+---
+location: SECTORTIC.COM. Cra 18A # 103-11
+---
+date_start: 2014-12-04 18:00 -0500
+---
+date_end: 2014-12-04 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

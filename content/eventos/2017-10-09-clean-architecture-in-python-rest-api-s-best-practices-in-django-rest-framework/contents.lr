@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/10/clean-architecture-in-python-rest-api-s-best-practices-in-django-rest-framework
+---
+title: Clean architecture in Python REST API’s, Best practices in Django Rest Framework
+---
+information: 
+<p>Hi, everybody!!</p> <p>This session will start with 30 minutes of networking (19:00-19:30), first talk of 30 min and 15 min of QA, the second talk of 45 min and 15 min of QA. The event should end around 09:45 pm.</p> <p>The talks detail are:</p> <p>John Roa, Technical team lead at LendingFront <a href="https://twitter.com/jhonjairoroa87">Twitter</a>, <a href="https://www.linkedin.com/in/johnroa27/">Linked-in</a></p> <p><a href="http://slides.com/jhonjairoroa87/clean-architecture-in-python-rest-api-s#/">* Clean architecture in Python REST API’s</a></p> <p>- How to make your Python REST API more scalable, testable and maintainable applying clean architecture </p> <p>Andres Duque, Software Engineer at World Tech Makers <a href="https://www.linkedin.com/in/saduqz/">Linked-in</a></p> <p><a href="http://slides.com/saduqz/django-rest-framework-best-practices-1#/">* Best practices in Django Rest Framework</a></p> <p>- How to implement some of the best practices about documentation, testing and versioning</p> <p>We hope to see you all again in this new meetup event. Thanks to you all we are very motivated to keep sharing the python knowledge. We are currently 869 people in the Python Medellín group!!!</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/243541527/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57145690917969
+---
+latitude: 6.209054946899414
+---
+location: Atom House Medellín. Calle 8 # 43a-­49
+---
+date_start: 2017-10-09 19:00 -0500
+---
+date_end: 2017-10-09 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

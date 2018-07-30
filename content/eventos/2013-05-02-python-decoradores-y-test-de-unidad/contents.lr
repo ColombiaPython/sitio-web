@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2013/05/python-decoradores-y-test-de-unidad
+---
+title: Python Decoradores y Test de unidad
+---
+information: 
+<p>Se inicia la serie de charlas técnicas de la tecnología Python/Django.</p> <p>Estará compuesto por dos charlas las cuales tendrán:</p> <p>Creación de decoradores básicos Reuso de decoradores para diferentes proyectos. Test de unidad básicos en django Construcción de buenas prácticas para test de unidad Presentado por: Julián Amaya, fundador de Monoku el cual estará en la primera charla de decoradores y Julián Vargas fundador de Codetag y desarrollador de StackBuilders en la segunda charla sobre test de unidad.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking 6:15 - Como construir y utlizar decoradores - Julián Amaya 7:00 - Test de unidad 1 - Julián Vargas 7:40 - Pizza y Cerveza Este es un evento para un perfil inicial técnico, nuestro objetivo principal es compartir con personas estándares y buenas prácticas para usar la tecnología.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/116175052/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2013-05-02 18:00 -0500
+---
+date_end: 2013-05-02 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

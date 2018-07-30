@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/11/taller-para-desarrollo-de-complejas-soluciones-empresariales-con-tryton
+---
+title: Taller para desarrollo de complejas soluciones empresariales (con Tryton)
+---
+information: 
+<p>• Lo que haremos<br/>Oscar Alvarez Montero - Gerente en Presik (<a href="http://www.presik.com" class="linkified">http://www.presik.com</a>), nos estará hablando de Tryton</p> <p>Sobre Tryton:<br/>Aplicación de tres capas licenciado en GPL-3, escrito en lenguage Python y usa PostgreSQL como base de datos. Es el núcleo base de complejas soluciones empresariales que es modular, escalable y seguro.</p> <p><a href="https://www.tryton.org/es/" class="linkified">https://www.tryton.org/es/</a></p> <p>• Nivel de dificultad<br/>Medio: Estaremos usando Linux, pip, ambientes virtuales y python básico es un requisito!</p> <p>• Lo que hay que traer<br/>Vamos a empezar el ciclo de talleres aplicados de Python Bucaramanga. Vamos a tener disponibilidad de 20 computadores con las instalaciones de los módulos y programas necesarios. y 5 puestos de trabajo para personas con computador portátil.</p> <p>• Información importante<br/>Es importante estar registrado en el Meetup para poder asistir al evento, son cupos limitados.</p> 
+---
+web: https://www.meetup.com/PythonBucaramanga/events/245118231/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2017-11-29 18:30 -0500
+---
+date_end: 2017-11-29 18:30 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

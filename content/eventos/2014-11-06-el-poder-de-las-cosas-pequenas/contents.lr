@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/11/el-poder-de-las-cosas-pequenas
+---
+title: El Poder de las Cosas Pequeñas
+---
+information: 
+<p>Cómo se puede ayudar a cambiar el mundo desde lo mas simple?</p> <p><img src="https://s3.amazonaws.com/uploads.hipchat.com/50553/1168916/dOpHLgYBIU6qz7C/Captura%20de%20pantalla%202014-10-27%20a%20la%28s%29%207.37.04.png" /></p> <p>La historia de como una colombina me llevo a definir mi propósito de vida y a crear una herramienta para ayudar a la gente a definir el de ellos.</p> <p>“Motto Dots” una red social para inspirar y dejarse inspirar por otros.</p> <p><a href="https://itunes.apple.com/us/app/motto-dots/id704619890?ls=1&amp;mt=8"><a href="https://itunes.apple.com/us/app/motto-dots/id704619890?ls=1&amp;mt=8" class="linkified">https://itunes.apple.com/us/app/motto-dots/id704619890?ls=1&amp;mt=8</a></a></p> <p>En esta charla encontrarás los retos y ventajas al utilizar Django como base para soportar una red social en producción. Hablaremos brevemente de la arquitectura y componentes claves usados en la creación de mottodots, mencionando el por qué se escogieron y evaluando el impacto que han tenido sobre el desarrollo de la aplicación. La idea es poner en evidencia los principales obstáculos encontrados sobre el camino y mostrar posibles soluciones a problemas comunes para toda aplicación que necesite comunicarse con un servidor. Se contará la historia de la creación del backend de una aplicación desde una perspectiva más técnica, con el fin de iluminar un poco a aquellos que están en la penumbra.</p> <p>Presentado por: Juan Pablo Gaviria, fundador de 360Digital Co. <a href="http://about.me/gaviria" class="linkified">http://about.me/gaviria</a></p> <p>La agenda del evento es:</p> <p>6:00 - Networking</p> <p>6:30 - Tema principal</p> <p>7:15  - Preguntas</p> <p>7:30 - Pizza y Cerveza</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/206416972/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0628662109375
+---
+latitude: 4.673194885253906
+---
+location: SECTORTIC.COM. Cra 18A # 103-11
+---
+date_start: 2014-11-06 18:00 -0500
+---
+date_end: 2014-11-06 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

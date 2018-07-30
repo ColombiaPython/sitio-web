@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/12/mega-meetup-tendencias-2015
+---
+title: [Mega Meetup] Tendencias 2015
+---
+information: 
+<p>Tomado de: <a href="http://www.meetup.com/Bogota-JVM-Meetup/events/226927495/" class="linkified">http://www.meetup.com/Bogota-JVM-Meetup/events/226927495/</a></p> <p>En este nuevo panel vamos a hablar sobre tendencias que ganaron fuerzas o las perdieron en este año. Nuestros panelistas:</p> <p>•  Luis Mulato - Coach y Trainer, Kleer </p> <p>• Diego Osorio - Associate Technical Architect, Huge</p> <p>• Eduardo Echeverria - Desarrollador Fedora Infra</p> <p>• Ómar Duque - Head of Engineering, Bunny Inc.</p> <p>• Carlos Toro - Senior Software Developer, S4N</p> <p>• Alejandro Zuleta - Founder y CTO, Ayni </p> <p>Debido a políticas de la universidad, por favor llenar el siguiente formulario para asegurar el ingreso al auditorio:</p> <p><a href="https://goo.gl/xxqeXr" class="linkified">https://goo.gl/xxqeXr</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/227338542/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.07209014892578
+---
+latitude: 4.710988998413086
+---
+location: Universidad Javeriana. KR 7 # 40-62 Auditorio Jaime Hoyos S.J - edificio 95
+---
+date_start: 2015-12-12 14:00 -0500
+---
+date_end: 2015-12-12 14:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

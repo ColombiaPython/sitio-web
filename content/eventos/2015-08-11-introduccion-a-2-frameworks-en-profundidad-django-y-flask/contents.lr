@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/08/introduccion-a-2-frameworks-en-profundidad-django-y-flask
+---
+title: Introducción a 2 Frameworks en profundidad (Django y Flask)
+---
+information: 
+<p>El ganador de la encuesta fue: "Introducción a 2 Frameworks en profundidad (Django y Flask)." Por lo tanto, 2 de nuestros coorganizadores se da una introducción en profundidad a los 2 frameworks: Django y Flask.</p> <p>Habrá 30 minutos de networking (19-19:30) y luego 45 minutos de Django (Juan David Hernandez) y 45 minutos de Flask (Jhon Jairo Roa). El evento debe terminar alrededor de las 21:00. Las exposiciones tendrán una duración de 30 minutos cada uno seguido de 15 minutos de preguntas también.</p> <p>Algunas cervezas estarán disponibles de forma gratuita alrededor de las 19:00 en el inicio de la sesión de networking para las primeras personas allí.</p> <p>Esperamos verlos a todos de nuevo. Tuvimos casi 50 personas en el primer evento y esperamos tener otro evento exitoso y educativo también.</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/223839010/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57160949707031
+---
+latitude: 6.209321975708008
+---
+location: Atom House Medellín. Calle 8 # 43a-­49
+---
+date_start: 2015-08-11 19:00 -0500
+---
+date_end: 2015-08-11 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/08/9vo-meetup-django-barranquilla
+---
+title: 9vo Meetup Django Barranquilla
+---
+information: 
+<p><img src="http://photos3.meetupstatic.com/photos/event/d/f/c/a/600_440277290.jpeg" /></p> <p>Tendremos 2 charlas!!!</p> <p>1. Cesar Herdenez, uno de nuestros djangonautas activos de la comunidad nos explicara como subir el proyecto Paul Walker que hemos creado a OpenShift. </p> <p>2. Carlos Muñoz, otro de nuestros djangonautas nos explicará como hacer un proyecto de <b>Django con Backbone.</b></p> <p>¿Estas interesado en exponer un tema? <b><i>Contáctanos!!!!</i></b></p> 
+---
+web: https://www.meetup.com/pythonbaq/events/224550302/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2015-08-18 19:00 -0500
+---
+date_end: 2015-08-18 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

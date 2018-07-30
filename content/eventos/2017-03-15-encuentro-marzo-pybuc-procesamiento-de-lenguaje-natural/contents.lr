@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/03/encuentro-marzo-pybuc-procesamiento-de-lenguaje-natural
+---
+title: Encuentro Marzo PyBuc: Procesamiento de Lenguaje Natural
+---
+information: 
+<p>Encuentro Marzo Python Bucaramanga. </p> <p>Transforma el mundo con Python.</p> <p>En esta ocasión queremos continuar dándole fuerza y voz a las mujeres que trabajan en el campo de la programación; contaremos con la participación de:</p> <p>• <b>Christine Doig</b>: Cientifica de Datos con Continuum Analytics.</p> <p>El tema específico de la charla es:</p> <p>• Introducción al Procesamiento del Lenguaje Natural en Python:</p> <p>El Procesamiento del Lenguaje Natural es un campo de las ciencias de la computación, inteligencia artificial y lingüística que estudia las interacciones entre las computadoras y el lenguaje humano. En Python, existen multitud the librerías como NLTK, gensim, spacy y pattern que nos ayudan a procesar y modelar texto en documentos.</p> <p>En la primera parte de esta charla introduciremos conceptos clave acompañados de ejemplos, incluyendo cómo preprocesar texto, con métodos como la tokenización, borrado de stopwords, la lematización y el stemming, y cómo representar texto en un espacio vectorial.</p> <p>En la segunda parte, ampliaremos esos aprendizajes con un caso práctico, la clasificación de textos con aprendizaje no supervisado. Usaremos el modelaje de temas y la creación de visualizaciones interactivas para explorar el contenido de nuestros documentos.</p> <p>Así que no puedes perderte esta charla!!!</p> <p>---</p> <p>Si no has asistido no importa recuerda que puedes  visitar nuestro canal para ver todos los vídeos:</p> <p><a href="https://www.youtube.com/channel/UCELdQbU_Hw8DtDRNoqcECTQ"><a href="https://www.youtube.com/channel/UCELdQbU_Hw8DtDRNoqcECTQ" class="embedded">https://www.youtube.com/channel/UCELdQbU_Hw8DtDRNoqcECTQ</a></a></p> <p>Nuevamente hacemos la invitación a  de seguirnos en nuestras redes sociales para que sigan muy pendiente de la información que estaremos publicando.</p> <p>Facebook: <a href="https://www.facebook.com/PythonBucaramanga/"><a href="https://www.facebook.com/PythonBucaramanga/" class="linkified">https://www.facebook.com/PythonBucaramanga/</a></a></p> <p>Twitter: @PyBuc</p> <p>Gitter: https: //gitter.im/PythonBucaramanga/public</p> <p>Muchas gracias, los esperamos</p> 
+---
+web: https://www.meetup.com/PythonBucaramanga/events/238267121/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.11499786376953
+---
+latitude: 7.105939865112305
+---
+location: Centro Empresarial Cajasán, Puerta del Sol.  Cra. 17f #61
+---
+date_start: 2017-03-15 19:30 -0500
+---
+date_end: 2017-03-15 19:30 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/03/asincronismo-gitlab-ci-con-pytest-y-flake8
+---
+title: Asincronismo & GitLab CI con pytest y flake8
+---
+information: 
+<p>Importante: Para ingresar al sitio del evento se debe diligenciar el siguiente formulario: <a href="https://goo.gl/forms/ENVDUAwCF5PdOnz23" class="linkified">https://goo.gl/forms/ENVDUAwCF5PdOnz23</a></p> <p>¡Hola a todos!</p> <p>Anunciamos nuestro segundo Meetup del año, donde veremos las siguientes charlas:</p> <p>- Asincronismo: Posibles errores y cómo solucionarlos</p> <p>Mi experiencia personal con el asincronismo, algunos detalles valiosos que aprendí en el camino, varios errores con los que me iba encontrando y que hice para solucionarlos.<br/>Cuando son necesarios los bloqueos, uso de semáforos, y ventajas de librerías asincrónicas (aiomysql, aiohttp, aiofiles).</p> <p>- Gitlab CI para tus proyectos en Python con pytest y flake8</p> <p>Como usar Gitlab CI/CD para tus proyectos personales o privados, beneficios, recomendaciones para integrarlo con pytest y flake8</p> <p>- Cinco cosas que no debes hacer con Python: La cuarta te sorprenderá</p> <p>Si bien Python te permite ser muy flexible con tus desarrollos, existen antipatrones que pueden ser bastante peligrosos.</p> <p>AGENDA:<br/>------------</p> <p>6:50 PM - 7:00 PM - Ingreso</p> <p>7:00 PM - 7:40 PM - Asincronismo: Posibles errores y cómo solucionarlos (Gabor Flandorffer)</p> <p>7:40 PM - 7:50 PM - Cinco cosas que no debes hacer con Python: La cuarta te sorprenderá (Daniel Mendoza)</p> <p>7:50 PM - 8:00 PM - Python Bogotá ¿En qué vamos?</p> <p>8:00PM - 8:40 PM - Gitlab CI para tus proyectos en Python con pytest y flake8 (Carlos Martínez)</p> <p>8:40 PM - 9:00 PM - Networking</p> <p>SPEAKERS:<br/>---------------</p> <p>Gabor Flandorffer<br/>Automatization Engineer en Yaxa</p> <p>Daniel Mendoza<br/>Ingeniero de Sistemas, apasionado por los desarrollos experimentales</p> <p>Carlos Martínez<br/>Backend Developer en ComparaMejor</p> <p>SPONSORS:<br/>----------------</p> <p><a href="http://hugeinc.com/" class="linkified">http://hugeinc.com/</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/248661418/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.03986358642578
+---
+latitude: 4.6803789138793945
+---
+location: Huge. CLL 100 # 7 A - 81
+---
+date_start: 2018-03-22 18:50 -0500
+---
+date_end: 2018-03-22 18:50 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

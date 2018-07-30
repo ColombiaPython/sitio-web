@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/04/apistar-la-revolucion-para-desarrollo-de-apis-web-que-llega-con-python-3
+---
+title: APIStar: la revolución para desarrollo de APIs Web que llega con Python 3
+---
+information: 
+<p>El taller consistirá en:<br/>* Una pequeña charla teórica sobre frameworks REST<br/>* Una descripción de las ventajas de APISTAR (Expresividad, Esquemas y Velocidad)<br/>* La parte práctica del taller que consistirá en ejecutar un proyecto de ejemplo de APISTAR (<a href="https://github.com/agiliq/apistar-polls-tutorial" class="linkified">https://github.com/agiliq/apistar-polls-tutorial</a>)</p> <p>Requisitos:<br/>* El lugar tiene un número de sitios fijos por lo tanto es indispensable estar registrado en la plataforma Meetup y estar confirmado como asistente a este evento<br/>* Hay 15 computadores de escritorio disponibles para las personas que no tengan un equipo portátil.<br/>* Las personas que lo deseen pueden llevar su equipo portátil (recomendado) para desarrollar el proceso del taller.</p> 
+---
+web: https://www.meetup.com/PythonBucaramanga/events/248300796/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2018-04-05 19:15 -0500
+---
+date_end: 2018-04-05 19:15 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/04/introduccion-a-la-computacion-interactiva-con-python
+---
+title: Introducción a la Computación Interactiva con Python
+---
+information: 
+<p><img src="https://secure.meetupstatic.com/photos/event/c/9/b/3/600_459591635.jpeg" /></p> <p><b>Evento Gratuito</b> organizado por Python Cali.</p> <p>Objetivo: Reunir a todos los desarrolladores Python de Cali para compartir conocimiento. </p> <p>Lo que vamos a hablar en este Meetup:</p> <p>- Requests en Python por José Ariza</p> <p>- Introducción a la Computación Interactiva con Python por Sebastian Reyes</p> <p>También tendremos refrigerio!</p> <p><img src="https://secure.meetupstatic.com/photos/event/9/8/e/a/600_459759146.jpeg" /></p> 
+---
+web: https://www.meetup.com/Python-Cali/events/238857498/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.53043365478516
+---
+latitude: 3.3406341075897217
+---
+location: Universidad Icesi, Edificio E, Auditorio Banco de Occidente. Carrera 122 # 18, Cali
+---
+date_start: 2017-04-07 18:45 -0500
+---
+date_end: 2017-04-07 18:45 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

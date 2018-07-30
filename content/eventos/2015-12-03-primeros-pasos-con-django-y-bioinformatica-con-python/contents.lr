@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/12/primeros-pasos-con-django-y-bioinformatica-con-python
+---
+title: Primeros pasos con Django y Bioinformática con Python
+---
+information: 
+<p><img src="http://photos3.meetupstatic.com/photos/event/3/9/2/b/600_444674635.jpeg" /></p> <p><b>¡ Hola a todos !</b></p> <p>Anunciamos nuestro próximo meetup el día <b>jueves 3 de diciembre</b>, donde hablaremos como iniciar los primeros pasos con Django para construir grandes aplicaciones y conoceremos el uso de python en ciencias biológicas, presente y futuro.</p> <p>Les recordamos que la entrada es gratuita pero es necesario realizar la reserva a través del Meetup.</p> <p><b>Agenda </b></p> <p>7:00 pm Llegada de los asistentes<br/>7:05 pm <b>Primeros pasos en Django</b> por Camilo Nova<br/>7:50 pm Noticias del meetup (lo que se viene) por Ivan Camilo Ramirez<br/>8:00 pm <b>Bioinformática - Biopython </b>por José Ricardo Bustos<br/>8:45 pm Networking</p> <p><b>Primeros pasos en Django</b></p> <p>Veremos una guía de como empezar con Django, desde su flujo de trabajo con Modelos, Vistas y Templates.</p> <p>Presentado por <b>Camilo Nova</b> He trabajado con varias compañías alrededor del mundo, en lugares como New York, Madrid, San Francisco, Londres y Washington hace más de 10 años en desarrollo de software para el sector público y privado. Contribuyó a varios proyectos como django, django-axes, easy-thumbnails y django-extensions.</p> <p><b>Bioinformática - Biopython</b></p> <p>En esta charla socializamos como se está usando python en el mundo en las ciencias biológicas y el impacto que este tiene.</p> <p>Presentado por <b>Jose Ricardo Bustos</b>, Ingeniero Agrícola con 7 años de experiencia en un grupo de investigación de biología molecular.</p> <p>Con el apoyo de <b>Scalable Path</b></p> <p><img src="http://photos3.meetupstatic.com/photos/event/c/d/d/9/600_444652697.jpeg" /></p> <p>We assemble international technical teams for clients in the US, and build awesome applications.</p> <p><a href="http://www.scalablepath.com/"><a href="http://www.scalablepath.com" class="linkified">http://www.scalablepath.com</a></a> - <a href="mailto:info@scalablepath.com">info@scalablepath.com</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/224848717/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2015-12-03 19:00 -0500
+---
+date_end: 2015-12-03 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota
