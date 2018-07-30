@@ -1,4 +1,69 @@
 {% extends "page.html" %}
+
+
+{%- macro organizing_team(title, usernames) %}
+  {%- if usernames %}
+    <div class="row">
+      <div class="col-12">
+        <h2>{{ title }}</h2>
+        <div class="row justify-content-center">
+        {%- for username in usernames %}
+        {%- set user = site.get('/usuarios/' + username) %}
+          <div class="col-lg-3 col-md-3 col-xs-12">
+            <a href="{{ user|url }}">
+              {%- if image_alt and user.image_alt %}
+              <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" /> {%- elif not image_alt and user.image %}
+              <img class="image fit" src="{{ user|url }}/{{ user.image }}" alt="{{ user.username }}" /> {%- elif image_alt and not user.image_alt %}
+              <img class="image fit" src="{{ base_url }}static/images/empty-2x1.png" alt="{{ user.username }}" /> {%- elif not image_alt and not user.image %}
+              <img class="image fit" src="{{ base_url }}static/images/empty-avatar.png" alt="{{ user.username }}" /> {%- endif %}
+            </a>          
+            <div class="row justify-content-center">
+              <h4>{{ user.name }} {{ user.last_name }}</h4>
+            </div>
+            <div class="row justify-content-center">
+              <ul class="icons">
+                {%- if user.web %}
+                <li>
+                  <a href="{{ user.web }}" class="icon fa-globe" target="_blank">
+                    <span class="label">Website</span>
+                  </a>
+                </li>
+                {%- endif -%} {%- if user.email %}
+                <li>
+                  <a href="mailto:{{ user.email }}" class="icon fa-envelope" target="_blank">
+                    <span class="label">Email</span>
+                  </a>
+                </li>
+                {%- endif -%} {%- if user.facebook_handle %}
+                <li>
+                  <a href="https://facebook.com/{{ user.facebook_handle}}" class="icon fa-facebook" target="_blank">
+                    <span class="label">Facebook</span>
+                  </a>
+                </li>
+                {%- endif -%} {%- if user.twitter_handle %}
+                <li>
+                  <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
+                    <span class="label">Twitter</span>
+                  </a>
+                </li>
+                {%- endif -%} {%- if user.github_handle %}
+                <li>
+                  <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
+                    <span class="label">Github</span>
+                  </a>
+                </li>
+                {%- endif %}
+              </ul>
+            </div>
+          </div>
+          {%- endfor -%}
+        </div>
+      </div>
+    </div>
+  {%- endif %}
+{%- endmacro %}
+
+
 {% block title %}{{ this.name }} {{ this.last_name }}{% endblock %}
 {% block content %}
 <section class="about" id="about">
@@ -43,35 +108,35 @@
             {% endif %}
             {% if this.instagram_handle %}
             <li>
-              <a href="https://www.instagram.com/{{ this.instagram_handle }}" class="icon fa-instagram">
+              <a href="https://www.instagram.com/{{ this.instagram_handle }}" class="icon fa-instagram" target="_blank">
                 <span class="label">Instagram</span>
               </a>
             </li>
             {% endif %}
             {% if this.github_handle %}
             <li>
-              <a href="https://github.com/{{ this.github_handle }}" class="icon fa-github-alt">
+              <a href="https://github.com/{{ this.github_handle }}" class="icon fa-github-alt" target="_blank">
                 <span class="label">Github</span>
               </a>
             </li>
             {% endif %}
             {% if this.telegram_handle %}
             <li>
-              <a href="https://t.me/{{ this.telegram_handle }}" class="icon fa-telegram">
+              <a href="https://t.me/{{ this.telegram_handle }}" class="icon fa-telegram" target="_blank">
                 <span class="label">Telegram</span>
               </a>
             </li>
             {% endif %}
             {% if this.linkedin_handle %}
             <li>
-              <a href="https://https://www.linkedin.com/in/{{ this.linkedin_handle }}" class="icon fa-linkedin">
+              <a href="https://https://www.linkedin.com/in/{{ this.linkedin_handle }}" class="icon fa-linkedin" target="_blank">
                 <span class="label">Linkedin</span>
               </a>
             </li>
             {% endif %}
-            {% if this.meetup_url %}
+            {% if this.meetup_handle %}
             <li>
-              <a href="{{ this.meetup_url }}" class="icon fa-meetup">
+              <a href="https://www.meetup.com/{{ this.meetup_handle }}" class="icon fa-meetup" target="_blank">
                 <span class="label">Meetup</span>
               </a>
             </li>
@@ -91,66 +156,21 @@
       </div>
     </div>
     {%- if this.members -%}
-    <div class="row">
-      <div class="col-12">
-        <h2>Equipo Organizador</h2>
-
-        <div class="row justify-content-center">
-        {%- for block in this.members.blocks -%}
-        {%- set user = site.get('/usuarios/' + block.username) -%}
-          <div class="col-lg-3 col-md-3 col-xs-12">
-          
-            <a href="{{ user|url }}">
-              {% if image_alt and user.image_alt %}
-              <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" /> {% elif not image_alt and user.image %}
-              <img class="image fit" src="{{ user|url }}/{{ user.image }}" alt="{{ user.username }}" /> {% elif image_alt and not user.image_alt %}
-              <img class="image fit" src="{{ base_url }}static/images/empty-2x1.png" alt="{{ user.username }}" /> {% elif not image_alt and not user.image %}
-              <img class="image fit" src="{{ base_url }}static/images/empty-avatar.png" alt="{{ user.username }}" /> {% endif %}
-            </a>
-          
-            <div class="row justify-content-center">
-              <h4>{{ user.name }} {{ user.last_name }}</h4>
-            </div>
-            <div class="row justify-content-center">
-              <ul class="icons">
-                {% if user.web %}
-                <li>
-                  <a href="{{ user.web }}" class="icon fa-globe" target="_blank">
-                    <span class="label">Website</span>
-                  </a>
-                </li>
-                {% endif %} {% if user.email %}
-                <li>
-                  <a href="mailto:{{ user.email }}" class="icon fa-envelope" target="_blank">
-                    <span class="label">Email</span>
-                  </a>
-                </li>
-                {% endif %} {% if user.facebook_handle %}
-                <li>
-                  <a href="https://facebook.com/{{ user.facebook_handle}}" class="icon fa-facebook" target="_blank">
-                    <span class="label">Facebook</span>
-                  </a>
-                </li>
-                {% endif %} {% if user.twitter_handle %}
-                <li>
-                  <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
-                    <span class="label">Twitter</span>
-                  </a>
-                </li>
-                {% endif %} {% if user.github_handle %}
-                <li>
-                  <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
-                    <span class="label">Github</span>
-                  </a>
-                </li>
-                {% endif %}
-              </ul>
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
+    {% set current_members = [] %}
+    {% set past_members = [] %}
+    {% for block in this.members.blocks %}
+        {% if block.date_start and block.date_end %}
+          {% if block.date_end > block.date_end.today() %}
+          {% set _ = current_members.append(block.username) %}
+          {% else %}
+          {% set _ = past_members.append(block.username) %}
+          {% endif %}
+        {% else %}
+          {% set _ = current_members.append(block.username) %}
+        {% endif %}
+    {% endfor %}
+    {{ organizing_team('Equipo Organizador Actual', current_members) }}
+    {{ organizing_team('Antiguos Colaboradores', past_members) }}
     {%- endif -%}
   </div>
 </section>

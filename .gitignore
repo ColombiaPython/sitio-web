@@ -101,3 +101,8 @@ ENV/
 
 # OSX
 .DS_Store
+
+# Meetup data
+MEETUP_API_KEY
+.MEETUP_API_KEY
+.MEETUP_DATA/
