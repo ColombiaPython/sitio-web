@@ -12,7 +12,9 @@ install:
   - "pip install unidecode"
   - "pip install git+https://github.com/lektor/lektor#egg=Lektor"
 
-script: "lektor build"
+script:
+  # - "python scripts/create_events.py"
+  - "lektor build"
 
 deploy:
   - provider: script
