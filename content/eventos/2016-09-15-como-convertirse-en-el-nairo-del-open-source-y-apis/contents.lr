@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/09/como-convertirse-en-el-nairo-del-open-source-y-apis
+---
+title: 🎉 Como convertirse en el Nairo del Open Source y APIs 🎉
+---
+information: 
+<p><img src="http://photos1.meetupstatic.com/photos/event/2/7/2/f/600_454090031.jpeg" /></p> <p>Tu.</p> <p>Ese programador tímido que no habla con nadie, que sabe como bajar software y ponerlo a funcionar.</p> <p>El que se conoce todas las librerías para cada caso de uso.</p> <p>Aquel que marca en Github todos los paquetes que puede para evitar escribir esa funcionalidad que necesita.</p> <p>Tu que has sacado provecho de miles de horas de desarrollo de otras personas al incluir en tu proyecto esa librería que hace lo que necesitas, y que no la cobraste porque es "open source".</p> <p>Te tengo noticias, el "open source" no es gratis.</p> <p>Hay tiempo y esfuerzo de personas que trabajan para que tú puedas cobrar ese proyecto mas baratico o sacarlo más rápido para que tengas tiempo de ver 9gag.</p> <p>Te voy a mostrar como retribuir algo de todo lo que has tomado, y como dejar de ser la estrella de tu barrio para ser reconocido por desarrolladores en todo el mundo.</p> <p><b>Presentado por:</b></p> <p>Camilo Nova es un Developer Member de la Django Software Foundation. Ha contribuido al open source en librerías para jQuery y Django, fundador del meetup de Django Bogotá. Cuando no está hackeando en Python toca su ukulele para la banda de Axiacore.</p> <p><a href="http://camilonova.com/">camilonova.com</a></p> <p><a href="https://github.com/camilonova">Github</a></p> <p><a href="http://twitter.com/camilonova">Twitter</a></p> <p>-------------------------</p> <p>además...</p> <p><b>Mejores practicas para el diseño de APIs<br/></b></p> <p>Oscar Amado ha desarrollado software con varios lenguajes (Python, C# y Ruby).  Actualmente es desarrollador backend en Tappsi. </p> <p>Es Ingeniero electrónico MSc en automatización.</p> <p><a href="https://twitter.com/oaamados">Twitter</a></p> <p><a href="https://www.linkedin.com/in/oscar-amado">linkedin</a></p> <p>Agenda </p> <p><b>7:00 pm</b> Llegada de los asistentes</p> <p><b>7:15 pm </b>Mejores practicas para el diseño de APIs por (Oscar Amado)</p> <p><b>8:00 pm</b> Presentando Jazzband por (Camilo Nova)</p> <p><b>8:45 pm </b>Networking con Pizza por Scalablepath</p> <p>Síguenos en <a href="https://twitter.com/django_bogota">@django_bogota</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/233829838/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05350494384766
+---
+latitude: 4.677724838256836
+---
+location: Oficinas Mercadolibre.  carrera 17 # 93 09 edificio. ecotower
+---
+date_start: 2016-09-15 19:00 -0500
+---
+date_end: 2016-09-15 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

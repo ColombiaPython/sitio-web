@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2018/05/identificacion-de-aves-con-ml-reconocimiento-visual-testing
+---
+title: Identificación de aves con ML & Reconocimiento visual & Testing
+---
+information: 
+<p>Importante: Para ingresar al sitio del evento se debe diligenciar el siguiente formulario: <a href="https://goo.gl/forms/nngbGppB889PcAHw2" class="linkified">https://goo.gl/forms/nngbGppB889PcAHw2</a></p> <p>¡Hola a todos!</p> <p>Anunciamos un nuevo Meetup, donde veremos las siguientes charlas:</p> <p>- Identificando pajaritos con Python</p> <p>Presentación de técnicas de procesamiento de datos de audio para identificar especies de aves Colombianas.</p> <p>- Watson Visual Recognition</p> <p>- Testing en Python: ¿Con qué y cómo empezar?</p> <p>Veremos una comparación de herramientas que tenemos para hacer testing y una pequeña introducción al testing en Python.</p> <p>AGENDA:<br/>------------</p> <p>6:50 PM - 7:00 PM - Ingreso</p> <p>7:00 PM - 7:40 PM - Testing en Python: ¿Con qué y cómo empezar? (Julián Cortés)</p> <p>7:40 PM - 7:50 PM - Python Bogotá ¿En qué vamos?</p> <p>7:50 PM - 8:30 PM Identificando pajaritos con Python (Angie Katherine Reyes)</p> <p>8:30 PM - 8:40 PM - Watson Visual Recognition (Samir Char Iglesias)</p> <p>8:40 PM - 9:00 PM - Networking</p> <p>SPEAKERS:<br/>---------------</p> <p>Angie Katherine Reyes<br/>Ingeniera de Sistemas e Informática. Estudiante de semestre 2 en el Doctorado en Ciencias Aplicadas de la Universidad Antonio Nariño.</p> <p>Julián Cortés<br/>Backend developer en Comparamejor</p> <p>Samir Char Iglesias<br/>IBM Global Entrepreneur Program - DBG</p> <p>SPONSORS:<br/>----------------<br/><a href="https://www.bizagi.com/es" class="linkified">https://www.bizagi.com/es</a><br/><a href="https://www.ibm.com/co-es/" class="linkified">https://www.ibm.com/co-es/</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/250137695/
+---
+city: Bogotá
+---
+country: Colombia
+---
+location: Bizagi. Carrera 7 # 71 - 52, Torre B, Piso 4
+---
+date_start: 2018-05-03 18:50 -0500
+---
+date_end: 2018-05-03 18:50 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/10/clean-architecture-in-python-rest-apis-django-graphql-en-la-vida-real
+---
+title: Clean architecture in Python REST APIs & Django + GraphQL en la vida real
+---
+information: 
+<p>Importante: Ingresar datos verídicos en el registro. Si no están debidamente registrados no podrán ingresar al sitio del evento.</p> <p>¡Hola a todos!</p> <p>Anunciamos un nuevo evento, donde veremos las siguientes charlas:</p> <p>- Clean architecture in Python REST APIs</p> <p>Cómo hacer que nuestras REST APIs sean más escalables, testeables y mantenibles aplicando Clean Architecture.</p> <p>- Django + GraphQL en la vida real. It Works!</p> <p>Al implementar GraphQL junto Django es natural que surjan algunas (muchas) dudas del proceso, por ejemplo: ¿cómo resolver datos que no vienen de la base de datos o que son calculados? ¿cómo funcionan las mutaciones?, ¿que podemos hacer con estas?. En esta charla presentaremos como resolvimos estas preguntas y muchas otras más que nos planteamos al implementar una API GraphQL en un proyecto de Django.</p> <p>AGENDA:</p> <p>7:00 PM - 7:10 PM - Ingreso</p> <p>7:10 PM - 7:50 PM - Clean architecture in Python REST APIs (Jhon Roa)</p> <p>7:50 PM - 8:00 PM - Python Bogotá ¿En qué vamos?</p> <p>8:00PM - 8:40 PM - Django + GraphQL en la vida real. It Works! (Carlos Martinez)</p> <p>8:40 PM - 9:00 PM - Networking</p> <p>SPEAKERS:</p> <p>Jhon Roa</p> <p>Technical team lead at Lendingfront / Pycon Colombia Chief Organizer.</p> <p>Twitter: <a href="https://twitter.com/jhonjairoroa87" class="linkified">https://twitter.com/jhonjairoroa87</a></p> <p>Carlos Martinez</p> <p>Soy ingeniero de sistemas y fotografo aficionado. Soy un desarrollador de software apasionado por resolver problemas y superar grandes retos. He trabajado como desarrollador Full stack creando aplicaciones web enriquecidas principalmente usando Python/Django.</p> <p>Twitter: <a href="https://twitter.com/carlosmart626" class="linkified">https://twitter.com/carlosmart626</a></p> <p>SPONSORS:</p> <p><a href="https://comparamejor.com/" class="linkified">https://comparamejor.com/</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/243992418/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0566177368164
+---
+latitude: 4.667305946350098
+---
+location: Comparamejor.  carrera 15 # 80 - 90
+---
+date_start: 2017-10-26 19:00 -0500
+---
+date_end: 2017-10-26 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

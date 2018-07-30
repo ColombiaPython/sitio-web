@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/04/leccion-6-introduccion-a-django-manejo-de-url-s-y-vistas
+---
+title: Lección 6: Introducción a Django, manejo de URL's y vistas.
+---
+information: 
+<p>Hola a todos,</p> <p>El día de mañana continuaremos con nuestras clases para la primera promoción de Pyladies Medellín del 2016.</p> <p>Se dará una introducción de cómo funciona la web y entraremos a crear una pagina web con Django mientras hablamos del manejo de urls y listas.</p> <p>En el transcurso de la mañana actualizaremos éste post con enlaces a los recursos utilizados para dar la charla como slides, código, etc.</p> <p>Actualmente el se dictan exclusivamente al grupo preseleccionado de estudiantes de media técnica. Sim embargo, ya estamos recibiendo solicitudes para participar en el curso del siguiente semestre, si estás interesada ingresa a <a href="http://goo.gl/forms/9zzgfGIl33">ésta url</a> y llena el formulario de preinscrpción</p> 
+---
+web: https://www.meetup.com/Python-Ladies-Medellin/events/230623304/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.64041137695312
+---
+latitude: 6.191373825073242
+---
+location: Vivero del Software Medellin. Calle 7 N° 48 - 111 
+---
+date_start: 2016-04-30 08:00 -0500
+---
+date_end: 2016-04-30 08:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: pyladies-medellin

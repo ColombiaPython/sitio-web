@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2013/10/que-hay-de-nuevo-en-django-1-6
+---
+title: Que hay de nuevo en Django 1.6
+---
+information: 
+<p>¿Interesado/a en lo nuevo que ofrece la versión mas reciente de Django?, ven y conoce los avances mas significativos, directo desde la DjangoCON realizada hace un par de semanas en Chicago, IL.</p> <p>Presentado por Camilo Nova, hace parte del selecto grupo de AxiaCore desarrollando aplicaciones web en Django para grandes empresas, gobierno y startups en US y Europa. Ha contribuido en proyectos como Django, django-axes, easy-thumbnails, django-pipeline, django-crispy-forms y django-extensions, ver más en: <a href="https://github.com/camilonova" class="linkified">https://github.com/camilonova</a></p> <p>La agenda del evento es:</p> <p>6:00 - Networking<br/>6:30 - Que hay de nuevo en Django 1.6<br/>7:15 - Preguntas<br/>7:30 - Pizza y Cerveza</p> <p>Este es un evento para un perfil inicial técnico, nuestro objetivo principal es compartir con personas estándares y buenas prácticas para usar la tecnología.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/141124812/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2013-10-03 18:00 -0500
+---
+date_end: 2013-10-03 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

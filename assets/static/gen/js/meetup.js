@@ -8,6 +8,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Arauca",
         "url": "/usuarios/python-arauca"
@@ -21,6 +22,13 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [
+          {
+            "date_start": "2018-08-16",
+            "title": "Integrar GraphQL a Django + Entiende el poder de los datos con Spark",
+            "url": "/eventos/2018/08/integrar-graphql-a-django-entiende-el-poder-de-los-datos-con-spark"
+          }
+        ],
         "icon": "python",
         "name": "Python Barranquilla",
         "url": "/usuarios/python-barranquilla"
@@ -34,16 +42,19 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "pydata",
         "name": "PyData Bogot\u00e1",
         "url": "/usuarios/pydata-bogota"
       },
       {
+        "events": [],
         "icon": "pyladies",
         "name": "PyLadies Bogot\u00e1",
         "url": "/usuarios/pyladies-bogota"
       },
       {
+        "events": [],
         "icon": "python",
         "name": "Python Bogot\u00e1",
         "url": "/usuarios/python-bogota"
@@ -57,6 +68,18 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [
+          {
+            "date_start": "2018-09-13",
+            "title": "Introducci\u00f3n a Arquitectura de Big Data.",
+            "url": "/eventos/2018/09/introduccion-a-arquitectura-de-big-data"
+          },
+          {
+            "date_start": "2018-08-02",
+            "title": "PyLab: Introducci\u00f3n al lenguaje Python y sus estructuras de datos!",
+            "url": "/eventos/2018/08/pylab-introduccion-al-lenguaje-python-y-sus-estructuras-de-datos"
+          }
+        ],
         "icon": "python",
         "name": "Python Bucaramanga",
         "url": "/usuarios/python-bucaramanga"
@@ -70,6 +93,13 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [
+          {
+            "date_start": "2018-08-11",
+            "title": "Python Cali Agosto",
+            "url": "/eventos/2018/08/python-cali-agosto"
+          }
+        ],
         "icon": "python",
         "name": "Python Cali",
         "url": "/usuarios/python-cali"
@@ -83,6 +113,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Cartagena",
         "url": "/usuarios/python-cartagena"
@@ -96,6 +127,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python C\u00facuta",
         "url": "/usuarios/python-cucuta"
@@ -109,6 +141,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Ibagu\u00e9",
         "url": "/usuarios/python-ibague"
@@ -122,6 +155,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Manizales",
         "url": "/usuarios/python-manizales"
@@ -135,11 +169,19 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [
+          {
+            "date_start": "2018-08-04",
+            "title": "Python en la computaci\u00f3n cient\u00edfica",
+            "url": "/eventos/2018/08/python-en-la-computacion-cientifica"
+          }
+        ],
         "icon": "pyladies",
         "name": "PyLadies Medell\u00edn",
         "url": "/usuarios/pyladies-medellin"
       },
       {
+        "events": [],
         "icon": "python",
         "name": "Python Medell\u00edn",
         "url": "/usuarios/python-medellin"
@@ -153,6 +195,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Neiva",
         "url": "/usuarios/python-neiva"
@@ -166,6 +209,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Pasto",
         "url": "/usuarios/python-pasto"
@@ -179,6 +223,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Pereira",
         "url": "/usuarios/python-pereira"
@@ -192,6 +237,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Popay\u00e1n",
         "url": "/usuarios/python-popayan"
@@ -205,6 +251,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Santa Marta",
         "url": "/usuarios/python-santa-marta"
@@ -218,6 +265,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Sincelejo",
         "url": "/usuarios/python-sincelejo"
@@ -231,6 +279,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Tulu\u00e1",
         "url": "/usuarios/python-tulua"
@@ -244,6 +293,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Tunja",
         "url": "/usuarios/python-tunja"
@@ -257,6 +307,7 @@ function meetups() {
     ],
     "meetups": [
       {
+        "events": [],
         "icon": "python",
         "name": "Python Villavicencio",
         "url": "/usuarios/python-villavicencio"

@@ -5,7 +5,7 @@
 {% block content %}
   <h2>Eventos de la comunidad</h2>
   <ul>
-  {% for event in this.children %}
+  {% for event in this.pagination.items %} {# Ignore categories #}
   <li>
     <a href="{{event|url}}">
     {{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event .title}} ({{ event.city }}, {{ event.country }})

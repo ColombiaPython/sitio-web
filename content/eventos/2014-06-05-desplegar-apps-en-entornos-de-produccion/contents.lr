@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/06/desplegar-apps-en-entornos-de-produccion
+---
+title: Desplegar apps en entornos de producción
+---
+information: 
+<p>Las preguntas que surgen al momento de lanzar nuestra django app a producción son, dónde? cómo? y por que?. Vamos a explorar rapidamente varias opciones del DONDE y PORQUE, que incluyen Amazon, Linode, Azure, Google, Digitalocean, Webfaction, etc. luego vamos a la practica del COMO, subiendo un app en alguna de estas plataformas con Linux, implementando 1 o más apps en un solo appserver con Nginx (webserver) + Supervisor (monitor de servicios del app). Si queda tiempo hacemos una practica de escalabilidad poniendo en uso algún balanceador de carga entre varios servidores con la misma django app.</p> <p>Presentado por Luis Pallares, Ingeniero de Sistemas que todo lo hace con python/django, actualmente Backend Developer y CTO de ComparaMejor.com el cual es considerado por el founder institute como uno de los mejores emprendimientos de Latino America en el 2013 <a href="http://fi.co/posts/7241"><a href="http://fi.co/posts/7241" class="linkified">http://fi.co/posts/7241</a></a>, también participa en el desarrollo de <a href="http://aquehorajuega.co/"><a href="http://aquehorajuega.co/" class="linkified">http://aquehorajuega.co/</a></a> y <a href="http://musicracy.co/"><a href="http://musicracy.co/" class="linkified">http://musicracy.co/</a></a> y muchas otros desarrollos con Django, su framework preferido.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking</p> <p>6:30 - Tema principal</p> <p>7:15 - Preguntas</p> <p>7:30 - Pizza y Cerveza</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/180248442/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2014-06-05 18:00 -0500
+---
+date_end: 2014-06-05 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

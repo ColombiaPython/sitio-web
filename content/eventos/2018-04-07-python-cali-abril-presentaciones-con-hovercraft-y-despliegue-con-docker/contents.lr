@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/04/python-cali-abril-presentaciones-con-hovercraft-y-despliegue-con-docker
+---
+title: Python Cali Abril: Presentaciones con Hovercraft y despliegue con Docker
+---
+information: 
+<p>* Hovercraft: Presentaciones tipo Prezi en Python<br/>Por Pedro Rivera<br/>Ingeniero de Desarrollo<br/>* Blue Code challenge<br/>* Con la ballena a la nube: una guía práctica para el despliegue de Python con Docker<br/>Por Mauricio Collazos<br/>CTO en TranquiFinanzas<br/>* Pizza</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/248802660/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54611206054688
+---
+latitude: 3.4333689212799072
+---
+location: El Lab - Coworking Space. Calle 4b # 35a - 11 Barrio San Fernando
+---
+date_start: 2018-04-07 09:15 -0500
+---
+date_end: 2018-04-07 09:15 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

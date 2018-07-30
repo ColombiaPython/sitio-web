@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/10/taller-de-co-creacion-1
+---
+title: Taller de Co-creación #1
+---
+information: 
+<p>En ésta ocasión estaremos trabajando en la aplicación para votar en los posibles temas para charlas del meetup y que cualquiera de los participantes se pueda postular como tallerista de una charla. Ésta es la <a href="https://docs.google.com/document/d/1qw0X4cegrbEtWMlGp81Lu2rX6hTYv7NL9_ZtojlCAhw/edit#heading=h.ksbuleho9b2p">documentación del proyecto</a>.</p> <p>Están todos invitados del taller. </p> 
+---
+web: https://www.meetup.com/pythonbaq/events/226196246/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2015-10-26 19:00 -0500
+---
+date_end: 2015-10-26 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

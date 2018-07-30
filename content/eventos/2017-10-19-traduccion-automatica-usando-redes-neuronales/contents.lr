@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/10/traduccion-automatica-usando-redes-neuronales
+---
+title: Traducción automática usando redes neuronales
+---
+information: 
+<p><img src="https://secure.meetupstatic.com/photos/event/7/d/9/e/600_465032158.jpeg" /></p> <p>En este proyecto, vas a echar un vistazo al mundo de la traducción automática usando redes neuronales. Estarás entrenando una red neuronal capaz de traducir nuevas frases del inglés al francés.  Nuestra red neuronal utiliza la arquitectura de LSTM (Long-short term memory). </p> <p>A partir de 2016, las principales empresas de tecnología, como Google, Apple y Microsoft estaban utilizando LSTM como componentes fundamentales en nuevos productos.  Por ejemplo, Google utilizó LSTM para el reconocimiento de voz en el teléfono inteligente, para el asistente inteligente Allo y para Google Translate.  Apple utiliza LSTM para la función “Quicktype” en el iPhone  y para Siri. Amazon utiliza LSTM para Amazon Alexa.</p> <p>El evento es gratuito y los cupos son limitados. Te esperamos!!! </p> <p><b>Tallerista:</b></p> <p>• Wayner Barrios. Ingeniero electrónico, desarrollador de software en <a href="http://piensa.co/">Piensa Labs</a></p> <p><b>Requisitos:</b></p> <p>• <a href="https://goo.gl/forms/K0w3Ok2lO3IP9b792">Diligenciar el siguiente formulario</a> (obligatorio para ingresar al lugar)</p> <p>• Laptop (opcional)</p> <p><b>Lugar:</b></p> <p><a href="https://www.google.com.co/maps/uv?hl=es&amp;pb=!1s0x8ef42da13dce2fd5%3A0xa6685966ca6293c5!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4shttps%3A%2F%2Fpicasaweb.google.com%2Flh%2Fsredir%3Funame%3D103089146462330895018%26id%3D6382518959011519186%26target%3DPHOTO!5skoombea%20-%20Buscar%20con%20Google&amp;imagekey=!1e3!2s-Ay7uQ6fqrKw%2FWMHElBihlSI%2FAAAAAAAADwY%2Fy6nReCKlmbUNRnDs_u4LTXrCbtmbLsrqwCLIB&amp;sa=X&amp;sqi=2&amp;ved=0ahUKEwi7lcLjvMfTAhVCOSYKHVciCxgQoioIezAK">Edificio Koombea</a></p> <p><b>Agenda</b></p> <p>• 7:00-7:20pm  -  Llegada, networking </p> <p>•  7:20-8:15pm  -  Charla </p> <p>• 8:15-8:30pm  -  Comida y networking</p> <p>• 8:30-9:00pm -  Continúa Charla </p> <p><b>Observaciones</b></p> <p><i>•  Como siempre pediremos pizza para comer, así que por favor traigan algo de dinero para hacer "la vaca" jeje. </i></p> <p>• <i>El lugar tiene una capacidad limitada, por lo que le pedimos a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.</i></p> 
+---
+web: https://www.meetup.com/pythonbaq/events/243867203/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2017-10-19 19:00 -0500
+---
+date_end: 2017-10-19 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

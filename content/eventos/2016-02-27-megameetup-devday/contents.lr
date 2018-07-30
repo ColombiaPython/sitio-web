@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/02/megameetup-devday
+---
+title: [MegaMeetup] DevDay
+---
+information: 
+<p>El mejor día para aprender sobre desarrollo de software web, de mano de las más grandes comunidades de Bogotá, con conferencistas increibles.</p> <p>Unidas las comunidades de HybridAppsColombia, DjangoBogota, MeteorBogota y BogoDev, para el apoyo de nuestros organizadores y no hacer un frente hacia la <b>Deshonestidad</b> en los eventos.</p> <p>Para reservar deben hacerlo desde aquí:</p> <p><a href="https://www.ticketcode.co/eventos/dev-day"><a href="https://www.ticketcode.co/eventos/dev-day" class="linkified">https://www.ticketcode.co/eventos/dev-day</a></a></p> <p>=========== </p> <p><b>Agenda </b><br/>- 8:00am a 8:45am - <b>Creando una App lista para publicar con Ionic</b> por @carlosrojas_o<br/>- 8:50am a 9:20am - <b>Introducción a Angular 2</b> por @UnJavaScripter<br/>- 9:30am a 10:15am - <b>Optimizando Django 101</b> por @julian_amaya<br/>- 10:15am a 10:30am - Break <br/>- 10:30am a 11:45am - <b>Buenas practicas para manejo de errores en RESTful API's con Python</b> por @jhonjairoroa87<br/>- 11:45am a 12:15am - <b>Construyendo una WebApp usando Google Cloud Platform y Node.js</b> por @dcifuen</p> <p>========== </p> <p><b>Dev Day</b> es un evento que se hace en conjunto con las comunidades de desarrollo de Bogotá y que se unen para hacer frente a la <b>deshonestidad</b> en los eventos y por eso los fondos del evento serán destinados a recuperar lo robado en un uno de nuestros eventos. </p> <p><b>Para saber más acerca de lo ocurrido <a href="http://medium.com/@nicobytes/alerta-a-los-organizadores-de-meetups-e02588f8f4dd">aquí</a>. </b></p> <p>Gracias a la apoyo de la comunidad haremos un gran evento con charlas y conferencitas increibles </p> 
+---
+web: https://www.meetup.com/pythonbogota/events/228873650/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.12149047851562
+---
+latitude: 4.6537089347839355
+---
+location: Microsoft Bogota. Carrera 7a. # 71-21, Torre B Piso 15
+---
+date_start: 2016-02-27 07:45 -0500
+---
+date_end: 2016-02-27 07:45 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

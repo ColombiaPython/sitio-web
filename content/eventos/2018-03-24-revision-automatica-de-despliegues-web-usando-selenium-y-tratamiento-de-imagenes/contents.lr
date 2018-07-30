@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/03/revision-automatica-de-despliegues-web-usando-selenium-y-tratamiento-de-imagenes
+---
+title: Revisión automática de despliegues web usando Selenium y Tratamiento de Imágenes
+---
+information: 
+<p>Tenemos el gusto de invitarlos al primer workshop de Python Pereira, donde contaremos con un invitado muy especial desde Ubidots (Medellín), compartiendo sus conocimientos sobre:</p> <p>• Testing automatizado de despliegues web usando Selenium y procesamiento de imágenes con OpenCV by José García (<a href="https://github.com/jotathebest" class="linkified">https://github.com/jotathebest</a>).</p> <p>Durante este workshop desarrollaremos un algoritmo para revisar si un sitio web (o parte de él) cambia su apariencia luego de finalizado un despliegue de código con nuevas funcionalidades. Lo que haremos será aprender lo básico sobre Selenium, una herramienta muy conocida para obtener información del sitio web objetivo de análisis, y luego con ayuda de OpenCV compararemos si el website se ve cómo debería y, en caso contrario, generaremos una alerta para notificar al DevOps a través de Slack u otro medio de comunicación (SMS, correo electrónico, etc).</p> <p>---</p> <p>• Información importante:</p> <p>Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.</p> <p>Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores .</p> <p>P.D. Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en python.pereira@gmail.com .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/248414192/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.68910217285156
+---
+latitude: 4.793649196624756
+---
+location: Universidad Tecnológica de Pereira. Universidad Tecnológica de Pereira, Calle 27, Pereira, Risaralda
+---
+date_start: 2018-03-24 14:00 -0500
+---
+date_end: 2018-03-24 14:00 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

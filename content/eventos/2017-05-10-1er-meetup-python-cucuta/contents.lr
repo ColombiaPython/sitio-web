@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/05/1er-meetup-python-cucuta
+---
+title: 1er Meetup Python Cúcuta
+---
+information: 
+<p>¡Nuestro primer Meetup se ha programado!</p> <p>Se realizará el próximo miércoles 10 de mayo a partir de las 7:00 pm en la Universidad de Santander - UDES. La UDES se encuentra ubicada en Avenida 4 Calle 10 Norte Urbanización El Bosque. Gracias a la universidad  y al apoyo del Programa de Ingeniería de Sistemas, contaremos con el auditorio Rafael Serrano S, el cual estará adecuado para realizar nuestro primer encuentro.</p> <p>En este primer Meetup haremos una introducción a la programación con Python, que estará a cargo de Alex. En ella hablaremos entre otras cosas, sobre las ventajas y desventajas de programar en Python, lo compararemos con otros lenguajes de programación y hablaremos sobre algunos frameworks disponibles.</p> <p>Por otra parte, nuestro amigo John, nos contará cómo ha sido el proceso de unificación de la industria y la academia con Python Colombia y Pycon Colombia. John actualmente es Technical lead at LendingFront and Pycon Colombia organizer.</p> <p>Finalmente, Diego compartirá la experiencia vivida en Django Girls, donde aprendió acerca de la importancia de vincularse a esta clase de eventos no solo para aprender, sino para construir comunidad.</p> <p>Iniciaremos el Meetup a las 7:00 pm con un espacio de networking, donde tendremos la oportunidad de saludarnos y conocernos. A las 7:30 pm se dará inicio a  las presentaciones y para finalizar mantendremos una charla abierta entre todos los asistentes.</p> <p>A continuación, les compartimos los perfiles de los speakers que nos acompañarán y los nombres de las presentaciones:</p> <p>Alex Gutiérrez - Introducción a la programación con Python.</p> <p>John Roa - Python Colombia y Pycon Colombia: unificando industria y academia.</p> <p>Diego Cortés: Experiencias vividas en Django Girls: ¿Por qué es importante asistir como tallerista o como guía?</p> <p>¡Nos vemos pronto Pythonistas!</p> 
+---
+web: https://www.meetup.com/Python-Cucuta/events/239401225/
+---
+city: Cúcuta
+---
+country: Colombia
+---
+longitude: -72.49980926513672
+---
+latitude: 7.910484790802002
+---
+location: Universidad de Santander. Avenida 4 Calle 10 Norte Urbanización El Bosque
+---
+date_start: 2017-05-10 19:00 -0500
+---
+date_end: 2017-05-10 19:00 -0500
+---
+province: Norte de Santander
+---
+organizers: 
+
+#### organization ####
+username: python-cucuta

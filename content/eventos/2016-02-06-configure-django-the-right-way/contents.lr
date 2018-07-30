@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/02/configure-django-the-right-way
+---
+title: Configure Django the right way
+---
+information: 
+<p><img src="http://photos1.meetupstatic.com/photos/event/c/1/5/600_446463093.jpeg" /></p> <p>Tema seleccionado por los asistentes en el anterior Meetup de Django Cali.</p> <p>Buenas prácticas para la configuración de proyectos Django.</p> <p>El objetivo de esta charla es dar a conocer buenas practicas para configurar proyectos Django en una forma correcta permitiendo tener archivos de configuración(settings) para entornos locales, desarrollo y producción.</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/228426714/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54096221923828
+---
+latitude: 3.4469010829925537
+---
+location: Coworking Morrison Technologies. Carrera 9 # 3 - 01
+---
+date_start: 2016-02-06 10:00 -0500
+---
+date_end: 2016-02-06 10:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

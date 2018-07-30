@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/11/taller-de-co-creacion-2
+---
+title: Taller de Co-creación #2
+---
+information: 
+<p>En este taller de 4 horas trabajaremos la aplicación para votar por los posibles temas para charlas del meetup. Ésta es la <a href="https://docs.google.com/document/d/1qw0X4cegrbEtWMlGp81Lu2rX6hTYv7NL9_ZtojlCAhw/edit#heading=h.ksbuleho9b2p">documentación del proyecto</a>.</p> <p>Requisitos:</p> <p>• Traer portátil</p> <p>• Haber realizado el <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">tutorial básico de Django</a></p> <p>Manos a la obra!!! </p> 
+---
+web: https://www.meetup.com/pythonbaq/events/226908440/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2015-11-28 08:15 -0500
+---
+date_end: 2015-11-28 08:15 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

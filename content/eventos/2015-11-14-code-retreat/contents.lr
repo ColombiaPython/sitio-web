@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/11/code-retreat
+---
+title: Code Retreat
+---
+information: 
+<p>Un día para celebrar la pasión y el "software craftsmanship" </p> <p>Coderetreat es un evento de práctica intensiva durante todo un día, centrándose en los fundamentos de desarrollo de software y diseño. Al facilitar a los desarrolladores la oportunidad de realizar una sesión práctica lejos de las presiones del "tener que hacer las cosas", el formato Coderetreat ha demostrado ser un medio muy eficaz de mejorar nuestras habilidades. La práctica de los principios básicos del diseño modular y orientado a objetos, los desarrolladores pueden mejorar su habilidad de escribir código que sea mantenible minimizando su costo en el tiempo. </p> <p>Para más información de la filosofía que hay detrás de un día de Coderetreat, pueden ver este video:</p> <p><a href="https://vimeo.com/18955165" class="embedded">https://vimeo.com/18955165</a></p> <p>La página oficial del evento: <a href="http://globalday.coderetreat.org/" class="linkified">http://globalday.coderetreat.org/</a>  <b>¿Qué se necesita? </b></p> <p>Si puedes traer un portátil, mejor; disposición de compartir con los demás y pasar un rato muy agradable con apasionados de la programación. El almuerzo va por cuenta de nosotros. </p> <p><b>Inscripción</b></p> <p>Por favor diligenciar este formulario para asegurar su inscripción: <a href="http://goo.gl/forms/ZI1wMmDQqd" class="linkified">http://goo.gl/forms/ZI1wMmDQqd</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/226535852/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.1175308227539
+---
+latitude: 4.628748893737793
+---
+location: Universidad Piloto. Cra. 9 # 45A 18. Edificio Fundadores. Piso 11.
+---
+date_start: 2015-11-14 09:00 -0500
+---
+date_end: 2015-11-14 09:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

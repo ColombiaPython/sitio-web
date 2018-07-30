@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/03/evento-globant-medellin-previa-inscripcion
+---
+title: Evento Globant Medellin(Previa Inscripción)
+---
+information: 
+<p>Hola a tod@s! les comparto la info que nos envía el equipo organizador del evento. Anexo link de inscripción y detalle del contenido. </p> <p><a href="http://communications.globant.com/Comm/Events/ext/2016/Medellin/"><a href="http://communications.globant.com/Comm/Events/ext/2016/Medellin/" class="linkified">http://communications.globant.com/Comm/Events/ext/2016/Medellin/</a></a></p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/229258273/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.5854263305664
+---
+latitude: 6.259880065917969
+---
+location: Institución Universitaria Salazar y Herrera - Auditorio Juan Pablo II. Carrera 70 # 52-49
+---
+date_start: 2016-03-08 07:00 -0500
+---
+date_end: 2016-03-08 07:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

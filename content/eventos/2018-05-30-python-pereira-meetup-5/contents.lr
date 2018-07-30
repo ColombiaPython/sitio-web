@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/05/python-pereira-meetup-5
+---
+title: Python Pereira Meetup #5
+---
+information: 
+<p>📣Queremos invitarlos a la 5ta Reunión de Python Pereira 🎉<br/>En esta ocasión contaremos con una interesante charla 🐍💻:</p> <p>👉Optimización Mediante Algoritmos genéticos por 😎 Jonatan Gutierrez (<a href="https://twitter.com/jotangutierrez" class="linkified">https://twitter.com/jotangutierrez</a>)</p> <p>La búsqueda de la mejor solución a un problema determinado puede resultar restrictivo en cuanto al costo computacional. Un algoritmo genético es un conjunto de técnicas para obtener soluciones excelentes en un tiempo de cómputo extremadamente menor al de los métodos exactos.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en python.pereira@gmail.com .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/251029709/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.68910217285156
+---
+latitude: 4.793649196624756
+---
+location: Universidad Tecnológica de Pereira. Universidad Tecnológica de Pereira, Calle 27, Pereira, Risaralda
+---
+date_start: 2018-05-30 18:30 -0500
+---
+date_end: 2018-05-30 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/10/deploying-flask-in-aws-and-protecting-python-source-code
+---
+title: Deploying Flask in AWS and protecting python source code
+---
+information: 
+<p>Hi everybody!! </p> <p>This session will start with 30 minutes of networking (19:00-19:30), first talk of 30 min and 15 min of QA. The event should end around 09:45 pm. </p> <p>Speaker 1: Rodolfo Acuña</p> <p>* Deploying Flask in AWS.</p> <p>- AWS is an excellent platform to deploy our applications. It's very easy, scalable and automatized with Elastic Beanstalk, one of the best tools for automated deployment.</p> <p>Speaker 2: Cesar Cartagena</p> <p>* Protecting python source code</p> <p>Sometimes when we develop our code, you must share source code with your customers so you need to protect the code depending of licensing agreements. We will present various techniques to make this possible. </p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/234633481/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.56655883789062
+---
+latitude: 6.264287948608398
+---
+location: RutaN. Calle 67 Nº 52-20
+---
+date_start: 2016-10-13 19:15 -0500
+---
+date_end: 2016-10-13 19:15 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

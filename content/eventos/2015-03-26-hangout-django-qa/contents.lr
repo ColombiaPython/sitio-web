@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2015/03/hangout-django-qa
+---
+title: Hangout Django QA
+---
+information: 
+<p>Hangout event: <a href="https://plus.google.com/hangouts/_/hoaevent/AP36tYfgHaZk5nRX2aEEv4gRsSQMPu56jcrqupQaRMNYKtze5YoUmA"><a href="https://plus.google.com/hangouts/_/hoaevent/AP36tYfgHaZk5nRX2aEEv4gRsSQMPu56jcrqupQaRMNYKtze5YoUmA" class="linkified">https://plus.google.com/hangouts/_/hoaevent/AP36tYfgHaZk5nRX2aEEv4gRsSQMPu56jcrqupQaRMNYKtze5YoUmA</a></a></p> <p>- No has tenido oportunidad de asistir a los meetups porque vives lejos o fuera de Bogotá?<br/>- Tienes dudas sobre Django y quisieras hablar con otras personas con mas experiencia?<br/>- Siempre te encuentras con el mismo problema y no sabes si hay una forma mas fácil de resolverlo?<br/>- Piensas que puedes hacer algo más rápido si lo haces en PHP?</p> <p>Hablemos de estas y otras dudas, desde la comodidad de donde estén, y veamos que tan efectivo es.</p> <p>Si nos gusta podemos acordar hacer este tipo de evento una vez al mes, cada uno con un experto en Django diferente.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/221342000/
+---
+date_start: 2015-03-26 17:00 -0500
+---
+date_end: 2015-03-26 17:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

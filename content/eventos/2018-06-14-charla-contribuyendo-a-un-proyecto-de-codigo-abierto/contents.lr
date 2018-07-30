@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/06/charla-contribuyendo-a-un-proyecto-de-codigo-abierto
+---
+title: Charla: Contribuyendo a un proyecto de código abierto!
+---
+information: 
+<p>En el mundo del desarrollo de software moderno, las aplicaciones de código abierto juegan un rol fundamental ya que han permitido la aparición de muchas empresas en el sector de la tecnología que basan sus productos y servicios en paquetes que se han desarrollado de forma comunitaria.</p> <p># Contenido<br/>En esta charla práctica vamos a estar respondiendo preguntas como:<br/>- ¿Cuál es la diferencia entre software libre y software de código abierto?<br/>- ¿Qué son las licencias?<br/>- ¿Cómo se pueden dar los primeros pasos para contribuir a un proyecto?<br/>- ¿Cuál es el ciclo de vida de un reporte de problemas?<br/>- Sistemas de control de versión<br/>- Plataformas sociales y descentralizadas de contribución y control de versión<br/>- Ejemplo del proceso de contribución. Escoger un reporte, hacer un _pull tequest_, revisar, iterar, contribuir!</p> <p># Nivel de dificultad:<br/>Esta charla es apta para todo el público así no posean experiencia en desarrollo. Conocimientos de uso de la terminal o el windows prompt y algo de git es bienvenido.</p> <p># Conocimientos previos:<br/>Este es un tema transversal que no está asociado a ningún lenguaje en particular, sin embargo los ejemplos que se mostrarán más el mini taller de contribución estará basado en proyectos de Python y proyectos en los que contribuyo actualmente (PyBee, Lektor, Spyder-IDE, entre otros)</p> <p># Requisitos<br/>Si traen sus computadores personales por favor asegurarse instalar:</p> <p>- Python (Preferiblemente 3.6)<br/>- Git<br/>- Abrir una cuenta en Github (<a href="https://github.com" class="linkified">https://github.com</a>) si aún no la tienen.</p> <p>Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/PythonBucaramanga/events/251192209/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2018-06-14 19:30 -0500
+---
+date_end: 2018-06-14 19:30 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

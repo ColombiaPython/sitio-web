@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/01/bienvenida-de-ano-2016-django-barranquilla
+---
+title: Bienvenida de Año 2016 Django Barranquilla
+---
+information: 
+<p>Reunión de bienvenida del año nuevo</p> <p>En esta salida a comer, hablaremos sobre los próximos proyectos de la comunidad Django Barranquilla. Además, la idea es que los participantes hablemos de cada uno de nuestros proyectos y permitir el fortalecimiento de los lazos de amistad entre los djangonautas.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/227847868/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.80675506591797
+---
+latitude: 10.995355606079102
+---
+location: El Sultán. Cra 46 # 84 - 161
+---
+date_start: 2016-01-07 19:00 -0500
+---
+date_end: 2016-01-07 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/07/7mo-meetup-django-barranquilla
+---
+title: 7mo Meetup Django Barranquilla
+---
+information: 
+<p><img src="http://photos2.meetupstatic.com/photos/event/9/9/8/600_436922456.jpeg" /></p> <p>En ésta ocasión tendremos 2 charlas. </p> <p>• Javier Daza de <a href="http://bit.ly/1be0c7q">Kizuna Club</a> nos dará la última charla del ciclo básico de Django.</p> <p>• Oswal Almario de <a href="http://www.kaumerapp.com/">Kaumer Dealer</a> nos mostrará un proyecto sobre reporte de quejas con todo lo que ha aprendido hasta el momento de Django.</p> <p><i>**Si vienes por primera vez es importante que tengas instalado Pyhton, Virtual Environment, Django y hayas empezado el <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">tutorial básico de la página oficial</a></i></p> 
+---
+web: https://www.meetup.com/pythonbaq/events/223735217/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2015-07-13 19:00 -0500
+---
+date_end: 2015-07-13 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

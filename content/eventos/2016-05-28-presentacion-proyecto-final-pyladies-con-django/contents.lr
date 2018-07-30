@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/05/presentacion-proyecto-final-pyladies-con-django
+---
+title: Presentacion Proyecto Final Pyladies con Django.
+---
+information: 
+<p>En este Meetup finalizaremos la presentacion del proyecto final de pyladies , cada intengrante nos compartira su pagina creada en django.</p> 
+---
+web: https://www.meetup.com/Python-Ladies-Medellin/events/231468342/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.64041137695312
+---
+latitude: 6.191373825073242
+---
+location: Vivero del Software Medellin. Calle 7 N° 48 - 111 
+---
+date_start: 2016-05-28 09:00 -0500
+---
+date_end: 2016-05-28 09:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: pyladies-medellin

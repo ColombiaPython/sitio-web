@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2012/12/django-para-no-desarrolladores
+---
+title: Django para no desarrolladores
+---
+information: 
+<p>La segunda charla de las series de socialización de la tecnología Python/Django.</p> <p>En esta charla encontrarás:</p> <p>No se mucho de programación pero quiero comenzar. Que tanto esfuerzo requiere aprender Python. Cuanto tiempo necesitas para usar Django por tu cuenta. Si eres mujer, hombre, niño o alien, eso hace alguna diferencia?. Presentado por Manuel Flórez quien es uno de los cofundadores de <a href="http://www.vanitech.com/">Vanitech</a> , el cual es uno de los emprendimientos elegido por <a href="http://apps.com">apps.co</a>.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking 6:30 - ShowCase: Vanitech 6:45 - Nuestra velocidad con Django 7:15 - Preguntas 7:30 - Pizza y Cerveza Este es un evento inclusivo, nuestro objetivo principal es compartir con personas no relacionadas con tecnología, como: músicos, profesores, comunicadores, periodistas, administradores, deportistas, etc. Si conoces a alguien así invitalo para que venga y abra su mente a nuevas ideas.</p> <p> </p> 
+---
+web: https://www.meetup.com/pythonbogota/events/84686292/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.13607788085938
+---
+latitude: 4.56418514251709
+---
+location: Fundación Universitaria San Martín. Carrera 19 # 80 - 64 Torre 4, Piso 2
+---
+date_start: 2012-12-06 18:00 -0500
+---
+date_end: 2012-12-06 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

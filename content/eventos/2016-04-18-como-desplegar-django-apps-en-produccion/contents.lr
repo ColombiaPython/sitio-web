@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2016/04/como-desplegar-django-apps-en-produccion
+---
+title: Como desplegar django apps en producción
+---
+information: 
+<p>En esta charla veremos como hacer un deployment (despliegue) de tu aplicación en producción. Usando fabric, linux con uwsgi y supervisord (aws con varias instancias + load balancer).</p> <p>Esperamos les sea muy util para aquellos que quieren hacer deployment de sus aplicaciones en producción.</p> <p>Por: Luis Pallares. Django Developer, AWS Certified Architect &amp; Developer. (Aquehorajuega.co)</p> <p><b>Agenda</b></p> <p>• 7:00-7:20pm  -  Llegada, networking </p> <p>• 7:20-8:15pm  -  Charla (Parte 1)</p> <p>• 8:15-8:30pm  -  Comida y networking</p> <p>• 8:30-9:00pm -  Charla (Parte 2)</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/230204819/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2016-04-18 19:00 -0500
+---
+date_end: 2016-04-18 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

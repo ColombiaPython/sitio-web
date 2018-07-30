@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/10/python-medellin-en-el-devfest
+---
+title: Python medellin en el DevFest
+---
+information: 
+<p>Python Medellín estará presente en el DevFest, un festival de programación de acceso libre, donde todas las comunidades pueden dar charlas.  El DevFest sera jueves, 15 de octubre y es gratis! Nosotros estaremos presentando de 9:45 am- 11:05 am. </p> <p>Las charlas de python serán:</p> <p>Título: Arquitectura orientada a microservicios con python: la manera como los distintos frameworks pueden convivir amistosamente.</p> <p>Speaker: Jhon Jairo roa , <a href="https://www.linkedin.com/in/jhonjairoroa87">linkedin</a>, <a href="https://twitter.com/jhonjairoroa87">twitter</a></p> <p>Descripción: Se mostrará que aplicando la arquitectura orientada a microservicios se puede hacer uso de los frameworks de python necesarios para atender las necesidades del proyecto y de ese modo sacar provecho de las fortalezas que cada uno de ellos ofrece.</p> <p>Título: Python dentro de la Programación Funcional</p> <p>Speaker Gustavo Angulo , <a href="https://co.linkedin.com/in/woakas/en">linkedin</a>, <a href="https://twitter.com/woakas">twitter</a></p> <p>Descripción: Veremos como python soporta una programación funcional light que permite poder extender el código de una forma más robusta y como se pueden construir algunas cosas usando esta programación.</p> <p>Más información y registro en: </p> <p><a href="http://fest.colombia-dev.org/"><a href="http://fest.colombia-dev.org/" class="linkified">http://fest.colombia-dev.org/</a></a></p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/225618380/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.56655883789062
+---
+latitude: 6.264287948608398
+---
+location: RutaN. Calle 67 Nº 52-20
+---
+date_start: 2015-10-15 09:45 -0500
+---
+date_end: 2015-10-15 09:45 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

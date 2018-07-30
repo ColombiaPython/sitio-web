@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/12/introduccion-a-django-1-7
+---
+title: Introducción a Django 1.7
+---
+information: 
+<p>Una introducción a Django y hablaremos de las novedades de la última versión de Django.</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/208759052/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.49755859375
+---
+latitude: 3.439850091934204
+---
+location: Biblioteca Departamental Jorge Garcés Borrero, Punto Vive Digital, Cali. Callel 5 # 24A - 91
+---
+date_start: 2014-12-06 15:00 -0500
+---
+date_end: 2014-12-06 15:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

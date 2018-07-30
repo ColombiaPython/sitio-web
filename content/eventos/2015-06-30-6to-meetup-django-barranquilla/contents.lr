@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/06/6to-meetup-django-barranquilla
+---
+title: 6to Meetup Django Barranquilla
+---
+information: 
+<p><img src="http://photos2.meetupstatic.com/photos/event/9/9/8/600_436922456.jpeg" /></p> <p>En ésta ocasión el CTO de <a href="http://www.kaumerapp.com/">Kaumer Dealer</a> Leonardo Oroco seguirá con el desarrollo del <b>proyecto Paul Walker</b>. Abordaremos el capítulo 5 de la guía básica de Django que trata sobre TESTs automatizados.</p> <p><i>**Si vienes por primera vez es importante que tengas instalado Pyhton, Virtual Environment, Django y hayas empezado el <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">tutorial básico de la página oficial</a></i></p> 
+---
+web: https://www.meetup.com/pythonbaq/events/223373498/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2015-06-30 19:00 -0500
+---
+date_end: 2015-06-30 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

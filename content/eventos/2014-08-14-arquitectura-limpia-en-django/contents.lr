@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/08/arquitectura-limpia-en-django
+---
+title: Arquitectura limpia en Django
+---
+information: 
+<p>En esta charla presentaremos las ideas de Robert C. Martin y su 'arquitectura limpia' aplicada a Django.</p> <p><a href="http://vimeo.com/43612849" class="embedded">http://vimeo.com/43612849</a></p> <p>Presentada por Javier Buitrago Ingeniero Electrónico de la U. Nacional, quien ha trabajado como desarrollador desde 2009 y con Django desde la versión 0.96. Constantemente en la búsqueda del Santo Grial del Desarrollo de Software y aunque siente que está lejos de encontrarlo, entre otras cosas porque probablemente no existe, en el camino ha aprendido un par de trucos que le gustaría compartir.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking</p> <p>6:45 - Tema principal</p> <p>7:15 - Preguntas</p> <p>7:30 - Pizza y Cerveza</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/193005202/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2014-08-14 18:00 -0500
+---
+date_end: 2014-08-14 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

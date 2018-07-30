@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/05/nuestro-primer-meetup-sistema-de-control-en-aws-y-en-las-entranas-de-python
+---
+title: Nuestro primer meetup: Sistema de control en AWS y En las entrañas de Python
+---
+information: 
+<p>Sean bienvenidos a nuestro primer meetup de Python Santa Marta! </p> <p>Miércoles 10 de Mayo a partir de las 18:00 en la Universidad del Magdalena. </p> <p>Contaremos con las siguientes charlas: </p> <p><b>• Carlos Cabas Meriño</b></p> <p>* <b>Sistema de control basado en AWS - Amazon echo y raspberry</b>: <br/>Control de GPIOS y Acciones del sistema operativo de raspberry pi por medio del asistente de voz Amazon echo, interconectado por servicios IoT de Amazon Web Services.</p> <p>• <b>Juan Carlos Rodríguez</b> (<a href="https://twitter.com/jcrodriguezu">Twitter</a>, <a href="https://www.facebook.com/jcrodriguezu">Facebook</a> )</p> <p>* <b>Conociendo las entrañas de Python: Administracion de memoria: </b> Veremos de forma breve cómo es la administración de memoria dentro de Python.</p> <p>Comenzamos con algo de networking de 18-18:30 y luego las charlas de 18:30 a 21:00, cada charla contara con 15 minutos para Q&amp;A.</p> <p>Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/python-santamarta/events/239472728/
+---
+city: Santa Marta
+---
+country: Colombia
+---
+longitude: -74.18229675292969
+---
+latitude: 11.216527938842773
+---
+location: Universidad del Magdalena. Carrera 32 No 22 - 08
+---
+date_start: 2017-05-10 18:00 -0500
+---
+date_end: 2017-05-10 18:00 -0500
+---
+province: Magdalena
+---
+organizers: 
+
+#### organization ####
+username: python-santa-marta

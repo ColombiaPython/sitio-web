@@ -4,6 +4,8 @@
 # Standard library imports
 import json
 import os
+import time
+from datetime import datetime
 
 # Third party imports
 from lektor.project import Project
@@ -14,6 +16,13 @@ project = Project.discover()
 env = project.make_env()
 pad = env.new_pad()
 bag = pad.databags
+
+
+# FIXME:
+def aware_local_now():
+    return datetime.now(
+       tz=datetime.strptime(time.strftime("%z",
+                                          time.localtime()), "%z").tzinfo)
 
 
 def get_location(country, province, city):
@@ -42,6 +51,25 @@ def generate_map_info():
                                user['city'])
             if user['city']:
                 username = user['username'].lower()
+
+                # Add event data for community
+                events = pad.query('/eventos')
+                user_events = []
+                for event in events:
+                    even_data = {}
+                    blocks = event['organizers'].blocks
+                    for block in blocks:
+                        if block['username'] == username:
+                            date_start = event['date_start']
+                            if date_start >= aware_local_now():
+                                date_ = date_start.strftime('%Y-%m-%d')
+                                even_data['title'] = event['title']
+                                even_data['date_start'] = date_
+
+                                # FIXME: How to generate url from path?
+                                even_data['url'] = '/eventos/' + event['_slug']
+                                user_events.append(even_data)
+
                 if username.startswith('python'):
                     icon = 'python'
                 elif username.startswith('pyladies'):
@@ -52,7 +80,8 @@ def generate_map_info():
                 data = {
                     'icon': icon,
                     'name': user['name'],
-                    'url': '/usuarios/' + user['username']
+                    'url': '/usuarios/' + user['username'],
+                    'events': user_events
                 }
 
                 if user['city'] not in map_info:

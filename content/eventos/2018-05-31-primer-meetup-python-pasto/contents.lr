@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/05/primer-meetup-python-pasto
+---
+title: Primer Meetup Python Pasto
+---
+information: 
+<p>Nuestro Primer Meet up de Python Pasto se realiza con el fin de retomar la comunidad interesada por los temas referentes a la Programación web, por lo tanto los asistentes deben ir con todo el animo y la disposición para aprender y participar de las charlas.<br/>Se debe realizar el registro, debido a que el cupo es limitado.</p> 
+---
+web: https://www.meetup.com/Python-Pasto/events/250842200/
+---
+city: Pasto
+---
+country: Colombia
+---
+longitude: -77.28297424316406
+---
+latitude: 1.2240550518035889
+---
+location: Auditorio Jesús de Nazareth. Calle 18 No 34-104 Pasto (N)
+---
+date_start: 2018-05-31 18:30 -0500
+---
+date_end: 2018-05-31 18:30 -0500
+---
+province: Nariño
+---
+organizers: 
+
+#### organization ####
+username: python-pasto

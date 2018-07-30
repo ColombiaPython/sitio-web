@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2014/05/django-para-frontend-developers
+---
+title: Django para Frontend developers
+---
+information: 
+<p>Has hecho el tutorial para iniciarte en Django y ¿Quieres que tu proyecto esté en producción?, te has cruzado con que las vistas y los templates andan y se comportan adecuadamente y ¿Es hora de que las decenas, centenas o miles de archivos estáticos que tu proyecto requiere para estar en producción sean visibles?. Tienes claridad de lo que sucede en el navegador, y quieres optimizar tu trabajo.</p> <p>En esta sesión Cristian Rojas nos mostrará algunas herramientas adicionales empleadas en un flujo de trabajo diario de un desarrollador que trabaja mucho con en frontend para proyectos basados en Django. Cuenta con más de 3 años de experiencia en este campo de forma autodidacta, gusta de la fotografía y pensar en la experiencia de usuario.</p> <p>La agenda del evento es:</p> <p>6:00 - Networking <br/>6:30 - Tema principal <br/>7:15 - Preguntas <br/>7:30 - Pizza y Cerveza (Patrocinado por <a href="http://inversionesboyaca.net/">Inversiones Boyacá</a>)</p> <p>Este es un evento para un perfil inicial técnico, relacionado con Django y orientado a buenas prácticas en FrontEnd.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/180226812/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05738067626953
+---
+latitude: 4.651618003845215
+---
+location: Atom House. Carrera 7 # 69-17
+---
+date_start: 2014-05-08 18:00 -0500
+---
+date_end: 2014-05-08 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

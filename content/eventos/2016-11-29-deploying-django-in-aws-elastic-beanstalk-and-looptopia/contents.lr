@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/11/deploying-django-in-aws-elastic-beanstalk-and-looptopia
+---
+title: Deploying Django in AWS Elastic Beanstalk and Looptopia
+---
+information: 
+<p>Hi everybody!! </p> <p>This session will be on Live Streaming on <a href="https://www.youtube.com/watch?v=55RiFUDwn-8">YouTube</a>.</p> <p>Event link: <a href="https://www.youtube.com/watch?v=55RiFUDwn-8"><a href="https://www.youtube.com/watch?v=55RiFUDwn-8" class="embedded">https://www.youtube.com/watch?v=55RiFUDwn-8</a></a></p> <p>Speaker 1: Andres Duque Hincapie</p> <p><a href="https://www.linkedin.com/in/saduqz">Linked-in</a>, <a href="https://web.facebook.com/saduqz">Facebook</a>, <a href="https://twitter.com/saduqz">Twitter</a></p> <p>* Deploying Django on AWS Elastic Beanstalk.</p> <p>- With Elastic Beanstalk, you can quickly deploy and manage applications in the AWS Cloud without worrying about the infrastructure that runs those applications.</p> <p>Speaker 2: Juan Carlos Rodrìguez</p> <p><a href="https://twitter.com/jcrodriguezu/">Twitter</a></p> <p>* Looptopia</p> <p>- Loops, loops and more loops, we are going to talk about loops</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/235814913/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.58121490478516
+---
+latitude: 6.244203090667725
+---
+location: Streaming - YouTube. Streaming - YouTube
+---
+date_start: 2016-11-29 19:00 -0500
+---
+date_end: 2016-11-29 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

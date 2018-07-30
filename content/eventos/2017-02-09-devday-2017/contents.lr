@@ -1,0 +1,33 @@
+_model: event
+---
+_slug: 2017/02/devday-2017
+---
+title: DevDay 2017
+
+
+---
+information: 
+<p><img src="http://photos3.meetupstatic.com/photos/event/6/0/4/4/600_457944644.jpeg" /></p> <p>Evento gratis con previo registro.</p> <p>El evento donde todas las comunidades se reúnen para hablar de desarrollo, metodologías, arquitectura, entre otros. El evento será él día antes del Primer PyCon Colombia.</p> <p>El mejor día para aprender sobre desarrollo de software web, de mano de las más grandes comunidades de Bogotá, con conferencistas increibles.</p> <p>Para registrarte aquí: <a href="https://devday.splashthat.com/" class="linkified">https://devday.splashthat.com/</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/237352805/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0562973022461
+---
+latitude: 4.656886100769043
+---
+location: Universidad Santo Tomás - Edificio Doctor Angélico. Universidad Santo Tomás - Edificio Doctor Angélico
+---
+date_start: 2017-02-09 08:00 -0500
+---
+date_end: 2017-02-09 08:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

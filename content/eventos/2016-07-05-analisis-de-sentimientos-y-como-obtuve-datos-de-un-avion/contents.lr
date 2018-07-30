@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2016/07/analisis-de-sentimientos-y-como-obtuve-datos-de-un-avion
+---
+title: Análisis de sentimientos y cómo obtuve datos de un avión
+---
+information: 
+<p><img src="https://c1.staticflickr.com/9/8107/8596935889_f27c7506ca_b.jpg" /></p> <p>Imagen por <a href="https://www.flickr.com/photos/tsevis/8596935889">Charls Tsevis</a></p> <p>En esta noche tendremos 2 charlas en una noche, cortesía de la gente de <a href="http://piensa.co/">Piensa Labs</a>. Veremos 2 charlas diferentes que usaran <a href="http://jupyter.org/">jupyter (antes ipython)</a> para presentar sus desarrollos e investigaciones.</p> <p>La primera charla sera un hack llamado <b>GiGi</b> el cual nos mostrará como se obtuvieron datos geográficos de un avión en pleno vuelo de Colombia a USA.<br/>La segunda sera sobre un algoritmo llamado <b>Daisy</b>, el cual usando machine learning, planea identificar sentimientos (positivos o negativos) en 1 billón de tweets.</p> <p>Las charlas estarán bastante interesantes, los esperamos!!</p> <p><b>Agenda</b></p> <p>• 7:00-7:20pm  -  Llegada, networking </p> <p>• 7:20-8:15pm  -  Charla (Parte 1)</p> <p>• 8:15-8:30pm  -  Comida y networking</p> <p>• 8:30-9:00pm -  Charla (Parte 2)</p> <p>P.D: Pediremos pizza para comer</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/232107409/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2016-07-05 19:00 -0500
+---
+date_end: 2016-07-05 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

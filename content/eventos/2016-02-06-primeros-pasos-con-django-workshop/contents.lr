@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/02/primeros-pasos-con-django-workshop
+---
+title: Primeros pasos con Django - Workshop
+---
+information: 
+<p><b>NOTA: Para asegurar su cupo porfavor registrarte directamente en </b><a href="http://www.meetup.com/es-ES/bogodev/events/228229614/"><a href="http://www.meetup.com/es-ES/bogodev/events/228229614/" class="linkified">http://www.meetup.com/es-ES/bogodev/events/228229614/</a></a></p> <p><img src="http://photos3.meetupstatic.com/photos/event/5/b/f/7/600_446243543.jpeg" /></p> <p><b><br/></b></p> <p><b>¡ Hola a Djangonauts !</b></p> <p>Anunciamos nuestro próximo meetup el dia <b>sabado 6 de febrero</b> donde haremos un workshop de <b>Django 1.9.X, </b>una grandioso framework para construir aplicaciones web de forma rápida, sencilla y escalables.</p> <p>Siguiendo con el workshop haremos una aplicación en live code, donde aprenderemos los principales componentes de este framework y su uso.</p> <p>La idea es llevar la charla de <b>Camilo Nova</b>  (<a href="http://goo.gl/ulxZU">slides</a>) a un taller. Crear una app tipo blog, que permita a los asistentes familiarizarse con el <b>Framework</b>, es una charla para gente que comienza con <b>Django</b>. Está permitido cometer errores en este taller.</p> <p>Les recordamos que la entrada es gratuita pero es necesario realizar la reserva a través del Meetup.</p> <p><b>Agenda.</b></p> <p>7:45 am - Ingreso.<br/>8:00 am - Fundamentos de Django.<br/>8:15  am  - Comienzo del CodeLab.<br/>11:30 am - Preguntas y Respuestas.<br/>12:00 am - Fin.</p> <p><b>Developer (Jorge Galvis)<br/></b>Python Developer at Globant, entusiasta Django.</p> <p><b>Requerimientos. </b></p> <p>1. Instalar Python / Django 1.9</p> <p><b>Nuestros patrocinadores</b></p> <p><b><a href="http://wayra.co/sp/co">toptal.com</a> (Comida y bebida) <br/></b></p> <p><a href="http://wayra.co/sp/co"><a href="http://wayra.co/sp/co" class="linkified">http://wayra.co/sp/co</a></a> (Sitio del evento) </p> 
+---
+web: https://www.meetup.com/pythonbogota/events/227722963/
+---
+city: BogotÃ¡
+---
+country: Colombia
+---
+longitude: -74.07105255126953
+---
+latitude: 4.689993858337402
+---
+location: Wayra Colombia. Cra 67 No. 100 - 20 Edificio Coasmedas Piso 2
+---
+date_start: 2016-02-06 07:45 -0500
+---
+date_end: 2016-02-06 07:45 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

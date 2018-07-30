@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/02/uso-efectivo-de-git-y-buenas-practicas-de-desarrollo-utilizando-django
+---
+title: Uso Efectivo de GIT y Buenas prácticas de desarrollo utilizando Django
+---
+information: 
+<p>Hola a todos!!</p> <p>Esta sesión se iniciará con 30 minutos de networking (19-19:30), primera charla de 30 min y 15 min de QA y la segunda charla de 45min y 15 min de QA . El evento debe terminar alrededor de las 09:30pm. </p> <p>El detalle de las charlas son:</p> <p>Sergio Pulgarín: GIT y Uso Efectivo de GIT. <a href="https://twitter.com/serpulga">Twitter</a> <a href="https://www.linkedin.com/in/sergio-pulgarin-3b82302b/es">Linkedin</a></p> <p>Aprenderemos como usar git de manera profesional y el uso de comandos bastante útiles cuando estamos desarrollando y que nos permitirá gestionar nuestras ramas y mantener nuestro código actualizado y sincronizado con repositorios remotos.</p> <p>Juan David Hernandez: Buenas prácticas de desarrollo utilizando Django. <a href="https://co.linkedin.com/in/juandhernandez">Linkedin</a></p> <p>Título: Buenas prácticas de desarrollo utilizando Django </p> <p>A la hora de enfrentarnos al desarrollo de un proyecto web, surgen una serie de preguntas sobre que tipo de acciones debemos tomar para que nuestra aplicación sea construida de la manera mas profesional posible. Cómo escribimos código más legible? Cómo optimizamos la configuración de nuestro entorno? Cómo estructuramos nuestro proyecto? etc, etc. En esta charla daremos algunos tips, trucos y prácticas comunes que podemos aplicar en el desarrollo de nuestro proyecto para dar respuesta a estas o otras preguntas.aa</p> <p>Algunas cervezas estarán disponibles de forma gratuita alrededor de las 19:00 en el inicio de la sesión de networking para las primeras personas allí. </p> <p>Esperamos verlos a todos de nuevo. Esperamos tener otro evento exitoso, educativo y con gran asistencia también, gracias a ustedes ya somos +620 personas en el grupo de Python Medellín!!!</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/228926891/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57145690917969
+---
+latitude: 6.209054946899414
+---
+location: Atom House Medellín. Calle 8 # 43a-­49
+---
+date_start: 2016-02-23 19:00 -0500
+---
+date_end: 2016-02-23 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

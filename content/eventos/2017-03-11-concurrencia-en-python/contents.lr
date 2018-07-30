@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/03/concurrencia-en-python
+---
+title: Concurrencia en Python
+---
+information: 
+<p>Espacio organizado por Python Cali.</p> <p>Objetivo: Reunir a todos los desarrolladores Python de Cali para compartir conocimiento. </p> <p>Lo que puedes aprender en este Meetup:</p> <p>• Migrando de Python2 a Python3 por Sebastián Reyes.</p> <p>• Concurrencia en Python por Cristian Vargas.</p> <p><img src="http://photos4.meetupstatic.com/photos/event/6/9/9/9/600_458907033.jpeg" /></p> 
+---
+web: https://www.meetup.com/Python-Cali/events/238141553/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.53309631347656
+---
+latitude: 3.374574899673462
+---
+location: Universidad del Valle Sede Melendez. Calle 13 No. 100-00
+---
+date_start: 2017-03-11 08:45 -0500
+---
+date_end: 2017-03-11 08:45 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

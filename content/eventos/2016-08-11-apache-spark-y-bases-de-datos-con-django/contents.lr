@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/08/apache-spark-y-bases-de-datos-con-django
+---
+title: Apache Spark y  Bases de datos con Django
+---
+information: 
+<p>¡ Hola a todos !</p> <p>Anunciamos nuestro próximo meetup el día jueves 11 de agosto, donde veremos <b>Apache Spark</b>: <b>introduccion, ejemplos practicos y casos de uso</b> y <b>Bases de datos con Django</b>.</p> <p>Les recordamos que la entrada es gratuita pero es necesario realizar registrarse en el siguiente <a href="https://goo.gl/forms/m5vXJdYkgTHpO3oF3">Formulario</a> (Si no estan en la lista NO pueden ingresar al edificio).</p> <p><a href="https://goo.gl/forms/m5vXJdYkgTHpO3oF3"><a href="https://goo.gl/forms/m5vXJdYkgTHpO3oF3" class="linkified">https://goo.gl/forms/m5vXJdYkgTHpO3oF3</a></a></p> <p><b>Agenda</b></p> <p><b>7:00 pm</b> Llegada de los asistentes <br/>7:05 pm <b>Apache Spark</b>: <b>Introduccion, ejemplos practicos y casos de uso</b> por Juan David Bolaños <br/>7:50 pm Noticias del meetup (lo que se viene) por Ivan Camilo Ramirez <br/>8:00 pm <b>Bases de datos y Django  - El lado B</b> por Javier Eduardo Rojas<br/>8:45 pm Networking</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/233059786/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.07209014892578
+---
+latitude: 4.710988998413086
+---
+location: Oficinas Mercadolibre.  carrera 17 # 93 09 edificio. ecotower
+---
+date_start: 2016-08-11 19:00 -0500
+---
+date_end: 2016-08-11 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

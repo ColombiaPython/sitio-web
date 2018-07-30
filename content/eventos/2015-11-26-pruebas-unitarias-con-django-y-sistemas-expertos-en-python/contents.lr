@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/11/pruebas-unitarias-con-django-y-sistemas-expertos-en-python
+---
+title: Pruebas unitarias con Django y sistemas expertos en python
+---
+information: 
+<p>Habrá 30 minutos de networking (19-19:30) y luego las dos charlas de 45 minutos cada una. El evento debe terminar alrededor de las 21:00. Cada una de las exposiciones tendrá una duración de 30 minutos y 15 minutos de preguntas.</p> <p>El detalle de las charlas son:</p> <p><b>Juan Carlos Rodriguez: Introducción a pruebas unitarias con Django</b></p> <p>Django Unit testing desde 0 pasando por vistas, modelos y carga de datos para pruebas. También repasaremos conceptos de pruebas unitarias y funcionales con ejemplos prácticos.</p> <p><b>Daniel Velez: Python y sistemas expertos: easy meal</b></p> <p>Sistema de recomendación de platillos a partir de módulos de lógica difusa implementados totalmente en python</p> <p>Algunas cervezas estarán disponibles de forma gratuita alrededor de las 19:00 en el inicio de la sesión de networking para las primeras personas allí. </p> <p>Esperamos verlos a todos de nuevo. Hemos tenido un promedio de  50 personas en los eventos y esperamos tener otro evento exitoso, educativo y con gran asistencia también, ya somos +470 personas en el grupo de Python Medellín!!!</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/226854463/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57145690917969
+---
+latitude: 6.209054946899414
+---
+location: Atom House Medellín. Calle 8 # 43a-­49
+---
+date_start: 2015-11-26 19:00 -0500
+---
+date_end: 2015-11-26 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

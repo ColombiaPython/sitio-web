@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/06/hola-bogota-iniciando-con-python
+---
+title: ¡Hola Bogotá! Iniciando con Python
+---
+information: 
+<p>RECUERDA INSCRIBIRTE AQUÍ: <a href="http://bit.ly/pyladiesbog" class="linkified">http://bit.ly/pyladiesbog</a></p> <p>Este será nuestro primer meetup, nos conoceremos, compartiremos datos, redes y mantendremos contacto. Tendremos dos maravillosos speakers:</p> <p>* David Delgado - Quien nos dará el primer paso en Python. Nivel Principiante.</p> <p>*María Camila Remolina - Quien nos contará cómo ha usado Python para descubrir los misterios del universo.</p> <p>¡Va a ser genial! Los esperamos.</p> <p>Nota: Recuerden llevar su PC.</p> 
+---
+web: https://www.meetup.com/Pyladies-Co-Bogota/events/251491015/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.07015228271484
+---
+latitude: 4.611184120178223
+---
+location: Bizagi. Carrera 7 No 71 - 52, Torre B, Piso 4, Bogotá, co
+---
+date_start: 2018-06-13 18:00 -0500
+---
+date_end: 2018-06-13 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: pyladies-bogota

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/06/django-orm
+---
+title: Django ORM
+---
+information: 
+<p>Hablaremos de Bases de Datos, Modelos y la gran potencia de Django para hacer consultas a la base de datos de una forma intuitiva pero tambien pensando en el rendimiento.</p> <p>Presentado por: <a href="http://www.meetup.com/es/Django-Cali/members/116591652">Guillermo Alvarez</a></p> 
+---
+web: https://www.meetup.com/Python-Cali/events/222951658/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.56048583984375
+---
+latitude: 3.380450963973999
+---
+location:  Biblioteca Departamental Jorge Garcés Borrero, Piso 2, Punto Vive Digital. Callel 5 # 24A - 91
+---
+date_start: 2015-06-27 16:00 -0500
+---
+date_end: 2015-06-27 16:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

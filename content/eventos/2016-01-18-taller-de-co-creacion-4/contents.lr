@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2016/01/taller-de-co-creacion-4
+---
+title: Taller de Co-creación #4
+---
+information: 
+<p>En este taller de 1 hora y media trabajaremos en la aplicación <a href="http://bit.ly/temii">Temii</a>. Estas son las <a href="http://bit.ly/votosDjango">tareas del proyecto</a>.</p> <p>Objetivos:</p> <p>• Realizar los Tests </p> <p>Requisitos:</p> <p>• Haber realizado el <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">tutorial básico de Django</a></p> <p>• Traer portatíl (opcional)</p> <p>Manos a la obra!!! </p> 
+---
+web: https://www.meetup.com/pythonbaq/events/228042458/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+location: Área Dos. Carrera 53 No 76-239 Local 405 CC. Habitat ( Areados, Barranquilla
+---
+date_start: 2016-01-18 19:15 -0500
+---
+date_end: 2016-01-18 19:15 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

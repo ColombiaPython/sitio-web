@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/01/robotica-con-python-opencv-y-manejo-de-errores-en-restful-api-s
+---
+title: Robótica con python - OpenCV y Manejo de errores en RESTful API's
+---
+information: 
+<p>Esta sesión se iniciará con 30 minutos de networking (19-19:30), primera charla de 30 min y 15 min de QA y la segunda charla de 45min y 15 min de QA . El evento debe terminar alrededor de las 09:30pm.</p> <p>El detalle de las charlas son:</p> <p><b>Alejandro Daniel Jose Gomez Flórez: Robótica con python - empezando con OpenCV. <a href="https://twitter.com/aldajo92">@aldajo92</a></b></p> <p>Breve introducción del desarrollo de aplicaciones con vision artificial, empleando la librería openCV y corriendo directamente desde python. Se compartirán algunas definiciones básicas, y se presentarán algunos de ejemplos. </p> <p><b><a href="http://slides.com/jhonjairoroa87/error-handling-in-restful-apis#/">Jhon Jairo Roa Acuña: Manejo de errores en RESTful API's. </a></b></p> <p><b><a href="https://twitter.com/jhonjairoroa87">@jhonjairoroa87</a>, <a href="https://www.linkedin.com/in/johnroa27">linkedin</a></b></p> <p>Introducción sobre principios/filosofías en manejo de excepciones y la filosofía EAFP usada en python (Easier to ask for forgiveness than permission). Buenas practicas para tener en cuenta al momento de diseñar RESTful APIs' para hacer un correcto manejo de los errores y/o excepciones que ocurren.</p> <p>Algunas cervezas estarán disponibles de forma gratuita alrededor de las 19:00 en el inicio de la sesión de networking para las primeras personas allí. </p> <p>Esperamos verlos a todos de nuevo. Esperamos tener otro evento exitoso, educativo y con gran asistencia también, gracias a ustedes ya somos 560 personas en el grupo de Python Medellín!!!</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/228195794/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57145690917969
+---
+latitude: 6.209054946899414
+---
+location: Atom House Medellín. Calle 8 # 43a-­49
+---
+date_start: 2016-01-26 19:00 -0500
+---
+date_end: 2016-01-26 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

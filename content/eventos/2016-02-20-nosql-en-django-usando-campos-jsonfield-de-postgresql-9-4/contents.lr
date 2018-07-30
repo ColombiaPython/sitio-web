@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2016/02/nosql-en-django-usando-campos-jsonfield-de-postgresql-9-4
+---
+title: NoSQL en Django usando campos JSONField de PostgreSQL 9.4
+---
+information: 
+<p>Con la introducción de JSONField en PostgreSQL 9.4, se abrió la posibilidad para que aplicaciones que usan bases de datos relacionales, pueden almacernar documentos al estilo No-SQL. Sebastián nos explicará como usarlo en Django 1.9. </p> <p><img src="http://photos4.meetupstatic.com/photos/event/3/8/5/600_447000901.jpeg" /></p> 
+---
+web: https://www.meetup.com/Python-Cali/events/228779718/
+---
+city: Cali
+---
+country: Colombia
+---
+location: Biblioteca Departamental Jorge Garcés Borrero, Salón de Eventos Piso 2 Punto Vive Digital. Callel 5 # 24A - 91
+---
+date_start: 2016-02-20 14:00 -0500
+---
+date_end: 2016-02-20 14:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

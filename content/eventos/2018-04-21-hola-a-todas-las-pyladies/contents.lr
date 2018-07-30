@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/04/hola-a-todas-las-pyladies
+---
+title: Hola a todas las PyLadies!
+---
+information: 
+<p>Hola PyLady!</p> <p>Quieres aprender a programar desde 0?<br/>Genial!<br/>Este sábado 21 de Abril vamos a empezar con los conceptos básicos para que comiences este emocionante camino hacia la tecnología.</p> <p>Te esperamos🚀.<br/>La asistencia es gratuita.<br/>Si puedes, trae tu propio compu.</p> 
+---
+web: https://www.meetup.com/Python-Ladies-Medellin/events/249751677/
+---
+city: Medellin
+---
+country: Colombia
+---
+longitude: -75.5738525390625
+---
+latitude: 6.209245204925537
+---
+location: NODO Coworking . Calle 7D # 43C - 134
+---
+date_start: 2018-04-21 09:00 -0500
+---
+date_end: 2018-04-21 09:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: pyladies-medellin

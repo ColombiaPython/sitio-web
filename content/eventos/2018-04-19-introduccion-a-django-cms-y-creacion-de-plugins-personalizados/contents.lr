@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/04/introduccion-a-django-cms-y-creacion-de-plugins-personalizados
+---
+title: Introducción a Django CMS y creación de plugins personalizados. 
+---
+information: 
+<p>En esta charla Orlando Almario nos mostrará el gestor de contenidos basado en Django CMS para crear páginas web con herramientas de publicación y gestión de contenido profesionales. Veremos cómo instalarlo, iniciar un proyecto, usar plantillas y cómo crear nuestros propios plugins para expandir sus funcionalidades.</p> <p>1. El evento es gratuito.<br/>2. La charla será en español<br/>3. Para el acceso al edificio, además de registrarte aquí en meetup, por favor diligencia este formulario ( <a href="https://goo.gl/forms/K0w3Ok2lO3IP9b792" class="linkified">https://goo.gl/forms/K0w3Ok2lO3IP9b792</a>) (obligatorio para ingresar al lugar)</p> <p>Agenda:<br/>• 7:00-7:20pm - Llegada, networking<br/>• 7:20-8:15pm - Charla<br/>• 8:15-8:30pm - Comida y networking<br/>• 8:30-9:00pm - Continúa la Charla<br/>• 8:30-9:00pm - Rifas y Anuncios</p> <p>Observaciones:</p> <p>* Por favor traigan algo de dinero para comer.</p> <p>• El lugar tiene una capacidad limitada, por lo que le pedimos el favor a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/249373113/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2018-04-19 19:00 -0500
+---
+date_end: 2018-04-19 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

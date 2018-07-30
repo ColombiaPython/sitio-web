@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2015/09/django-forms-validating-the-world
+---
+title: Django Forms: Validating the World
+---
+information: 
+<p>Los formularios en Django son una poderosa herramienta, con diversas funcionalidades para facilitar el desarrollo de nuestras aplicaciones. </p> <p>En esta ocasión nos enfocaremos en la validación, mostrando el como funciona, como se usa y ejemplos prácticos mostrando diferentes casos donde se pueden aplicar.</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/225179493/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.56048583984375
+---
+latitude: 3.380450963973999
+---
+location:  Biblioteca Departamental Jorge Garcés Borrero, Piso 2, Punto Vive Digital. Callel 5 # 24A - 91
+---
+date_start: 2015-09-19 10:00 -0500
+---
+date_end: 2015-09-19 10:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali
