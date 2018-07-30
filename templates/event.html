@@ -1,0 +1,245 @@
+{% extends "page.html" %}
+
+{% if this.longitude %}
+{%- set lon_ll = this.longitude - 0.001 -%}
+{%- set lon_ur = this.longitude + 0.001 -%}
+{% endif %}
+
+{% if this.longitude %}
+{%- set lat_ll = this.latitude - 0.002 -%}
+{%- set lat_ur = this.latitude + 0.002 -%}
+{% endif %}
+
+{%- set guides_users = [] -%}
+{%- set organizers_users = [] -%}
+{%- set organizers_orgs = [] -%}
+{%- set collaborators_users = [] -%}
+{%- set collaborators_orgs = [] -%}
+{%- set sponsors = [] -%}
+
+
+{% macro render_users(users, title, extra=true, image_alt=false, items=4) %}
+  <br />
+  {%- if users -%}
+  <h2>{{ title }}</h2>
+  <div class="row justify-content-center">
+  {%- for user in users -%}
+    <div class="col-lg-3 col-md-3 col-xs-12">
+
+      <a href="{{ user|url }}">
+      {% if image_alt and user.image_alt %}
+      <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" />
+      {% elif not image_alt and user.image %}
+      <img class="image fit" src="{{ user|url }}/{{ user.image }}" alt="{{ user.username }}" />
+      {% elif image_alt and not user.image_alt %}
+      <img class="image fit" src="{{ base_url }}static/images/empty-2x1.png" alt="{{ user.username }}" />
+      {% elif not image_alt and not user.image %}
+      <img class="image fit" src="{{ base_url }}static/images/empty-avatar.png" alt="{{ user.username }}" />
+      {% endif %}
+      </a>
+
+      {% if extra %}
+      <div class="row justify-content-center">
+        <h4>{{ user.name }} {{ user.last_name }}</h4>
+      </div>
+      <div class="row justify-content-center">
+        <ul class="icons">
+          {% if user.web %}
+          <li>
+            <a href="{{ user.web }}" class="icon fa-globe" target="_blank">
+              <span class="label">Website</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if user.email %}
+          <li>
+            <a href="mailto:{{ user.email }}" class="icon fa-envelope" target="_blank">
+              <span class="label">Email</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if user.facebook_handle %}
+          <li>
+            <a href="https://facebook.com/{{ user.facebook_handle}}" class="icon fa-facebook" target="_blank">
+              <span class="label">Facebook</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if user.twitter_handle %}
+          <li>
+            <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
+              <span class="label">Twitter</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if user.github_handle %}
+          <li>
+            <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
+              <span class="label">Github</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+      {% endif %}
+    </div>
+    
+  {%- endfor -%}
+  </div>
+
+  {%- endif -%}
+{% endmacro %}
+
+{%- if this.date_start -%}
+
+  {%- if this.delta_open -%}
+    {%- set date_open = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_open) -%}
+  {%- endif -%}
+
+  {%- if this.delta_close -%}
+    {%- set date_close = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_close) -%}
+  {%- endif -%}
+
+  {%- if this.delta_selection -%}
+    {%- set date_announcement = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_selection) -%}
+  {%- endif -%}
+
+  {%- if this.delta_announcement -%}
+    {%- set date_announcement_2 = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_announcement) -%}
+  {%- endif -%}
+
+  {%- if this.delta_limit -%}
+    {%- set date_limit = this.date_start.fromordinal(this.date_start.toordinal() -  this.delta_limit) -%}
+  {%- endif -%}
+
+{%- endif -%}
+
+
+{%- if this.guides -%}
+  {%- for userblock in this.guides.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- if userblock._flowblock == 'user' -%}
+      {%- set a = guides_users.append(user) -%}
+    {%- else -%}
+      {%- set b = guides_orgs.append(user) -%}  
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+
+{%- if this.organizers -%}
+  {%- for userblock in this.organizers.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- if userblock._flowblock == 'user' -%}
+      {%- set a = organizers_users.append(user) -%}
+    {%- else -%}
+      {%- set b = organizers_orgs.append(user) -%}  
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if this.collaborators -%}
+  {%- for userblock in this.collaborators.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- if userblock._flowblock == 'user' -%}
+      {%- set a = collaborators_users.append(user) -%}
+    {%- else -%}
+      {%- set b = collaborators_orgs.append(user) -%}  
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if this.sponsors -%}
+  {%- for userblock in this.sponsors.blocks -%}
+    {%- set user = site.get('/usuarios/' + userblock.username) -%}
+    {%- set a = sponsors.append(user) -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{% block title %}{{ this.title }} - {{ this.date_start|dateformat('YYYY/MM/dd') }}{% endblock %}
+{% block content %}
+
+<style>
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#mapsource {
+  pointer-events: none;
+}  
+</style>
+
+<section>
+  <div class="content">
+    <div class="col-12">
+    <h2>{{ this.title }}</h2>
+    <p>Para registrarse en este evento haga clic en <a href="{{ this.web }}" target="_blank">éste enlace</a>.</p>
+    <h2>¿Cuándo y dónde?</h2>
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-12"> 
+        <h3>Fecha:</h3>
+        <p><b>
+        {{ this.date_start|datetimeformat('EEEE', locale='es')|capitalize }}
+        {{ this.date_start|datetimeformat('d', locale='es') }} de 
+        {{ this.date_start|datetimeformat('MMMM', locale='es') }} de 
+        {{ this.date_start|datetimeformat('YYYY', locale='es') }}</b>
+        desde las <b>{{ this.date_start|datetimeformat('HH:mm', locale='es') }}</b>
+        </p>
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+        <h3>Lugar:</h3>
+        <span>{{ this.location }}<span></br>
+        <span>{{ this.city }}, {{ this.country }}</span>
+        <br><br>
+      </div>
+    </div>
+
+    {% if this.latitude and this.longitude %}
+    <div class="row">
+      <div class="col-12"> 
+    <div class="embed-container">
+      <iframe id= "mapsource" scrollwheel="false" width="800" height="600"
+              frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+              src="https://www.openstreetmap.org/export/embed.html?bbox={{ lon_ll }}%2C{{ lat_ll }}%2C{{ lon_ur }}%2C{{ lat_ur }}&amp;layer=mapnik&amp;marker={{ this.latitude }}%2C{{ this.longitude }}"
+              style="border: 1px solid black">
+      </iframe>
+    </div>
+
+    <small>
+      <a href="https://www.openstreetmap.org/#map=18/{{ this.latitude }}/{{ this.longitude }}">
+      Ver mapa de mayor tamaño
+      </a>
+    </small>
+    </div>
+    </div>
+    <br>
+    {% endif %}
+
+
+    <div class="row">
+      <div class="col-12"> 
+
+    <h3>Informacion:</h3>
+    {{ this.information }}
+    </div>
+    </div>
+
+    
+    </div>
+  </div>
+</section>
+
+{{ render_users(organizers_orgs , 'Organizado por:', items=5) }}
+
+{% endblock %}

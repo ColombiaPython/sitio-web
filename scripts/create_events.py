@@ -6,6 +6,7 @@ from collections import OrderedDict
 import io
 import json
 import os
+import shutil
 
 # Third party imports
 from jinja2 import Undefined
@@ -29,6 +30,11 @@ PROJECT = Project.discover()
 ENV = PROJECT.make_env()
 PAD = ENV.new_pad()
 
+BLACKLIST = [
+    'https://www.meetup.com/pythonctg/events/243208420/',
+    'https://www.meetup.com/Python-Cali/events/237467910/',
+]
+
 
 def get_meetup_groups():
     """
@@ -46,18 +52,7 @@ _GROUPS = get_meetup_groups()
 
 
 def _meetup_address_to_lektor(event_data):
-    """
-    {'address_1': 'Avenida 6N No 28N-102 ',
-     'city': 'Cali',
-     'country': 'co',
-     'id': 23907003,
-     'lat': 0.0,
-     'localized_country_name':
-     'Colombia',
-     'lon': 0.0,
-     'name': ' Institución Universitaria Antonio José Camacho.  Sede Principal ',
-     'repinned': False}
-    """
+    """"""
     venue = event_data.get('venue', {})
     name = venue.get('name', '')
     address = venue.get('address_1', '')
@@ -149,6 +144,7 @@ def _meetup_to_lektor_id(data):
     else:
         _SLUG_CACHE[slug] += 1
         final_slug = slug + '-' + str(_SLUG_CACHE[slug])
+        print(slug)
 
     return final_id, final_slug
 
@@ -198,9 +194,20 @@ def process_events_for_lektor(events):
                 if key in ['latitude', 'longitude']:
                     content[key] = _check_latlon(val)
 
-            events_content[id_] = content
+            if content['web'] not in BLACKLIST:
+                events_content[id_] = content
 
     return events_content
+
+
+def delete_events():
+    """"""
+    base_path = os.path.join(PROJECT_ROOT_PATH, 'content', 'eventos')
+    for path in sorted(os.listdir(base_path)):
+        if (not path.endswith('contents.lr') and 'django-girls' not in path
+                and '.DS_Store' not in path):
+            path = os.path.join(base_path, path)
+            shutil.rmtree(path)
 
 
 def create_lektor_content(all_data):
@@ -221,10 +228,18 @@ def create_lektor_content(all_data):
         key = 'organizers'
         val = '\n\n#### organization ####\nusername: {}'.format(username)
         items.append(template.format(key, val))
-        print('---\n'.join(items))
+
+        path = os.path.join(PROJECT_ROOT_PATH, 'content', 'eventos', fname)
+        if not os.path.isdir(path):
+            os.makedirs(path)
+        fpath = os.path.join(path, 'contents.lr')
+
+        with io.open(fpath, 'w') as fh:
+            fh.write('---\n'.join(items))
 
 
 def main():
+    delete_events()
     events = load_events()
     lektor_data = process_events_for_lektor(events)
     create_lektor_content(lektor_data)
