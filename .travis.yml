@@ -9,6 +9,7 @@ cache:
 
 install:
   - "pip install -U pip"
+  - "pip install unidecode"
   - "pip install git+https://github.com/lektor/lektor#egg=Lektor"
 
 script: "lektor build"
