@@ -205,6 +205,22 @@
     {{ create_events('Eventos', events_organized_by_this) }}
   {% endif -%}
 
+  {%- if this.type == 'persona' -%}
+    {%- set orgs = site.query('/usuarios/').filter(F.type != 'persona') -%}
+    {%- set orgs_membership = [] -%}
+    {%- for org in orgs -%}
+      {% if org.members %}
+        {%- for block in org.members.blocks -%}
+        {%- if block.username == this.username -%}
+          {%- set _ = orgs_membership.append(org.username) -%}
+        {% endif -%}
+        {% endfor -%}
+      {% endif -%}
+    {%- endfor -%}
+    
+    {{ organizing_team('Organizaciones', orgs_membership) }}
+  {% endif -%}
+
   </div>
 </section>
 {% endblock %}
