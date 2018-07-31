@@ -22,7 +22,6 @@
           <h1>{{ this.title }}</h1></div>
         </div>
     </div>
-  
     {%- set crumbs = [] -%}
     {%- set current = {'crumb': this} -%}
     {%- for i in this._path.split("/") -%}
@@ -37,6 +36,7 @@
             {%- set name = crumb.title if crumb.title else crumb.name + ' ' + last_name -%}
             > {{ name }}
         {%- else -%}
+            {%- if loop.index != 1 -%}>{%- endif -%}
             <a href="{{ crumb|url }}">{{ crumb.title }} </a>
         {%- endif -%}
     {%- endfor -%}
