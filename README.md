@@ -39,6 +39,32 @@ https://colombiapython.github.io/sitio-web-produccion/
 
 # Desarrollo local
 
+## (Opcional) Entorno Virtual
+
+### Instalación
+
+Instalar [virtualenv](https://virtualenv.pypa.io/en/stable/installation/)
+
+### Crear entorno virtual
+
+```
+virtualenv <nombre_entorno>
+```
+
+### Activar entorno virtual
+
+#### Windows
+
+```
+<nombre_entorno>\Scripts\activate
+```
+
+#### Linux
+
+```
+source <nombre_entorno>/bin/activate
+```
+
 ## Instala Lektor
 
 ### Usando pip:
@@ -87,8 +113,8 @@ ___
 
 💪 Colaboradores
 
-|[<img src="https://avatars3.githubusercontent.com/u/3627835?s=400&v=4" width="100px;"/><br /><sub><b>Gonzalo Peña</b></sub>](https://github.com/goanpeca) | [<img src="https://avatars3.githubusercontent.com/u/14989202?s=400&v=4" width="100px;"/><br /><sub><b>Alejandro E. Rendon</b></sub>](https://github.com/aerendon)| | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[<img src="https://avatars3.githubusercontent.com/u/3627835?s=400&v=4" width="100px;"/><br /><sub><b>Gonzalo Peña</b></sub>](https://github.com/goanpeca) | [<img src="https://avatars3.githubusercontent.com/u/14989202?s=400&v=4" width="100px;"/><br /><sub><b>Alejandro E. Rendon</b></sub>](https://github.com/aerendon)|
+| :---: | :---: |
 
 </div>
 
