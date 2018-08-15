@@ -18,3 +18,5 @@ aumentar la diversidad de la industria tecnológica a través de espacios de emp
 
 ---
 banner: banner.png
+---
+_template: django-girls.html
