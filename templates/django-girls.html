@@ -1,6 +1,52 @@
 {% extends "layout.html" %} {% block title %}{{ this.title }}{% endblock %} {% block body %} {%- if this.banner -%} {%- set
 banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/images/banner.jpg' -%} {%- endif -%}
 
+{%- macro create_events(title, events) %}
+  {%- if events %}
+    <div class="row">
+      <div class="col-12">
+        <h2>{{ title }}</h2>
+        <div class="accordion" id="accordionExample">
+          <div class="card">
+            <div class="card-header" id="heading1" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1"
+              style="cursor: pointer">
+              <b>2017 <i class="fa fa-angle-down"></i></b>
+            </div>
+            <div id="collapse1" class="collapse show" aria-labelledby="heading1" data-parent="#accordionExample">
+              <div class="card-body">
+                <ul>
+                {%- for event in events %}
+                {%- if event.date_start|dateformat('YYYY') == '2017' -%}
+                  <li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }}</a></li>
+                {%- endif -%}
+                {%- endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header" id="heading2" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2"
+              style="cursor: pointer">
+              <b>2018 <i class="fa fa-angle-down"></i></b>
+            </div>
+            <div id="collapse2" class="collapse show" aria-labelledby="heading2" data-parent="#accordionExample">
+              <div class="card-body">
+                <ul>
+                {%- for event in events %}
+                {%- if event.date_start|dateformat('YYYY') == '2018' -%}
+                  <li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }}</a></li>
+                {%- endif -%}
+                {%- endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {%- endif %}
+{%- endmacro %}
+
 {%- macro organizing_team(title, usernames) %}
   {%- if usernames %}
     <div class="row">
@@ -90,25 +136,36 @@ banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/
 
 <section>
   <div class="content">
-    {%- block content -%} {{ this.body }} {%- endblock -%}
+  {%- block content -%} {{ this.body }} {%- endblock -%}
 
   <h2>Equipo Django Girls Colombia</h2>
   {%- set dg = site.query('/usuarios/').filter(F.username == 'django-girls-colombia') -%}
-    {% for item in dg %}
-      {%- if item.members -%}
-      {% set core_members = [] %}
-      {% set members = [] %}
-        {% for block in item.members.blocks %}
-          {%- if block.position == 'core' -%}
-            {% set _ = core_members.append(block.username) %}
-          {%- else -%}
-            {% set _ = members.append(block.username) %}
-          {%- endif -%}
-        {% endfor %}
-      {{ organizing_team('Core Team', core_members) }}
-      {{ organizing_team('Colaboradores', members) }}
-      {%- endif -%}
-    {% endfor %}
+  {% for item in dg %}
+    {%- if item.members -%}
+    {% set core_members = [] %}
+    {% set members = [] %}
+      {% for block in item.members.blocks %}
+        {%- if block.position == 'core' -%}
+          {% set _ = core_members.append(block.username) %}
+        {%- else -%}
+          {% set _ = members.append(block.username) %}
+        {%- endif -%}
+      {% endfor %}
+    {{ organizing_team('Core Team', core_members) }}
+    {{ organizing_team('Colaboradores', members) }}
+    {%- endif -%}
+  {% endfor %}
+
+  {%- set events = site.query('/eventos/') -%}
+  {%- set events_organized_by_this = [] -%}
+  {%- for event in events -%}
+    {%- for block in event.organizers.blocks -%}
+    {%- if block.username == 'django-girls-colombia' -%}
+      {%- set _ = events_organized_by_this.append(event) -%}
+    {% endif -%}
+    {% endfor -%}
+  {%- endfor -%}
+  {{ create_events('Eventos', events_organized_by_this) }}
     
   </div>
 </section>
