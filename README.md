@@ -37,7 +37,7 @@ desplegados a través de gh-pages con Lektor a
 https://colombiapython.github.io/sitio-web-produccion/
 (pronto en http://www.python.org.co)
 
-# 💻 Desarrollo local
+# 🛠 Desarrollo local
 
 ## ✅ (Opcional) Entorno Virtual
 
@@ -110,6 +110,29 @@ export LANG=en_us.UTF-8
 ```
 $ lektor plugins reinstall
 ```
+
+# 🚀 Despliegue
+
+Gracias a _Lektor Bot_ (Plugin de lektor conectado a Github), podemos desplegar nuestra web estática en diferentes repositorios (en la rama seleccionada en configuración - `gh-pages` en nuestro caso).
+
+La configuración de dichos repositorios se encuentra en `python-colombia.lektorproject`
+
+## ✔️ Desarrollo
+
+```
+$ lektor deploy
+```
+
+Se desplegará el contenido de la rama `develop` en `develop.python.org.co`
+
+## ✔️✔️ Producción
+
+```
+$ lektor deploy production
+```
+
+Se desplegará el contenido de la rama `production` en `python.org.co`
+
 ___
 <div align="center">
 
