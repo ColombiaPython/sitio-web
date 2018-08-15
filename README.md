@@ -133,6 +133,10 @@ $ lektor deploy production
 
 Se desplegará el contenido de la rama `production` en `python.org.co`
 
+# 📑 Guía de Uso
+
+A nivel de edición contenido hay que tener en cuenta una [Guía de Uso del Sitio Web](./GUIA_DE_USO.md) ya que algunos contenidos tienen reglas especiales para poder ser agregados.
+
 ___
 <div align="center">
 
