@@ -1,0 +1,46 @@
+{% extends "layout.html" %} {% block title %}{{ this.title }}{% endblock %} {% block body %} {%- if this.banner -%} {%- set
+banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/images/banner.jpg' -%} {%- endif -%}
+
+<section>
+  <div class="content">
+    <!-- <h1>{{ this.title }}</h1>
+    <span class="image fit">
+      <img src="{{ banner }}" alt="">
+    </span> -->
+
+    <div class="image fit banner">
+      <img src="{{ banner }}" alt="Banner" />
+      <div class="banner-title">
+        <div class="banner-text">
+          <h1>{{ this.title }}</h1>
+        </div>
+      </div>
+    </div>
+    {%- set crumbs = [] -%} {%- set current = {'crumb': this} -%} {%- for i in this._path.split("/") -%} {%- if current.crumb
+    is not none -%} {%- if crumbs.insert(0, current.crumb) -%}{%- endif -%} {%- if current.update({"crumb": current.crumb.parent})
+    -%}{%- endif -%} {%- endif -%} {%- endfor %} {%- for crumb in crumbs %} {%- if this._path == crumb._path -%} {%- set
+    last_name = crumb.last_name if crumb.last_name else '' -%} {%- set name = crumb.title if crumb.title else crumb.name
+    + ' ' + last_name -%} > {{ name }} {%- else -%} {%- if loop.index != 1 -%}>{%- endif -%}
+    <a href="{{ crumb|url }}">{{ crumb.title }} </a>
+    {%- endif -%} {%- endfor -%}
+  </div>
+</section>
+
+<section>
+  <div class="content">
+    {%- block content -%} {{ this.body }} {%- endblock -%}
+  </div>
+</section>
+<section>
+  <div class="content">
+    <h4>Más información:</h4>
+    <ul>
+      <li><span class="icon email fa-envelope"> Email: djangogirlscolombia@gmail.com</span></li>
+      <li><span class="icon facebook fa-facebook"><a href="https://www.facebook.com/djangogirlscolombia/" target="blank_" class="facebook"> Facebook</a></span> </li>
+      <li><span class="icon instagram fa-instagram"><a href="https://www.instagram.com/djangogirlsco/" target="blank_" class="instagram"> Instagram</a></span> </li>
+      <li><span class="icon twitter fa-twitter"><a href="https://twitter.com/DjangoGirlsCo" target="blank_" class="twitter"> Twitter</a></span> </li>
+      <li><span class="icon medium fa-medium"><a href="https://medium.com/@djangogirlscolombia" target="blank_" class="medium"> Medium</a></span> </li>
+    </ul>
+  </div>
+</section>
+{% endblock %}

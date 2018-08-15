@@ -2166,6 +2166,8 @@ button:disabled,
 .medium:hover { color: #ccff90 !important;}
 .slack { color: #9c27b0; }
 .slack:hover { color: #ba68c8 !important;}
+.twitter { color: #0288d1; }
+.twitter:hover { color: #01579b !important;}
 
 .active {
   color: #007bff;
