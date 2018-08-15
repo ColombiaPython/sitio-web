@@ -30,6 +30,59 @@ banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/
   <div class="content">
     {%- block content -%} {{ this.body }} {%- endblock -%}
   </div>
+
+  <h2>Equipo Django Girls Colombia</h1>
+{%- set dg = site.query('/usuarios/').filter(F.username == 'django-girls-colombia') -%}
+    <h3>Core Team</h3>
+    {{dg.email}}
+    
+        {# <div class="col-lg-3 col-md-3 col-xs-12">
+          <a href="{{ user|url }}">
+            {%- if image_alt and user.image_alt %}
+            <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" /> {%- elif not image_alt and user.image %}
+            <img class="image fit" src="{{ user|url }}/{{ user.image }}" alt="{{ user.username }}" /> {%- elif image_alt and not user.image_alt %}
+            <img class="image fit" src="{{ base_url }}static/images/empty-2x1.png" alt="{{ user.username }}" /> {%- elif not image_alt and not user.image %}
+            <img class="image fit" src="{{ base_url }}static/images/empty-avatar.png" alt="{{ user.username }}" /> {%- endif %}
+          </a>          
+          <div class="row justify-content-center">
+            <h4>{{ user.name }} {{ user.last_name }}</h4>
+          </div>
+          <div class="row justify-content-center">
+            <ul class="icons">
+              {%- if user.web %}
+              <li>
+                <a href="{{ user.web }}" class="icon fa-globe" target="_blank">
+                  <span class="label">Website</span>
+                </a>
+              </li>
+              {%- endif -%} {%- if user.email %}
+              <li>
+                <a href="mailto:{{ user.email }}" class="icon fa-envelope" target="_blank">
+                  <span class="label">Email</span>
+                </a>
+              </li>
+              {%- endif -%} {%- if user.facebook_handle %}
+              <li>
+                <a href="https://facebook.com/{{ user.facebook_handle}}" class="icon fa-facebook" target="_blank">
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+              {%- endif -%} {%- if user.twitter_handle %}
+              <li>
+                <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              {%- endif -%} {%- if user.github_handle %}
+              <li>
+                <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
+                  <span class="label">Github</span>
+                </a>
+              </li>
+              {%- endif %}
+            </ul>
+          </div>
+        </div> #}
 </section>
 <section>
   <div class="content">
