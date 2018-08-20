@@ -2154,16 +2154,16 @@ button:disabled,
 
 .red { color: #ff5722 }
 
-.email { color: #bdbdbd; }
-.email:hover { color: #919191 !important;}
+.email { color: #9e9e9e; }
+.email:hover { color: #757575 !important;}
 .github { color: #212121; }
 .github:hover { color: #616161 !important;}
 .facebook { color: #01579b; }
 .facebook:hover { color: #0288d1 !important;}
 .instagram { color: #673ab7; }
 .instagram:hover { color: #9575cd !important;}
-.medium { color: #b2ff59; }
-.medium:hover { color: #ccff90 !important;}
+.medium { color: #7cb342; }
+.medium:hover { color: #689f38 !important;}
 .slack { color: #9c27b0; }
 .slack:hover { color: #ba68c8 !important;}
 .twitter { color: #0288d1; }

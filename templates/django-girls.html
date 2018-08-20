@@ -10,13 +10,13 @@ banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/
           <div class="card">
             <div class="card-header" id="heading1" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1"
               style="cursor: pointer">
-              <b>2017 <i class="fa fa-angle-down"></i></b>
+              <b>2018 <i class="fa fa-angle-down"></i></b>
             </div>
             <div id="collapse1" class="collapse show" aria-labelledby="heading1" data-parent="#accordionExample">
               <div class="card-body">
                 <ul>
                 {%- for event in events %}
-                {%- if event.date_start|dateformat('YYYY') == '2017' -%}
+                {%- if event.date_start|dateformat('YYYY') == '2018' -%}
                   <li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }}</a></li>
                 {%- endif -%}
                 {%- endfor %}
@@ -27,13 +27,13 @@ banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/
           <div class="card">
             <div class="card-header" id="heading2" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2"
               style="cursor: pointer">
-              <b>2018 <i class="fa fa-angle-down"></i></b>
+              <b>2017 <i class="fa fa-angle-down"></i></b>
             </div>
             <div id="collapse2" class="collapse show" aria-labelledby="heading2" data-parent="#accordionExample">
               <div class="card-body">
                 <ul>
                 {%- for event in events %}
-                {%- if event.date_start|dateformat('YYYY') == '2018' -%}
+                {%- if event.date_start|dateformat('YYYY') == '2017' -%}
                   <li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }}</a></li>
                 {%- endif -%}
                 {%- endfor %}
