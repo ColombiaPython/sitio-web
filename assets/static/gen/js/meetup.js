@@ -22,13 +22,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-08-16",
-            "title": "Integrar GraphQL a Django + Entiende el poder de los datos con Spark",
-            "url": "/eventos/2018/08/integrar-graphql-a-django-entiende-el-poder-de-los-datos-con-spark"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Barranquilla",
         "url": "/usuarios/python-barranquilla"
@@ -73,11 +67,6 @@ function meetups() {
             "date_start": "2018-09-13",
             "title": "Introducci\u00f3n a Arquitectura de Big Data.",
             "url": "/eventos/2018/09/introduccion-a-arquitectura-de-big-data"
-          },
-          {
-            "date_start": "2018-08-02",
-            "title": "PyLab: Introducci\u00f3n al lenguaje Python y sus estructuras de datos!",
-            "url": "/eventos/2018/08/pylab-introduccion-al-lenguaje-python-y-sus-estructuras-de-datos"
           }
         ],
         "icon": "python",
@@ -93,13 +82,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-08-11",
-            "title": "Python Cali Agosto",
-            "url": "/eventos/2018/08/python-cali-agosto"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Cali",
         "url": "/usuarios/python-cali"
@@ -113,7 +96,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2018-10-20",
+            "title": "Django Girls Cartagena",
+            "url": "/eventos/2018/10/django-girls-cartagena"
+          }
+        ],
         "icon": "python",
         "name": "Python Cartagena",
         "url": "/usuarios/python-cartagena"
@@ -169,13 +158,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-08-04",
-            "title": "Python en la computaci\u00f3n cient\u00edfica",
-            "url": "/eventos/2018/08/python-en-la-computacion-cientifica"
-          }
-        ],
+        "events": [],
         "icon": "pyladies",
         "name": "PyLadies Medell\u00edn",
         "url": "/usuarios/pyladies-medellin"
