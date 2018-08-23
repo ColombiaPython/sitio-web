@@ -1,0 +1,119 @@
+_model: event-dg
+---
+title: Django Girls Cartagena
+---
+color_primary: 1a9bfc
+---
+form_attendees: https://goo.gl/forms/SmzlkfqjIrJK2JS93
+---
+form_guides: https://goo.gl/forms/rForRi0zW3Fmn3z22
+---
+location: Edificio Banco Popular, Oficina 13-08, Cl. 32 #8-21, La Matuna.
+---
+information:
+
+
+
+
+---
+latitude: 10.423555
+---
+longitude: -75.548083
+---
+date_end: 2018-10-20 19:30 -0500
+---
+date_start: 2018-10-20 08:30 -0500
+---
+city: Cartagena
+---
+country: Colombia
+---
+province: Bolivar
+---
+image: volante.png
+---
+timeline: cronograma.png
+---
+membrete: menbrete-djangogirls-cartagena-temporal.png
+---
+_slug: 2018/10/django-girls-cartagena
+---
+delta_announcement: 10
+---
+delta_close: 23
+---
+delta_limit: 7
+---
+delta_open: 
+---
+guides: 
+---
+organizers:
+
+#### organization ####
+username: django-girls-colombia
+#### organization ####
+username: python-cartagena
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: cmarioherrera
+----
+description: 
+#### user ####
+username: jsteerv
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
+---
+sponsors: 
+---
+delta_selection: 20
+---
+collaborators:
+
+#### user ####
+username: alonsoenrique
+----
+description: 
+#### user ####
+username: belsy-castillo
+----
+description: 
+#### user ####
+username: katiuscah
+----
+description: 
+#### user ####
+username: humitos
+----
+description: 
+#### user ####
+username: mjalmario
+----
+description: 
+#### user ####
+username: guerrero25
+----
+description: 
+#### user ####
+username: xaraxx
+----
+description: 
+#### user ####
+username: sorenllamas
+----
+description: 
+#### organization ####
+username: coworking-cartagena
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: psf
+#### organization ####
+username: python-colombia
