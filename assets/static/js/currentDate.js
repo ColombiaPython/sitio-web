@@ -1,4 +1,7 @@
 $(document).ready(function () {
   const end_time = $('#check-date').text();
-  console.log(new Date(end_time) > Date.now())
+  if (new Date(end_time) > Date.now()) {
+    $('#photos-event-dg').remove();
+  }
+  $('#check-date').remove();
 });
