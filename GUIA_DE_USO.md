@@ -36,3 +36,22 @@ Los scripts que se encargan de traer la información de los eventos de las comun
 Es necesario crear un archivo `MEETUP_API_KEY` para obtener la información.
 
 > Pronto más información
+
+### Eventos Django Girls
+
+#### Galería de Fotos
+
+Dentro del panel de creación de Eventos es requerido el campo `Id Carpeta Google Drive(Fotos)`
+
+![ID Drive](assets/static/images/documentation/id-drive.png)
+
+> Qué es un ID de carpeta (FOLDER-ID) y cómo obtenerlo
+
+_Respuesta: Ir a Google Drive >> Abrir la carpeta >> Revisar la URL en el navegador_
+
+Por ejemplo:
+
+URL Carpeta: `https://drive.google.com/drive/folders/0B1iqp0kGPjWsNDg5NWFlZjEtN2IwZC00NmZiLWE3MjktYTE2ZjZjNTZiMDY2`
+
+ID Carpeta:
+`0B1iqp0kGPjWsNDg5NWFlZjEtN2IwZC00NmZiLWE3MjktYTE2ZjZjNTZiMDY2`

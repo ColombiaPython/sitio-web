@@ -185,6 +185,20 @@
       <h1>Taller Django Girls en {{ this.city }}, {{ this.country}}</h1>
       {% endif %}
     </div>
+    <section id="photos-event-dg">
+      <div id="check-date">{{ this.date_end }}</div>
+    {% if this.photos %}
+      <div class="row justify-content-center">
+        <h2>📷 Fotos {{ this.title }} 📷</h2>
+      </div>
+      <iframe src="https://drive.google.com/embeddedfolderview?id={{ this.photos }}#grid" style="width:100%; height:600px; border:0;"></iframe>
+    {% else %}
+      <div class="row justify-content-center">
+        <h2>📷 ¡Pronto tendremos Fotos disponibles de {{ this.title }}! 📷</h2>
+      </div>
+    {% endif %}
+    </section>
+    <hr class="major" />
     <p>
     ¡Queremos animar a más mujeres a dominar la web! Es por eso que&nbsp;
 
