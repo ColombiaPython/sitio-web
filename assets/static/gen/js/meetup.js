@@ -99,7 +99,7 @@ function meetups() {
         "events": [
           {
             "date_start": "2018-10-20",
-            "title": "Django Girls Cartagena",
+            "title": "Taller de Programaci\u00f3n para Mujeres Cartagena",
             "url": "/eventos/2018/10/django-girls-cartagena"
           }
         ],

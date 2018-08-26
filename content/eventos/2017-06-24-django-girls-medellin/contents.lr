@@ -127,3 +127,5 @@ delta_selection: 20
 color_primary: 1baad2
 ---
 membrete: membrete-djangogirls-medellin.png
+---
+approved: yes

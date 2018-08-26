@@ -641,8 +641,10 @@ programación en la ciudad.
     ¡Ayudanos con la difusión compartiendo esta página y comentando sobre el taller
     las redes sociales, tu universidad y entre tus amigos!
 
+    {%- if this.approved %}
     Este evento forma parte de <b>Django Girls</b> y tiene su propio sitio web bajo
     esta marca: <b>Django Girls {{ this.city }}</b>
+    {% endif -%}
     </p>
   </div>
 </section>

@@ -1,6 +1,6 @@
 _model: event-dg
 ---
-title: Django Girls Cartagena
+title: Taller de Programación para Mujeres Cartagena
 ---
 color_primary: 1a9bfc
 ---
@@ -117,3 +117,5 @@ username: argentina-en-python
 username: psf
 #### organization ####
 username: python-colombia
+---
+approved: no

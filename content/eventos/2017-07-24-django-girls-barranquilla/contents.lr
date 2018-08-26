@@ -139,3 +139,5 @@ delta_limit: 30
 membrete: membrete-djangogirls-barranquilla.png
 ---
 delta_selection: 41
+---
+approved: yes
