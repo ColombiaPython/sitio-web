@@ -1,0 +1,75 @@
+_model: event-dg
+---
+title: Taller de Programación para Mujeres Bogotá
+---
+color_primary: 
+---
+form_attendees: 
+---
+form_guides: 
+---
+location: 
+---
+information:
+
+
+
+
+---
+latitude: 10.423555
+---
+longitude: -75.548083
+---
+date_end: 2018-11-24 19:30 -0500
+---
+date_start: 2018-11-24 08:30 -0500
+---
+city: Bogotá
+---
+country: Colombia
+---
+province: Cundinamarca
+---
+image: 
+---
+timeline: 
+---
+membrete: 
+---
+_slug: 2018/11/django-girls-bogota
+---
+delta_announcement: 10
+---
+delta_close: 23
+---
+delta_limit: 7
+---
+delta_open: 
+---
+guides: 
+---
+organizers:
+
+#### organization ####
+username: django-girls-colombia
+#### organization ####
+username: python-bogota
+#### user ####
+username: ellaquimica
+----
+description: 
+---
+sponsors: 
+---
+delta_selection: 20
+---
+collaborators:
+
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: psf
+#### organization ####
+username: python-colombia
+---
+approved: no

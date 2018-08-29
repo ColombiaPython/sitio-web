@@ -1,0 +1,64 @@
+_model: event-dg
+---
+title: Taller de Programación para Mujeres Pereira
+---
+color_primary: 
+---
+form_attendees: 
+---
+form_guides: 
+---
+location: 
+---
+information:
+
+
+
+
+---
+latitude: 10.423555
+---
+longitude: -75.548083
+---
+date_end: 2018-11-10 19:30 -0500
+---
+date_start: 2018-11-10 08:30 -0500
+---
+city: Pereira
+---
+country: Colombia
+---
+province: Risaralda
+---
+image: 
+---
+timeline: 
+---
+membrete: 
+---
+_slug: 2018/11/django-girls-pereira
+---
+delta_announcement: 10
+---
+delta_close: 23
+---
+delta_limit: 7
+---
+delta_open: 
+---
+guides: 
+---
+organizers:
+
+#### organization ####
+username: django-girls-colombia
+#### organization ####
+username: python-pereira
+---
+sponsors: 
+---
+delta_selection: 20
+---
+collaborators: 
+---
+approved: no
