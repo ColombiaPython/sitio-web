@@ -457,6 +457,7 @@
         {%- endif -%}
       </div>
 
+      {%- if date_close and date_close < date_close.today() -%}
       <div class="col-md-12">
         <div class="box">
         ¡Atención!: hemos alcanzado el cupo máximo de inscritos para el taller.
@@ -465,7 +466,8 @@
         asistir, nos estaremos comunicando con vos para informarte.!
         </div>
       </div>
-      
+      {%- endif -%}
+
       {%- if this.form_attendees -%}
       <div class="col-md-12">
         <div class="row justify-content-center">
