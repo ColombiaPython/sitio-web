@@ -68,7 +68,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2018-09-13",
+            "title": "Introducci\u00f3n a Arquitectura de Big Data.",
+            "url": "/eventos/2018/09/introduccion-a-arquitectura-de-big-data"
+          }
+        ],
         "icon": "python",
         "name": "Python Bucaramanga",
         "url": "/usuarios/python-bucaramanga"
