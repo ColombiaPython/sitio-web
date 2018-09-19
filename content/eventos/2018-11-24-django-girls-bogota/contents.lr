@@ -30,13 +30,13 @@ country: Colombia
 ---
 province: Cundinamarca
 ---
-image: 
+image: flyer.png
 ---
 timeline: cronograma.png
 ---
 membrete: menbrete-djangogirls-cartagena-temporal.png
 ---
-_slug: 2018/11/django-girls-bogota
+_slug: 2018/11/taller-mujeres-bogota
 ---
 delta_announcement: 11
 ---
@@ -58,6 +58,14 @@ username: python-bogota
 username: ellaquimica
 ----
 description: 
+#### user ####
+username: tamayonauta
+----
+description: 
+#### user ####
+username: nahrivera7
+----
+description: 
 ---
 sponsors: 
 ---
@@ -71,5 +79,17 @@ username: argentina-en-python
 username: psf
 #### organization ####
 username: python-colombia
+#### user ####
+username: wandarinca
+----
+description: 
+#### user ####
+username: rlaverde
+----
+description: 
+#### user ####
+username: jinara
+----
+description: 
 ---
 approved: no
