@@ -8,7 +8,7 @@ form_attendees:
 ---
 form_guides: 
 ---
-location: 
+location: Calle 99 #14 - 49
 ---
 information:
 
@@ -16,9 +16,9 @@ information:
 
 
 ---
-latitude: 10.423555
+latitude: 4.684029
 ---
-longitude: -75.548083
+longitude: -74.048063
 ---
 date_end: 2018-11-24 19:30 -0500
 ---
@@ -30,17 +30,17 @@ country: Colombia
 ---
 province: Cundinamarca
 ---
-image: 
+image: flyer.png
 ---
-timeline: 
+timeline: cronograma.png
 ---
-membrete: 
+membrete: menbrete-djangogirls-cartagena-temporal.png
 ---
-_slug: 2018/11/django-girls-bogota
+_slug: 2018/11/taller-mujeres-bogota
 ---
-delta_announcement: 10
+delta_announcement: 11
 ---
-delta_close: 23
+delta_close: 21
 ---
 delta_limit: 7
 ---
@@ -58,10 +58,18 @@ username: python-bogota
 username: ellaquimica
 ----
 description: 
+#### user ####
+username: tamayonauta
+----
+description: 
+#### user ####
+username: nahrivera7
+----
+description: 
 ---
 sponsors: 
 ---
-delta_selection: 20
+delta_selection: 19
 ---
 collaborators:
 
@@ -71,5 +79,17 @@ username: argentina-en-python
 username: psf
 #### organization ####
 username: python-colombia
+#### user ####
+username: wandarinca
+----
+description: 
+#### user ####
+username: rlaverde
+----
+description: 
+#### user ####
+username: jinara
+----
+description: 
 ---
 approved: no

@@ -52,7 +52,7 @@ function meetups() {
           {
             "date_start": "2018-11-24",
             "title": "Taller de Programaci\u00f3n para Mujeres Bogot\u00e1",
-            "url": "/eventos/2018/11/django-girls-bogota"
+            "url": "/eventos/2018/11/taller-mujeres-bogota"
           }
         ],
         "icon": "python",
@@ -68,13 +68,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-09-13",
-            "title": "Introducci\u00f3n a Arquitectura de Big Data.",
-            "url": "/eventos/2018/09/introduccion-a-arquitectura-de-big-data"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Bucaramanga",
         "url": "/usuarios/python-bucaramanga"
