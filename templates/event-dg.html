@@ -476,7 +476,7 @@
       </div>
       {%- endif -%}
 
-      {%- if this.form_attendees -%}
+      {%- if this.form_attendees.url -%}
       <div class="col-md-12">
         <div class="row justify-content-center">
           <a class="button primary large" href="{{ this.form_attendees }}"
@@ -510,7 +510,7 @@
     detalles.
     </p>
 
-    {%- if this.form_guides -%}
+    {%- if this.form_guides.url -%}
     <div class="row justify-content-center">
       <a class="button primary large" href="{{ this.form_guides }}" role="button"
          target="_blank">

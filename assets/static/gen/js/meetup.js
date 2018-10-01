@@ -52,7 +52,7 @@ function meetups() {
           {
             "date_start": "2018-11-24",
             "title": "Taller de Programaci\u00f3n para Mujeres Bogot\u00e1",
-            "url": "/eventos/2018/11/taller-mujeres-bogota"
+            "url": "/eventos/2018/11/taller-programacion-mujeres-bogota"
           }
         ],
         "icon": "python",
@@ -210,7 +210,7 @@ function meetups() {
           {
             "date_start": "2018-11-10",
             "title": "Taller de Programaci\u00f3n para Mujeres Pereira",
-            "url": "/eventos/2018/11/django-girls-pereira"
+            "url": "/eventos/2018/11/taller-programacion-mujeres-pereira"
           }
         ],
         "icon": "python",
