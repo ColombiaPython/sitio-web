@@ -182,7 +182,11 @@
         <img src="{{ this|url(alt='es') }}{{ this.membrete }}" />
       </span>
       {% else %}
-      <h1>Taller Django Girls en {{ this.city }}, {{ this.country}}</h1>
+        {% if this.approved %}
+        <h1>Taller Django Girls en {{ this.city }}, {{ this.country}}</h1>
+        {% else %}
+        <h1>Taller de Programación para Mujeres en {{ this.city }}, {{ this.country}}</h1>
+        {% endif %}
       {% endif %}
     </div>
     <section id="photos-event-dg">
@@ -385,7 +389,11 @@
             <img class="image fit" src="{{ user|url }}/{{ user.image_alt }}" alt="{{ user.username }}" />
             </a>
             {% else %}
-            <b>Falta agregar foto rectangular a <i>{{ user.username }}</i></b>
+              {% if user.image %}
+              <img class="image fit" src="{{ user|url }}/{{ user.image }}" alt="{{ user.username }}" />
+              {% else %}
+              <b>Falta agregar foto de <i>{{ user.username }}</i></b>
+              {% endif %}
             <br>
             <br>
             </a>

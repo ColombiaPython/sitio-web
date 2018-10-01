@@ -4,11 +4,11 @@ title: Taller de Programación para Mujeres Pereira
 ---
 color_primary: 
 ---
-form_attendees: 
+form_attendees: https://goo.gl/forms/h1pTRgyzgb2JdaP93
 ---
-form_guides: 
+form_guides: https://goo.gl/forms/wwh0ldpwqBkDvLy92
 ---
-location: 
+location: Universidad Católica de Pereira
 ---
 information:
 
@@ -16,9 +16,9 @@ information:
 
 
 ---
-latitude: 10.423555
+latitude: 4.8052102
 ---
-longitude: -75.548083
+longitude: -75.7253827
 ---
 date_end: 2018-11-10 19:30 -0500
 ---
@@ -30,13 +30,13 @@ country: Colombia
 ---
 province: Risaralda
 ---
-image: 
+image: Flyer.png
 ---
-timeline: 
+timeline: timeline.png
 ---
 membrete: 
 ---
-_slug: 2018/11/django-girls-pereira
+_slug: 2018/11/taller-programacion-mujeres-pereira
 ---
 delta_announcement: 10
 ---
