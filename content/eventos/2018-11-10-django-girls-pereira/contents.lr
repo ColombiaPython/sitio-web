@@ -38,9 +38,9 @@ membrete:
 ---
 _slug: 2018/11/taller-programacion-mujeres-pereira
 ---
-delta_announcement: 10
+delta_announcement: 9
 ---
-delta_close: 23
+delta_close: 16
 ---
 delta_limit: 7
 ---
@@ -54,11 +54,55 @@ organizers:
 username: django-girls-colombia
 #### organization ####
 username: python-pereira
+#### user ####
+username: carogomezt
+----
+description: 
+#### user ####
+username: daniela-zuluaga
+----
+description: 
+#### user ####
+username: vanessa-penagos
+----
+description: 
+#### user ####
+username: oriana-cadavid
+----
+description: 
 ---
-sponsors: 
+sponsors:
+
+#### organization ####
+username: universidad-catolica-de-pereira
 ---
-delta_selection: 20
+delta_selection: 14
 ---
-collaborators: 
+collaborators:
+
+#### user ####
+username: aerendon
+----
+description: 
+#### organization ####
+username: python-colombia
+#### organization ####
+username: argentina-en-python
+#### user ####
+username: anaguicas
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: sergio-alexander-florez
+----
+description: 
 ---
 approved: no
