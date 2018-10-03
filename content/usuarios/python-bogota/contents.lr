@@ -6,7 +6,7 @@ meetup_handle: pythonbogota
 ---
 name: Python Bogotá
 ---
-image: python-bogota.jpg
+image: python-bogota.png
 ---
 type: comunidad
 ---
@@ -26,6 +26,23 @@ Esperamos que todas las personas que asisten a los eventos se comporten de acuer
 
 Como regla general, sé amable con todos los integrantes de la comunidad.
 ---
-members: 
+members:
+
+#### member ####
+username: tamayonauta
+----
+position: Co-organizer
+----
+date_start: 
+----
+date_end: 
 ---
 map: yes
+---
+facebook_group_handle: pythonbogota
+---
+twitter_handle: pythonbogota
+---
+web: https://pythonbogota.org/
+---
+image_alt: python-bogota-horizontal.png
