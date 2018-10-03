@@ -8,7 +8,7 @@ form_attendees: https://goo.gl/forms/OItAXqoCn036xUmf1
 ---
 form_guides: https://goo.gl/forms/KuKQd0uFvjXlZ5dw1
 ---
-location: CALLE 99 # 14 - 49
+location: Calle 99 # 14 - 49
 ---
 information:
 
@@ -30,11 +30,11 @@ country: Colombia
 ---
 province: Cundinamarca
 ---
-image: flyer.png
+image: flyer.jpeg
 ---
 timeline: cronograma.png
 ---
-membrete: menbrete-djangogirls-cartagena-temporal.png
+membrete: cover-website.jpeg
 ---
 _slug: 2018/11/taller-programacion-mujeres-bogota
 ---
