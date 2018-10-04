@@ -71,23 +71,22 @@ username: jhonjairoroa87
 ----
 description: 
 ---
-sponsors:
-
-#### organization ####
-username: mercadoni
-#### organization ####
-username: payu
+sponsors: 
 ---
 delta_selection: 19
 ---
 collaborators:
 
 #### organization ####
-username: argentina-en-python
+username: mercadoni
+#### organization ####
+username: payu
+#### organization ####
+username: python-colombia
 #### organization ####
 username: psf
 #### organization ####
-username: python-colombia
+username: argentina-en-python
 #### user ####
 username: wandarinca
 ----
