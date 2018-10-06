@@ -253,9 +253,24 @@
         </p>
       </div>
       <div class="col-lg-5 col-md-6 col-sm-12">
+        {% if this.image %}
         <span class="image fit">
-          <img src="{{ this|url(alt='es') }}{{ this.image }}" />
+          <img data-toggle="modal" data-target="#modalFlyer" src="{{ this|url(alt='es') }}{{ this.image }}" />
         </span>
+        
+        <!-- Modal -->
+        <div class="modal fade" id="modalFlyer" tabindex="-1" role="dialog" aria-labelledby="modalFlyerTitle" aria-hidden="true">
+          <div class="modal-dialog modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <span class="image fit">
+                <img data-toggle="modal" data-target="#modalFlyer" src="{{ this|url(alt='es') }}{{ this.image }}" />
+              </span>
+            </div>
+          </div>
+        </div>
+        {% else %}
+          Muy pronto más información.
+        {% endif %}
       </div>
     </div>
   </div>
@@ -415,8 +430,20 @@
 
       {%- if this.timeline -%}
       <span class="image fit">
-        <img src="{{ this|url(alt='es') }}{{ this.timeline }}" />
+        <img data-toggle="modal" data-target="#modalTimeline" src="{{ this|url(alt='es') }}{{ this.timeline }}" />
       </span>
+
+      <!-- Modal -->
+      <div class="modal fade" id="modalTimeline" tabindex="-1" role="dialog" aria-labelledby="modalTimelineTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog modal-lg modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <span class="image fit">
+              <img src="{{ this|url(alt='es') }}{{ this.timeline }}" />
+            </span>
+          </div>
+        </div>
+      </div>
       {%- endif -%}
       <div class="row">
         {%- if date_close -%}
