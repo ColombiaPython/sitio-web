@@ -7,3 +7,32 @@ type: organizacion
 image: grupo-sirius-horizontal.png
 ---
 image_alt: grupo-sirius-horizontal.png
+---
+city: Pereira
+---
+country: Colombia
+---
+github_handle: labsirius
+---
+members:
+
+#### member ####
+username: kala855
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: aerendon
+----
+position: 
+----
+date_start: 
+----
+date_end: 
+---
+province: Risaralda
+---
+web: http://sirius.utp.edu.co
