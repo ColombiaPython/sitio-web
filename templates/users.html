@@ -6,38 +6,28 @@
 
 <h2>Usuarios</h2>
 <ul>
-{% for child in this.pagination.items.filter(F.type == 'persona') %}
-<li><a href="{{ child|url }}">{{ child.name }} {{ child.last_name }} - <i>({{ child._id }})</i></a></li>
-{%- if child._id != child.username -%}
-<h1>ERROR</h1>
-{%- endif -%}
-{% endfor %}
+  {% for child in this.pagination.items.filter(F.type == 'persona') %}
+  <li><a href="{{ child|url }}">{{ child.name }} {{ child.last_name }} - <i>({{ child._id }})</i></a></li>
+  {% endfor %}
 </ul>
-
 
 <h2>Empresas / Organizaciones / Universidades</h2>
 <ul>
-{% for child in this.pagination.items %}
-{%- if child.type not in ['comunidad', 'persona'] -%}
-<li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
-{%- if child._id != child.username -%}
-<h2>ERROR</h2>
-{%- endif -%}
-{%- endif -%}
-{% endfor %}
+  {% for child in this.pagination.items %}
+    {%- if child.type not in ['comunidad', 'persona'] -%}
+    <li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
+    {%- endif -%}
+  {% endfor %}
 </ul>
 
 
 <h2>Comunidades</h2>
 <ul>
-{% for child in this.pagination.items %}
-{%- if child.type == 'comunidad' -%}
-<li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
-{%- if child._id != child.username -%}
-<h1>ERROR</h1>
-{%- endif -%}
-{%- endif -%}
-{% endfor %}
+  {% for child in this.pagination.items %}
+    {%- if child.type == 'comunidad' -%}
+    <li><a href="{{ child|url }}">{{ child.name }} - <i>({{ child._id }})</i></a></li>
+    {%- endif -%}
+  {% endfor %}
 </ul>
 
 <div class="row justify-content-center">
