@@ -2,8 +2,60 @@ username: rockalabs
 ---
 name: Rockalabs
 ---
-type: organizacion
+type: empresa
 ---
 image: rockalabs-horizontal.png
 ---
 image_alt: rockalabs-horizontal.png
+---
+github_handle: rockalabs
+---
+information:
+
+We are a tech venture builder spread across Madrid, NYC and LatAm. 
+We team up with entrepreneurs and companies to build and launch digital ventures.
+---
+instagram_handle: rockalabs
+---
+linkedin_handle: 
+---
+members:
+
+#### member ####
+username: sergio-alexander-florez
+----
+position: Tech Leader
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: jdmorales
+----
+position: Frontend Developer
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: salazarfelipe
+----
+position: Full Stack Developer
+----
+date_start: 
+----
+date_end: 
+#### member ####
+username: juankzuhe
+----
+position: Full Stack Developer
+----
+date_start: 
+----
+date_end: 
+---
+twitter_handle: rockalabs
+---
+web: http://rocka.co
+---
+facebook_handle: rockalabs
