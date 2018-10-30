@@ -96,13 +96,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-10-20",
-            "title": "Taller de Programaci\u00f3n para Mujeres Cartagena",
-            "url": "/eventos/2018/10/django-girls-cartagena"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Cartagena",
         "url": "/usuarios/python-cartagena"
@@ -192,7 +186,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-02-23",
+            "title": "Django Girls Pasto",
+            "url": "/eventos/2019/02/django-girls-pasto"
+          }
+        ],
         "icon": "python",
         "name": "Python Pasto",
         "url": "/usuarios/python-pasto"
