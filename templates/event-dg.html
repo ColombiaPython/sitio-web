@@ -53,6 +53,13 @@
             </a>
           </li>
           {% endif %}
+          {% if user.github_handle %}
+          <li>
+            <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
+              <span class="label">Github</span>
+            </a>
+          </li>
+          {% endif %}
           {% if user.facebook_handle %}
           <li>
             <a href="https://facebook.com/{{ user.facebook_handle}}" class="icon fa-facebook" target="_blank">
@@ -60,17 +67,17 @@
             </a>
           </li>
           {% endif %}
+          {% if user.instagram_handle %}
+          <li>
+            <a href="https://instagram.com/{{ user.instagram_handle}}" class="icon fa-instagram" target="_blank">
+              <span class="label">Instagram</span>
+            </a>
+          </li>
+          {% endif %}
           {% if user.twitter_handle %}
           <li>
             <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
               <span class="label">Twitter</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if user.github_handle %}
-          <li>
-            <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
-              <span class="label">Github</span>
             </a>
           </li>
           {% endif %}

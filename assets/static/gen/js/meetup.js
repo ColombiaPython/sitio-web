@@ -48,7 +48,13 @@ function meetups() {
         "url": "/usuarios/pyladies-bogota"
       },
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2018-11-24",
+            "title": "Taller de Programaci\u00f3n para Mujeres Bogot\u00e1",
+            "url": "/eventos/2018/11/taller-programacion-mujeres-bogota"
+          }
+        ],
         "icon": "python",
         "name": "Python Bogot\u00e1",
         "url": "/usuarios/python-bogota"
