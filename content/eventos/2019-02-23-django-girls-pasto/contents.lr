@@ -50,16 +50,18 @@ guides:
 ---
 organizers:
 
-#### organization ####
-username: django-girls-colombia
 #### user ####
-username: ellaquimica
+username: anaguicas
 ----
 description: 
 #### organization ####
-username: python-pasto
+username: django-girls-colombia
 #### user ####
-username: kafrans12
+username: goanpeca
+----
+description: 
+#### user ####
+username: ellaquimica
 ----
 description: 
 #### user ####
@@ -67,31 +69,32 @@ username: jfajardo89
 ----
 description: 
 #### user ####
-username: goanpeca
+username: kafrans12
 ----
 description: 
-#### user ####
-username: anaguicas
-----
-description: 
+#### organization ####
+username: python-pasto
 ---
-sponsors: 
+sponsors:
+
+#### organization ####
+username: buscamos-patrocinadores
 ---
 delta_selection: 16
 ---
 collaborators:
 
 #### organization ####
-username: unimar
-#### organization ####
-username: psf
-#### organization ####
-username: python-colombia
-#### organization ####
 username: argentina-en-python
 #### user ####
 username: f-jimenezg
 ----
 description: 
+#### organization ####
+username: python-colombia
+#### organization ####
+username: psf
+#### organization ####
+username: unimar
 ---
 approved: yes
