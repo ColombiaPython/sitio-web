@@ -30,16 +30,21 @@
             {%- if current.update({"crumb": current.crumb.parent}) -%}{%- endif -%}
         {%- endif -%}
     {%- endfor %}
-    {%- for crumb in crumbs %}
-        {%- if this._path == crumb._path -%}
-            {%- set last_name = crumb.last_name if crumb.last_name else '' -%}
-            {%- set name = crumb.title if crumb.title else crumb.name + ' ' + last_name -%}
-            > {{ name }}
-        {%- else -%}
-            {%- if loop.index != 1 -%}>{%- endif -%}
-            <a href="{{ crumb|url }}">{{ crumb.title }} </a>
-        {%- endif -%}
-    {%- endfor -%}
+    <ul class="actions small">
+      {%- for crumb in crumbs %}
+          {%- if this._path == crumb._path -%}
+              {%- set last_name = crumb.last_name if crumb.last_name else '' -%}
+              {%- set name = crumb.title if crumb.title else crumb.name + ' ' + last_name -%}
+              <li>
+                <span class="button primary small"> {{ name }} </span>
+              </li>
+          {%- else -%}
+              <li>
+                <a class="button small" href="{{ crumb|url }}">{{ crumb.title }}</a>
+              </li>
+          {%- endif -%}
+      {%- endfor -%}
+    </ul>
   </div>
 </section>
 

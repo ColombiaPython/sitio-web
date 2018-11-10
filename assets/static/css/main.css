@@ -2186,3 +2186,9 @@ button:disabled,
 .post {
   margin-bottom: 50px;
 }
+
+.button:hover {
+  background-color: #28ABE3;
+  box-shadow: none;
+  color: #ffffff !important;
+}
