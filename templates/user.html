@@ -72,11 +72,17 @@
                 </li>
                 {%- endif -%} {%- if user.github_handle %}
                 <li>
-                  <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github" target="_blank">
+                  <a href="https://github.com/{{ user.github_handle}}" class="icon fa-github-alt" target="_blank">
                     <span class="label">Github</span>
                   </a>
                 </li>
-                {%- endif %}
+                {%- endif %} {% if user.linkedin_handle %}
+                <li>
+                  <a href="https://www.linkedin.com/in/{{ user.linkedin_handle }}" class="icon fa-linkedin" target="_blank">
+                    <span class="label">Linkedin</span>
+                  </a>
+                </li>
+                {% endif %}
               </ul>
             </div>
           </div>
