@@ -57,6 +57,13 @@
                     <span class="label">Facebook</span>
                   </a>
                 </li>
+                {%- endif -%}
+                {%- if user.instagram_handle %}
+                <li>
+                  <a href="https://instagram.com/{{ user.instagram_handle}}" class="icon fa-facebook" target="_blank">
+                    <span class="label">Instagram</span>
+                  </a>
+                </li>
                 {%- endif -%} {%- if user.twitter_handle %}
                 <li>
                   <a href="https://twitter.com/{{ user.twitter_handle}}" class="icon fa-twitter" target="_blank">
