@@ -1,0 +1,5 @@
+_model: page
+---
+title: Mapa del Sitio
+---
+_template: sitemap.html
