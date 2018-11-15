@@ -1,0 +1,73 @@
+title: Django Girls Cali: Nuestra experiencia como organizadores — 2018
+---
+authors:
+
+#### user ####
+username: andresgz
+----
+description: 
+#### user ####
+username: iris9112
+----
+description: 
+#### user ####
+username: miltonln
+----
+description: 
+---
+body:
+
+Todo comenzó en [PyCon Colombia 2018](http://pycon.co) en la ciudad de Medellín, en la cual, [Milton Lenis](https://twitter.com/MiltonLn) e [Isabel Ruiz](https://twitter.com/iris9112) luego de escuchar la charla de [Johanna Sánchez](https://twitter.com/EllaQuimica) — @Ellaquimica, sobre su experiencia en general con [Django Girls Colombia](https://www.facebook.com/djangogirlscolombia/), nos acercamos a ella y discutimos sobre la idea de traer el taller a Cali, entonces, cuadramos una cita con la esperanza de reunirnos y poder avanzar en este tema.
+
+Nos contactamos con nuestro equipo de [Python Cali](https://www.facebook.com/pythoncali/), empezamos a reunir a los interesados en ayudar en la organización del evento y concretamos la reunión con la que arrancó todo. En dicha reunión definimos qué roles iba a tener cada uno, el calendario de trabajo y discutimos sobre las tareas más críticas a realizar.
+
+El equipo de trabajo estuvo conformado principalmente por organizadores y miembros de la comunidad de [Python Cali](https://www.facebook.com/pythoncali/) y miembros de [Django Girls Colombia](https://www.facebook.com/djangogirlscolombia/) a quienes tuvimos la maravillosa oportunidad de conocer. En la comunidad de [Python Cali](https://www.facebook.com/pythoncali/) tenemos mucha experiencia haciendo varios eventos en la ciudad, sin embargo, la realización de este fue especial. A diferencia de los eventos tipo conferencia, este evento es estilo taller con una duración de todo un día, lo cual, evidentemente nos metió en el reto de considerar aspectos de logística diferentes a los que solemos manejar, por ejemplo, asignación de mentores, diversos tipos de alimentación para los participantes y la consecución de un espacio con condiciones especiales para el trabajo en equipo.
+
+Afortunadamente, **el equipo que armamos para el evento** tenía las características necesarias para abordar este problema, habilidades como el liderazgo y experiencia de **Andrés González**, el carisma y la disposición de **Isabel Ruiz**, la dedicación y organización de **Milton Lenis**, la creatividad de **Carolina Guzmán**, el compromiso y apoyo de **Cristian Vargas** y, sin duda, la colaboración del resto de personas que directa o indirectamente ayudaron a abordar cada uno de los retos que tuvimos durante los 3 meses de organización, como lo fueron **Mauricio Collazos** y **Pedro Rivera**.
+
+Uno de los retos que más aprendizaje nos dejó esta experiencia, fue la manera tan organizada que tiene el equipo de [Django Girls Colombia](https://www.facebook.com/djangogirlscolombia/) para realizar sus eventos, algunos aspectos como realizar un manejo estricto de tareas con fechas, responsables y descripciones detalladas haciendo uso de la herramienta Trello, la comunicación activa y reporte de resultados a través de Slack y reuniones semanales fueron lo que nos hicieron crecer más como organizadores. Ya que, si bien, los eventos que hemos realizado en Python Cali han tenido una muy buena calidad, esta experiencia nos dejó muchas enseñanzas para mejorar la ejecución de los eventos en nuestras respectivas comunidades.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*sQzioaEZZKiKv4OyKljoBA.png" class="image fit">
+> Auditorio de la Universidad Autónoma de Occidente (UAO)
+
+Como lo mencionamos antes, uno de los retos también fue el encontrar un lugar adecuado para la realización del taller. Esta tarea nos costó un poco al principio, pero pudimos contar con la generosa ayuda de la profesora Lyda Peña Paz de la [Universidad Autónoma de Occidente (UAO)](http://www.uao.edu.co/), la cual nos ayudó a solicitar el Auditorio Lile de la UAO, que, a decir verdad, era muchísimo mejor de lo que nos imaginamos y mucho más de lo que necesitaba el evento para ser un éxito, a ella y las personas de la UAO que nos apoyaron, muchas gracias.
+
+Es claro que un evento tan ambicioso como este no se puede realizar sin un apoyo económico, en este caso, nuestros patrocinadores jugaron un papel súper importante, contactamos a varias empresas, sin embargo, la manera más rápida y sencilla de conseguir patrocinio, fue recurriendo a las empresas para las que trabajamos o a empresas que tratan de apoyar a Django Girls Colombia en general, dicho esto, la alineación final de **patrocinadores** fue:
+
+* [Monoku](https://monoku.com/) de Bogotá (Quién además nos apoyó enviándonos guías para el taller),
+* [Monadical](https://monadical.com/) de Medellín,
+* [Swapps](https://swapps.com/) de Cali
+* [Rady Consultores](http://rady.com.co/) de Cali.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*uQwzWDnyXgaLrK7b5M6ZRQ.png" class="image fit">
+>Nuestros patrocinadores — gracias por apoyarnos en esta apuesta de inclusión tecnológica e inclusión
+
+Estamos infinitamente agradecidos con ellos por su ayuda, nada de esto hubiera sido posible de no ser por el apoyo que nos brindaron.
+
+Tres meses pasaron, de reuniones semanales, de tareas, de esfuerzo, coordinando aspectos finales como el catering, los snacks, papelería, diseños de camisetas, entre otros. El día del evento se fue acercando y no podíamos estar más ansiosos de realizar el taller.
+
+## El Gran Día
+
+<img src="https://cdn-images-1.medium.com/max/800/1*_bmZGcQ50byaJb2SIqx4vg.jpeg" class="image fit">
+> Foto Grupal de Taller de Programación para Mujeres Django Girls Cali, 2018 — Organizado por Django Girls Colombia y Python Cali.
+
+El día antes del taller fuimos a decorar el espacio y ultimar detalles, teniamos solo unas cuantas horas para realizar esta labor debido a la reserva del espacio, sin embargo, la experiencia de Gonzalo Peña, Carolina Gómez y Angélica Aguirre, miembros de Django girls Colombia, fue clave para agilizar esta tarea, después con el paso de las horas fueron llegando más manos para ayudar y todo iba quedando listo.
+
+Al final no pudimos terminar al 100% la decoración ese día pero faltaba poco, así que al llegar el día del taller, simplemente terminamos rápidamente y nos dispusimos a prepararnos para recibir a nuestras participantes. Organizamos la mesa de registro, nuestros guías se reunieron para coordinarse y arrancó el taller.
+
+Tuvimos **aproximadamente 45 participantes** distribuidas entre las mesas. Primero todos nos presentamos, luego dimos inicio al taller con cada guía apoyando su mesa, pero algo importante es que las participantes podían hacer las cosas a su ritmo y comer snacks cada que quisieran.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*C9ymfn5j6aRDNfwskJJhdA.png" class="image fit">
+> Momentos del Almuerzo — Django Girls Cali 2017
+
+Pusimos algo de música suave para que nuestras participantes pudieran concentrarse y el tiempo empezó a pasar, todos trabajando muy juiciosos, hasta que llegó la hora de almorzar, contamos con un **servicio de catering** espectacular en el cual tuvimos **dos opciones de almuerzo** y algunos platos previamente solicitados para nuestros **participantes veganos**.
+
+Luego de regresar, una de las participantes tomó la iniciativa y nos dio una **sesión de Yoga de la Risa** lo cual ayudó a que la gente se relajara y pudiera continuar con sus tareas. Todos continuaron con el taller hasta que el día empezaba a terminar, momento en el cual realizamos la premiación, sorteamos algunas **camisetas** y dimos la **charla de cierre**.
+
+Fue **demasiado gratificante** ver como ese arduo esfuerzo durante tres meses de organización se vio recompensado por el desarrollo del evento y el agradecimiento de las participantes, sin duda, una experiencia que toda persona interesada en temas de comunidad debería vivir.
+
+**Galería de Fotos del evento en : [http://bit.ly/djangogirlscali-fotos](http://bit.ly/djangogirlscali-fotos)**
+---
+categories: django-girls, colombia, python
+---
+pub_date: 2018-08-01

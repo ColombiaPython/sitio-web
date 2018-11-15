@@ -2209,3 +2209,7 @@ a:focus, a:focus * {
   font-family: "Open Sans", sans-serif !important;
   font-size: 8pt;
 }
+
+blockquote > p {
+  margin: 0;
+}
