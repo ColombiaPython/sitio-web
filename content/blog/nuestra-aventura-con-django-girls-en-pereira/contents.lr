@@ -78,3 +78,7 @@ Además, queremos animar a personas de nuestra ciudad para que realicen la segun
 pub_date: 2018-02-22
 ---
 summary: Experiencias en Django Girls Pereira 2017
+---
+banner: banner.jpeg
+---
+categories: django-girls, colombia, python
