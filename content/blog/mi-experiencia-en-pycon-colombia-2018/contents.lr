@@ -1,0 +1,51 @@
+title: Mi experiencia en PyCon Colombia 2018
+---
+authors:
+
+#### user ####
+username: carogomezt
+----
+description: 
+---
+body:
+
+Mi nombre es [Carolina Gómez](https://twitter.com/caro_gomezt) y soy Ingeniera de Sistemas y Computación egresada de la [Universidad Tecnológica de Pereira](https://www.utp.edu.co/). En la actualidad trabajo como desarrolladora de software en [FLUID](https://fluidattacks.com/) y me declaro una apasionada por el mundo de la computación, por ello desde hace algunos años he estado muy involucrada en apoyar diferentes actividades para promover la participación de las mujeres en el campo de la tecnología. He tenido la oportunidad de asistir a diferentes conferencias las cuales me han ayudado a crecer tanto académica como profesionalmente, pero mi experiencia en la [PyCon Colombia 2018](https://www.pycon.co/) fue totalmente diferente. Quisiera contarles como fue mi participación en este gran evento, el cual marcó mi vida de diferentes maneras.
+
+Todo inició con el Django Girls que se realizó un día antes de la PyCon, en este evento tuve la oportunidad de participar como organizadora y guía.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*F2vI1TmC5ShGWJjv-0OLrw.jpeg" class="image fit">
+>Mi equipo de trabajo durante el taller.
+
+Ser guía por primera vez fue todo un reto para mi, ya que debía explicar los comandos de la terminal con un lenguaje no tan técnico, inicialmente pensé en cosas similares para hacerme entender y lo primero que se me ocurrió fue usar como ejemplo una casa.
+
+Si queremos listar los elementos de la casa escribimos el comando **ls** o **dir**, y si queremos ingresar por ejemplo a la sala hacíamos **cd sala**, y así con los diferentes comando que se vieron durante el taller, esta idea fue muy buena porque finalmente los chicos de mi mesa pudieron comprender los diferentes conceptos explicados. Al final del día quede muy motivada y con muchas ganas de seguir explicando a más personas como incursionar en el mundo de la programación.
+
+Desafortunadamente me perdí el primer día de la PyCon, pero el segundo día fui con muchas ganas de aprender, tuve la oportunidad de estar en el stand de Django Girls ya que hago parte de un grupo de voluntarios que impulsa esta comunidad en Colombia, mi participación en esta comunidad inició cuando ayude a organizar un en evento en [Pereira](https://medium.com/@djangogirlscolombia/nuestra-aventura-con-django-girls-en-pereira-868b8687a642) y la experiencia fue tan motivadora que quise seguir apoyando esta iniciativa en otras ciudades del país.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*w35xw1FgJOQxKV9UjtscqQ.jpeg" class="image fit" />
+> Stand Django Girls Colombia en la PyCon 2018
+
+En el stand tuve la oportunidad de conocer a muchas personas que estaban interesadas en saber más sobre esta iniciativa, eso fue muy gratificante para mi porque estas personas querían aportar un granito de arena para que pudiéramos desarrollar más talleres y contribuir así a mejorar la participación de la mujer en tecnología. Después participe de diferentes charlas donde los ponentes compartieron su pasión por diferentes temas relacionados con python, fue un espacio muy bueno de crecimiento profesional, porque me dio muchas ideas para implementar en mi trabajo.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*oWf5hM4_7z_aDmWlIRS_4g.jpeg" class="image fit" />
+> Compañeros de comunidades pereiranas reunidos en PyCon Colombia 2018
+
+Los diferentes espacios para refrigerios y comidas fueron excelentes para conectar con otras personas que compartían mi pasión por python, esto fue una de las cosas que más me llamó la atención porque pude conocer personas maravillosas de diferentes ciudades y países que me contagiaron su entusiasmo por los temas en los cuales trabajan o investigan. Algo que me gusto mucho fue que pude dejar de lado mi temor a hablar en otro idioma (Ingles) y practicarlo un poco.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*XVoUMl22gBhF_RStHlCEAA.png" class="image fit" />
+> Izquierda a derecha: Lorena Mesa, Carolina Gómez, Angelica Aguirre, Naomi Ceder
+
+El último día fue un poco triste porque sabía que pronto se acabaría esta experiencia pero disfrute al máximo de los talleres y las charlas de los keynote speakers, ame la forma en la que Audrey y Daniel mostraban su pasión por programar juntos, y quede con ganas de más, por ello espero hacer parte de la PyCon 2019, y quiero recomendar a otras personas a que se unan a la organización de este gran evento, vivir la experiencia como participante es muy bueno, pero puedo decir por experiencia propia que vivirla como voluntario es mucho mejor por que se tiene la oportunidad de compartir con más personas y participar más activamente del evento. Espero en un futuro también animarme a dar alguna charla o taller, por que imagino que sería una experiencia fenomenal.
+
+<img src="https://cdn-images-1.medium.com/max/800/1*ByNfRD4LQNyAlowQeXMriQ.jpeg" class="image fit" />
+> Foto grupal PyCon Colombia 2018
+
+Finalmente quiero decir que en esta oportunidad no soló crecí profesionalmente sino también personalmente, pude conocer personas maravillosas que me inspiraron mucho, me impulsaron a seguir promoviendo la participación de la mujer en tecnología y solo me quedan buenos recuerdos de ese gran fin de semana.
+---
+categories: pycon, colombia
+---
+pub_date: 2018-03-18
+---
+summary: Un crecimiento profesional y personal
+---
+banner: banner.jpeg
