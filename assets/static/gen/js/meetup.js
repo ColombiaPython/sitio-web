@@ -206,13 +206,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-11-10",
-            "title": "Taller de Programaci\u00f3n para Mujeres Pereira",
-            "url": "/eventos/2018/11/taller-programacion-mujeres-pereira"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Pereira",
         "url": "/usuarios/python-pereira"

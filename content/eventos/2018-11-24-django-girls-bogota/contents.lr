@@ -30,7 +30,7 @@ country: Colombia
 ---
 province: Cundinamarca
 ---
-image: flyer.jpeg
+image: flyer-dgbogota.sinibm.png
 ---
 timeline: timeline.png
 ---
@@ -71,7 +71,14 @@ username: jhonjairoroa87
 ----
 description: 
 ---
-sponsors: 
+sponsors:
+
+#### organization ####
+username: monoku
+#### organization ####
+username: facebook-developer-circles-bogota
+#### organization ####
+username: listaencasa
 ---
 delta_selection: 19
 ---
