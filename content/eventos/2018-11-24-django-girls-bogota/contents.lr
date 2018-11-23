@@ -46,7 +46,64 @@ delta_limit: 7
 ---
 delta_open: 
 ---
-guides: 
+guides:
+
+#### user ####
+username: kittylon
+----
+description: 
+#### user ####
+username: carlosmiguelpatino
+----
+description: 
+#### user ####
+username: xindykatalina
+----
+description: 
+#### user ####
+username: fabianud2018
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+#### user ####
+username: jevelezse
+----
+description: 
+#### user ####
+username: jhonjairoroa87
+----
+description: 
+#### user ####
+username: lacardenasv
+----
+description: 
+#### user ####
+username: macaguegi
+----
+description: 
+#### user ####
+username: pcu4dros
+----
+description: 
+#### user ####
+username: rlaverde
+----
+description: 
+#### user ####
+username: steffroa
+----
+description: 
+#### user ####
+username: wandarinca
+----
+description: 
+#### user ####
+username: yurs_ksf1
+----
+description: 
 ---
 organizers:
 
@@ -77,6 +134,10 @@ sponsors:
 username: monoku
 #### organization ####
 username: listaencasa
+#### organization ####
+username: ibm-colombia
+#### organization ####
+username: sonialfer
 ---
 delta_selection: 19
 ---
