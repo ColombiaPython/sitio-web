@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/09/introduccion-a-arquitectura-de-big-data
+---
+title: Introducción a Arquitectura de Big Data.
+---
+information: 
+<p>El déficit de profesionales de Tecnologías de la Información (TI) en Colombia va aumentado cada año, según el MINTIC para el año 2019 se estima estará en casi 70.000 [1], se proyecta que la tendencia seguirá aumentando y más aún en campos especializados como inteligencia artificial, Big Data, Internet de las Cosas. El MINTIC está tomando acciones para disminuir esta brecha abriendo constantemente convocatorias para formación en diversos campos relacionados con la industria TI.</p> <p>En este meetup se compartirá la experiencia de lograr la certificación como "Big Data Architect" producto de una iniciativa del MINTIC [2] así como una pequeña réplica del conocimiento adquirido.</p> <p>[1] <a href="http://www.enter.co/cultura-digital/colombia-digital/cual-es-el-profesional-de-ti-que-buscan-las-empresas-colombianas/" class="linkified">http://www.enter.co/cultura-digital/colombia-digital/cual-es-el-profesional-de-ti-que-buscan-las-empresas-colombianas/</a><br/>[2] <a href="http://www.icetex.gov.co/dnnpro5/es-co/fondos/fondosparaeldesarrollodeti/terceraconvocatoriadecompetenciastransversales.aspx" class="linkified">http://www.icetex.gov.co/dnnpro5/es-co/fondos/fondosparaeldesarrollodeti/terceraconvocatoriadecompetenciastransversales.aspx</a></p> <p>Agenda:<br/>• Introducción a Big Data.<br/>• Introducción a Arquitectura de Big Data.<br/>• Ejemplo de aplicación en Apache Hadoop.<br/>• Generalidades de la convocatoria y experiencia con la certificación.</p> <p>Premios y sorpresas, no te lo pierdas ;)</p> <p>Requisitos para participar por los premios:<br/>► Tener cuenta en Stack Overflow en Español (<a href="https://es.stackoverflow.com/" class="linkified">https://es.stackoverflow.com/</a>)<br/>► Tener una reputación &gt;= 15 pts.</p> 
+---
+web: https://www.meetup.com/PythonBucaramanga/events/252909094/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2018-09-20 19:00 -0500
+---
+date_end: 2018-09-20 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

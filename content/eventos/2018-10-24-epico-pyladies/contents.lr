@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/10/epico-pyladies
+---
+title: EPICO - PyLadies
+---
+information: 
+<p>Introducción al web scrapping en Python.</p> <p>Contaremos con Valentina Vásquez, estudiante de ingeniería administrativa de la Universidad Nacional, actualmente realiza su práctica enfocándose en la analítica de datos.<br/>*********<br/>LINK DE INSCRIPCIÓN A EPICO: <a href="https://epicomedelln.splashthat.com/" class="linkified">https://epicomedelln.splashthat.com/</a><br/>*********</p> 
+---
+web: https://www.meetup.com/Python-Ladies-Medellin/events/255624492/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.57291412353516
+---
+latitude: 6.197176933288574
+---
+location: WeWork Medellín. Carrera 42 #5 Sur-145 Medellin ANT
+---
+date_start: 2018-10-24 18:30 -0500
+---
+date_end: 2018-10-24 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: pyladies-medellin

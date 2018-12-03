@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/12/introduccion-al-desarrollo-de-juegos-con-pygame
+---
+title: Introducción al desarrollo de juegos con Pygame
+---
+information: 
+<p>¿Sueñas con darle vida a tu propio videojuego y construir aventuras para que otras personas se sumerjan en ellas?, entonces esta es la oportunidad para que inicies en el complejo pero maravilloso mundo del desarrollo de videojuegos.</p> <p>Ven y disfruta de esta primera charla relacionada con Pygame, una herramienta pensada para desarrollar videojuegos 2D, que mezcla la facilidad de python con el poder de las tecnologías multimedia (sonido, imagen, etc.) para permitir a curiosos y expertos llevar a feliz termino sus creaciones.</p> <p>No pierdas la oportunidad de resolver tus dudas de manera presencial con una persona experta en el desarrollo de juegos con Pygame.</p> <p>Orden del día:</p> <p>1. Presentación inicial<br/>2. Charla: Introducción a Pygame<br/>3. Ejemplo práctico<br/>4. Preguntas y respuestas<br/>5. Networking (espacio para conocer a los demás integrantes)</p> <p>Para poder participar de este taller, debes apartar tu cupo en la plataforma meetup.com, cualquier otro tipo de inscripción no es valida. No es necesario llevar computador.</p> <p>Después no digas que no te avisamooooos!</p> 
+---
+web: https://www.meetup.com/pythonctg/events/256626556/
+---
+city: Cartagena
+---
+country: Colombia
+---
+longitude: -75.54852294921875
+---
+latitude: 10.423179626464844
+---
+location: Coworking Cartagena. Edificio Banco Popular - Oficina 1308
+---
+date_start: 2018-12-06 18:30 -0500
+---
+date_end: 2018-12-06 18:30 -0500
+---
+province: Bolivar
+---
+organizers: 
+
+#### organization ####
+username: python-cartagena

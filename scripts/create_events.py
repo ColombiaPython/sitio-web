@@ -256,9 +256,9 @@ def create_lektor_content(all_data):
 
 
 def main():
-    delete_events()
+    # delete_events()
     events = load_events()
-    print('\nPossible duplicates, check:')
+    # print('\nPossible duplicates, check:')
     lektor_data = process_events_for_lektor(events)
     create_lektor_content(lektor_data)
 

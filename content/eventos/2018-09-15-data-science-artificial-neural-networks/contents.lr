@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/09/data-science-artificial-neural-networks
+---
+title: Data Science & Artificial Neural Networks
+---
+information: 
+<p>En esta ocasión presentaremos una introducción a data science.</p> <p>También hablaremos acerca de como trabajar con redes neuronales usando Python: Se presentarán los fundamentos necesarios para comprender como funcionan y trabajaremos un ejemplo básico usando keras, que nos permitirá verlas en acción.</p> <p>*AGENDA*</p> <p>* Introducción a Data Science por Isabel Ruiz<br/>* Refrigerio<br/>* Artificcial Neural Networks por Cristian Vargas</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/254454270/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54611206054688
+---
+latitude: 3.4333689212799072
+---
+location: El Lab - Coworking Space. Calle 4b # 35a - 11 Barrio San Fernando
+---
+date_start: 2018-09-15 09:00 -0500
+---
+date_end: 2018-09-15 09:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

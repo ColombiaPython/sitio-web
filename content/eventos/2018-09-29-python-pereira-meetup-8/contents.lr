@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/09/python-pereira-meetup-8
+---
+title: 🐍💻 Python Pereira Meetup #8
+---
+information: 
+<p>📣Queremos invitarlos a la 8va Reunión de Python Pereira 🎉<br/>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 Introducción a DynamoDB por Carolina Gómez</p> <p>🔎 Descripción:<br/>DynamoDB 🗃 es una base de datos no relacional que hace parte de los web services de Amazon, en esta charla conocerás un poco más acerca de esta y por medio de ejercicios prácticos aprenderás a crear tablas por medio de Terraform y a agregar, actualizar y eliminar datos por medio de Boto3 con Python.</p> <p>Twitter: @caro_gomezt<br/>Github: <a href="https://github.com/carogomezt" class="linkified">https://github.com/carogomezt</a></p> <p>👉 Contruyendo APIs modernas con GraphQL por Leiver Campeón</p> <p>🔎 Descripción:<br/>GraphQL es un lenguaje de consulta creado por Facebook que funciona como interfaz entre clientes y servidores permitiendo consumir y manipular los datos de nuestras aplicaciones eficientemente.</p> <p>En esta charla introduciremos GraphQL, sus conceptos básicos, sus características, sus ventajas frente a otras soluciones como las APIs REST, entre otras cosas. Además dado el contexto de nuestra comunidad veremos como construir una API sencilla usando GraphQL en Python.</p> <p>Twitter: @leiverandres</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a julianX.com y monoku.com por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en python.pereira@gmail.com .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/254408256/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.69013977050781
+---
+latitude: 4.790689945220947
+---
+location: Universidad Tecnológica de Pereira. Universidad Tecnológica de Pereira, Calle 27, Pereira, Risaralda
+---
+date_start: 2018-09-29 14:00 -0500
+---
+date_end: 2018-09-29 14:00 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

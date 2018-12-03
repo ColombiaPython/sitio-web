@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/10/meetup-hacktoberfest-baq
+---
+title: Meetup Hacktoberfest BAQ
+---
+information: 
+<p>Celebraremos el HacktoberFest con las demás comunidades de programación en Barranquilla, será una tarde increíble para crear código, resolver dudas, aprender, hablar, comer y tomar cerveza.</p> <p>Para participar de este meetup, debes apartar tu cupo, únicamente, en el siguiente enlace: <a href="https://pybaq.co/hacktoberfest-2018/" class="linkified">https://pybaq.co/hacktoberfest-2018/</a></p> <p>Todos los participantes deben comportarse según el código de conducta <a href="https://do.co/hacktoberconduct" class="linkified">https://do.co/hacktoberconduct</a></p> 
+---
+web: https://www.meetup.com/pythonbaq/events/255478329/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81324005126953
+---
+latitude: 11.004284858703613
+---
+location: Edificio Smart Office Center. Carrera 51b # 80-58
+---
+date_start: 2018-10-20 12:30 -0500
+---
+date_end: 2018-10-20 12:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

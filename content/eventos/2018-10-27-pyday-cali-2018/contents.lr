@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/10/pyday-cali-2018
+---
+title: PyDay Cali 2018
+---
+information: 
+<p>Registro al evento:<br/><a href="https://ticketcode.co/eventos/pyday" class="linkified">https://ticketcode.co/eventos/pyday</a></p> <p>AGENDA</p> <p>---REGISTRO---</p> <p>8:30 AM Introducción y Bievenida<br/>Oscar Eduardo Escobar<br/>Director Datic Alcaldía de Cali</p> <p>---CHARLAS---</p> <p>8:45AM<br/>Going Serverless with Python<br/>Jorge Luis Galvis Quintero</p> <p>9:45AM<br/>Una breve historia de la redes neuronales y el deep learning<br/>Jesús Alfonso López Sotelo</p> <p>10:45AM<br/>Building next generation writers using AI<br/>Ivan Torroledo /Bogotá D.C. Area, Colombia</p> <p>---ALMUERZO---</p> <p>1:45PM<br/>Usar python para integrar una billetera Digital<br/>Igor Tamara</p> <p>2:45PM<br/>Truth is always Strange - Fuzzy logic in Python<br/>Juan Manuel Álvarez Quiñonez</p> <p>3:45PM<br/>Clustering in python and applications<br/>William Gómez Ortega</p> <p>4:30PM<br/>Hola Pycon 2019<br/>John Roa</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/255488114/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.53551483154297
+---
+latitude: 3.4516220092773438
+---
+location: Camara de comercio de cali. Calle 8 No. 3 - 14
+---
+date_start: 2018-10-27 08:00 -0500
+---
+date_end: 2018-10-27 08:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

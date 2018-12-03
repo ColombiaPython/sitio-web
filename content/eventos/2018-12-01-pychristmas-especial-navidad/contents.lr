@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/12/pychristmas-especial-navidad
+---
+title: PyChristmas: Especial Navidad
+---
+information: 
+<p>Especial de Navidad PyChristmas!</p> <p>Además de mucha natilla, buñuelos y arequipe, tenemos un espcial con 3 super charlas!</p> <p>* Serverless con Python Por Mauricio Collazos<br/>* Aplicación de Machine learning para detectar la deserción académica en los programas relacionados a las TIC por Yesid Lopez y Jonathan Ordoñez<br/>* Web asíncrona con Django Channels por David Zuluaga.</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/256544047/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54611206054688
+---
+latitude: 3.4333689212799072
+---
+location: El Lab - Coworking Space. Calle 4b # 35a - 11 Barrio San Fernando
+---
+date_start: 2018-12-01 09:00 -0500
+---
+date_end: 2018-12-01 09:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

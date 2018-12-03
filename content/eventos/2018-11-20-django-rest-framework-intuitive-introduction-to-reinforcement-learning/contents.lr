@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/11/django-rest-framework-intuitive-introduction-to-reinforcement-learning
+---
+title: Django REST framework + Intuitive Introduction to Reinforcement Learning
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar un nuevo meetup donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí está nuestra próxima agenda:</p> <p>----&gt;&gt; Daniel Correa &lt;&lt;----<br/>Django REST framework<br/><a href="https://github.com/danielcb29?tab=following" class="linkified">https://github.com/danielcb29?tab=following</a></p> <p>----&gt;&gt; Cristian García &lt;&lt;----<br/>Intuitive Introduction to Reinforcement Learning<br/><a href="https://github.com/cgarciae" class="linkified">https://github.com/cgarciae</a></p> <p>Esta sesión comenzará con tiempo de Networking y continuará con las super charlas de Daniel Correa y Cristian García. Al final del evento, compartiremos un delicioso refrigerio.</p> <p>Gracias a nuestros patrocinadores, Huge y Selina Medellin.</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/256482465/
+---
+city: Medellin
+---
+country: Colombia
+---
+longitude: -75.56398010253906
+---
+latitude: 6.207748889923096
+---
+location: Selina Cowork. Calle 10 #9-17
+---
+date_start: 2018-11-20 18:30 -0500
+---
+date_end: 2018-11-20 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

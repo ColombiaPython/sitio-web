@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/09/estadistica-para-hackers-openwhisk-serverless
+---
+title: Estadística para hackers & OpenWhisk Serverless
+---
+information: 
+<p>IMPORTANTE. PARA ASISTIR AL EVENTO DEBES DILIGENCIAR ESTE FORMULARIO <a href="https://goo.gl/forms/VqnMw4oq5Bj2nTE53" class="linkified">https://goo.gl/forms/VqnMw4oq5Bj2nTE53</a> DE LO CONTRARIO NO PODRÁS INGRESAR.</p> <p>¡Hola a todos!</p> <p>Anunciamos un nuevo Meetup, donde veremos las siguientes charlas:</p> <p>- Estadística para hackers</p> <p>Ideas centrales en estadística desde un punto de visto simple y computacional (con Python) aprovechando simulación y generación de números aleatorios; y como algunas de estas ideas se relacionan con conceptos de machine learning y métodos Bayesianos.</p> <p>- OpenWhisk Serverless</p> <p>Un breve vistazo a OpenWhisk como plataforma cloud Serverless y open source: Conceptos, arquitectura y una demo realizando un API con Python</p> <p>AGENDA:<br/>------------</p> <p>6:40 PM - 7:00 PM - Ingreso</p> <p>7:00 PM - 7:40 PM - Estadística para hackers (Daniel Moreno)</p> <p>7:40 PM - 7:50 PM - Python Bogotá ¿En qué vamos?</p> <p>7:50 PM - 8:30 PM - OpenWhisk Serverless (Libardo Lara)</p> <p>8:30 PM - 9:00 PM - Networking</p> <p>SPEAKERS:<br/>---------------</p> <p>Daniel Moreno<br/>Estadístico. He trabajado en startups de base tecnológica como Tappsi y Mercadoni generando valor a partir de los datos.</p> <p>Libardo Lara<br/>Developer Advocate de IBM Colombia, con mas de 2 años de experiencia en IBM Cloud y mas de 4 años en proyectos de Analytics y Business Intelligence</p> <p>SPONSORS:<br/>----------------<br/><a href="https://platzi.com/" class="linkified">https://platzi.com/</a><br/><a href="https://www.ibm.com/" class="linkified">https://www.ibm.com/</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/254790166/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0573501586914
+---
+latitude: 4.656303882598877
+---
+location: Platzi HQ. Calle 72 # 9 - 55
+---
+date_start: 2018-09-25 18:40 -0500
+---
+date_end: 2018-09-25 18:40 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

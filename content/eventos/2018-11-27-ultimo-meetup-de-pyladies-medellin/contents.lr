@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/11/ultimo-meetup-de-pyladies-medellin
+---
+title: Último meetup de PyLadies Medellín!
+---
+information: 
+<p>📣Último meetup del año!</p> <p>Contaremos con la presencia de Daniela Arenas, Associated Client Lead en Dunnhumby y con Sharon Camacho, consultora de datos en Summan. Quienes nos comparten sus experiencias para un workshop de limpieza de datos, paso fundamental para trabajar con ellos, y cómo analizar clientes usando Python.👩‍💻👨‍💻</p> <p>Nos vemos en Ruta N! 🤩</p> 
+---
+web: https://www.meetup.com/Python-Ladies-Medellin/events/256558437/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.566650390625
+---
+latitude: 6.264953136444092
+---
+location: Ruta N - Sala multiple #1  . Calle 67 Nº 52-20, Medellín
+---
+date_start: 2018-11-27 18:30 -0500
+---
+date_end: 2018-11-27 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: pyladies-medellin

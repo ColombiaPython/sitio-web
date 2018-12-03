@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/10/taller-de-programacion-para-mujeres-cartagena
+---
+title: Taller de programación para Mujeres Cartagena
+---
+information: 
+<p>¡Queremos animar a más mujeres a dominar la web! Es por eso que desde Django Girls Colombia y Python Cartagena de Indias con el apoyo de Argentina en Python y Python Colombia estamos organizando un taller en el cual podrás construir tu propio sitio web desde cero en un día. Además, vamos a utilizar todas las herramientas que programadores profesionales utilizan diariamente. ¡Y de una manera muy sencilla!</p> <p>Para poder participar de este taller, debes inscribirte en la página oficial del evento.</p> <p>El costo del taller es totalmente ¡GRATUITO!, animate a disfrutar de esta oportunidad e inscribete.</p> <p>Plazo para inscripciones hasta el 27 de Septiembre.</p> <p>Aclaración: haciendo click en "Asistiré" de Facebook no es válido como inscripción al evento.</p> <p>Cualquier inquietud escribenos a djangogirlscolombia@gmail.com ó visita nuestra pagina oficial del evento <a href="http://tallerdeprogramacion.co/" class="linkified">http://tallerdeprogramacion.co/</a></p> 
+---
+web: https://www.meetup.com/pythonctg/events/254282215/
+---
+city: Cartagena
+---
+country: Colombia
+---
+longitude: -75.54863739013672
+---
+latitude: 10.423450469970703
+---
+location: Coworking Cartagena. Edificio Banco Popular - Oficina 1308
+---
+date_start: 2018-10-20 08:30 -0500
+---
+date_end: 2018-10-20 08:30 -0500
+---
+province: Bolivar
+---
+organizers: 
+
+#### organization ####
+username: python-cartagena

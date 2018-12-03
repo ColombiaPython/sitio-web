@@ -4,6 +4,7 @@
 from __future__ import unicode_literals
 
 # Standard library imports
+from datetime import datetime, timedelta
 import json
 import os
 
@@ -74,6 +75,7 @@ class MeetupClient(Client):
             'status': [status],
             'page': 200,
             'group_urlname': group_name,
+            'no_earlier_than': self.date()
         })
         # Above is the equivalent of jQuery.extend()
         # for Python 3.5: payload = {**default_payload, **offset_payload}
@@ -96,6 +98,11 @@ class MeetupClient(Client):
                 group_events.append(event)
 
         return group_events
+
+    def date(self):
+        """Returns the current date minus 4 weeks in iso string format."""
+        new_date = datetime.now() - timedelta(weeks=12)
+        return new_date.isoformat()
 
     def get_events(self, group_name=None):
         """"""
