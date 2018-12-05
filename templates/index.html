@@ -38,7 +38,7 @@
 				</div>
 				<ul>
 					{% for event in site.query('/eventos/').limit(15) %}
-					<li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }}</a></li>
+					<li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }} </a><div class="tag-event">{{ event.date_start }}</div></li>
 					{% endfor %}
 				</ul>
 			</div>

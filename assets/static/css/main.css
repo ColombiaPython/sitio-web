@@ -2213,3 +2213,14 @@ a:focus, a:focus * {
 blockquote > p {
   margin: 0;
 }
+
+.tag-event {
+  display: inline-block;
+  background-color: #fbca04;
+  font-weight: bold;
+  color: #000;
+  font-size: 12px;
+  margin: 0 5px;
+  padding: 2px 5px;
+  border-radius: 5px;
+}

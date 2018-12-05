@@ -10,6 +10,7 @@
     <a href="{{event|url}}">
     {{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event .title}} ({{ event.city }}, {{ event.country }})
     </a>
+    <div class="tag-event">{{ event.date_start }}</div>
   </li>
   {% endfor%}
   </ul>
