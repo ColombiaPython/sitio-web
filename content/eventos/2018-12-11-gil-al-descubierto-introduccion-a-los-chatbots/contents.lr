@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/12/gil-al-descubierto-introduccion-a-los-chatbots
+---
+title: GIL al descubierto + Introducción a los chatbots
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro último meetup del año, el especial de navidad de Python Medellin, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas, y algunas sorpresas. No te lo pierdas!!!</p> <p>Aquí está nuestra próxima agenda:</p> <p>----&gt;&gt; Juan Carlos Rodríguez &lt;&lt;----<br/>GIL al descubuerto.</p> <p>----&gt;&gt; Diego Bañol &lt;&lt;----<br/>Introducción a los chatbots, conectando dialogflow, messenger y accuweather.</p> <p>Esta sesión comenzará con tiempo de Networking y continuará con las super charlas de Juan Rodriguez y Diego Bañol. Al final del evento, compartiremos un delicioso refrigerio y otras sorpresas que tenemos preparadas.</p> <p>Gracias a nuestros patrocinadores, Huge y Workia.</p> 
+---
+web: https://www.meetup.com/Python-Medellin/events/256942699/
+---
+city: Medellin
+---
+country: Colombia
+---
+longitude: -75.5738525390625
+---
+latitude: 6.209245204925537
+---
+location: Workia | Astorga. Calle 7D # 43C - 134
+---
+date_start: 2018-12-11 18:00 -0500
+---
+date_end: 2018-12-11 18:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
