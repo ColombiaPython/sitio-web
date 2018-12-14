@@ -22,13 +22,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-12-11",
-            "title": "PowerBI y Python: Inteligencia de Negocios + Introducci\u00f3n a servicios de AWS",
-            "url": "/eventos/2018/12/powerbi-y-python-inteligencia-de-negocios-introduccion-a-servicios-de-aws"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Barranquilla",
         "url": "/usuarios/python-barranquilla"
@@ -68,13 +62,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-12-06",
-            "title": "Nuevas Celebridades con GANNs y Pruebas Unitarias con PyTest",
-            "url": "/eventos/2018/12/nuevas-celebridades-con-ganns-y-pruebas-unitarias-con-pytest"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Bucaramanga",
         "url": "/usuarios/python-bucaramanga"
@@ -102,13 +90,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2018-12-06",
-            "title": "Introducci\u00f3n al desarrollo de juegos con Pygame",
-            "url": "/eventos/2018/12/introduccion-al-desarrollo-de-juegos-con-pygame"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Cartagena",
         "url": "/usuarios/python-cartagena"

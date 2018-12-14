@@ -1,0 +1,102 @@
+_model: event-dg
+---
+title: Taller de Programación para Mujeres PyCon Colombia 2019
+---
+color_primary: 
+---
+form_attendees: 
+---
+form_guides: 
+---
+location: Javeriana
+---
+information:
+
+
+
+
+---
+latitude: 4.628527
+---
+longitude: -74.064909
+---
+date_end: 2019-02-07 18:30 -0500
+---
+date_start: 2019-02-07 08:30 -0500
+---
+city: Bogotá
+---
+country: Colombia
+---
+province: Cundinamarca
+---
+image: flyer-dgbogota-21noviembre.png
+---
+timeline: timeline.png
+---
+membrete: 
+---
+_slug: 2019/02/taller-programacion-mujeres-pycon
+---
+delta_announcement: 11
+---
+delta_close: 21
+---
+delta_limit: 7
+---
+delta_open: 
+---
+guides: 
+---
+organizers:
+
+#### organization ####
+username: django-girls-colombia
+#### organization ####
+username: pycon-colombia
+#### user ####
+username: nahrivera7
+----
+description: 
+#### user ####
+username: carogomezt
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: javierdaza
+----
+description: 
+#### user ####
+username: aerendon
+----
+description: 
+#### user ####
+username: goanpeca
+----
+description: 
+---
+sponsors:
+
+#### organization ####
+username: monoku
+#### organization ####
+username: ibm-colombia
+---
+delta_selection: 19
+---
+collaborators:
+
+#### organization ####
+username: python-colombia
+#### organization ####
+username: psf
+#### organization ####
+username: argentina-en-python
+---
+approved: no
+---
+_hidden: no
