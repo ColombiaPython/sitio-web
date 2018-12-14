@@ -7,3 +7,5 @@ type: empresa
 web: https://www.endava.com/
 ---
 image: logo.png
+---
+image_alt: logo.png

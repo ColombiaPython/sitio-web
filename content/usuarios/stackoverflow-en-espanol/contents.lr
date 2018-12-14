@@ -7,3 +7,5 @@ type: empresa
 web: https://es.stackoverflow.com
 ---
 image: stackoverflowes.png
+---
+image_alt: stackoverflowes.png

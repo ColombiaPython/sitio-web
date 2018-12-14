@@ -11,3 +11,5 @@ web: https://www.javeriana.edu.co/
 name: Pontificia Universidad Javeriana
 ---
 image: javeriana.jpg
+---
+image_alt: javeriana.jpg
