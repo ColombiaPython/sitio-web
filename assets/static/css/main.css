@@ -2224,3 +2224,7 @@ blockquote > p {
   padding: 2px 5px;
   border-radius: 5px;
 }
+
+#mc_embed_signup input {
+  margin-bottom: 5px;
+}
