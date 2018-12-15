@@ -4,60 +4,60 @@
 {% block body %}
 <!-- Banner -->
 <section id="banner">
-	<div class="content">
-		<header>
-			<div class="row justify-content-center">
-				<img src="{{ '/'|url }}static/images/about-us.jpg" class="img-thumbnail" alt="">
-			</div>
-			<h4 class="text-center">Somos una Comunidad de Desarrollo Tecnológico</h4>
-		</header>
-		<div class="row">
-			{{ this.body }}
-		</div>
-		<div class="row justify-content-center">
-			<ul class="actions">
-				<li>
-					<a href="/sobre-nosotros/" class="button primary big">Más información</a>
-				</li>
-			</ul>
-		</div>
-		<div class="row">
-			<div class="col-md-6 col-sm-12 col-xs-12">
-				<div id="containerMap">
-					<div id="mapid"></div>
-				</div>
-				<blockquote>
-					<a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Código Fuente</a>. Sobre
-					<a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Comunidades Python Colombia</a>
-					</ul>
-				</blockquote>
-			</div>
-			<div class="col-md-6 col-sm-12 col-xs-12">
-				<div class="row justify-content-center">
-					<h4>Próximos Eventos</h4>
-				</div>
-				<ul>
-					{% for event in site.query('/eventos/').limit(15) %}
-					<li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }} </a><div class="tag-event">{{ event.date_start }}</div></li>
-					{% endfor %}
-				</ul>
-			</div>
-		</div>
-	</div>
+  <div class="content">
+    <header>
+      <div class="row justify-content-center">
+        <img src="{{ '/'|url }}static/images/about-us.jpg" class="img-thumbnail" alt="">
+      </div>
+      <h4 class="text-center">Somos una Comunidad de Desarrollo Tecnológico</h4>
+    </header>
+    <div class="row">
+      {{ this.body }}
+    </div>
+    <div class="row justify-content-center">
+      <ul class="actions">
+        <li>
+          <a href="/sobre-nosotros/" class="button primary big">Más información</a>
+        </li>
+      </ul>
+    </div>
+    <div class="row">
+      <div class="col-md-6 col-sm-12 col-xs-12">
+        <div id="containerMap">
+          <div id="mapid"></div>
+        </div>
+        <blockquote>
+          <a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Código Fuente</a>. Sobre
+          <a href="https://github.com/ColombiaPython/map-meetups" target="_blank">Comunidades Python Colombia</a>
+          </ul>
+        </blockquote>
+      </div>
+      <div class="col-md-6 col-sm-12 col-xs-12">
+        <div class="row justify-content-center">
+          <h4>Próximos Eventos</h4>
+        </div>
+        <ul>
+          {% for event in site.query('/eventos/').limit(15) %}
+          <li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }} </a><div class="tag-event">{{ event.date_start }}</div></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
 </section>
 <section id="blog">
-	<header class="major">
-		<h2>Publicaciones Recientes</h2>
-	</header>
-	<div class="content">
-		<p>Bienvenido a la sección de noticias y publicaciones de la comunidad!</p>
-	</div>
-	<div class="row">
-		<div class="row row-eq-height">
-			{%- set blogs = site.query('/blog', alt=this.alt).limit(3) -%} {% for post in blogs %} {# Ignore categories #} {% if post._model
-		 == 'blog-post' %} {{ render_blog_post(post, from_index=true) }} {% endif %} {% endfor %}
-		</div>
-	</div>
+  <header class="major">
+    <h2>Publicaciones Recientes</h2>
+  </header>
+  <div class="content">
+    <p>Bienvenido a la sección de noticias y publicaciones de la comunidad!</p>
+  </div>
+  <div class="row">
+    <div class="row row-eq-height">
+      {%- set blogs = site.query('/blog', alt=this.alt).limit(3) -%} {% for post in blogs %} {# Ignore categories #} {% if post._model
+     == 'blog-post' %} {{ render_blog_post(post, from_index=true) }} {% endif %} {% endfor %}
+    </div>
+  </div>
 </section>
 
 {% endblock %}
