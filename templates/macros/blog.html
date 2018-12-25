@@ -7,6 +7,7 @@
     </a>
     <h3><a href="{{ post|url }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;</h3>
     <small>{{ post.pub_date }}&nbsp;&nbsp;·&nbsp;&nbsp;{{ estimate_reading_time(post.body.source) }} min</small>
+
     {% if post.authors %}
       <div>
         {% for author_blk in post.authors.blocks %}
@@ -18,9 +19,10 @@
             <h4>
               <a href="{{ user | url }}">{{ user.name }} {{ user.last_name }}</a>
           {% endif %}
+          </h4>
         {% endfor %}
-      {% endif %}</h4>
       </div>
+    {% endif %}
     <p>{{ post.summary }}</p>
     <div class="row">
       <ul class="actions">
@@ -37,7 +39,7 @@
 {% macro render_category_nav(active=none) %}
   <ul>
   {% for category in site.query('/blog/categorias') %}
-    <li{% if category._id == active %} class="active"{% endif
+    <li {% if category._id == active %} class="active"{% endif
       %}><a href="{{ category|url }}">{{ category.title }}</a></li>
   {% endfor %}
   </ul>
