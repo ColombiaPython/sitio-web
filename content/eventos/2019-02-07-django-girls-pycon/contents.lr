@@ -4,9 +4,9 @@ title: Taller de Programación para Mujeres PyCon Colombia 2019
 ---
 color_primary: 
 ---
-form_attendees: 
+form_attendees: https://goo.gl/forms/NgOXWlrzyNeyo4TU2
 ---
-form_guides: 
+form_guides: https://goo.gl/forms/dWHZn0GcwOOB2tmk1
 ---
 location: Javeriana
 ---
@@ -113,6 +113,6 @@ username: psf
 #### organization ####
 username: argentina-en-python
 ---
-approved: no
+approved: yes
 ---
 _hidden: no
