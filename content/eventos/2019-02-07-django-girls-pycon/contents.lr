@@ -71,10 +71,6 @@ username: javierdaza
 ----
 description: 
 #### user ####
-username: aerendon
-----
-description: 
-#### user ####
 username: goanpeca
 ----
 description: 
@@ -112,6 +108,22 @@ username: python-colombia
 username: psf
 #### organization ####
 username: argentina-en-python
+#### user ####
+username: aerendon
+----
+description: 
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: jhonjairoroa87
+----
+description: 
+#### user ####
+username: manuela-ocampo
+----
+description: 
 ---
 approved: yes
 ---
