@@ -2224,3 +2224,7 @@ blockquote > p {
   padding: 2px 5px;
   border-radius: 5px;
 }
+
+.modal-content span {
+  margin: 0 !important;
+}
