@@ -1,6 +1,6 @@
 _model: event-dg
 ---
-title: Taller de Programación para Mujeres PyCon Colombia 2019
+title: Django Girls PyConColombia 2019
 ---
 color_primary: 
 ---
@@ -36,7 +36,7 @@ timeline: timeline-django-pycon19.png
 ---
 membrete: headerDGPyCon.png
 ---
-_slug: 2019/02/taller-programacion-mujeres-pycon
+_slug: 2019/02/django-girls-pycon
 ---
 delta_announcement: 11
 ---
