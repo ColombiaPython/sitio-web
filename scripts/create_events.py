@@ -46,6 +46,7 @@ EVENTS_BLACKLIST = [
     'https://www.meetup.com/Python-Cali/events/237467910/',
     'https://www.meetup.com/Python-Cali/events/237403492/',
     'https://www.meetup.com/pythonbogota/events/230113714/',
+    'https://www.meetup.com/es/pythonbogota/events/257864708/'
 ]
 
 
