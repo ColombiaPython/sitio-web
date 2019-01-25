@@ -4,9 +4,9 @@ title: Django Girls Pasto
 ---
 color_primary: 
 ---
-form_attendees: 
+form_attendees: https://goo.gl/forms/Oinyluan620rJ55n2
 ---
-form_guides: 
+form_guides: https://goo.gl/forms/Uko4CRoIIYbmiGu52
 ---
 location: Universidad Mariana Calle 18 No. 34 - 104
 ---
@@ -20,9 +20,9 @@ latitude: 1.223827
 ---
 longitude: -77.283342
 ---
-date_end: 2019-02-23 19:30 -0500
+date_end: 2019-03-23 19:30 -0500
 ---
-date_start: 2019-02-23 08:30 -0500
+date_start: 2019-03-23 08:30 -0500
 ---
 city: Pasto
 ---
@@ -36,7 +36,7 @@ timeline: cronograma.png
 ---
 membrete: banner.png
 ---
-_slug: 2019/02/django-girls-pasto
+_slug: 2019/03/django-girls-pasto
 ---
 delta_announcement: 11
 ---
