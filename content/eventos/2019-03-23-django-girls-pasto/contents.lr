@@ -8,7 +8,7 @@ form_attendees: https://goo.gl/forms/Oinyluan620rJ55n2
 ---
 form_guides: https://goo.gl/forms/Uko4CRoIIYbmiGu52
 ---
-location: Universidad Mariana Calle 18 No. 34 - 104
+location: Universidad Mariana Calle 18 No. 34 - 104  - Auditorio Jesús de Nazareth
 ---
 information:
 
@@ -20,9 +20,9 @@ latitude: 1.223827
 ---
 longitude: -77.283342
 ---
-date_end: 2019-03-23 19:30 -0500
+date_end: 2019-03-23 18:00 -0500
 ---
-date_start: 2019-03-23 08:30 -0500
+date_start: 2019-03-23 07:30 -0500
 ---
 city: Pasto
 ---
