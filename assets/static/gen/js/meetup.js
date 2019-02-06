@@ -182,9 +182,9 @@ function meetups() {
       {
         "events": [
           {
-            "date_start": "2019-02-23",
+            "date_start": "2019-03-23",
             "title": "Django Girls Pasto",
-            "url": "/eventos/2019/02/django-girls-pasto"
+            "url": "/eventos/2019/03/django-girls-pasto"
           }
         ],
         "icon": "python",

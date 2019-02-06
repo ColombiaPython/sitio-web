@@ -116,6 +116,14 @@ description:
 username: jevelezse
 ----
 description: 
+#### user ####
+username: yurs_ksf1
+----
+description: 
+#### user ####
+username: lacardenasv
+----
+description: 
 ---
 organizers:
 
@@ -151,7 +159,11 @@ username: pontificia-universidad-javeriana
 #### organization ####
 username: monoku
 #### organization ####
-username: buscamos-patrocinadores
+username: polymath
+#### user ####
+username: juanita-rodriguez-kattah
+----
+description: 
 ---
 delta_selection: 19
 ---
