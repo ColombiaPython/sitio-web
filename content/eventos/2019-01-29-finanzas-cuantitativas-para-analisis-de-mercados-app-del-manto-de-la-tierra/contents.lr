@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/01/finanzas-cuantitativas-para-analisis-de-mercados-app-del-manto-de-la-tierra
+---
+title: Finanzas cuantitativas para análisis de mercados + App del manto de la Tierra
+---
+information: 
+<p>**Charla : Método de Elementos Finitos con Python y FEniCS: Aplicación en la dinámica convectiva del manto de la Tierra.**</p> <p>Ponente: D Andrés Ortiz.</p> <p>Esta charla introduciría algunos conceptos claves acerca de simulaciones ingenieriles y el uso de una poderosa herramienta de licencia gratuita dedicada a la resolución de modelos con ecuaciones diferenciales en derivadas parciales a través de la aplicación del Método de Elementos Finitos.</p> <p>D Andrés Ortiz es un estudiante de último semestre de Ingeniería Química y Química pura en la Universidad del Atlántico. Actualmente trabaja como asistente de laboratorio en la Mina del Cerrejón, brindando soporte en temas de análisis químico y desarrollo de software auxiliar</p> <p>**Charla : Nociones de Finanzas cuantitativas computacionales para análisis de mercado y selección de activos.**</p> <p>Ponente: Andrés García.</p> <p>Introducción sobre temas de mercados financieros; tipos, características, clasificación y comentarios.</p> <p>Sugerir elementos de programación agregadores de valor en los procesos de análisis, valoración y selección de activos financieros.<br/>Para ello inicialmente compartiremos scripts que ejecutaremos en el transcurso de la charla a través de jupyter Notebook.<br/>El propósito de la charla es introducir un contexto amplio de "Laboratorio Financiero" a priori compartiremos métodos descriptivos y algunos pocos elementos prospectivos, el objetivo es complejizar y discutir durante el transcurso de varias charlas todos los elementos a tener en cuenta para la toma de decisiones asertiva en temas de inversión financiera, Trading y algoritmos de ejecución.</p> <p>Andrés García es egresado de Administración y Negocios Internacionales de la Universidad Libre, actualmente es Magister en Finanzas Cuantitativas de la Universidad Alcalá de Henares. Cuento con 6 años de experiencia en el mundo de las inversiones, 3 años como Cross Asset Trader, parte de mi trabajo es analizar e invertir así como el portfolio management de un fondo familiar.</p> <p>1. El evento es gratuito.<br/>2. La charla será en español<br/>3. Para el acceso al edificio, además de registrarte aquí en meetup.com, por favor diligencia este formulario ( <a href="https://goo.gl/forms/K0w3Ok2lO3IP9b792" class="linkified">https://goo.gl/forms/K0w3Ok2lO3IP9b792</a>) (obligatorio para ingresar al lugar)</p> <p>Agenda:<br/>• 6:30-7:00pm - Llegada, networking<br/>• 7:00-7:40pm - Charla 1<br/>• 7:40-8:00pm - Receso<br/>• 8:00-8:40pm - Charla 2<br/>• 8:40-9:00pm - Rifa</p> <p>Observaciones:</p> <p>• El lugar tiene una capacidad limitada, por lo que le pedimos el favor a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.<br/>* Trae dinero para hacer la vaca de la comida (buscamos patrocinadores :P)</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/258284558/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2019-01-29 19:00 -0500
+---
+date_end: 2019-01-29 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

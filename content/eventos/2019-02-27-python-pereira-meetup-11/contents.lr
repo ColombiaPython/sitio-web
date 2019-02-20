@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/02/python-pereira-meetup-11
+---
+title: 🐍💻 Python Pereira Meetup #11
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #11 de Python Pereira 🎉<br/>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 Cuando tu casa es tu oficina por Alejandra Zerda</p> <p>🔎 Descripción:<br/>Qué es el teletrabajo, un poco sobre la legislación en Colombia y tips de como poder trabajar desde la casa y no morir en el intento.</p> <p>LinkedIn: /alejandrazerda</p> <p>👉 Programación Multiplataforma en Kivy</p> <p>🔎 Descripción:<br/>Desarrolla para múltiples plataformas móviles y de escritorio mediante un solo framework hecho en Python.</p> <p>LinkedIn: /janatan-gutierrez</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a El Escondido Bar, julianX.com y monoku.com por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en python.pereira@gmail.com .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/258808679/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.68174743652344
+---
+latitude: 4.80619478225708
+---
+location: El Escondido Bar. Calle 4 # 16-45
+---
+date_start: 2019-02-27 18:30 -0500
+---
+date_end: 2019-02-27 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira
