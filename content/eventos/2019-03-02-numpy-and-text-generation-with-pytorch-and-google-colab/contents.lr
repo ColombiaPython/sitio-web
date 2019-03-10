@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/03/numpy-and-text-generation-with-pytorch-and-google-colab
+---
+title: Numpy and Text generation with Pytorch and Google Colab
+---
+information: 
+<p>Reanudamos Python Cali después de una excelente Pycon.<br/>En esta oportunidad tendremos 2 super charlas. A continuación la agenda:</p> <p>* Introduction to Numpy por Juan Manuel Alvarez<br/>REFRIGERIO<br/>* Text generation with Pytorch and Google Colab por José Luis Ariza</p> <p>Los esperamos!</p> 
+---
+web: https://www.meetup.com/Python-Cali/events/259265858/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54611206054688
+---
+latitude: 3.4333689212799072
+---
+location: El Lab - Coworking Space. Calle 4b # 35a - 11 Barrio San Fernando
+---
+date_start: 2019-03-02 09:00 -0500
+---
+date_end: 2019-03-02 09:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

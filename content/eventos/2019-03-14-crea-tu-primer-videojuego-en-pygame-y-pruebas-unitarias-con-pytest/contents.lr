@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/03/crea-tu-primer-videojuego-en-pygame-y-pruebas-unitarias-con-pytest
+---
+title: Crea tu primer videojuego en PyGame y Pruebas Unitarias con PyTest
+---
+information: 
+<p>Este es nuestro primer meetup del año, con este vamos a empezar con broche de oro un gran año para la comunidad de Python en Bucaramanga, en Colombia y en el mundo!</p> <p>En este meetup contaremos con dos temas:<br/>---</p> <p>* Diego Durán Ruiz nos hablará de como crear tu primer videojuego en PyGame. Esta charla corresponde a la primera parte de tres partes.</p> <p>Aprenderemos a crear un juego de plataformas completo con Pygame, una de las librerías de gráficos más populares para Python.</p> <p>En este curso aprenderás a usar Pygame y a desarrollar desde 0 un juego de plataformas, al estilo de Mario Bros, usando Python.</p> <p>* Gonzalo Peña Castellanos (@goanpeca), nos hablará sobre como podemos probar nuestros código y escribir pruebas unitarias con Pytest.</p> <p>Para garantizar que las modificaciones que hacemos a nuestro código no introduzcan errores en los componentes de nuestra aplicación, librería o módulo, es indispensable llevar a cabo pruebas unitarias, que ojalá se corran automáticamente cada vez que hacemos cambios!</p> <p>---</p> <p>Los esperamos con buñuelos, empanadas y nueva gente por conocer!</p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/PythonBucaramanga/events/259354381/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2019-03-14 19:00 -0500
+---
+date_end: 2019-03-14 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

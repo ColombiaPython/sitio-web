@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/02/taller-de-programacion-para-mujeres-djangogirls-colombia
+---
+title: Taller de Programación para Mujeres - Djangogirls Colombia
+---
+information: 
+<p>En el marco de la PyConColombia2019 (<a href="https://pycon.co" class="linkified">https://pycon.co</a>) se va a realizar un taller de djangogirls, aprende a crear tu 1ra web desde 0! 👩‍💻 Anímate a participar e inscribirte en: <a href="https://dg.pycon.co" class="linkified">https://dg.pycon.co</a> Inscripciones abiertas hasta el 17 de Enero, Cupo Limitado!<br/>El taller es totalmente ¡GRATUITO!, anímate a disfrutar de esta oportunidad e inscríbete.</p> <p>La inscripción debe realizarse a través del link <a href="https://dg.pycon.co" class="linkified">https://dg.pycon.co</a>, para saber si fuiste elegido para participar recibiras un correo entre el 17 y 25 de enero con tu confirmación.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/257864708/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.06491088867188
+---
+latitude: 4.628458023071289
+---
+location: Pontifical Xavierian University. Cra. 7 #No. 40 - 62
+---
+date_start: 2019-02-07 08:30 -0500
+---
+date_end: 2019-02-07 08:30 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota
