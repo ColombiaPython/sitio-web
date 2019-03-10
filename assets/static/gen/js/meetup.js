@@ -62,7 +62,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-03-14",
+            "title": "Crea tu primer videojuego en PyGame y Pruebas Unitarias con PyTest",
+            "url": "/eventos/2019/03/crea-tu-primer-videojuego-en-pygame-y-pruebas-unitarias-con-pytest"
+          }
+        ],
         "icon": "python",
         "name": "Python Bucaramanga",
         "url": "/usuarios/python-bucaramanga"
