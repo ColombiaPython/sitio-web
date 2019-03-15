@@ -46,7 +46,36 @@ delta_limit: 7
 ---
 delta_open: 42
 ---
-guides: 
+guides:
+
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: cristian-cepeda
+----
+description: 
+#### user ####
+username: david-alexander-ceron-cisneros
+----
+description: 
+#### user ####
+username: franco-esteban-cordoba-perez
+----
+description: 
+#### user ####
+username: jfajardo89
+----
+description: 
+#### user ####
+username: mario-reyes
+----
+description: 
+#### user ####
+username: andreayully
+----
+description: 
 ---
 organizers:
 
@@ -89,7 +118,7 @@ collaborators:
 #### organization ####
 username: argentina-en-python
 #### user ####
-username: monica-burgos
+username: esteban-david-delgado-cadena
 ----
 description: 
 #### user ####
@@ -98,6 +127,10 @@ username: f-jimenezg
 description: 
 #### organization ####
 username: la-pasteleria-by-daniela
+#### user ####
+username: monica-burgos
+----
+description: 
 #### organization ####
 username: python-colombia
 #### organization ####
