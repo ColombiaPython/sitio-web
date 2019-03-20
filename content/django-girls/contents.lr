@@ -5,16 +5,17 @@ title: Django Girls
 body:
 
 ## Necesidad
+
 Actualmente en Colombia la tasa de graduación femenina en carreras relacionadas con las TIC es del 31% [1], aunque el Ministerio de las TICS ha realizado convocatorias para incentivar más la participación de las mujeres en este campo y reducir así la brecha de género, muchas veces estos esfuerzos no son suficientes, por ello desde Django Girls Colombia se busca acercar a las mujeres al campo tecnológico por medio de talleres prácticos en los cuales podrán adquirir conocimientos sobre desarrollo web y tener una interacción directa con otras personas de la industria. 
 
 ## Objetivo
+
 aumentar la diversidad de la industria tecnológica a través de espacios de empoderamiento, capacitación y aprendizaje de tecnologías que les permitan desarrollar o aportar a proyectos personales o profesionales. 
 
 ## Estrategias
 
 1.  Introducir a las participantes en las herramientas necesarias para construir una página web.
 2. Generar espacios de interacción entre las participantes y los guias para compartir experiencias en el campo de la computación.
-
 ---
 banner: banner.png
 ---

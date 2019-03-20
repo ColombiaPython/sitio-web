@@ -1,9 +1,14 @@
 _model: conference
 ---
-title: Conferencia
+title: Conferencias
 ---
 body:
 
 ## ¿Qué es PyCon Colombia?
 
 Conferencia anual Colombiana que reúne profesionales, entusiastas y aprendices del lenguaje de programación python que asisten a charlas y talleres dictados por expertos de talla mundial.
+
+## ¿Qué es SciPy Latinoamérica?
+
+Conferencia latioamericana anual de **Python** para **Aplicaciones Científicas**.
+

@@ -5,17 +5,20 @@ banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/
   {%- if events %}
 
     {# Find all the years of the events found #}
-    {%- set years = [] -%}
+    {%- set years = OrderedDict() -%}
+
     {%- for event in events %}  
       {%- set year = event.date_start|dateformat('YYYY') -%}
       {% if year not in years %}
-      {%- set _none = years.append(year) -%}
+        {%- set _none = years.__setitem__(year, 1) -%}
+      {%- else -%}
+        {%- set _none = years.__setitem__(year, years[year] + 1 ) -%}
       {% endif %}
     {% endfor -%}
 
     <div class="row">
       <div class="col-12">
-        <h2>{{ title }}</h2>
+        <h2>{{ title }} <i>({{ events|length }})</i></h2>
         <div class="accordion" id="accordionExample">
 
           {%- for year in years -%}
@@ -23,7 +26,7 @@ banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/
           <div class="card">
             <div class="card-header {% if index != 1 %}collapsed{% endif %}" id="heading{{ index }}" data-toggle="collapse" data-target="#collapse{{ index }}" aria-expanded{% if index == 1 %}="true"{% endif %} aria-controls="collapse{{ index }}"
               style="cursor: pointer">
-              <b>{{ year }} <i class="fa fa-angle-down"></i></b>
+              <b>{{ year }} <i>({{ years[year] }})</i> <i class="fa fa-angle-down"></i></b>
             </div>
             <div id="collapse{{ index }}" class="collapse {% if index == 1 %}show{% endif %}" aria-labelledby="heading{{ index }}" data-parent="#accordionExample">
               <div class="card-body">
