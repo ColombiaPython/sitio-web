@@ -7,6 +7,7 @@ from setuptools import setup
 
 requirements = [
    'Lektor',
+   'pillow',
    'unidecode',
 ]
 
