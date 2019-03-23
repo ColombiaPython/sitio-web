@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/03/un-algoritmo-artistico-de-estilo-neural-pybaq-detras-del-escenario
+---
+title: Un algoritmo artístico de estilo neural  + PyBAQ: Detrás del escenario
+---
+information: 
+<p>¡¡Esta es tu oportunidad de ver una charla al nivel PyCon Colombia 2019!!</p> <p>**Charla : Un algoritmo artístico de estilo neural**</p> <p>Ponente: Jorge Martínez.</p> <p>Descripción: Esta charla es sobre una aplicación de Visión por Computador llamada transferencia de estilo neuronal. Los investigadores utilizaron el aprendizaje profundo para mezclar el contenido de una imagen con el estilo artístico de otra. Este método generó imágenes únicas, pero también mostró una visión de cómo nuestro sistema visual infiere conceptos artísticos.</p> <p>Más información: <a href="https://2019.pycon.co/ponencias/an-artistic-neural-style-algorithm/" class="linkified">https://2019.pycon.co/ponencias/an-artistic-neural-style-algorithm/</a></p> <p>**Charla : PyBAQ: Detrás del escenario.**</p> <p>Ponente: Paula Aragón.</p> <p>Descripción: Conoce la magia que mueve la comunidad más activa de la<br/>ciudad y como te puede beneficiar para hacer tu hoja de vida más atractiva.</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. La charla será en español<br/>3. Para el acceso al edificio, además de registrarte aquí en meetup.com, por favor diligencia este formulario ( <a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a>) (obligatorio para ingresar al lugar)</p> <p>Agenda:<br/>• 6:30-7:00pm - Llegada, networking<br/>• 7:00-7:40pm - Charla 1<br/>• 7:40-8:00pm - Receso<br/>• 8:00-8:40pm - Charla 2</p> <p>Observaciones:</p> <p>• El lugar tiene una capacidad limitada, por lo que le pedimos el favor a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.</p> <p>* La pizza es GRATIS gracias a PYTHON SOFTWARE FOUNDATION</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/259769512/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2019-03-28 19:00 -0500
+---
+date_end: 2019-03-28 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla
