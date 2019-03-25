@@ -22,7 +22,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-03-28",
+            "title": "Un algoritmo art\u00edstico de estilo neural  + PyBAQ: Detr\u00e1s del escenario",
+            "url": "/eventos/2019/03/un-algoritmo-artistico-de-estilo-neural-pybaq-detras-del-escenario"
+          }
+        ],
         "icon": "python",
         "name": "Python Barranquilla",
         "url": "/usuarios/python-barranquilla"
@@ -180,13 +186,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-03-23",
-            "title": "Django Girls Pasto",
-            "url": "/eventos/2019/03/django-girls-pasto"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Pasto",
         "url": "/usuarios/python-pasto"
@@ -200,7 +200,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-03-27",
+            "title": "\ud83d\udc0d\ud83d\udcbb Especial: D\u00eda de la Mujer 2019",
+            "url": "/eventos/2019/03/especial-dia-de-la-mujer-2019"
+          }
+        ],
         "icon": "python",
         "name": "Python Pereira",
         "url": "/usuarios/python-pereira"

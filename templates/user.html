@@ -6,7 +6,7 @@
   {%- if events %}
     <div class="row">
       <div class="col-12">
-        <h2>{{ title }}</h2>
+        <h2>{{ title }} <i>({{ events|length }})</i></h2>
         <ul>
         {%- for event in events %}
         <li><a href="{{ event|url }}">{{ event.date_start|dateformat('YYYY/MM/dd') }}: {{ event.title }}</a></li>
