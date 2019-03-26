@@ -96,7 +96,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-03-30",
+            "title": "Primer vistazo a Docker \ud83d\udc0b y a CI/CD \u2705",
+            "url": "/eventos/2019/03/primer-vistazo-a-docker-y-a-ci-cd"
+          }
+        ],
         "icon": "python",
         "name": "Python Cartagena",
         "url": "/usuarios/python-cartagena"
