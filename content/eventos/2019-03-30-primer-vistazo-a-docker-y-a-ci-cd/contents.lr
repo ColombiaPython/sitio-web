@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/03/primer-vistazo-a-docker-y-a-ci-cd
+---
+title: Primer vistazo a Docker 🐋 y a CI/CD ✅
+---
+information: 
+<p>Te invitamos a participar de este Meetup, en el que hablaremos sobre CI/CD, conceptos básicos y usos; y también de Docker, un primer vistazo al mundo de la virtualización.</p> <p>Orden del día:</p> <p>1) Bienvenida<br/>2) Charla: Primer vistazo a Docker 🐋<br/>3) Preguntas<br/>4) Charla: Primer vistazo a CI/CD ✅<br/>5) Preguntas<br/>6) Hablemos de Comunidad 😊<br/>7) Despedida y comida 🎉🍔</p> <p>🚨Importante 🚨<br/>Para poder participar de este evento, debes apartar tu cupo en la plataforma meetup.com, cualquier otro tipo de inscripción no es valida.</p> <p>No es necesario llevar computador.</p> <p>😉✅<br/>Si no puedes asistir, retira la reserva de tu cupo así le darás la oportunidad a otra persona en la lista de espera.</p> <p>⛔⛔⛔<br/>Recuerda estas charlas son de iniciación así que el tema tratado es de un nivel básico, si ya tienes conocimientos en estos temas próximamente tendremos charlas avanzadas sobre los mismos.</p> 
+---
+web: https://www.meetup.com/pythonctg/events/260013091/
+---
+city: Cartagena
+---
+country: Colombia
+---
+longitude: -75.50264739990234
+---
+latitude: 10.401331901550293
+---
+location: Comfenalco Cartagena bolivar. Cl. 30 ##50-187
+---
+date_start: 2019-03-30 16:00 -0500
+---
+date_end: 2019-03-30 16:00 -0500
+---
+province: Bolivar
+---
+organizers: 
+
+#### organization ####
+username: python-cartagena

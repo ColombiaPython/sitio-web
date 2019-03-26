@@ -138,7 +138,7 @@ def _meetup_to_lektor_id(data):
     for key, val in _REPLACE.items():
         _name = _name.replace(key, val)
 
-    _name = slugify(_name)
+    _name = slugify(_name).replace('/', '-')
     id_ = local_date + '-' + _name
 
     date_part = '/'.join(local_date.split('-')[:-1])
