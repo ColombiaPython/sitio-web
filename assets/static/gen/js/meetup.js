@@ -22,13 +22,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-03-28",
-            "title": "Un algoritmo art\u00edstico de estilo neural  + PyBAQ: Detr\u00e1s del escenario",
-            "url": "/eventos/2019/03/un-algoritmo-artistico-de-estilo-neural-pybaq-detras-del-escenario"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Barranquilla",
         "url": "/usuarios/python-barranquilla"
@@ -96,13 +90,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-03-30",
-            "title": "Primer vistazo a Docker \ud83d\udc0b y a CI/CD \u2705",
-            "url": "/eventos/2019/03/primer-vistazo-a-docker-y-a-ci-cd"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Cartagena",
         "url": "/usuarios/python-cartagena"
@@ -206,13 +194,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-03-27",
-            "title": "\ud83d\udc0d\ud83d\udcbb Especial: D\u00eda de la Mujer 2019",
-            "url": "/eventos/2019/03/especial-dia-de-la-mujer-2019"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Pereira",
         "url": "/usuarios/python-pereira"
