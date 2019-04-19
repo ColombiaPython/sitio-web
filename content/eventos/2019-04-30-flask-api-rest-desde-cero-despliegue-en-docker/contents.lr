@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/04/flask-api-rest-desde-cero-despliegue-en-docker
+---
+title: Flask: API Rest desde cero + Despliegue en Docker 🌶 🐋
+---
+information: 
+<p>Este próximo martes 30 de abril tendremos como invitado especial a Miguel Celis, CEO &amp; co-founder en Heippi, quien nos estará hablando sobre Flask, cómo hacer un API Rest desde cero y desplegarlo con Docker.</p> <p>⚡Orden del día:</p> <p>1) Bienvenida 👋<br/>2) Charla: Flask: API Rest desde cero + Despliegue en Docker 🌶🐋<br/>3) Preguntas 💬<br/>4) Hablemos de Comunidad 😊<br/>5) Despedida y comida 🎉🍔</p> <p>💡Mas detalles: conoceremos aspectos claves sobre Flask, cómo utilizarlo para desarrollo ágil de API Rest y realizar despliegue en un ambiente de producción de manera sencilla gracias Docker. También se expondrá un caso de uso con Autenticación con OAuth2, manejo de roles y CRUD usuarios.</p> <p>🚨Importante 🚨<br/>Para participar de este evento, debes apartar tu cupo en la plataforma meetup.com, cualquier otro tipo de inscripción no es valida.</p> <p>No es necesario llevar equipo de computo.</p> <p>😉✅<br/>Si no puedes asistir, retira la reserva de tu cupo así le darás la oportunidad a otra persona en la lista de espera.</p> <p>⛔⛔⛔<br/>Esta charla es de nivel intermedio, por ende es necesario que tengas conocimientos básicos de Python.</p> 
+---
+web: https://www.meetup.com/pythonctg/events/260708282/
+---
+city: Cartagena
+---
+country: Colombia
+---
+longitude: -75.5050277709961
+---
+latitude: 10.405120849609375
+---
+location: Comfenalco Cartagena bolivar. Cl. 30 ##50-187
+---
+date_start: 2019-04-30 18:30 -0500
+---
+date_end: 2019-04-30 18:30 -0500
+---
+province: Bolivar
+---
+organizers: 
+
+#### organization ####
+username: python-cartagena
