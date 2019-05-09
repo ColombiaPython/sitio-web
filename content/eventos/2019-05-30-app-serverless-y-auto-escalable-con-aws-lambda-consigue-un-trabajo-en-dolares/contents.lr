@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/05/app-serverless-y-auto-escalable-con-aws-lambda-consigue-un-trabajo-en-dolares
+---
+title: App serverless y auto escalable con AWS Lambda + Consigue un trabajo en dólares
+---
+information: 
+<p>El ÚNICO REGISTRO para este evento será por el siguiente formulario <a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a></p> <p>---------------</p> <p>Charla: **Aplicación serverless y auto escalable con AWS Lambda.**</p> <p>Arquitecturas de aplicaciones serverless permiten implementar sistemas altamente escalables sin la carga de mantener infraestructura. Ya sea para implementar aplicaciones “Cloud Native”, orquestración de eventos, o ejecutar modelos de Machine Learning, conocer los beneficios y conceptos detrás de una aplicación serverless es indispensable para diseñar e implementar arquitecturas modernas.</p> <p>En esta charla hablaremos brevemente de las características de los conceptos detrás de aplicaciones serverless y desplegaremos una aplicación web serverless con backend en Python haciendo uso de AWS Lambda.</p> <p>Bonus para los aficionados devops: lo desplegaremos todo de manera automatizada con terraform.</p> <p>Ponente: Jonathan Araujo.</p> <p>Jonathan Araujo es un Ingeniero de Software trabajando como consultor independiente de implementaciones de infraestructura en la nube y la construcción de plataformas de Big Data. Es graduado de la Universidad del Norte con una Maestría en Ingeniería de Software de la U. Politécnica de Madrid, y es un arquitecto certificado de AWS y Azure.</p> <p>---------------</p> <p>**Charla : Consigue un trabajo que pague en dólares desde Barranquilla**</p> <p>Te enseñare todo lo que necesitas saber para lograrlo en mínimo 3 meses o menos.<br/>No es mierda, menos una pirámide ni multinivel, esto si es real. Hay un mercado billonario en moneda extranjera esperando emplear a desarrolladores, diseñadores y marketers.</p> <p>Ponente: John Bernal.</p> <p>John Jairo Bernal Garcia es growth marketer especializado en el sector de aplicaciones de citas y turismo digital. Es psicólogo de la Universidad del Norte, especializado en ventas, marketing digital y desarrollo web. Certificado en Campaign Management y Google Ads por Google.</p> <p>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. Las charlas serán en español.<br/>3. Para el acceso al edificio y ÚNICO REGISTRO de este evento, por favor diligencia este formulario ( <a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a>) (obligatorio para ingresar al lugar)</p> <p>Agenda:</p> <p>• 6:30-7:00pm - Llegada, networking<br/>• 7:00-7:40pm - Charla 1<br/>• 7:40-8:00pm - Receso<br/>• 8:00-8:40pm - Charla 2</p> <p>Observaciones:</p> <p>• El lugar tiene una capacidad limitada, por lo que le pedimos el favor a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.</p> <p>* La pizza es GRATIS gracias a PYTHON SOFTWARE FOUNDATION.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/261321836/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2019-05-30 18:30 -0500
+---
+date_end: 2019-05-30 18:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

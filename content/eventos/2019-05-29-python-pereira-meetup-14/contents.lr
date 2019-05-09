@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/05/python-pereira-meetup-14
+---
+title: 🐍💻 Python Pereira Meetup #14
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #14 de Python Pereira 🎉<br/>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 Introducción al Machine Learning 🤖 por Jesús David Mena Rivera</p> <p>🔎 Descripción:<br/>La idea inicial será introducir el concepto del campo de estudio, y explicar beneficios de python en el. Con el objetivo de al final dar un paso a paso de como avanzar en los temas de forma autodidacta.<br/>Será un cuento, no se lo pueden perder...</p> <p>👦 Sobre David:<br/>Soy estudiante de ingeniería de Sistemas y Computacion, Cuentero y Comediante en formación. Con intereses de formarme para incluir inteligencia artificial en ambientes domoticos, mientras a la par voy desarrollando mi carrera artística.<br/>Facebook: David Mena Rivera</p> <p>👉 Introducción a ZMQ por Johan Felipe Marín González</p> <p>🔎 Descripción:<br/>Construyendo arquitecturas cliente servidor desde la capa de aplicación.</p> <p>👦 Sobre Felipe:<br/>Estudiante de noveno semestre de ingeniería en sistemas y computación en la universidad tecnológica de Pereira, me gusta Python y me ha sido de mucha ayuda.<br/>GitHub: /jofemago</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a julianX.com y monoku.com por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en python.pereira@gmail.com .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/260979821/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.6898422241211
+---
+latitude: 4.796055793762207
+---
+location: Centro de innovación (CIDT-UTP). Carrera 27 #10-02
+---
+date_start: 2019-05-29 18:30 -0500
+---
+date_end: 2019-05-29 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira
