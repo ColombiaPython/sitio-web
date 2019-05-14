@@ -57,10 +57,6 @@ username: python-barranquilla
 #### organization ####
 username: django-girls-colombia
 #### user ####
-username: javierdaza
-----
-description: 
-#### user ####
 username: pandrearro
 ----
 description: 
@@ -68,19 +64,21 @@ description:
 username: brayangarcia
 ----
 description: 
+#### user ####
+username: javierdaza
+----
+description: 
 ---
 sponsors: 
----
-delta_selection: 20
 ---
 collaborators:
 
 #### user ####
-username: xaraxx
+username: alelles16
 ----
 description: 
 #### user ####
-username: alelles16
+username: xaraxx
 ----
 description: 
 #### user ####
@@ -101,5 +99,7 @@ username: ycmartinezc
 description: 
 #### organization ####
 username: python-colombia
+#### organization ####
+username: python-barranquilla
 ---
 approved: no
