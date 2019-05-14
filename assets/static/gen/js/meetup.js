@@ -22,7 +22,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-07-06",
+            "title": "Django Girls Barranquilla",
+            "url": "/eventos/2019/07/django-girls-barranquilla"
+          }
+        ],
         "icon": "python",
         "name": "Python Barranquilla",
         "url": "/usuarios/python-barranquilla"

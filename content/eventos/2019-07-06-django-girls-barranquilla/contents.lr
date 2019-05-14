@@ -1,0 +1,105 @@
+_model: event-dg
+---
+title: Django Girls Barranquilla
+---
+color_primary: fda729
+---
+form_attendees: https://goo.gl/forms/y3dHJEavz8BuYUnh1
+---
+form_guides: https://goo.gl/forms/uTxNTxBgFDOzr11b2
+---
+location: Por Definir
+---
+information:
+
+
+
+
+---
+latitude: 11.008291
+---
+longitude: -74.817094
+---
+date_end: 2019-07-06 19:30 -0500
+---
+date_start: 2019-07-06 08:30 -0500
+---
+city: Barranquilla
+---
+country: Colombia
+---
+province: Atlántico
+---
+image: flyer.png
+---
+timeline: timeline.png
+---
+membrete: membrete-djangogirls-barranquilla.png
+---
+_slug: 2019/07/django-girls-barranquilla
+---
+delta_announcement: 11
+---
+delta_selection: 19
+---
+delta_close: 21
+---
+delta_limit: 7
+---
+delta_open: 
+---
+guides: 
+---
+organizers:
+
+#### organization ####
+username: python-barranquilla
+#### organization ####
+username: django-girls-colombia
+#### user ####
+username: javierdaza
+----
+description: 
+#### user ####
+username: pandrearro
+----
+description: 
+#### user ####
+username: brayangarcia
+----
+description: 
+---
+sponsors: 
+---
+delta_selection: 20
+---
+collaborators:
+
+#### user ####
+username: xaraxx
+----
+description: 
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: sorelyss
+----
+description: 
+#### user ####
+username: yese19
+----
+description: 
+#### user ####
+username: yudyd
+----
+description: 
+#### user ####
+username: ycmartinezc
+----
+description: 
+#### organization ####
+username: python-colombia
+---
+approved: no
