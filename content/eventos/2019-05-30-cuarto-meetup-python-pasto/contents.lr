@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/05/cuarto-meetup-python-pasto
+---
+title: Cuarto Meetup Python Pasto
+---
+information: 
+<p>En este cuarto meetup descubriremos lo esencial que es Git en el desarrollo de software y experiencias en Data Science con Python.</p> 
+---
+web: https://www.meetup.com/Python-Pasto/events/261485686/
+---
+city: Pasto
+---
+country: Colombia
+---
+longitude: -77.26227569580078
+---
+latitude: 1.1984390020370483
+---
+location: Auditorio Jesús de Nazareth. Calle 18 No 34-104 Pasto (N)
+---
+date_start: 2019-05-30 18:00 -0500
+---
+date_end: 2019-05-30 18:00 -0500
+---
+province: Nariño
+---
+organizers: 
+
+#### organization ####
+username: python-pasto
