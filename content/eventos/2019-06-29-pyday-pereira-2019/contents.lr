@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/06/pyday-pereira-2019
+---
+title: PyDay Pereira 2019
+---
+information: 
+<p>Ya está todo listo para traer por primera vez a nuestra ciudad el PyDay Pereira, ¡sólo faltas tú!.<br/>Inscríbete en <a href="https://pereira.pyday.co" class="linkified">https://pereira.pyday.co</a> para hacer parte de este grandioso día en donde aprenderemos muchísimo en las charlas que los ponentes tienen preparadas para ti y 200 pythonistas más.<br/>¡Los cupos son limitados! Así que inscríbete lo más pronto posible.</p> <p>Este evento es organizado por Python Pereira, jointDeveloper, Pereirajs y Pereira Tech Talks con el apoyo de Python Colombia, CaliDev y Asociación de Egresados UTP.</p> <p>Agradecemos a nuestros patrocinadores monoku.com, PlayVox, LendingFront y EHM Software.</p> <p>INSCRIPCIONES: <a href="https://pereira.pyday.co/#register-speaker" class="linkified">https://pereira.pyday.co/#register-speaker</a></p> 
+---
+web: https://www.meetup.com/pythonpereira/events/261478820/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.68941497802734
+---
+latitude: 4.792622089385986
+---
+location: Universidad Tecnológica de Pereira. Cra. 27 ##10-02
+---
+date_start: 2019-06-29 08:00 -0500
+---
+date_end: 2019-06-29 08:00 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira
