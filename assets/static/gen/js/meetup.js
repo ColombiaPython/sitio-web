@@ -24,6 +24,11 @@ function meetups() {
       {
         "events": [
           {
+            "date_start": "2019-07-06",
+            "title": "Django Girls Barranquilla",
+            "url": "/eventos/2019/07/django-girls-barranquilla"
+          },
+          {
             "date_start": "2019-05-30",
             "title": "App serverless y auto escalable con AWS Lambda + Consigue un trabajo en d\u00f3lares",
             "url": "/eventos/2019/05/app-serverless-y-auto-escalable-con-aws-lambda-consigue-un-trabajo-en-dolares"
