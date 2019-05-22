@@ -1,0 +1,111 @@
+_model: event-dg
+---
+title: Taller de Programación Para Mujeres Barranquilla
+---
+color_primary: fda729
+---
+form_attendees: https://forms.gle/BDFnDEToRokWekrN6
+---
+form_guides: https://forms.gle/XBLBH5QotSpWxBPW7
+---
+location: Koombea S.A.S, Carrera 53 # 85 - 154
+---
+information:
+
+
+
+
+---
+latitude: 11.008291
+---
+longitude: -74.817094
+---
+date_end: 2019-07-06 19:30 -0500
+---
+date_start: 2019-07-06 08:30 -0500
+---
+city: Barranquilla
+---
+country: Colombia
+---
+province: Atlántico
+---
+image: flyer.png
+---
+timeline: timeline.png
+---
+membrete: membrete-djangogirls-barranquilla.png
+---
+_slug: 2019/07/taller-programacion-mujeres-barranquilla
+---
+delta_announcement: 11
+---
+delta_selection: 19
+---
+delta_close: 21
+---
+delta_limit: 7
+---
+delta_open: 
+---
+guides: 
+---
+organizers:
+
+#### organization ####
+username: python-barranquilla
+#### organization ####
+username: django-girls-colombia
+#### user ####
+username: pandrearro
+----
+description: 
+#### user ####
+username: brayangarcia
+----
+description: 
+#### user ####
+username: javierdaza
+----
+description: 
+---
+sponsors: 
+---
+collaborators:
+
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: xaraxx
+----
+description: 
+#### user ####
+username: sorelyss
+----
+description: 
+#### user ####
+username: yese19
+----
+description: 
+#### user ####
+username: yudyd
+----
+description: 
+#### user ####
+username: ycmartinezc
+----
+description: 
+#### organization ####
+username: koombea
+#### organization ####
+username: python-colombia
+#### organization ####
+username: python-barranquilla
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: psf
+---
+approved: no
