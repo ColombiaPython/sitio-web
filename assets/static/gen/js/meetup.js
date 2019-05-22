@@ -25,8 +25,8 @@ function meetups() {
         "events": [
           {
             "date_start": "2019-07-06",
-            "title": "Django Girls Barranquilla",
-            "url": "/eventos/2019/07/django-girls-barranquilla"
+            "title": "Taller de Programaci\u00f3n Para Mujeres Barranquilla",
+            "url": "/eventos/2019/07/taller-programacion-mujeres-barranquilla"
           },
           {
             "date_start": "2019-05-30",

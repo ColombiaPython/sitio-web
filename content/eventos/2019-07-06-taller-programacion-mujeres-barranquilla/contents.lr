@@ -1,6 +1,6 @@
 _model: event-dg
 ---
-title: Django Girls Barranquilla
+title: Taller de Programación Para Mujeres Barranquilla
 ---
 color_primary: fda729
 ---
@@ -36,7 +36,7 @@ timeline: timeline.png
 ---
 membrete: membrete-djangogirls-barranquilla.png
 ---
-_slug: 2019/07/django-girls-barranquilla
+_slug: 2019/07/taller-programacion-mujeres-barranquilla
 ---
 delta_announcement: 11
 ---
