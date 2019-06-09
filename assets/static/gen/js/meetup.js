@@ -27,11 +27,6 @@ function meetups() {
             "date_start": "2019-07-06",
             "title": "Taller de Programaci\u00f3n Para Mujeres Barranquilla",
             "url": "/eventos/2019/07/taller-programacion-mujeres-barranquilla"
-          },
-          {
-            "date_start": "2019-05-30",
-            "title": "App serverless y auto escalable con AWS Lambda + Consigue un trabajo en d\u00f3lares",
-            "url": "/eventos/2019/05/app-serverless-y-auto-escalable-con-aws-lambda-consigue-un-trabajo-en-dolares"
           }
         ],
         "icon": "python",
@@ -47,13 +42,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-05-25",
-            "title": "Workshop: Machine Learning B\u00e1sico para Python",
-            "url": "/eventos/2019/05/workshop-machine-learning-basico-para-python"
-          }
-        ],
+        "events": [],
         "icon": "pydata",
         "name": "PyData Bogot\u00e1",
         "url": "/usuarios/pydata-bogota"
@@ -79,13 +68,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-05-23",
-            "title": "Introducci\u00f3n a las Redes Neuronales",
-            "url": "/eventos/2019/05/introduccion-a-las-redes-neuronales"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Bucaramanga",
         "url": "/usuarios/python-bucaramanga"
@@ -127,13 +110,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-05-23",
-            "title": "6to Meetup Python C\u00facuta",
-            "url": "/eventos/2019/05/6to-meetup-python-cucuta"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python C\u00facuta",
         "url": "/usuarios/python-cucuta"
@@ -181,7 +158,13 @@ function meetups() {
         "url": "/usuarios/pyladies-medellin"
       },
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-06-11",
+            "title": "Numpy, de cero a h\u00e9roe - An\u00e1lisis de voz y texto para reconocimiento emociones",
+            "url": "/eventos/2019/06/numpy-de-cero-a-heroe-analisis-de-voz-y-texto-para-reconocimiento-emociones"
+          }
+        ],
         "icon": "python",
         "name": "Python Medell\u00edn",
         "url": "/usuarios/python-medellin"
@@ -209,13 +192,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-05-30",
-            "title": "Cuarto Meetup Python Pasto",
-            "url": "/eventos/2019/05/cuarto-meetup-python-pasto"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Pasto",
         "url": "/usuarios/python-pasto"
@@ -234,11 +211,6 @@ function meetups() {
             "date_start": "2019-06-29",
             "title": "PyDay Pereira 2019",
             "url": "/eventos/2019/06/pyday-pereira-2019"
-          },
-          {
-            "date_start": "2019-05-29",
-            "title": "\ud83d\udc0d\ud83d\udcbb Python Pereira Meetup #14",
-            "url": "/eventos/2019/05/python-pereira-meetup-14"
           }
         ],
         "icon": "python",
@@ -268,7 +240,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-06-14",
+            "title": "2do Meetup Python Santa Marta",
+            "url": "/eventos/2019/06/2do-meetup-python-santa-marta"
+          }
+        ],
         "icon": "python",
         "name": "Python Santa Marta",
         "url": "/usuarios/python-santa-marta"
