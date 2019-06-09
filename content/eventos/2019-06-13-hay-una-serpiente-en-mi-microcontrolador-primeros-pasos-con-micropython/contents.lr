@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/06/hay-una-serpiente-en-mi-microcontrolador-primeros-pasos-con-micropython
+---
+title: !Hay una serpiente en mi microcontrolador! Primeros pasos con micropython
+---
+information: 
+<p>!Hay una serpiente en mi microcontrolador! Primeros pasos con micropython</p> <p>Es necesario disponer de una tarjeta microcontrolada (ESP32, ESP8266, Teensy, BeagleBoard, Raspberry) o similar que permita instalacion de (micro)Python, así como su correspondiente cable de alimentación.</p> <p>El taller está pensado para ser un taller de Python (programación), no de electrónica. Por lo tanto no son necesarios más elementos externos.</p> <p>Micropython es la mejor forma de iniciarse en el mundo maker.</p> <p>Micropython es la forma divertida de escribir código.</p> <p>Pueden adquirir la tarjeta en <a href="https://www.dynamoelectronics.com/" class="linkified">https://www.dynamoelectronics.com/</a></p> <p>Ponente: Román Sarmiento Gómez</p> <p>Los esperamos con empanadas y nueva gente por conocer!</p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/PythonBucaramanga/events/262183231/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2019-06-13 19:00 -0500
+---
+date_end: 2019-06-13 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga
