@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/07/taller-de-programacion-para-mujeres-barranquilla
+---
+title: Taller de Programación para Mujeres Barranquilla
+---
+information: 
+<p>El taller es totalmente GRATUITO y está enfocada tanto para personas que no saben programar como para aquellas que se quieren acercar al mundo de Python y Django-</p> <p>Inscripciones en <a href="http://tallerdeprogramacion.co" class="linkified">http://tallerdeprogramacion.co</a></p> 
+---
+web: https://www.meetup.com/pythonbaq/events/262226358/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2019-07-06 08:00 -0500
+---
+date_end: 2019-07-06 08:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla
