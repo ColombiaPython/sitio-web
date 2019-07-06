@@ -1,0 +1,55 @@
+{% extends "layout.html" %} {% block title %}{{ this.title }}{% endblock %} {% block body %} {%- if this.banner -%} {%- set
+  banner = this|url+this.banner -%} {%- else -%} {%- set banner = '/'|url+'static/images/banner.jpg' -%} {%- endif -%}
+  {% from "macros/events.html" import create_events %}
+  {% from "macros/team.html" import organizing_team %}
+  
+  <section>
+    <div class="content">
+      <!-- <h1>{{ this.title }}</h1>
+      <span class="image fit">
+        <img src="{{ banner }}" alt="">
+      </span> -->
+  
+      <div class="image fit banner">
+        <img src="{{ banner }}" alt="Banner" />
+        <div class="banner-title">
+          <div class="banner-text">
+            <h1>{{ this.title }}</h1>
+          </div>
+        </div>
+      </div>
+      {%- set crumbs = [] -%}
+      {%- set current = {'crumb': this} -%}
+      {%- for i in this._path.split("/") -%}
+      {%- if current.crumb is not none -%}
+      {%- if crumbs.insert(0, current.crumb) -%}{%- endif -%}
+      {%- if current.update({"crumb": current.crumb.parent}) -%}{%- endif -%}
+      {%- endif -%}
+      {%- endfor %}
+      <ul class="actions small">
+        {%- for crumb in crumbs %}
+        {%- if this._path == crumb._path -%}
+        {%- set last_name = crumb.last_name if crumb.last_name else '' -%}
+        {%- set name = crumb.title if crumb.title else crumb.name + ' ' + last_name -%}
+        <li>
+          <span class="button primary small"> {{ name }} </span>
+        </li>
+        {%- else -%}
+        <li>
+          <a class="button small" href="{{ crumb|url }}">{{ crumb.title }}</a>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </section>
+
+  {%- set events_organized_by_this = site.query('/eventos/').filter(F.title.startswith('pyday')).all() -%}
+
+  <section>
+    <div class="content">
+    {%- block content -%} {{ this.body }} {%- endblock -%}
+    {{ create_events('Eventos', events_organized_by_this) }}      
+    </div>
+  </section>
+  {% endblock %}
