@@ -22,13 +22,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-07-06",
-            "title": "Taller de Programaci\u00f3n Para Mujeres Barranquilla",
-            "url": "/eventos/2019/07/taller-programacion-mujeres-barranquilla"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Barranquilla",
         "url": "/usuarios/python-barranquilla"
@@ -152,19 +146,24 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-07-10",
+            "title": "Optimizaci\u00f3n de rutas de Veh\u00edculos/Introducci\u00f3n a API Rest",
+            "url": "/eventos/2019/07/optimizacion-de-rutas-de-vehiculos-introduccion-a-api-rest"
+          },
+          {
+            "date_start": "2019-07-10",
+            "title": "Optimizaci\u00f3n de rutas de Veh\u00edculos/Introducci\u00f3n a API Rest",
+            "url": "/eventos/2019/07/optimizacion-de-rutas-de-vehiculos-introduccion-a-api-rest-1"
+          }
+        ],
         "icon": "pyladies",
         "name": "PyLadies Medell\u00edn",
         "url": "/usuarios/pyladies-medellin"
       },
       {
-        "events": [
-          {
-            "date_start": "2019-06-11",
-            "title": "Numpy, de cero a h\u00e9roe - An\u00e1lisis de voz y texto para reconocimiento emociones",
-            "url": "/eventos/2019/06/numpy-de-cero-a-heroe-analisis-de-voz-y-texto-para-reconocimiento-emociones"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Medell\u00edn",
         "url": "/usuarios/python-medellin"
@@ -206,13 +205,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-06-29",
-            "title": "PyDay Pereira 2019",
-            "url": "/eventos/2019/06/pyday-pereira-2019"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Pereira",
         "url": "/usuarios/python-pereira"
@@ -240,13 +233,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-06-14",
-            "title": "2do Meetup Python Santa Marta",
-            "url": "/eventos/2019/06/2do-meetup-python-santa-marta"
-          }
-        ],
+        "events": [],
         "icon": "python",
         "name": "Python Santa Marta",
         "url": "/usuarios/python-santa-marta"
@@ -292,6 +279,20 @@ function meetups() {
         "icon": "python",
         "name": "Python Tunja",
         "url": "/usuarios/python-tunja"
+      }
+    ]
+  },
+  "Valledupar": {
+    "coord": [
+      10.474725,
+      -73.243351
+    ],
+    "meetups": [
+      {
+        "events": [],
+        "icon": "python",
+        "name": "Python Valledupar",
+        "url": "/usuarios/python-valledupar"
       }
     ]
   },
