@@ -23,10 +23,6 @@ city: Medellin
 collaborators:
 
 #### user ####
-username: alelles16
-----
-description: 
-#### user ####
 username: daniela-zuluaga
 ----
 description: 
@@ -45,12 +41,14 @@ username: psf
 ---
 country: Colombia
 ---
-location:
-
-Carrera 49 # 7 sur 50,  Universidad EAFIT 
+location: Carrera 49 # 7 sur 50,  Universidad EAFIT - Bloque 19 - Aula Inversa 4to piso
 ---
 organizers:
 
+#### user ####
+username: alelles16
+----
+description: 
 #### user ####
 username: carogomezt
 ----
