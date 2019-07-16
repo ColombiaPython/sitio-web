@@ -1,0 +1,75 @@
+_model: event-dg
+---
+title: Taller de programación para mujeres Medellin
+---
+date_start: 2019-08-31 08:30 -0500
+---
+latitude: 6.2006
+---
+longitude: -75.5784
+---
+date_end: 2019-08-31 19:00 -0500
+---
+form_attendees: https://forms.gle/Z6xrWbEV1TFCMn336
+---
+form_guides: https://forms.gle/rGywpMoAdBZCP5Pt8
+---
+_slug: 2019/08/taller-programacion-mujeres-medellin/
+---
+image: Flyer_Taller_MED.png
+---
+city: Medellin
+---
+collaborators:
+
+#### user ####
+username: daniela-zuluaga
+----
+description: 
+#### user ####
+username: jcrodriguezu
+----
+description: 
+#### organization ####
+username: python-colombia
+#### organization ####
+username: python-medellin
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: psf
+---
+country: Colombia
+---
+location: Carrera 49 # 7 sur 50,  Universidad EAFIT - Bloque 19 - Aula Inversa 4to piso
+---
+organizers:
+
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: carogomezt
+----
+description: 
+#### user ####
+username: estebanx64
+----
+description: 
+#### user ####
+username: davoshack
+----
+description: 
+---
+province: Antioquia
+---
+delta_announcement: 11
+---
+delta_close: 21
+---
+delta_limit: 7
+---
+delta_selection: 19
+---
+color_primary: fda729

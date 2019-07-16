@@ -146,18 +146,7 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [
-          {
-            "date_start": "2019-07-10",
-            "title": "Optimizaci\u00f3n de rutas de Veh\u00edculos/Introducci\u00f3n a API Rest",
-            "url": "/eventos/2019/07/optimizacion-de-rutas-de-vehiculos-introduccion-a-api-rest"
-          },
-          {
-            "date_start": "2019-07-10",
-            "title": "Optimizaci\u00f3n de rutas de Veh\u00edculos/Introducci\u00f3n a API Rest",
-            "url": "/eventos/2019/07/optimizacion-de-rutas-de-vehiculos-introduccion-a-api-rest-1"
-          }
-        ],
+        "events": [],
         "icon": "pyladies",
         "name": "PyLadies Medell\u00edn",
         "url": "/usuarios/pyladies-medellin"
