@@ -38,6 +38,10 @@ username: python-medellin
 username: argentina-en-python
 #### organization ####
 username: psf
+#### user ####
+username: william-gomez
+----
+description: 
 ---
 country: Colombia
 ---
@@ -81,6 +85,59 @@ sponsors:
 #### organization ####
 username: monoku
 #### organization ####
+username: fluid-attacks
+#### organization ####
 username: eafit
 #### organization ####
 username: novusjob
+---
+guides:
+
+#### user ####
+username: alvaro-meza
+----
+description: 
+#### user ####
+username: andres-callejas
+----
+description: 
+#### user ####
+username: angelica-landazabal
+----
+description: 
+#### user ####
+username: any-ruiz
+----
+description: 
+#### user ####
+username: gustabot42
+----
+description: 
+#### user ####
+username: john-alexis-munera-mejia
+----
+description: 
+#### user ####
+username: jorge-galviz
+----
+description: 
+#### user ####
+username: maris-botero
+----
+description: 
+#### user ####
+username: ma0
+----
+description: 
+#### user ####
+username: nelson-escobar
+----
+description: 
+#### user ####
+username: paula-andrea-becerra
+----
+description: 
+#### user ####
+username: yurs_ksf1
+----
+description: 

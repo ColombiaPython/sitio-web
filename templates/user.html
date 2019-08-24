@@ -101,7 +101,9 @@
     <div class="row">
       <div class="col-lg-4 col-sm-12 col-12">
         {% if this.image %}
-        <img class="image fit" src="{{ this.image }}" alt="{{ this.username }}">
+          <img class="image fit" src="{{ this.image }}" alt="{{ this.username }}">
+        {% elif this.image_alt %}
+          <img class="image fit" src="{{ this.image_alt }}" alt="{{ this.username }}">
         {% endif %}
         <div class="row justify-content-center">
           <h2>{{ this.name }} {{ this.last_name }}</h2>
