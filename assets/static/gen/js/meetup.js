@@ -90,7 +90,13 @@ function meetups() {
     ],
     "meetups": [
       {
-        "events": [],
+        "events": [
+          {
+            "date_start": "2019-09-28",
+            "title": "Django Girls Cartagena",
+            "url": "/eventos/2019/09/django-girls-cartagena"
+          }
+        ],
         "icon": "python",
         "name": "Python Cartagena",
         "url": "/usuarios/python-cartagena"
