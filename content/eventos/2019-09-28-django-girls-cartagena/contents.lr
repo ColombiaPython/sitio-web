@@ -1,0 +1,102 @@
+_model: event-dg
+---
+title: Django Girls Cartagena
+---
+color_primary: fda729
+---
+form_attendees: https://bit.ly/30bY1MQ
+---
+form_guides: https://bit.ly/2YUhXqZ
+---
+location: Fundación Universitaria Tecnológico Comfenalco - Sede B, Cedesarrollo
+---
+information:
+
+
+
+
+---
+latitude: 10.40526
+---
+longitude: -75.5054
+---
+date_end: 2019-09-28 18:30 -0500
+---
+date_start: 2019-09-28 07:30 -0500
+---
+city: Cartegena
+---
+country: Colombia
+---
+province: Bolivar
+---
+image: flayer.png
+---
+timeline: TimeLine-DjangoGirls-Cartagena.png
+---
+membrete: 
+---
+_slug: 2019/09/django-girls-cartagena
+---
+delta_announcement: 11
+---
+delta_selection: 19
+---
+delta_close: 21
+---
+delta_limit: 7
+---
+delta_open: 
+---
+guides: 
+---
+organizers:
+
+#### organization ####
+username: python-cartagena
+#### organization ####
+username: django-girls-colombia
+#### user ####
+username: alelles16
+----
+#### user ####
+username: belsy-castillo
+----
+#### user ####
+username: cmarioherrera
+----
+#### user ####
+username: sorenllamas
+----
+
+description: 
+---
+sponsors:
+
+#### organization ####
+username: kommit
+#### organization ####
+username: monoku
+---
+collaborators:
+
+#### user ####
+username: katiuscah
+----
+description: 
+#### user ####
+username: lvilladiego
+----
+description: 
+#### organization ####
+username: tecnologico-comfenalco
+#### organization ####
+username: python-colombia
+#### organization ####
+username: python-cartagena
+#### organization ####
+username: argentina-en-python
+#### organization ####
+username: psf
+---
+approved: no
