@@ -32,7 +32,7 @@ province: Bolivar
 ---
 image: flayer.png
 ---
-timeline: 
+timeline: TimeLine-DjangoGirls-Cartagena.png
 ---
 membrete: 
 ---
@@ -72,6 +72,7 @@ username: sorenllamas
 description: 
 ---
 sponsors:
+
 #### organization ####
 username: kommit
 #### organization ####
@@ -82,11 +83,11 @@ collaborators:
 #### user ####
 username: katiuscah
 ----
+description: 
 #### user ####
-username: linda-villadiego 
+username: lvilladiego
 ----
-
-description:
+description: 
 #### organization ####
 username: tecnologico-comfenalco
 #### organization ####
