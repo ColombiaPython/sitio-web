@@ -1,6 +1,6 @@
 _model: event-dg
 ---
-title: Taller de programación para mujeres Medellin
+title: Taller de programación para mujeres Medellín
 ---
 date_start: 2019-08-31 08:30 -0500
 ---
@@ -18,7 +18,7 @@ _slug: 2019/08/taller-programacion-mujeres-medellin/
 ---
 image: Flyer_Taller_MED.png
 ---
-city: Medellin
+city: Medellín
 ---
 collaborators:
 
@@ -65,6 +65,8 @@ description:
 username: davoshack
 ----
 description: 
+#### organization ####
+username: django-girls-colombia
 ---
 province: Antioquia
 ---
@@ -153,3 +155,5 @@ description:
 username: yurs_ksf1
 ----
 description: 
+---
+approved: no
