@@ -33,8 +33,6 @@ description:
 #### organization ####
 username: python-colombia
 #### organization ####
-username: python-medellin
-#### organization ####
 username: argentina-en-python
 #### organization ####
 username: psf
@@ -67,6 +65,8 @@ username: davoshack
 description: 
 #### organization ####
 username: django-girls-colombia
+#### organization ####
+username: python-medellin
 ---
 province: Antioquia
 ---
