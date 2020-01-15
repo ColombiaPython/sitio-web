@@ -28,13 +28,13 @@ image: flyer-django-pycon.png
 ---
 color_primary: fda729
 ---
-delta_announcement: 11
+delta_announcement: 7
 ---
 delta_close: 21
 ---
-delta_open: 7
+delta_open: 41
 ---
-delta_selection: 19
+delta_selection: 12
 ---
 sponsors:
 
@@ -66,7 +66,11 @@ username: daniela-zuluaga
 ----
 description: 
 #### user ####
-username: 
+username: edwin-zea-rodriguez
+----
+description: 
+#### user ####
+username: fernanda-barbosa
 ----
 description: 
 ---
