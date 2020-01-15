@@ -1,0 +1,90 @@
+_model: event-dg
+---
+title: Django Girls Pycon 2020
+---
+city: Medellìn
+---
+country: Colombia
+---
+date_end: 2020-02-06 19:00
+---
+date_start: 2020-02-06 08:30
+---
+location: Carrera 49 # 7 sur 50,  Universidad EAFIT - Bloque 19 - Aula Inversa 4to piso
+---
+province: Antioquia
+---
+latitude: 6.2006
+---
+longitude: -75.5784
+---
+approved: yes
+---
+form_attendees: https://docs.google.com/forms/d/e/1FAIpQLSeAvVk7FOR3YbI6uDMarLNq1FL0u4DpoWtTWRhPUG9OrsOI3Q/viewform
+---
+form_guides: https://docs.google.com/forms/d/e/1FAIpQLScj3slFeBAupgT4skprPvVnFiSv-1YbG4yiDGNIH1w1kbEyVQ/viewform
+---
+image: flyer-django-pycon.png
+---
+color_primary: fda729
+---
+delta_announcement: 11
+---
+delta_close: 21
+---
+delta_open: 7
+---
+delta_selection: 19
+---
+sponsors:
+
+#### organization ####
+username: eafit
+#### organization ####
+username: django-girls-colombia
+#### organization ####
+username: fluid-attacks
+#### organization ####
+username: monoku
+#### organization ####
+username: python-colombia
+#### organization ####
+username: globant
+---
+collaborators:
+
+#### user ####
+username: humitos
+----
+description: 
+#### user ####
+username: ellaquimica
+----
+description: 
+#### user ####
+username: daniela-zuluaga
+----
+description: 
+#### user ####
+username: 
+----
+description: 
+---
+organizers:
+
+#### user ####
+username: carogomezt
+----
+description: 
+#### user ####
+username: alelles16
+----
+description: 
+#### user ####
+username: anaguicas
+----
+description: 
+#### user ####
+username: nahrivera7
+----
+description: 
