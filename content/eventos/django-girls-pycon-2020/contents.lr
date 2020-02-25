@@ -1,14 +1,14 @@
 _model: event-dg
 ---
-title: Django Girls Pycon 2020
+title: Django Girls PyCon Colombia 2020
 ---
 city: Medellìn
 ---
 country: Colombia
 ---
-date_end: 2020-02-06 19:00
+date_end: 2020-02-06 19:00 -0500
 ---
-date_start: 2020-02-06 08:30
+date_start: 2020-02-06 08:30 -0500
 ---
 location: Carrera 49 # 7 sur 50,  Universidad EAFIT - Bloque 19 - Aula Inversa 4to piso
 ---
@@ -92,3 +92,5 @@ description:
 username: nahrivera7
 ----
 description: 
+---
+photos: 1sAjnPCNv_PRBwRwQO7Lc7o8y9y0eWYJ-
