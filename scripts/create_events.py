@@ -78,17 +78,25 @@ def _meetup_address_to_lektor(event_data):
 
 def _get_province(username):
     users = PAD.query('/usuarios/')
+    found = False
     for user in users:
         if user['username'] == username:
             province = user['province']
+            found = True
             break
+    if not found:
+        print("Usuario ", username, "No tiene una provincia asociada")
+        province = "Colombia"
     return province
 
 
 def _meetup_date_to_date_start(event_data):
     local_date = event_data.get('local_date')
     local_time = event_data.get('local_time')
-    value = local_date + ' ' + local_time + ' -0500'
+    if local_date and local_time:
+        value = local_date + ' ' + local_time + ' -0500'
+    else:
+        value = None
     return value
 
 
@@ -234,6 +242,8 @@ def create_lektor_content(all_data):
         meetup_handle = data.pop('__meetup_handle')
         username = _GROUPS.get(meetup_handle)
         data['province'] = _get_province(username)
+        if username is None:
+            print("Cannot infer province from", username, meetup_handle)
         items = []
         for key, val in data.items():
             template = '{}: {}\n'
