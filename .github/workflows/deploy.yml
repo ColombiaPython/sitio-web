@@ -6,7 +6,8 @@ on:
       - "*"
   push:
     branches:
-      - "master"
+      - "develop"
+      - "production"
   workflow_dispatch:
 
 env:
@@ -28,14 +29,11 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: "3.10"
-      - uses: actions/setup-node@v3
-        with:
-          node-version: "lts/*"
 
       - name: Instalar Lektor
         run: |
-          python -m pip install --upgrade pip setuptools
-          pip install -r requirements.txt
+          pipx ensurepath
+          pipx install lektor
 
       - name: Construir pagina
         run: lektor build -O '${{ env.OUTPUT }}'
