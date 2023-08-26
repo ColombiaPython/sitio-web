@@ -8,16 +8,13 @@ on:
     branches:
       - "master"
   workflow_dispatch:
-    # Allow manually running workflow
-  # schedule:
-    # - cron: "23 2 * * *"
 
 env:
   DEPLOY: >-
     ${{
     github.event_name != 'pull_request'
     &&
-    github.ref == 'refs/heads/develop'
+      (github.ref == 'refs/heads/develop' || github.ref == 'refs/heads/production')
     }}
   OUTPUT: _html
   TZ: America/Bogota
@@ -45,7 +42,7 @@ jobs:
 
       - name: Desplegar pagina
         if: env.DEPLOY == 'true'
-        run: lektor deploy -O '${{ env.OUTPUT }}' develop
+        run: lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/}
         env:
           LEKTOR_DEPLOY_USERNAME: ColombiaPython
           LEKTOR_DEPLOY_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
