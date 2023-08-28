@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2020/02/intro-python-django-breaking-the-enigma-what-if-turing-had-python
+---
+title: Intro python & django + Breaking the enigma: what if Turing had python? 
+---
+information: 
+<p>El ÚNICO REGISTRO para este evento será por el siguiente formulario<br/><a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a></p> <p>---------------</p> <p>Charla: **Intro Python &amp; Django**</p> <p>En esta charla quiero hacer una introducción sobre el lenguaje Python y Django, uno de los frameworks mas populares en el desarrollo web. Cuáles son sus principales características y ventajas que lo hacen ideal para crear aplicaciones monolíticas robustas.</p> <p>Ponente: Javier Daza</p> <p>Ingeniero electrónico de la Universidad del Norte, fundador de Python Barranquilla y desarrollador de Python con más de 4 años de experiencia.</p> <p>---------------</p> <p>**Charla: Breaking the enigma: what if Turing had python?**</p> <p>In this talk I want to bring back all the cryptographic work done during the World War II regarding the deciphering of the nazi communication system. In particular, I will present a python re-creation of the Enigma machine used to encrypt messages during the war, but most importantly I will present a historically accurate python simulator of the Bombe machine used to crack this cipher.</p> <p>Ponente: Maria Camila Remoliana Gutiérrez</p> <p>Systems and computer engineer from Universidad de los Andes, also physicist from the same university with an emphasis in computational astronomy. She is very passionate learner and I enjoy spreading the knowledge to create a stronger community interested in science (both astronomical and computational).<br/>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. Las charlas serán en español<br/>3. Para el acceso al edificio y ÚNICO REGISTRO de este evento, por favor diligencia este formulario<br/>( <a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a>)<br/>(obligatorio para ingresar al lugar)</p> <p>Agenda:</p> <p>• 6:30-7:00pm - Llegada, networking<br/>• 7:00-7:40pm - Charla 1<br/>• 7:40-8:00pm - Receso, pizza<br/>• 8:00-8:40pm - Talk 2<br/>• 8:40-9:00pm - Cierre</p> <p>Observaciones:</p> <p>• El lugar tiene una capacidad limitada, por lo que le pedimos el favor a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.</p> <p>* La pizza es GRATIS gracias a PYTHON SOFTWARE FOUNDATION.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/268816451/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2020-02-27 19:00 -0500
+---
+date_end: 2020-02-27 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

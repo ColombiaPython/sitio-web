@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/08/cache-built-in-en-python-y-set-up-en-la-ethereum-virtual-machine
+---
+title: Cache built-in en Python y Set-up en la Ethereum Virtual Machine
+---
+information: 
+<p>Este Sábado 19 de Agosto tendremos nuestro segundo encuentro del año, en esta ocasión nos daremos cita en las instalaciones de la Universidad Libre sede Santa Isabel (Carrera. 37a #3-29) Edificio de Ingeniería Sala 503.</p> <p>**AGENDA**</p> <p>* 10:00 AM / Inicio de Ingreso Asistentes.<br/>* 10:10 AM / Bueno, Bonito y Barato: Cache builtin en Python por Carlos Mera<br/>* 10:40 AM / Set-up en la Ethereum Virtual Machine: Una wallet, un Token y un NFT por William Martínez<br/>* 11:30 AM / Pizza time.</p> <p>En esta oportunidad tendremos una charla y un taller: la primera titulada “Bueno Bonito y Barato: Cache builtin en Python”, una charla enfocada en el uso de las funciones caché que provee python de forma nativa y cómo explotarlas. La segunda instancia de nuestro encuentro es un taller titulado “Set-up en la Ethereum Virtual Machine: Una wallet, una Token y un NFT”, con la guía de miembros de la comunidad de Ethereum Cali entraremos al mundo de blockchain creando una wallet, token y un NFT.</p> <p>Para el taller tenemos capacidad de 20 equipos provistos por las instalaciones de la Universidad Libre, pero puedes seguir el taller con tu propio equipo.</p> 
+---
+web: https://www.meetup.com/python-cali/events/295445822/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54991149902344
+---
+latitude: 3.427377939224243
+---
+location: Universidad Libre Seccional Cali. Carrera 37a #3-29
+---
+date_start: 2023-08-19 10:00 -0500
+---
+date_end: 2023-08-19 10:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

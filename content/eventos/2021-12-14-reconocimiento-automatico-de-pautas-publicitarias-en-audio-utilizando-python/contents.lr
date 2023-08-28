@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/12/reconocimiento-automatico-de-pautas-publicitarias-en-audio-utilizando-python
+---
+title: Reconocimiento automático de pautas publicitarias en audio utilizando python.
+---
+information: 
+<p>Buenos dias Pythonistas!!!</p> <p>Descripción:</p> <p>Para nuestro ultimo evento del año, aprenderemos en la charla hacer un breve esbozo de la librería Librosa, los métodos de reconocimiento de audio y un caso de uso de un aplicativo para el monitoreo de pauta publicitaria en streaming utilizando python, Django y celery.</p> <p>Ponente:</p> <p>Fabio Andrés Pinto.</p> <p>Fabio es Ingeniero Electrónico, Ingeniero de Soporte Tic UNAB y Docente de Diseño y Desarrollo Web.</p> <p>Redes sociales:</p> <p>GitHub: <a href="https://github.com/fabioandpinto" class="linkified">https://github.com/fabioandpinto</a><br/>Linkedin: <a href="https://www.linkedin.com/in/fabio-pinto-oviedo/" class="linkified">https://www.linkedin.com/in/fabio-pinto-oviedo/</a></p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/282536544/
+---
+date_start: 2021-12-14 19:00 -0500
+---
+date_end: 2021-12-14 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

@@ -7,17 +7,17 @@ title: ¡Hola 2019! Machine Learning, API, Flask & Python con Kafka
 information: 
 <p>RECUERDA INSCRIBIRTE AQUÍ: <a href="http://bit.ly/pyladiesbog8" class="linkified">http://bit.ly/pyladiesbog8</a><br/>DE LO CONTRARIO NO PODRÁS INGRESAR</p> <p>Este es nuestro primer meetup del año amigos.</p> <p>¡Vamos a seguir aprendiendo mucho!</p> <p>Tendremos temas muy interesantes en este meetup, nuestra comunidad sigue creciendo y estando actualizada con los temas que todos queremos aprender.</p> <p>Contaremos con dos mágicos ponentes:<br/>*Camilo Sepulveda, con Stream processing con Python y Kafka<br/>*Sandra Lancheros, con Usa tu modelo de Machine Learning como una API usando Flask.</p> <p>Los esperamos con amor, pizza, y muchos buenos deseos para el nuevo año.</p> <p>¡Nos vemos!</p> 
 ---
-web: https://www.meetup.com/Pyladies-Co-Bogota/events/258000017/
+web: https://www.meetup.com/pyladies-co-bogota/events/258000017/
 ---
 city: Bogotá
 ---
 country: Colombia
 ---
-longitude: -74.04461669921875
+longitude: -74.04472351074219
 ---
-latitude: 4.67891788482666
+latitude: 4.679321765899658
 ---
-location: endava. Cl. 96 #10-38
+location: Endava Bogotá. Calle 96 # 10 - 38
 ---
 date_start: 2019-01-24 18:00 -0500
 ---

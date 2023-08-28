@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/05/stayhome-modelando-epidemias-con-python-python-en-proc-de-imagenes-satelites
+---
+title: #StayHome Modelando Epidemias con Python - Python en proc. de imágenes satélites
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Mayo, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion online via youtube</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ #StayHome Modelando Epidemias con Python por Fabio Andrés Pinto<br/>Descripción: Partiendo de los principios del modelado matemático, explicaremos qué modelos existen para la modelización de enfermedades infecciosas, cuáles se están utilizando para modelar enfermedades como el COVID-19 y como realizar simulaciones y estimaciones utilizando Python.</p> <p>➡️ Python aplicado al procesamiento de imágenes satélites por Jonathan Calderón Rodriguez<br/>Descripción: Esta charla se realizara sobre un proyecto que estoy elaborando en el área de teledeteccion como apoyo a la ubicación de zonas construidas en la zonas rurales, siendo un insumo para el diseño de redes comunitarias. Utilizando la segmentación como método. Ademas se abordaran temas de SIG y teledeteccion.</p> <p>Lugar: <a href="https://youtu.be/Y0qTelhn_U4" class="embedded">https://youtu.be/Y0qTelhn_U4</a></p> 
+---
+web: https://www.meetup.com/python-medellin/events/270585658/
+---
+date_start: 2020-05-14 18:30 -0500
+---
+date_end: 2020-05-14 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

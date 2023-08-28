@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/01/reunion-de-bienvenida-de-ano-2023-presencial
+---
+title: Reunión de Bienvenida de año 2023 (Presencial)
+---
+information: 
+<p>Luego de 2 años de virtualidad *¡volvemos con las charlas presenciales!*</p> <p>Todos los años nos reunimos para esta época a comer y compartir sobre nuevos proyectos, PyCons, charlas, talleres y más.</p> <p>Nos verémos en el Centro Comercial Viva, ubicado en la Carrera 51B #87-50. La idea es encontrarnos en el 3er piso (plazoleta de comidas). Vamos a ubicarnos en las mesas del lado derecho que están cerca al balcón y a KFC.</p> <p>**Aclaración:** Las comidas para este evento van por cuenta de cada participante.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/290946341/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.82171630859375
+---
+latitude: 11.00800895690918
+---
+location: Viva Shopping Mall. Carrera 51B #87-50
+---
+date_start: 2023-01-18 19:30 -0500
+---
+date_end: 2023-01-18 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

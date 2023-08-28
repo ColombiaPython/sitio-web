@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/07/python-pereira-meetup-15
+---
+title: 🐍💻 Python Pereira Meetup #15
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #15 de Python Pereira 🎉<br/>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 Centraliza logs de Django con ELK por Felipe Salazar</p> <p>🔎 Descripción:<br/>ELK (Elasticsearch, Logstash, Kibana) son un conjunto de herramientas de código abierto que combinadas ofrecen un potente sistema de administración de registros permitiendo la monitorización, consolidación y análisis de logs que tenemos en nuestras apps. En esta charla, haré una introducción a dichas herramientas y cómo conectar un proyecto de django a un stack ELK</p> <p>👦 Sobre Felipe:<br/>Soy desarrollador FullStack en Rocka, con 7 años de experiencia en desarrollo web. Python Lover, Django evangelist. Apasionado del buen código y siempre dispuesto a aprender<br/>Facebook: /Elpipesalazar</p> <p>👉 Aplicaciones de aprendizaje de máquina en procesadores ARM por Arley Bejarano Martínez</p> <p>🔎 Descripción:<br/>Se describirá como hacer métodos de aprendizaje de máquina profundo para celulares, Raspberry, BeagleBone y cualquier dispositivo que cuente con un procesador ARM.</p> <p>👦 Sobre Arley:<br/>Ingeniero electrónico y Magister en Ingeniería Eléctrica dedicado al desarrollo de sistemas embebidos y productos electrónicos aplicando métodos de aprendizaje de máquina y visión por computador.<br/>Email: [masked]</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a julianX.com y monoku.com por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/263304295/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.6898422241211
+---
+latitude: 4.796055793762207
+---
+location: Centro de innovación (CIDT-UTP). Carrera 27 #10-02
+---
+date_start: 2019-07-31 18:30 -0500
+---
+date_end: 2019-07-31 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

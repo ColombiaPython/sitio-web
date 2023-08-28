@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/09/python-microscopia-y-napari-charla-en-ingles
+---
+title: Python, microscopía y napari (charla en inglés)
+---
+information: 
+<p>Buenos dias Pythonistas!!!</p> <p>Para nuestro sexto evento del año, tendremos a nuestro primer invitado internacional y nuestra charla será en inglés.</p> <p>Charlaremos sobre las herramientas de Python en el contexto de la microscopía. Los conjuntos de datos de microscopía de hoy en día se han movido mucho más allá de las clásicas muestras de "tejido muerto y teñido" que puede haber visto en la clase de biología. Las técnicas modernas de microscopía son capaces de capturar grandes conjuntos de datos multidimensionales (~100 de GB) de células vivas que rápidamente pueden volverse difíciles de ver y administrar con herramientas convencionales. Esta charla tocará brevemente algunas de las tecnologías detrás de la adquisición de imágenes, antes de discutir algunos de los desafíos asociados con los datos. Hablaremos sobre napari: un visor de datos n-dimensional relativamente nuevo escrito en python que, junto con otras herramientas de python científico scipy (vispy, dask, numpy, etc.), está comenzando a facilitar las canalizaciones de visualización y análisis de imágenes.</p> <p>Ponente: Talley Lambert</p> <p>Talley tiene un doctorado en Neurobiología de la Univ. de Washington (Seattle) y actualmente es profesor y microscopista en la Escuela de Medicina de Harvard (Boston)</p> <p>Redes sociales:<br/><a href="https://twitter.com/TalleyJLambert" class="linkified">https://twitter.com/TalleyJLambert</a><br/><a href="https://github.com/tlambert03" class="linkified">https://github.com/tlambert03</a></p> <p>¡Nos vemos pronto!</p> <p>----</p> <p>Good morning Pythonistas!!!</p> <p>For our sixth event of the year, we will have our first international guest speaker.</p> <p>We'll be chatting about python tools in the context of light microscopy. Todays microscopy datasets have moved well beyond the classic "dead, stained tissue" samples that you may have seen in biology class. Modern scopes are capable of capturing large (~100s of GBs) multi-dimensional datasets of living cells that can quickly become unwieldy to view and manage with conventional tools. This talk will briefly touch on some of the interesting tech behind the image acquisition, before discussing some of the challenges associated with the data. We'll look at napari: a relatively new n-dimensional data viewer written in python which – along with other tools in the scipy stack (vispy, dask, numpy, etc...) – is beginning to facilitate visualization and image analysis pipelines.</p> <p>Speaker: Talley Lambert</p> <p>Talley has a PhD in Neurobiology from the Univ. of Washington (Seattle) and is currently a Lecturer and microscopist at Harvard Medical School (Boston)</p> <p>Social media:<br/><a href="https://twitter.com/TalleyJLambert" class="linkified">https://twitter.com/TalleyJLambert</a><br/><a href="https://github.com/tlambert03" class="linkified">https://github.com/tlambert03</a></p> <p>See you soon!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/280307939/
+---
+date_start: 2021-09-04 11:00 -0500
+---
+date_end: 2021-09-04 11:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

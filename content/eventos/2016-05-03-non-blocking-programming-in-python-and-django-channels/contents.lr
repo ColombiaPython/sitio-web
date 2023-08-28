@@ -7,7 +7,7 @@ title: Non-blocking programming in Python and Django channels
 information: 
 <p>Hola a todos!! </p> <p>Esta sesión se iniciará con 30 minutos de networking (19-19:30), primera charla de 30 min y 15 min de QA y la segunda charla de 45min y 15 min de QA . El evento debe terminar alrededor de las 09:30pm. </p> <p>El detalle de las charlas son:</p> <p>Sergio Pulgarín: Non-blocking Programming in Python. <a href="https://github.com/serpulga">GitHub</a>, <a href="https://twitter.com/serpulga">Twitter</a>.</p> <p>Descripción: An overview of threading, asynchronous, and parallel programming techniques in Python, applied to GUI and API programming.</p> <p>Juan David Hernández: Quick introduction to Django Channels. <a href="https://www.linkedin.com/in/juandhernandez">Linkedin</a></p> <p>Descripción: Channels is an exciting upcoming feature of Django that will allow Django sites to support use cases that usually required the use of external tools and libraries (even non-Python ones) and even has the potential to change the way we work with the framework entirely. On this meetup we’ll provide a quick introduction to the concepts involved in developing a Channels enabled Django site</p> <p>Por motivos de seguridad es de suma importancia que los asistentes presenten su documento de identidad al ingreso de las instalaciones de AtomHouse.</p> <p>Esperamos verlos a todos de nuevo. Esperamos tener otro evento exitoso, educativo y con gran asistencia también, gracias a ustedes ya somos +760 personas en el grupo de Python Medellín!!!</p> 
 ---
-web: https://www.meetup.com/Python-Medellin/events/230701104/
+web: https://www.meetup.com/python-medellin/events/230701104/
 ---
 city: Medellín
 ---

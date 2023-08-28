@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2022/08/meetup-python-medellin-y-machine-learning-colombia
+---
+title: Meetup Python Medellín y Machine Learning Colombia
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Agosto, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion nos unimos con la comunidad de Machine Learning Colombia para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: Entrenamiento y despliegue de modelos de lenguaje, retos y posibilidades</p> <p>➡️ Por: Santiago Hincapie. MLE</p> <p>Descripción: Dos años tras la aparición de GPT-3 un nuevo paradigma está emergiendo en ML: En lugar de crear modelos pequeños y especializados, existe una tendencia hacia la construcción y el uso de modelos pre-entrenados más grandes y de propósito "generales" como el "backbone" para una conjunto diverso de aplicaciones. En la charla se comentará el proceso interno necesario para el entrenamiento de este tipo de modelos, haciendo énfasis en los retos alrededor del entrenamiento, así como las decisiones de diseño que suelen ser tomadas para mitigar estos problemas. Por último, se mencionan brevemente algunos detalles relacionados al fine tuning y el despliegue de tales modelos.</p> <p>➡️ Titulo: Procesamiento de lenguaje natural</p> <p>➡️ Por: Dylan Alejandro Montoya Lora<br/>Descripción: Clasificador de texto a partir de twets</p> <p>Agradecemos a nuestro patrocinador Globant (<a href="https://www.globant.com/es" class="linkified">https://www.globant.com/es</a>) ❤️</p> <p>En caso tal de que estes en otra ciudad o no alcances un cupo presencial puedes ver el evento en el canal de youtube de Python Colombia y en nuestra pagina de facebook</p> 
+---
+web: https://www.meetup.com/python-medellin/events/287932838/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57189178466797
+---
+latitude: 6.207071781158447
+---
+location: Centro Empresarial One Plaza. Avenida El Poblado #5A-113
+---
+date_start: 2022-08-23 18:40 -0500
+---
+date_end: 2022-08-23 18:40 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

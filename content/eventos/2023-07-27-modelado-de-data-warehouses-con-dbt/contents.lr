@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/07/modelado-de-data-warehouses-con-dbt
+---
+title: Modelado de Data Warehouses con DBT
+---
+information: 
+<p>\*\*\* Recordatorio:\*\*\* Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**:<br/>[<a href="https://forms.gle/Vmss62CP8e12uedK6](https://forms.gle/Vmss62CP8e12uedK6" class="linkified">https://forms.gle/Vmss62CP8e12uedK6](https://forms.gle/Vmss62CP8e12uedK6</a>)</p> <p>Esta charla tiene como objetivo presentarles el framework DBT, ampliamente utilizado para modelado de datos, específicamente de un data warehouse. A través de un caso práctico, mostrar cuales son los principales usos de la herramienta asi como tambien repasar conceptos de modelado de datos.</p> <p>**Ponente:** Jorge Aguilar</p> <p>Ingeniero electrónico, egresado de la universidad del Norte. Con mas de 3 años de experiencia en el sector TI. Actualmente desempeñando el rol de Ingeniero de datos. Mis habilidades se centran sobre todo en el desarrollo Backend en Python, Modelado de datos en SQL, y uso de tecnologias de Big Data como Apache Spark.</p> <p>***</p> <p>Adicionales:</p> <p>1. El evento será híbrido. Presencial en Barranquilla y transmisión vía el **YouTube** de Python Colombia [<a href="https://www.youtube.com/watch?v=CPxE3aC9xdQ](https://www.youtube.com/watch?v=CPxE3aC9xdQ" class="embedded">https://www.youtube.com/watch?v=CPxE3aC9xdQ](https://www.youtube.com/watch?v=CPxE3aC9xdQ</a>)<br/>2. Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/Vmss62CP8e12uedK6](https://forms.gle/Vmss62CP8e12uedK6" class="linkified">https://forms.gle/Vmss62CP8e12uedK6](https://forms.gle/Vmss62CP8e12uedK6</a>)<br/>3. El formulario cierra a las 12 del medio día del día del evento.<br/>4. Solo las primeras 50 personas podrán tener su cupo asegurado debido al aforo máximo del lugar</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/294769421/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81694793701172
+---
+latitude: 11.00793743133545
+---
+location: Koombea. Calle 85 #53-14
+---
+date_start: 2023-07-27 19:30 -0500
+---
+date_end: 2023-07-27 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

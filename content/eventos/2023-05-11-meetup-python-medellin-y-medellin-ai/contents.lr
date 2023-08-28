@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/05/meetup-python-medellin-y-medellin-ai
+---
+title: Meetup Python Medellín y Medellín AI
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Mayo 🎉, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasión nos unimos con la comunidad de Medellín AI para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ GCP Workflows por William Gomez<br/>Descripción: Dominar un servicio en la nube a veces es fácil, otras veces no. A veces el problema no es ni siquiera un solo servicio, sino conectar varios entre ellos y hacerlos funcionar en sincronía. En esta charla hablaremos de cómo orquestrar una solución usando diferentes servicios como Cloud Run, Pub/Sub, BigQuery y nuestra pieza clave GCP Workflows.</p> <p>➡️ ZERO TO HERO: FINE-TUNNING A LANGUAGE MODEL FOR NER por Camila Durango<br/>Descripción: ¡Crea tu propio modelo de lenguaje con finetuning para NER y desbloquea el poder de los datos! En esta charla, descubrirás cómo ajustar un modelo de lenguaje pre-entrenado para reconocer entidades nombradas (NER) específicas en tus propios datos. Aprenderás los conceptos clave de finetuning, incluyendo cómo seleccionar los hiperparámetros correctos y cómo evitar el sobreajuste. ¡Únete a nosotros y conviértete en un creador de modelos de lenguaje con NER personalizados, que pueda aplicar este conocimiento a cualquier conjunto de datos!</p> <p>🍕🥤 Además, habrá un espacio para networking y refrigerio.</p> <p>⚠️ Estamos buscando patrocinadores que quieran apoyar este evento y difundir su marca entre la comunidad ⚠️</p> <p>⚠ Para poder ingresar al lugar debes estar registrado en este form para reservar tu cupo: <a href="https://bit.ly/3AZknFC" class="linkified">https://bit.ly/3AZknFC</a> (cupos límitados) ⚠</p> <p>¡No se lo pierdan!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/293352218/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2023-05-11 18:30 -0500
+---
+date_end: 2023-05-11 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

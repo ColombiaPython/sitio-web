@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2020/03/python-pereira-meetup-18
+---
+title: 🐍💻 Python Pereira Meetup 18
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #15 de Python Pereira 🎉</p> <p>Online: <a href="https://youtu.be/uoX77dgS5CI" class="embedded">https://youtu.be/uoX77dgS5CI</a></p> <p>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 Demystifying Jupyter por Melissa Escobar Gutiérrez</p> <p>🔎 Descripción:<br/>En esta charla profundizaremos en Jupyter, una importante herramienta y entorno de trabajo open source orientado a científicos, que está revolucionando la forma de trabajar en el mundo de los datos. Veremos qué es realmente, cómo funciona y lo que esconde esta misteriosa Black Box.</p> <p>👉 Getting started with Google BigQuery por William Gomez</p> <p>🔎 Descripción:<br/>En esta charla haremos una introducción a a qué es BigQuery. Qué características de su arquitectura hacen que sea un perfecta solución como data warehousing. Describiremos sus características y casos de uso. Haremos ejemplos de queries y su conexión con DataFlow.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a Facultad de Ingenierías UTP y monoku.com por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/269161432/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.69007873535156
+---
+latitude: 4.795858860015869
+---
+location: Centro de innovación (CIDT-UTP). Carrera 27 #10-02
+---
+date_start: 2020-03-25 18:30 -0500
+---
+date_end: 2020-03-25 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

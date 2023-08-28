@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/11/construir-comunidades-con-documentacion
+---
+title: Construir comunidades con documentación.
+---
+information: 
+<p>Buenos dias Pythonistas!!!</p> <p>Descripción:</p> <p>Para nuestro décimo evento del año, estaremos hablando sobre algunos conceptos sobre documentación, incluida la documentación de referencia (docstrings, documentación de API) y contenido narrativo / educativo. Esto se basará en mi propia experiencia en el equipo de documentación de NumPy y las acciones actuales que la comunidad ha estado tomando para crear un entorno en el que esas contribuciones se consideren importantes y la comunidad se expanda más allá del código. Hablaremos sobre algunas herramientas para documentar proyectos (Sphinx / reST, markdown, jupytext, readthedocs), sus ventajas y desventajas y cómo facilitar que los miembros de la comunidad comiencen a contribuir y trabajar para crear y mejorar proyectos de código abierto.</p> <p>Ponente:</p> <p>Melissa Mendonça</p> <p>Melissa es matemática y ha trabajado como profesora e investigadora en matemáticas aplicadas durante casi 10 años. Actualmente trabaja con el desarrollo de software en Quansight, interactuando con proyectos de código abierto y clientes de la industria. Es líder del equipo de documentación de NumPy, entusiasta de Python, LaTeX, Fortran y el software libre en general.</p> <p>Redes sociales:</p> <p>twitter: @melissawm</p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/281869966/
+---
+date_start: 2021-11-18 19:00 -0500
+---
+date_end: 2021-11-18 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

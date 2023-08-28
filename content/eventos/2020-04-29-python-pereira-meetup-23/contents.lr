@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/04/python-pereira-meetup-23
+---
+title: 🐍💻 Python Pereira Meetup 23
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #23 de Python Pereira 🎉</p> <p>🔗 Online: <a href="https://youtu.be/v7ENIwUkJ7A" class="embedded">https://youtu.be/v7ENIwUkJ7A</a></p> <p>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉Crea aplicaciones robustas, rápido y fácil con Cookiecutter Django por Gabriel Mejia amortegui</p> <p>🔎 Descripción:<br/>Cookiecutter Django es una herramienta para crear aplicaciones web usando Django y otras tecnologías que pueden llegar a constituir grandes proyectos construido en minutos.</p> <p>👉 Implementación de colas para comunicación entre servicios por David Stiven Jurado Chavarria</p> <p>🔎 Descripción:<br/>Teoría acerca de los servicios de colas, conceptos básicos del manifiesto reactivo para aplicaciones modernas y ejemplo básico de implementación de colas para la comunicación entre los microservicios de la aplicación.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/270237814/
+---
+date_start: 2020-04-29 18:30 -0500
+---
+date_end: 2020-04-29 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

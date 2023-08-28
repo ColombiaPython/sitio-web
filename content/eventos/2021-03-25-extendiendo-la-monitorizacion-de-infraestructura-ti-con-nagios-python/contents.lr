@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/03/extendiendo-la-monitorizacion-de-infraestructura-ti-con-nagios-python
+---
+title: Extendiendo la Monitorizacion de Infraestructura TI con Nagios + Python
+---
+information: 
+<p>Via transmisión en Youtube</p> <p>Charla:**Extendiendo la Monitorizacion de Infraestructura TI con Nagios + Python**</p> <p>"La charla propuesta titulada ""Extendiendo la Monitorizacion de Infraestructura TI con Nagios + Python"", tiene como objetivo dar a conocer a la comunidad una perspectiva diferente sobre el uso del lenguaje de programación Python en otras áreas de conocimiento alternativas al Desarrollo de Software, como lo es la Infraestructura de TI, dado el reciente surgimiento de metodologías o culturas como DevOps en las áreas de TIC, se esta notando cada vez mas reducida la brecha en la que desde Operaciones de TI se utilice lenguajes de programación como Python para automatizar y gestionar las tareas que se aplican sobre la Gestion de Infraestructura de TI, uno de estos ejemplos se puede concebir con la extensibilidad del software de monitorizacion Open Source mas popular de la industria de TI llamado Nagios, en la que a traves del desarrollo de nuevos pluglins ""scripts"" escritos en Python, se puede aumentar las capacidades de este software de monitorizacion y aportar aun mayor valor sobre la Gestión de Infraestructura de TI en una organización.</p> <p>Por lo anterior, esta charlar pretende inicialmente brindar los conceptos bases de la monitorizacion en TI, así como también una breve descripción del software de monitorizacion Nagios, para posteriormente sentar las bases sobre el desarrollo de nuevos plugins o script de monitorizacion y/o notificaciones para Nagios, también se explicara el desarrollo de scripts para el manejo de eventos ""Event Handler"" e integraciones de Nagios con otros sistemas de TI, al final de la charla se contara con una demo donde se puede evidenciar en un ecosistema de TI las interacciones de todos estos conceptos y nuevos componentes desarrollados en Python para Nagios y las aplicaciones que pueden tener lugar sobre la Gestión de Infraestructura de TI."</p> <p>Ponente: Aristides Cabana</p> <p>"Soy Ingeniero de Sistemas graduado por la Universidad del Magdalena, con mas de 8 años de experiencia laboral distribuidos en diferentes industrias como las Telecomunicaciones, Cajas de Compensación Familiar y el Sector Salud, con especialidad desempeñando cargos en las áreas de Redes y Telecomunicaciones, Infraestructura de TIC y recientemente en el Desarrollo de Software VoIP. También cuento con 8 años de experiencia utilizando Python para propósitos de Automatización y Scripting aplicados en Telefonia IP (AGI/AMI para Asterisk), Monitorizacion de Infraestructura TI (Plugins, Event Handler e Integraciones para Nagios), herramientas TIC Open Source como (GLPI, Glassfish, etc...) y Networking para (Gestión del Backup y Gestión de cambios de configuración en dispositivos Cisco y otras marcas).</p> <p>Comparto mi perfil profesional en la red Linkedin: <a href="https://www.linkedin.com/public-profile/in/aristides-cabana-gomez-49731424" class="linkified">https://www.linkedin.com/public-profile/in/aristides-cabana-gomez-49731424</a>"</p> <p>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. La charla será en español<br/>3. Transmitiremos la charla por el canal del YouTube de Python Colombia</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/276879123/
+---
+date_start: 2021-03-25 19:30 -0500
+---
+date_end: 2021-03-25 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

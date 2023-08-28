@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/03/deepdream-visualizando-que-aprende-una-red-neuronal-convolucional
+---
+title: DeepDream: Visualizando que aprende una red neuronal convolucional
+---
+information: 
+<p>La charla "Deep Dream: Visualizando qué aprende una red neuronal convolucional" tiene como finalidad ilustrar cómo una red convolucional identifica patrones visuales y qué características de las imágenes son las que más activan sus neuronas. Esto, enfocado a un área artística como lo es la aplicación de Deep Dream, en la que se pueden cargar imágenes y hacer transferencia de estilos. Se hará un barrido por diferentes frameworks y librerías que permitan implementar estos modelos en Python, así como en los recursos computacionales necesarios para entrenar y probarlos.</p> <p>Ponente: Daniela Charris</p> <p>Soy Ingeniera Electrónica y Magíster de la Universidad del Norte. Tengo más de 4 años de experiencia en investigación y desarrollo de algoritmos de inteligencia artificial, procesamiento de imágenes y visión por computadora. También soy profesora catedrática del dpto de Ingenierías Eléctrica y Electrónica de la Universidad del Norte.</p> <p>Patrocinador: **Birdiefy**<br/>En Birdiefy estamos construyendo una plataforma que permite a todos los golfistas obtener feedbacks instantáneos, precisos y accesibles sobre su swing de golf. Solo basta subir un video. Nuestra experiencia y profundo conocimiento de un juego tan complejo nos ha enseñado que hay algunos aportes en la experiencia de aprendizaje del golfista que solo los humanos pueden brindar (es decir, hoja de ruta a largo plazo, objetivos, confianza, etc.). Por lo tanto, nuestro objetivo es combinar tanto la inteligencia humana como la artificial para que nuestros usuarios puedan tener una experiencia de aprendizaje instantánea y personalizada. Si estás interesado (ya sea como jugador, entrenador o inversor), ¡no dudes en comunicarte con nosotros en [masked]</p> <p>***</p> <p>Adicionales:</p> <p>1. El evento será híbrido. Presencial en Barranquilla y transmisión vía el YouTube de Python Colombia [<a href="https://www.youtube.com/watch?v=t3B0ENK7Ktk](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt3B0ENK7Ktk&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2dHUOzvr73Dy3rn_-SleAN" class="embedded">https://www.youtube.com/watch?v=t3B0ENK7Ktk](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt3B0ENK7Ktk&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2dHUOzvr73Dy3rn_-SleAN</a>)<br/>2. Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/t7ELWNnY7VJptQqa6](https://forms.gle/t7ELWNnY7VJptQqa6" class="linkified">https://forms.gle/t7ELWNnY7VJptQqa6](https://forms.gle/t7ELWNnY7VJptQqa6</a>)<br/>3. El formulario cierra a las 12 del medio día del día del evento.<br/>4. Solo las primeras 40 personas podrán tener su cupo asegurado debido al aforo máximo del lugar</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/291821563/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81694793701172
+---
+latitude: 11.00793743133545
+---
+location: Koombea. Calle 85 #53-14
+---
+date_start: 2023-03-02 19:30 -0500
+---
+date_end: 2023-03-02 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

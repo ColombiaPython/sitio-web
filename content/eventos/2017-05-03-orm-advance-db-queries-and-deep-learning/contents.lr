@@ -7,7 +7,7 @@ title: ORM, Advance DB Queries and Deep Learning
 information: 
 <p>Hi everybody, these are the talks for this month. </p> <p>This session will start with 30 minutes of networking (19:00-19:30), first talk of 30 min and 15 min of QA, the second talk of 45 min and 15 min of QA. The event should end around 09:45 pm.</p> <p>These are the speakers and details of the talks:</p> <p><b>Sergio Pulgarín.</b><a href="https://github.com/serpulga">GitHub</a>, <a href="https://twitter.com/serpulga">Twitter</a></p> <p>* Discussing Python ORMs and Advanced DB queries.</p> <p>-&gt; SQLAlchemy</p> <p>-&gt; Django ORM and tricks</p> <p>-&gt; Advanced SQL queries (PostgreSQL)</p> <p>-&gt; Discussing using ORM vs Raw SQL</p> <p><b><br/></b></p> <p><b>Pedro Atencio</b></p> <p>* Something about Deep Learning in Python </p> <p>- Why you should to use Python</p> <p>1. What is deep learning</p> <p>2. Neural network architectures</p> <p>3. Deep Learning Technologies in Python and Comparison</p> <p>4. VGG16 and finetuning</p> 
 ---
-web: https://www.meetup.com/Python-Medellin/events/239452786/
+web: https://www.meetup.com/python-medellin/events/239452786/
 ---
 city: Medellín
 ---

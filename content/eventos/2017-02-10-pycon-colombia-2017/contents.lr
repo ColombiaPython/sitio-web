@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2017/02/pycon-colombia-2017
+---
+title: Pycon Colombia 2017
+---
+information: 
+<p><b>Pycon Colombia</b> es la primera reunión que acoge a todos los usuarios del lenguaje de programación de Python en este país. Esta conferencia está organizada para incorporar y conectar a la comunidad miembros de múltiples sectores que aplican este lenguaje, como por ejemplo, academia, industria, gobierno, entre otros. Invitamos a las personas interesadas en Python para unirse a PyCon Colombia y compartir conocimientos, intercambiar ideas, conectar con otros y ayudarnos a crecer nuestra red. </p> <p>El lugar de encuentro de esta conferencia corresponde al <b>edificio Doctor Angélico de la universidad Santo Tomás ubicado en la carrera 9 #72-90, en la ciudad de Bogotá</b>. Contaremos con presentaciones de <b>Jacob Kaplan Moss, </b>co-creador de Django; <b>David Cournapeau</b>, contribuidor de numpy y scipy: <b>Eric Holscher</b>, cofundador de Read the Docs y Write the Docs y Peadar Coyle, PyMC3 Contributor and Author, junto con <b>34 speakers colombianos y latinoamericanos</b>. Tenemos un amplio rango de charlas en diferentes áreas que abarca desarrollo geoespacial, inteligencia artificial, performance, machine learning, DevOps, data science, web, entre otros.</p> 
+---
+web: https://www.meetup.com/python-cali/events/237403492/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05628967285156
+---
+latitude: 4.656978130340576
+---
+location: Universidad Santo Tomás.  Carrera 9 #72-90
+---
+date_start: 2017-02-10 08:00 -0500
+---
+date_end: 2017-02-10 08:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

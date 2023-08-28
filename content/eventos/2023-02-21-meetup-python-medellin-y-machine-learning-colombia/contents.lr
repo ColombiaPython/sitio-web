@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/02/meetup-python-medellin-y-machine-learning-colombia
+---
+title: Meetup Python Medellín y Machine Learning Colombia
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Febrero, el primero del año🎉, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasión nos unimos con la comunidad de Machine Learning Colombia para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Caching with Redis using Django por Carolina Gómez<br/>Description: We are going to see what is Redis and one of its use cases. Caching is a technique used to improve the performance of a web application, here we are going to understand the concept behind caching and implementing an example using Django.</p> <p>➡️ Transformers &amp; Chat GPT por Cristian García<br/>Description: In this talk we will present a friendly introduction Transformer architecture which has revolutionized the field of NLP and Deep Learning in general. We will also explore some of the recent advancements which lead to the creation of ChatGPT-like systems which are disrupting entire industries.</p> <p>Agradecemos a nuestro patrocinador Gorilla Logic (<a href="https://www.instagram.com/gorilla_logic/" class="linkified">https://www.instagram.com/gorilla_logic/</a>) 💛💙</p> <p>⚠ Para poder ingresar al lugar debes estar registrado en este form para reservar tu cupo: <a href="https://forms.gle/npmGu6tWKsucTMTt5" class="linkified">https://forms.gle/npmGu6tWKsucTMTt5</a> (cupos límitados) ⚠</p> <p>¡No se lo pierdan!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/291577621/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.5728530883789
+---
+latitude: 6.202645778656006
+---
+location: Centro Empresarial Buro 4.0. Carrera 43B
+---
+date_start: 2023-02-21 18:30 -0500
+---
+date_end: 2023-02-21 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

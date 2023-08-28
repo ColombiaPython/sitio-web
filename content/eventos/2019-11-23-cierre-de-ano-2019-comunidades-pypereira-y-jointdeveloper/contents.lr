@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/11/cierre-de-ano-2019-comunidades-pypereira-y-jointdeveloper
+---
+title: 🐍💻 Cierre de Año 2019 Comunidades - PyPereira y jointDeveloper
+---
+information: 
+<p>📣Queremos invitarlos al cierre de año de comunidades donde nos uneremos a jointDeveloper para celebrarlo🎉</p> <p>En esta ocasión contaremos con interesantes charlas 🐍💻:</p> <p>👉Explorando Elastic Stacks por Felipe Salazar</p> <p>🔎 Descripción:<br/>Elastic Stack es una asombrosa colección de tres (o cuatro) proyectos open source, que juntos brindan una completa solución para análisis de logs y monitorización de nuestros servidores. En esta charla, veremos sus principales características y casos de uso.</p> <p>👉 Demystifying Jupyter por Melissa Escobar Gutiérrez</p> <p>🔎 Descripción:<br/>En esta charla profundizaremos en Jupyter, una importante herramienta y entorno de trabajo open source orientado a científicos, que está revolucionando la forma de trabajar en el mundo de los datos. Veremos qué es realmente, cómo funciona y lo que esconde esta misteriosa Black Box.</p> <p>👉 Automatización de Tareas con Selenium por Carolina Gómez Trejos</p> <p>🔎 Descripción:<br/>Cuando trabajamos con redes sociales o realizamos pruebas de integración a una aplicación web, muchas veces tenemos tareas que son repetitivas o nos demandan mucho tiempo, pero podemos automatizarlas? La respuesta es sí, en esta charla aprenderás cómo automatizar estas tareas en un navegador con las diferentes herramientas que nos proporciona Selenium y Python.</p> <p>👉 Introducción a motores de busqueda con Elasticsearch por Steven Pineda Cortés</p> <p>🔎 Descripción:<br/>Conoce qué es y como funciona Elasticsearch, un potente motor de búsqueda que permite indexar y analizar en tiempo real grandes cantidades de datos de manera distribuida.</p> <p>Analizarémos sus ventajas y desventajas, en qué casos aplica y ejemplos de consultas simples a las más complejas.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a Facultad de Ingenierías UTP, julianX.com, monoku.com y Elastic por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/266315561/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.69007873535156
+---
+latitude: 4.795858860015869
+---
+location: Centro de innovación (CIDT-UTP). Carrera 27 #10-02
+---
+date_start: 2019-11-23 08:00 -0500
+---
+date_end: 2019-11-23 08:00 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

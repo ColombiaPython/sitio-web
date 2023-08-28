@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/10/construyendo-un-chatbot-con-python-python-tricks-or-treats
+---
+title: Construyendo un ChatBot con Python & Python tricks or treats
+---
+information: 
+<p>NOTA: Por favor llegar antes de la hora de inicio del evento para realizar el registro en la recepción del edificio. Pueden llegar desde las 6:40 pm.</p> <p>¡Hola Pythonistas 🐍!</p> <p>Regresamos con un nuevo Meetup para este mes, donde veremos las siguientes charlas:</p> <p>- Construyendo un ChatBot con Python. Por Nicolas Molina.</p> <p>Los chatbots son tendencia actual y es una de las formas más comunes de usar AI, Microsoft nos ofrece Azure Bot Service para construir bots inteligentes que interactúan naturalmente con los usuarios conectados a websites, cortana, skype, facebook messenger y más servicios de chat.</p> <p>En esta charla vamos a explorar este servicio desde la construcción usando Microsoft Bot Framework luego agregando Cognitive Services para que nuestro bot hable naturalmente con AI a los usuarios y finalmente conectándolo a servicios como Facebook Messenger.</p> <p>- Python tricks or treats. Por Iván Camilo Ramírez.</p> <p>Vamos a presentar 15 tips grandiosos que tal vez no conocías que se podía hacer con Python puro.</p> <p>SPEAKERS:<br/>---------------</p> <p>Nicolas Molina<br/><a href="http://nicobytes.com/" class="linkified">http://nicobytes.com/</a></p> <p>I am a GDE (Google Developer Expert) in Web Technologies and Angular. I love to be a developer and to create software. Currently, I'm a Tech leader and work mainly in single page applications with Angular and Ionic for frontend, NodeJs /Python for web services with GraphQL.</p> <p>I love to share my knowledge with the community across meetups, workshops, courses, videos, articles and, conferences. I'm co-organizer in Angular Bolivia and creator of the NG Classroom.</p> <p>Recently I'm a dad and when I'm not coding share time with my baby and wife.</p> <p>Iván Camilo Ramírez<br/><a href="https://twitter.com/ivancarrancho" class="linkified">https://twitter.com/ivancarrancho</a></p> <p>Soy Ivan Ramirez, desarrollador backend en Capek, rocking on Python amante de las nuevas tecnologías y las posibles integraciones entre ellas.</p> <p>SPONSORS:<br/>----------------</p> <p>Gracias a nuestros patrocinadores por su apoyo:</p> <p>Capek<br/><a href="https://capek.ai/" class="linkified">https://capek.ai/</a></p> <p>Platzi<br/><a href="https://platzi.com/" class="linkified">https://platzi.com/</a></p> <p>-------------------------------------<br/>EQUIPO PYTHON BOGOTÁ 🐍<br/>-------------------------------------</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/265966073/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0573501586914
+---
+latitude: 4.656303882598877
+---
+location: Platzi HQ. Calle 72 # 9 - 55
+---
+date_start: 2019-10-30 19:00 -0500
+---
+date_end: 2019-10-30 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

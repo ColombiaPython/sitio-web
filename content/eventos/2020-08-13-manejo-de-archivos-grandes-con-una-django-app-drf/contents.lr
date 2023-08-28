@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/08/manejo-de-archivos-grandes-con-una-django-app-drf
+---
+title: Manejo de archivos grandes con una Django app & DRF
+---
+information: 
+<p>Via Zoom y transmisión en Youtube</p> <p><a href="https://koombea.zoom.us/j/95290884169?pwd=SkRXWHo1U0ZLc0pVcFFxSU5Gem5KZz09" class="linkified">https://koombea.zoom.us/j/95290884169?pwd=SkRXWHo1U0ZLc0pVcFFxSU5Gem5KZz09</a><br/>Meeting ID:[masked]<br/>Passcode: 6WP8HP</p> <p>Charla:**Manejo de archivos grandes con una Django &amp; DRF.**</p> <p>En esta charla conoceremos algunas de las alternativas para realizar subidas y descargas de archivos en un contexto de una API REST. Profundizaremos en los componentes y configuraciones que propone django y django rest framework para manejar este tipo de procesos. Por último revisaremos configuraciones útiles de uwsgi y ngnix para cuando llevemos a producción aplicaciones que provean este tipo de servicios.</p> <p>Ponente: Emiliano Martín</p> <p>Mi nombre es Emiliano Martín, tengo 28 años y vivo en Córdoba, Argentina. Estudié Ingeniería en Sistemas de Información en la UTN y actualmente trabajo en Mercadolibre como Sr. Software Engineer.<br/>Me apasiona el desarrollo de software en general, me gusta estar en un constante aprendizaje de nuevas tecnologías y buenas prácticas de programación.<br/>En 2015 comencé mi camino profesional en MercadoLibre principalmente como Desarrollador Backend Java en el área de prevención de fraude. Luego en 2017 tuve la posibilidad de emigrar al equipo de prevención de lavado de dinero, en donde además de desarrollar backend con Java, incursioné en el desarrollo frontend con NodeJS y ReactJS. Por último, en 2019 y hasta la actualidad, logré dar un giro en mi carrera y dedicarme full time a desarrollar Python como MLOps en el área de Machine Learning Technology, lenguaje que me gusta mucho y lo utilizaba en proyectos fuera de MercadoLibre.</p> <p>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. La charla será en español<br/>3. Este mes la charla será *ONLINE*.<br/>4. Transmitiremos la charla por el canal del YouTube de Python Colombia</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/272483658/
+---
+date_start: 2020-08-13 19:00 -0500
+---
+date_end: 2020-08-13 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

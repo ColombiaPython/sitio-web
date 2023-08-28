@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/08/python-pereira-meetup-7
+---
+title: 🐍💻 Python Pereira Meetup #7
+---
+information: 
+<p>📣Queremos invitarlos a la 7ma Reunión de Python Pereira 🎉<br/>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉Transferencia de estilo: Creando arte con redes neuronales por Juan Sebastián Vega (@sebasvega95)</p> <p>🔎 Descripción:<br/>En esta charla aprenderemos cómo podemos entrenar redes neuronales para componer imágenes en el estilo de una imagen dada (como si supiéramos pintar como Van Gogh o Picasso 🎨). Esta técnica—conocida como style transfer— toma una imagen e intenta minimizar una medida de distancia, para poder generar imágenes que se vean como la imagen de entrada pero recreadas en el estilo de otra imagen. Veremos cómo se pueden entender conceptos matemáticos de una manera intuitiva por medio de código en Python en lugar de ecuaciones.</p> <p>👉 Creando un SaaS: Multi tenancy con Django 2 por Diego Alejandro Castaño - CTO Apptitud (@dialcg_)</p> <p>🔎 Descripción:<br/>En ésta charla estaremos introduciéndonos en la arquitectura de un Software as a Service en Django y su característica más radical: La multitenencia.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a El Escondido Bar, julianX.com y monoku.com por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/253466794/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.68172454833984
+---
+latitude: 4.806321144104004
+---
+location: El Escondido Bar. Calle 4 # 16-45
+---
+date_start: 2018-08-27 18:30 -0500
+---
+date_end: 2018-08-27 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

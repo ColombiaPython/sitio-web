@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/08/openstreetmap-el-mapa-libre-del-mundo
+---
+title: Openstreetmap: El “mapa” libre del mundo.
+---
+information: 
+<p>Buenos dias Pythonistas!!!</p> <p>Para nuestro quinto evento del año, estaremos hablando sobre Openstreetmap (OSM) al día de hoy, es una base de datos que maneja millones de contribuciones alrededor de múltiples comunidades alrededor del mundo, donde se utiliza la denominada información local con el fin de mantener precisión en el tiempo. Los mapas son símbolos visuales plasmados en un lienzo, que nos ayudan a responder preguntas como ¿Dónde está la escuela u hospital más cercano? O ¿Cuál sería la via de acceso para llegar a X lugar?. El propósito de esta charla consiste en explicar brevemente qué es OSM y cómo se puede utilizar en múltiples situaciones que van desde encontrar el punto más cercano como estimar daño generado por un desastre natural.</p> <p>Ponente: Jorge Martinez.</p> <p>Jorge es Ingeniero electrónico, mSc. de la ciudad de Barranquilla. Consultor en la división de emergencias y desastres de UNWFP. Miembro independiente de HOTOSM.</p> <p>Redes sociales:</p> <p><a href="https://twitter.com/_JorgeMartinezG" class="linkified">https://twitter.com/_JorgeMartinezG</a><br/><a href="https://www.linkedin.com/in/jorgemartinez-0327/" class="linkified">https://www.linkedin.com/in/jorgemartinez-0327/</a><br/><a href="https://github.com/jorgemartinezg" class="linkified">https://github.com/jorgemartinezg</a></p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/280075278/
+---
+date_start: 2021-08-26 19:00 -0500
+---
+date_end: 2021-08-26 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

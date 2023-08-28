@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2022/07/principios-solid-en-python
+---
+title: Principios SOLID en Python
+---
+information: 
+<p>Muchas veces cuando construimos software productivo pasamos por alto que nuestro código probablemente en el futuro necesitemos que se adapte a nuevos cambios o es muy común deba ser comprendido por algún integrante de nuestro equipo. Es aquí en donde los principios SOLID nos van a ayudar a escribir código más limpio, mantenible y escalable<br/>En esta charla los conoceremos y veremos como aplicarlos en Python para escribir programas de mayor calidad.</p> <p>Ponente: Emiliano Martin</p> <p>¡Hola! Mi nombre es Emiliano Martín, tengo 30 años y vivo en Córdoba, Argentina. Estudié Ingeniería en Sistemas de Información en la [UTN](<a href="https://www.frvm.utn.edu.ar/" class="linkified">https://www.frvm.utn.edu.ar/</a>) y actualmente trabajo en [Mercadolibre](<a href="https://www.mercadolibre.com.ar/" class="linkified">https://www.mercadolibre.com.ar/</a>) como Technical Leader.<br/>Me apasiona el desarrollo de software en general, me gusta estar en un constante aprendizaje de nuevas tecnologías y buenas prácticas de programación.Puedes encontrarme en [Github](<a href="https://github.com/emimartin26" class="linkified">https://github.com/emimartin26</a>), [Linkedin](<a href="https://www.linkedin.com/in/emimartin26/" class="linkified">https://www.linkedin.com/in/emimartin26/</a>) y [Twitter](<a href="https://twitter.com/emimartin26" class="linkified">https://twitter.com/emimartin26</a>) o si prefieres, puedes enviarme un [correo electrónico](mailto:[masked]).</p> <p>***</p> <p>Adicionales:</p> <p>Transmitiremos por el canal del YouTube de Python Colombia. Suscríbete y dale click a la campanita para estar pendiente de eventos en otras comunidades xD</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/286559607/
+---
+date_start: 2022-07-07 19:00 -0500
+---
+date_end: 2022-07-07 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

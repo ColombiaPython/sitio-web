@@ -5,9 +5,9 @@ _slug: 2018/08/python-cali-agosto
 title: Python Cali Agosto
 ---
 information: 
-<p>Python Cali para el mes de Agosto en El Lab</p> 
+<p>Python Cali para el mes de Agosto en El Lab!</p> <p>Introducción a Web Scrapers con Python<br/>Charla básica donde se explicarán los conceptos básicos de los scrapers y diferentes formas de implementarlos con Python y frameworks especializados.</p> <p>Blockchain a traves de los ojos de python</p> <p>Charla en la cual se explicará blockchain a traves de una implementación minima realizada en python.</p> <p>Usando el framework flask se realizo una implementacion funcional de un nodo de bitcoin con fines educativos en el que se pueden apreciar todas las funciones que componen dicha tecnología.</p> 
 ---
-web: https://www.meetup.com/Python-Cali/events/252948899/
+web: https://www.meetup.com/python-cali/events/252948899/
 ---
 city: Cali
 ---

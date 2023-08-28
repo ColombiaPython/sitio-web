@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/08/aiohttp-asynchronous-http-request
+---
+title: AIOHTTP - Asynchronous HTTP Request
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Agosto, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion online via youtube 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: AIOHTTP - Asynchronous HTTP Request.</p> <p>➡️ Por: William Gómez</p> <p>Descripción: aiohttp es una libreria de python que nos permite tener peticiones http de forma asincrona desde el lado del cliente o servidor. Pero qué significa que las peticiones sean asincronas y cómo incrementa esto el perfomance? Esto y mucho más lo descubriremos en esta charla.</p> <p>No se lo pierdan, tendremos premios!</p> <p>Agradecemos a nuestros patrocinadores Playvox y Terminal.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/280385054/
+---
+date_start: 2021-08-31 19:00 -0500
+---
+date_end: 2021-08-31 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

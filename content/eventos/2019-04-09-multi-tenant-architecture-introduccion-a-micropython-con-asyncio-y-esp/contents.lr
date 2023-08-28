@@ -7,7 +7,7 @@ title: Multi tenant architecture + Introducción a MicroPython con asyncio y ESP
 information: 
 <p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Abril, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:</p> <p>----&gt; Andres Duque Hincapie &lt;----<br/>Multi tenant architecture.</p> <p>Cómo administran su arquitectura las empresas grandes de software as a service cómo Slack o Jira.<br/>Conoce las mejores prácticas de la industria y cómo las podrías aplicar en tu empresa.</p> <p>----&gt; Sergio Pulgarin &lt;----<br/>Introducción a MicroPython con asyncio y ESP</p> <p>Una pequeña introducción a MicroPython basada en un ejemplo sencillo usando asyncio y algunas funcionalidades de los pines de GPIO de una tarjeta ESP8266. Realizaremos análisis de circuitos sobre el montaje, a manera de repaso y/o introducción a circuitos.</p> <p>Esta sesión comenzará con tiempo de Networking y continuará con las super charlas de Andres Duque Hincapie y Sergio Pulgarin. Al final del evento, compartiremos un delicioso refrigerio.</p> <p>Gracias a nuestros patrocinadores, Huge y Ruta N.</p> 
 ---
-web: https://www.meetup.com/Python-Medellin/events/260369849/
+web: https://www.meetup.com/python-medellin/events/260369849/
 ---
 city: Medellín
 ---
@@ -17,7 +17,7 @@ longitude: -75.56660461425781
 ---
 latitude: 6.264625072479248
 ---
-location: Ruta N. Cl. Barranquilla ##52-20
+location: Ruta N. 
 ---
 date_start: 2019-04-09 18:30 -0500
 ---

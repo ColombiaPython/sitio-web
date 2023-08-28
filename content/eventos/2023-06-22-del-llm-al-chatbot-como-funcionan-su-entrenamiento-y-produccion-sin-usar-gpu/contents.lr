@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/06/del-llm-al-chatbot-como-funcionan-su-entrenamiento-y-produccion-sin-usar-gpu
+---
+title: Del LLM al ChatBot: Cómo funcionan, su entrenamiento y produccion sin usar GPU
+---
+information: 
+<p>\*\*\* Recordatorio:\*\*\* Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**:<br/>[<a href="https://forms.gle/XJe3aNyeke6k1Sm46](https://forms.gle/XJe3aNyeke6k1Sm46" class="linkified">https://forms.gle/XJe3aNyeke6k1Sm46](https://forms.gle/XJe3aNyeke6k1Sm46</a>)</p> <p>En esta charla exploraremos LLMs, como GPT3 y Llama . Aprenderemos cómo funcionan los modelos de lenguaje, cómo personalizarlos con fine-tuning y cómo ejecutarlos en CPU (si, en CPU).</p> <p>**Ponente:** Wayner Barrios<br/>Estudiante de PhD en Dartmouth College</p> <p>***</p> <p>Adicionales:</p> <p>1. El evento será híbrido. Presencial en Barranquilla y transmisión vía el YouTube de Python Colombia [<a href="https://www.youtube.com/watch?v=5AeNWW25YiM](https://www.youtube.com/watch?v=5AeNWW25YiM" class="embedded">https://www.youtube.com/watch?v=5AeNWW25YiM](https://www.youtube.com/watch?v=5AeNWW25YiM</a>)<br/>2. Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/XJe3aNyeke6k1Sm46](https://forms.gle/XJe3aNyeke6k1Sm46" class="linkified">https://forms.gle/XJe3aNyeke6k1Sm46](https://forms.gle/XJe3aNyeke6k1Sm46</a>)<br/>3. El formulario cierra a las 12 del medio día del día del evento.<br/>4. Solo las primeras 50 personas podrán tener su cupo asegurado debido al aforo máximo del lugar</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/293941577/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81694793701172
+---
+latitude: 11.00793743133545
+---
+location: Koombea. Calle 85 #53-14
+---
+date_start: 2023-06-22 19:30 -0500
+---
+date_end: 2023-06-22 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

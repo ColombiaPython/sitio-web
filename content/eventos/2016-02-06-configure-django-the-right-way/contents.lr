@@ -7,7 +7,7 @@ title: Configure Django the right way
 information: 
 <p><img src="http://photos1.meetupstatic.com/photos/event/c/1/5/600_446463093.jpeg" /></p> <p>Tema seleccionado por los asistentes en el anterior Meetup de Django Cali.</p> <p>Buenas prácticas para la configuración de proyectos Django.</p> <p>El objetivo de esta charla es dar a conocer buenas practicas para configurar proyectos Django en una forma correcta permitiendo tener archivos de configuración(settings) para entornos locales, desarrollo y producción.</p> 
 ---
-web: https://www.meetup.com/Python-Cali/events/228426714/
+web: https://www.meetup.com/python-cali/events/228426714/
 ---
 city: Cali
 ---

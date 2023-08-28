@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2018/08/serverless-en-aws-visualizacion-de-datos-geocodificados
+---
+title: Serverless en AWS & Visualización de datos geocodificados
+---
+information: 
+<p>IMPORTANTE. El registro del evento se realiza por Tito: <a href="https://ti.to/pythonbogota/serverless-en-aws-visualizacion-de-datos-geocodificados" class="linkified">https://ti.to/pythonbogota/serverless-en-aws-visualizacion-de-datos-geocodificados</a> y es indispensable para la entrada.</p> <p>¡Hola a todos!</p> <p>Anunciamos un nuevo Meetup, donde veremos las siguientes charlas:</p> <p>- Introducción a serverless en AWS con python</p> <p>Se desarrollará una pequeña aplicación serverless con algunas herramientas que tenemos a disposición.</p> <p>- Visualización de datos geocodificados con Python y Google Maps</p> <p>Explicar cómo podemos desarrollar una aplicación para geocodificar y georeferenciar datos de diferentes ubicaciones en un mapa utilizando como motor de bases de datos SQLite, lenguaje de programación Python versión &gt;= 3.0, y la integración con la API actual de Google Maps para la visualización.</p> <p>AGENDA:<br/>------------</p> <p>6:50 PM - 7:00 PM - Ingreso</p> <p>7:00 PM - 7:40 PM - Introducción a serverless en AWS con Python (Julián Cortés)</p> <p>7:40 PM - 7:50 PM - Python Bogotá ¿En qué vamos?</p> <p>7:50 PM - 8:30 PM - Visualización de datos geocodificados con Python y Google Maps (Alfonso Neil Jiménez Casallas)</p> <p>8:30 PM - 9:00 PM - Networking</p> <p>SPEAKERS:<br/>---------------</p> <p>Julián Cortés<br/>Backend developer en Comparamejor</p> <p>Alfonso Neil Jiménez Casallas<br/>Ingeniero de sistemas (Pontificia Universidad Javeriana), con experiencia en desarrollo de software de aplicaciones Web y móviles.</p> <p>SPONSORS:<br/>----------------<br/><a href="https://www.bizagi.com/es" class="linkified">https://www.bizagi.com/es</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/253773592/
+---
+city: Bogotá
+---
+country: Colombia
+---
+location: Bizagi. Carrera 7 # 71 - 52, Torre B, Piso 4
+---
+date_start: 2018-08-22 19:00 -0500
+---
+date_end: 2018-08-22 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

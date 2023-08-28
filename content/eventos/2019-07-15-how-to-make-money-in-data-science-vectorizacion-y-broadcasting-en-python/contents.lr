@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/07/how-to-make-money-in-data-science-vectorizacion-y-broadcasting-en-python
+---
+title: How to make Money in Data Science - Vectorización y Broadcasting en Python
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de julio, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:</p> <p>----&gt; Terry Davis &lt;----<br/>How to make Money in Data Science</p> <p>DESCRIPTION: According to IBM, Data is the new Oil! There is currently more than 12 billion gigabytes of data being processed every day by the world’s fingertips. The number of Data transactions through our phones and other connected devices are estimated to grow 78% by next year.<br/>This is by far the most data we have ever had access to as a global society. Now with so much data we can predict life span based on data points like genetics, diet, environment, air quality, and etc. The overflow of data has given every industry a hand up in dealing with their target consumers. We see it utilized in Governments, Medicine, Sports, and the list goes on. Even when online shopping data is in effect with advertisements and suggested purchases to make our lives more convenient.<br/>The emergence of Big Data has birthed an entirely new science called “Data Science”. This new form of science has changed the world forever.</p> <p>BIO:<br/>I am a Professional Data Scientist and Big Data Consultant . I travel the world giving presentations on the emergence of Data Science and how it effects all industries.<br/>I have a proven track record of successfully consulting Enterprises in the area of Data Science. Ranging from Fortune 500 Companies, Universities, Hospitals, and Small to Large Businesses about the most effective Big Data, BI, and Cloud solutions.<br/>I worked for a film company as a Data Analyst for 3 years. My next position, I worked for IBM as a Big Data Consultant for the IBM Watson Machine Learning Team. Shortly after IBM, I was immediately hired as a Data Science Instructor for the 10 week Data Immersive at General Assembly.<br/>Currently I am a Data Scientist with New York Based Company "Thinkful".</p> <p>----&gt; Julian Alexander Restrepo Henao &lt;----<br/>Vectorización y Broadcasting en Python</p> <p>Descripcion: Se pretende mostrar los beneficios de la vectorización y el broadcasting en Python en el tiempo de proceso de ciclos, sobretodo en el entrenamiento de redes neuronales grandes.</p> <p>Cargo: Ingeniero electricista de la Universidad Nacional. Investigador y docente del Tecnológico de Antioquia y de la Universidad Pontificia Bolivariana en las áreas de automática y estadística.</p> <p>Gracias a nuestros patrocinadores, Huge y Ruta N.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/262987687/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.56660461425781
+---
+latitude: 6.264625072479248
+---
+location: Ruta N. 
+---
+date_start: 2019-07-15 18:30 -0500
+---
+date_end: 2019-07-15 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

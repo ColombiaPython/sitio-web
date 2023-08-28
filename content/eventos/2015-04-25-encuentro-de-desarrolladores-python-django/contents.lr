@@ -1,0 +1,27 @@
+_model: event
+---
+_slug: 2015/04/encuentro-de-desarrolladores-python-django
+---
+title: Encuentro de Desarrolladores Python/Django
+---
+information: 
+<p>Una vez más nos reunimos en la biblioteca departamental, para compartir conocimientos en python y Django.</p> <p>La idea de este Meetup es que configuremos nuestro ambiente de desarrollo y empecemos el desarrollo de una aplicación Django básica de manera conjunta.</p> <p>Esta sesión va dirigido a todo lo público. Lo único que necesitas es muchas ganas de aprender!</p> <p>Requisitos:</p> <p>1 - Lleva tu pc</p> <p>2 - Instalar Python:<br/><a href="https://www.dropbox.com/s/ao41z0f6854lsu2/instalar_python.pdf?dl=0"><a href="https://www.dropbox.co" class="linkified">https://www.dropbox.co</a>...</a>­</p> <p>3 - Descarga django</p> <p> <a href="http://django.es/descarga/"><a href="http://django.es/desc" class="linkified">http://django.es/desc</a>...</a>­</p> 
+---
+web: https://www.meetup.com/python-cali/events/221863029/
+---
+city: Cali
+---
+country: Colombia
+---
+location: Biblioteca Departamental Jorge Garcés Borrero, Salón de Eventos Piso 2 Punto Vive Digital. Callel 5 # 24A - 91
+---
+date_start: 2015-04-25 13:45 -0500
+---
+date_end: 2015-04-25 13:45 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali
