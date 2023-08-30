@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/08/meetup-python-medellin-y-medellin-ai
+---
+title: Meetup Python Medellín y Medellín AI
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Agosto 🎉, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasión nos unimos con la comunidad de Medellín AI para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:<br/>➡️ **MLOps: de modelos ganadores a implementaciones exitosas**<br/>**Por:** Ana María López<br/>**Descripción:** Esta charla es una visión práctica sobre la implementación efectiva de MLOps en el desarrollo y despliegue de modelos de aprendizaje automático. Se explorarán las etapas clave del ciclo de vida de los modelos, se compartirán mejores prácticas y se presentarán ejemplos concretos para ilustrar cómo MLOps puede maximizar el éxito de las implementaciones.</p> <p>➡️ **Aprender ML sin Morir en el Intento**<br/>**Por:** Edsel Manuel Laucho Di Meo<br/>**Descripción:** Entender las bases de ML de manera sencilla para estar al dia con las tendencias actuales</p> <p>¡No te pierdas esta oportunidad única de aprender y conectarte con otros entusiastas de AI y Python! 🤝 ¡Te esperamos! 🎊</p> <p>Agradecemos a nuestros patrocinadores [runme.dev](<a href="https://runme.dev/" class="linkified">https://runme.dev/</a>) y Nodo EAFIT</p> <p>¡No se lo pierdan!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/295445603/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2023-08-17 19:00 -0500
+---
+date_end: 2023-08-17 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

@@ -5,9 +5,9 @@ _slug: 2015/05/configurando-la-instancia-de-desarrollo-para-llevar-django-a-prod
 title: Configurando la instancia de desarrollo para llevar Django a producción
 ---
 information: 
-<p>Del ambiente de desarrollo al de producción</p> <p>En este  Meetup daremos a conocer varias de las herramientas más usadas a la hora del desarrollo de aplicaciones Django.</p> <p>Hablaremos de editores/IDE, integración con Vagrant y Docker.</p> <p>También daremos algunas recomendaciones a la hora de colocar nuestros proyectos en producción.</p> <p>Casos de Exito Django en la ciudad.</p> <p>Presentado por <a href="http://www.meetup.com/es/Django-Cali/members/9922812/">Andres Gonzalez</a>, <a href="http://www.meetup.com/es/Django-Cali/members/116591652/">Guillermo Alvarez</a>, Cristian Vargas, Cesar Pino.</p> <p>4:00 - Django: Desarrollo - Producción</p> <p>5:15 - Preguntas</p> <p>5:30 - Caso de Exito</p> <p>6:30 - Networking</p> <p>Informes: </p> <p>+57 3015541977</p> 
+<p>Del ambiente de desarrollo al de producción</p> <p>En este  Meetup daremos a conocer varias de las herramientas más usadas a la hora del desarrollo de aplicaciones Django.</p> <p>Hablaremos de editores/IDE, integración con Vagrant y Docker.</p> <p>También daremos algunas recomendaciones a la hora de colocar nuestros proyectos en producción.</p> <p>Casos de Exito Django en la ciudad.</p> <p>Presentado por <a href="http://www.meetup.com/es/Django-Cali/members/9922812/">Andres Gonzalez</a>, <a href="http://www.meetup.com/es/Django-Cali/members/116591652/">Guillermo Alvarez</a>, Cristian Vargas, Cesar Pino.</p> <p>4:00 - Django: Desarrollo - Producción</p> <p>5:15 - Preguntas</p> <p>5:30 - Caso de Exito</p> <p>6:30 - Networking</p> <p>Informes: </p> <p>[masked]</p> 
 ---
-web: https://www.meetup.com/Python-Cali/events/222820402/
+web: https://www.meetup.com/python-cali/events/222820402/
 ---
 city: Cali
 ---

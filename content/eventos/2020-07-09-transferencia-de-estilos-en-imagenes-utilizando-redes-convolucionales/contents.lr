@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/07/transferencia-de-estilos-en-imagenes-utilizando-redes-convolucionales
+---
+title: Transferencia de estilos en imágenes utilizando redes convolucionales
+---
+information: 
+<p>¡Hola Pythonista 🐍!</p> <p>Regresamos con un nuevo Meetup para este mes, donde veremos la siguiente charla:</p> <p>Transferencia de estilos en imágenes utilizando redes convolucionales | By: Jorge Martínez</p> <p>En esta charla se explicarán las bases de redes convolucionales aplicadas a la transferencia de estilos en imágenes. La extracción del contenido y estilo para sintetizar una nueva imagen.</p> <p>SPEAKER:</p> <p>Jorge Martínez<br/><a href="https://twitter.com/_JorgeMartinezG" class="linkified">https://twitter.com/_JorgeMartinezG</a></p> <p>I received an Engineering degree in Electronics, and M.Sc. degree in Electronic engineering both from Universidad del Norte (Colombia). I’m currently a GiS web developer en World Food Programme. My research interests are in computer vision and machine learning, with a focus on activity recognition and object tracking in videos.</p> <p>-----------------------------------------<br/>EQUIPO PYTHON BOGOTÁ 🐍<br/>-----------------------------------------</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/271788365/
+---
+date_start: 2020-07-09 19:00 -0500
+---
+date_end: 2020-07-09 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

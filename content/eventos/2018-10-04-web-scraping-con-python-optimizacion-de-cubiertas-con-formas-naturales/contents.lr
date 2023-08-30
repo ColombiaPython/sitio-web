@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/10/web-scraping-con-python-optimizacion-de-cubiertas-con-formas-naturales
+---
+title: Web Scraping con Python / Optimización de cubiertas con formas naturales
+---
+information: 
+<p>En este nuevo encuentro vamos a tener dos charlas:</p> <p>19:00 - 19:45<br/>Yeny Ardila<br/>UIS</p> <p>La primera charla va a ser sobre el trabajo de grado de la estudiante de Ingeniería Civil y su tema "Optimización del peso de techos planos con formas naturales (Biomímesis)". Conoceremos las generalidades del problema a resolver y miraremos los resultados obtenidos y las herramientas utilizadas en el proceso</p> <p>19:45 - 20:00<br/>Receso</p> <p>20:00 - 21:00<br/>Juan Pablo García Ferreira<br/>Cecropia Solutions</p> <p>La segunda charla va a ser una introducción al web scraping usando Python y las diferentes módulos disponibles.</p> <p>21:00 - 21:05<br/>Anuncios!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/255027533/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2018-10-04 19:00 -0500
+---
+date_end: 2018-10-04 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

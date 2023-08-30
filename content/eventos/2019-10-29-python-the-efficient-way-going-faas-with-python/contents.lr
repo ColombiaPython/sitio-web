@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/10/python-the-efficient-way-going-faas-with-python
+---
+title: Python, the efficient way - Going FaaS with Python
+---
+information: 
+<p>Hola a todos!</p> <p>📌 IMPORTANTE: Previa inscripción aquí: <a href="https://forms.gle/TyGfANZEwrgxRxP18" class="linkified">https://forms.gle/TyGfANZEwrgxRxP18</a> 📌</p> <p>Estamos felices de anunciar nuestro meetup de Octubre, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Python, the efficient way por Sebastián Arango Muñoz @charangostation</p> <p>🔎 Descripción: Una de las ventajas de Python como lenguaje es la facilidad que otorga al momento de escribir código. No obstante, tal simpleza usualmente trae consigo un mayor costo en almacenamiento y tiempo de ejecución, que se hace evidente al trabajar con grandes volúmenes de datos. Esta charla pretende entregar tips prácticos para lograr implementaciones más óptimas y eficientes al usar el lenguaje, sin perder sus ventajas.</p> <p>➡️ Going FaaS with Python por Jorge Galvis @jorlugaqui</p> <p>🔎 Descripción: Apuesto a que has escuchado la palabra "serverless", ¿verdad?. En esta charla te voy a explicar los conceptos alrededor de este nuevo paradigma y vamos también a desplegar nuestro primer servicio "serverless" en Google Cloud Platform.</p> <p>Lugar: 🏢 Ruta N - Torre C -Oficinas Huge</p> <p>Agradecemos a nuestro patrocinador Huge (<a href="https://www.hugeinc.com/" class="linkified">https://www.hugeinc.com/</a>) 💛💙</p> 
+---
+web: https://www.meetup.com/python-medellin/events/265770921/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.56659698486328
+---
+latitude: 6.264863014221191
+---
+location: Ruta N. 
+---
+date_start: 2019-10-29 19:00 -0500
+---
+date_end: 2019-10-29 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

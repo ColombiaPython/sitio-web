@@ -7,7 +7,7 @@ title: Workshop: Machine Learning Básico para Python
 information: 
 <p>IMPORTANTE: EL EVENTO ESTÁ ABIERTO PERO PARA ASISTIR ES NECESARIO ADQUIRIR UNA ENTRADA (Link abajo)</p> <p>¿Con ganas de aprender Machine Learning? Este taller, que se realizará en la Sede Norte de la Universidad Central, el sábado 25 de Mayo a las 9am, es una gran oportunidad de ponerse manos a la obra y aprender Machine Learning con Python desde ceros. Se requiere un aporte de $20.000 pesos por persona. Cupos limitados.</p> <p>⚒️ Workshop: Machine Learning Básico para Python.<br/>🎫 Tickets y más información: <a href="https://peewah.co/events/a27d90bdfb59475c9a7ce1f3de2c822b" class="linkified">https://peewah.co/events/a27d90bdfb59475c9a7ce1f3de2c822b</a> (30 cupos)</p> <p>📝 Por medio del taller, se pretende aprovechar el lenguaje de programación Python para establecer conocimientos básicos de Machine Learning. Por fortuna, debido a su popularidad generalizada como lenguaje de programación de propósito general, así como su adopción en computación científica y Machine Learning, es más accesible encontrar material de estudio para asistentes al taller puedan atender y aprender estos conceptos. Su nivel de experiencia en Python como en la programación, no serán tan indispensables, dado que se relacionará con los temas necesarios para tener un punto de partida.</p> <p>⭐ Nivel Principiante: Se requiere conocimiento previo de Python a nivel básico.</p> <p>🔑 Requerimientos: Instalación de Python: <a href="https://www.youtube.com/watch?v=9fNKy9zOPkg" class="embedded">https://www.youtube.com/watch?v=9fNKy9zOPkg</a> | Instalación de Sublime Text: <a href="https://www.youtube.com/watch?v=ItUs5mjX568" class="embedded">https://www.youtube.com/watch?v=ItUs5mjX568</a></p> <p>👨‍🏫 Instructor: Andres Benavides, Estadístico de la Universidad Nacional de Colombia. Me apasiona el Machine Learning y es por ello que pretendo que más personas adquieran conocimiento sobre esta ciencia de la computación.</p> <p>-----</p> <p>Importante: Tanto los talleristas como los organizadores hacemos nuestra labor de forma voluntaria y sin ánimo de lucro. El dinero recaudado se usa para cubrir gastos en los que incurrimos para la organización de la comunidad.</p> 
 ---
-web: https://www.meetup.com/PyData-Bogota/events/261358939/
+web: https://www.meetup.com/pydata-bogota/events/261358939/
 ---
 city: Bogotá
 ---
@@ -17,7 +17,7 @@ longitude: -74.0608139038086
 ---
 latitude: 4.662473201751709
 ---
-location: Universidad Central, Sede Norte. Cl. 75 ## 16-03
+location: Universidad Central, Sede El Lago. Carrera 15 #75-14
 ---
 date_start: 2019-05-25 09:00 -0500
 ---

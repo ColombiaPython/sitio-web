@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2020/01/1er-meetup-pyladies-colombia-2020
+---
+title: 1er Meetup PyLadies Colombia 2020
+---
+information: 
+<p>Holaaaaa, volvimos.</p> <p>Nuevo meetup en Bogotá con PyLadies Colombia &lt;3<br/>Vamos a crear nuestra primera API con Flask y Google App Engine y vamos jugar con D3 y visualización de datos.</p> <p>Dos ponentes geniales nos acompañarán, no olviden el registro aquí &gt;&gt; <a href="http://bit.ly/pyladiesbog13" class="linkified">http://bit.ly/pyladiesbog13</a></p> <p>Nos vemos pronto :)<br/>31 de enero, en el auditorio de Platzi, 6:00 p. m.</p> 
+---
+web: https://www.meetup.com/pyladies-co-bogota/events/268176993/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.05815887451172
+---
+latitude: 4.655879020690918
+---
+location: Platzi. Carrera 7 #71 - 21
+---
+date_start: 2020-01-31 18:00 -0500
+---
+date_end: 2020-01-31 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: pyladies-bogota

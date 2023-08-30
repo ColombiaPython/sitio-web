@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/05/aprende-machine-learning-con-flappy-bird-despliegue-a-heroku-con-github-actions
+---
+title: Aprende Machine Learning con Flappy Bird/ Despliegue a Heroku con GitHub Actions
+---
+information: 
+<p>Será por Zoom y también se transmitirá por facebook.</p> <p><a href="https://koombea.zoom.us/j/91689574565?pwd=OUI1OHlKbnVBUm02bllmcjdFVjlmdz09" class="linkified">https://koombea.zoom.us/j/91689574565?pwd=OUI1OHlKbnVBUm02bllmcjdFVjlmdz09</a></p> <p>Contraseña: 6WP8HP</p> <p>Charla 1:**Desplegando a Heroku desde GitHub Actions.**</p> <p>Usaremos Github actions para desplegar proyectos en Heroku sin tener que hacer uso de buildpacks.</p> <p>Ponente: Juan Rodriguez</p> <p>Soy Juan Rodriguez, desarrollador de software desde hace dos años, estudiante de 9 semestre de la Universidad del Norte. Actualmente trabajo como desarrollador python/node en Ideaware. Apasionado por contribuir en proyectos Open Source.</p> <p>---------------</p> <p>Charla 2: **Aprende Machine Learning básico jugando con Python y Flappy Bird**</p> <p>En esta charla aprenderemos conceptos básicos de Machine Learning y cómo entrenar nuestra propia red neuronal con juegos como FlappyBird!</p> <p>Ponente: Wayner Barrios</p> <p>Científico investigador en Robotics Institute - School of Computer Science Carnegie Mellon University.</p> <p>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. Las charlas serán en español<br/>3. Este mes la charla será *ONLINE*.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/270725308/
+---
+date_start: 2020-05-28 19:00 -0500
+---
+date_end: 2020-05-28 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

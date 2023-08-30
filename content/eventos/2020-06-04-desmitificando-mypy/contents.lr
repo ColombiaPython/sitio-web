@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/06/desmitificando-mypy
+---
+title: Desmitificando Mypy
+---
+information: 
+<p>¡Hola Pythonistas 🐍!</p> <p>Regresamos con un nuevo Meetup para este mes, donde veremos la siguiente charla:</p> <p>Desmitificando Mypy | By: Rudy Edelmann</p> <p>Breve introducción a tipado en Python, entender el valor de contar con documentación especifica para los tipos de datos y que ventajas nos provee a la hora de construir código a nivel de empresarial. Cuales son las ventajas de tipar código Python, derribar algunos mitos alrededor de tipado y algunos ejemplos prácticos.</p> <p>SPEAKER:</p> <p>Rudy Edelmann<br/><a href="https://twitter.com/rodolfoedelmann" class="linkified">https://twitter.com/rodolfoedelmann</a></p> <p>Desarrollador Backend en MercadoLibre, un camino recorrido desde sysadmin, devop, backend developer, machine learning developer, educador popular, fotógrafo y algunas otras profesiones fracasadas.</p> <p>SUPPORT:</p> <p>MercadoLibre<br/><a href="https://jobs.mercadolibre.com/go/Colombia/7785700/" class="linkified">https://jobs.mercadolibre.com/go/Colombia/7785700/</a></p> <p>-----------------------------------------<br/>EQUIPO PYTHON BOGOTÁ 🐍<br/>-----------------------------------------</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/271049435/
+---
+date_start: 2020-06-04 19:00 -0500
+---
+date_end: 2020-06-04 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

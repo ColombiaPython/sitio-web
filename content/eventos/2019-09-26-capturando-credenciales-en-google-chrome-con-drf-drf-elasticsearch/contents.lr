@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/09/capturando-credenciales-en-google-chrome-con-drf-drf-elasticsearch
+---
+title: Capturando credenciales en Google Chrome con DRF & DRF + ElasticSearch
+---
+information: 
+<p>El ÚNICO REGISTRO para este evento será por el siguiente formulario <a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a></p> <p>---------------</p> <p>Charla: **Capturando credenciales en Google Chrome usando Javascript y DRF**</p> <p>El propósito de la charla es compartir conocimiento con fines investigativos y no buscar invadir la privacidad de las personas. Para esto veremos cómo se extraen credenciales de sitios web como Instagram, Facebook y Gmail usando una extensión de Google Chrome, Django y Django Rest Framework para almacenar los datos capturados.</p> <p>Ponente: Oswaldo Rodriguez</p> <p>Desarrollador Backend con más de 6 años de experiencia en Python y colaborador frecuente de la comunidad PyBaq.</p> <p>---------------</p> <p>**Charla: DRF + ElasticSearch**</p> <p>Django Rest Framework es un gran paquete para el desarrollo de aplicaciones Api rest, imaginense si le sumamos otra excelente herramienta como es Elasticsearch. Esto facilita ciertos dilemas que van surgiendo en proceso de desarrollo, imaginen hacer una petición GET y no obtener sólo los datos básicos con ID de las relaciones sino traer todo el objeto de forma muy similar a como se hace con GraphQL</p> <p>Ponente: Cesar Herdenez</p> <p>Ingeniero de sistemas, desarrollador Fullstack con amplia experiencia en desarrollo Python y pionero de la comunidad PyBaq.</p> <p>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. Las charlas serán en español<br/>3. Para el acceso al edificio y ÚNICO REGISTRO de este evento, por favor diligencia este formulario ( <a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a>) (obligatorio para ingresar al lugar)</p> <p>Agenda:</p> <p>• 6:30-7:00pm - Llegada, networking<br/>• 7:00-7:40pm - Charla 1<br/>• 7:40-8:00pm - Receso, pizza<br/>• 8:00-8:40pm - Talk 2<br/>• 8:40-9:00pm - Cierre</p> <p>Observaciones:</p> <p>• El lugar tiene una capacidad limitada, por lo que le pedimos el favor a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.</p> <p>* La pizza es GRATIS gracias a PYTHON SOFTWARE FOUNDATION.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/264978787/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2019-09-26 19:00 -0500
+---
+date_end: 2019-09-26 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

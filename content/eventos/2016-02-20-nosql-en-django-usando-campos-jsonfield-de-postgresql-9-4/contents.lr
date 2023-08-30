@@ -7,7 +7,7 @@ title: NoSQL en Django usando campos JSONField de PostgreSQL 9.4
 information: 
 <p>Con la introducción de JSONField en PostgreSQL 9.4, se abrió la posibilidad para que aplicaciones que usan bases de datos relacionales, pueden almacernar documentos al estilo No-SQL. Sebastián nos explicará como usarlo en Django 1.9. </p> <p><img src="http://photos4.meetupstatic.com/photos/event/3/8/5/600_447000901.jpeg" /></p> 
 ---
-web: https://www.meetup.com/Python-Cali/events/228779718/
+web: https://www.meetup.com/python-cali/events/228779718/
 ---
 city: Cali
 ---

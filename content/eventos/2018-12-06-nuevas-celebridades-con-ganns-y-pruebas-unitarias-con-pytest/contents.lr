@@ -7,7 +7,7 @@ title: Nuevas Celebridades con GANNs y Pruebas Unitarias con PyTest
 information: 
 <p>Este es nuestro último meetup del año, con este vamos a cerrar con broche de oro un gran año para la comunidad de Python en Bucaramanga, en Colombia y en el mundo!</p> <p>En este meetup contaremos con dos temas:</p> <p>- Julián Vega nos hablará de como podemos conocer nuevas celebridades con Generative Adversarial Neural Networks:</p> <p>Las máquinas también pueden imaginar y crear a partir de algo cercano a nada, en este taller veremos como crear caras de celebridades que no existen y que fueron creadas gracias a un algorítmo de redes neuronales generativas adversarias</p> <p>- Gonzalo Peña (@goanpeca), nos hablará sobre como podemos probar nuestros código y escribir pruebas unitarias con Pytest.</p> <p>Para garantizar que las modificaciones que hacemos a nuestro código no introduzcan errores en los componentes de nuestra aplicación, librería o módulo, es indispensable llevar a cabo pruebas unitarias, que ojalá se corran automáticamente cada vez que hacemos cambios!</p> <p>Los esperamos con buñuelos, empanadas y nueva gente por conocer!</p> <p>¡Nos vemos pronto!</p> 
 ---
-web: https://www.meetup.com/PythonBucaramanga/events/256568764/
+web: https://www.meetup.com/pythonbucaramanga/events/256568764/
 ---
 city: Bucaramanga
 ---

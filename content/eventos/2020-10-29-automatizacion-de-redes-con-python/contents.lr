@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/10/automatizacion-de-redes-con-python
+---
+title: Automatización de Redes con Python
+---
+information: 
+<p>Via transmisión en Youtube</p> <p>Charla:**Automatización de Redes con Python**</p> <p>La charla tiene como finalidad dar a conocer a la comunidad una nueva perspectiva sobre el uso de Python en el área de redes y telecomunicaciones, dado la reciente evolución que esta teniendo la gestión de la red a través de nuevos paradigmas como SDN (redes definidas por software), se prevé que los ingenieros de redes o administradores de red cuenten con habilidades básicas de programación para satisfacer esta reciente demanda, para ello surge una evolución de este nuevo rol llamado NetDevOps, el cual debe satisfacer estos nuevos retos en la gestión de la red.</p> <p>Es por esto que se mostraran las principales librerías en Python para la automatización de la red, así como los principales entornos de laboratorio de redes y casos de uso basados en mi experiencia personal aplicando estas habilidades.</p> <p>Ponente: Aristides Cabana Gomez</p> <p>Soy Ingeniero de Sistemas de la Universidad del Magdalena, con mas de 8 años de experiencia laboral distribuidos en la industria de las telecomunicaciones, cajas de compensación familiar y recientemente en el sector salud, con especialidad desempeñando cargos en las áreas de las redes y telecomunicaciones e infraestructura de TIC. También soy desarrollador Python con 8 años de experiencia en automatización y scripting aplicado en telefonía IP (AGI/AMI para Asterisk), monitorización de infraestructura TI (Plugins para Nagios), herramientas TIC open source (GLPI, Glassfish, etc...) y networking (Backup y Gestión de la configuración para dispositivos Cisco y Allied Telesis).</p> <p>Comparto mi perfil profesional en la red Linkedin: <a href="https://www.linkedin.com/in/aristides-cabana" class="linkified">https://www.linkedin.com/in/aristides-cabana</a>- gomez[masked]/</p> <p>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. La charla será en español<br/>3. Este mes la charla será *ONLINE*.<br/>4. Transmitiremos la charla por el canal del YouTube de Python Colombia</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/273775924/
+---
+date_start: 2020-10-29 19:30 -0500
+---
+date_end: 2020-10-29 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

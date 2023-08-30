@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2022/11/data-centric-ai-patrones-de-reconocimiento-en-imagenologia-diagnostica
+---
+title: Data-centric AI & Patrones de reconocimiento en Imagenología diagnóstica
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Noviembre, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasión nos unimos con la comunidad de Machine Learning Colombia para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: Data-centric AI: it’s time to focus on the data<br/>➡️ Por: Nelson Cárdenas</p> <p>Descripción: Usualmente se hace foco en los modelos mientras que la recopilación de datos se ve como un evento de una sola vez. El enfoque Data-centric considera que, en general, el modelo es un problema que ya se ha resuelto varias veces y el verdadero desafío es sacar el máximo potencial de nuestros datos. Durante esta charla se explorará el concepto de Data-centric AI, qué problemas resuelve y cómo podemos usar herramientas inspiradas en este enfoque para tener proyectos más exitosos.</p> <p>➡️ Titulo: Patrones de reconocimiento en Imagenología diagnóstica, un enfoque de inteligencia artificial<br/>➡️ Por: Andres Anaya</p> <p>El Machine Learning en los ultimos años ha revolucionado el campo de la salud, es especial el area de las Imagenes medicas, durante este espacio revisaremos los conceptos basicos de reconocimiento en Imagenología diagnóstica usando inteligencia artificial.</p> <p>Agradecemos a nuestros patrocinadores Indigo (<a href="https://indigo.tech/" class="linkified">https://indigo.tech/</a>), La universidad UPB, rutaN y la alcaldía de Medellin.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/289694733/
+---
+city: Medellín, Laureles, Medellín
+---
+country: Colombia
+---
+longitude: -75.58936309814453
+---
+latitude: 6.242341041564941
+---
+location: Pontifical Bolivarian University. Circular 1 #70-01
+---
+date_start: 2022-11-16 18:30 -0500
+---
+date_end: 2022-11-16 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

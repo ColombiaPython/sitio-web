@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/03/meetup-comunidades-medellin
+---
+title: Meetup Comunidades Medellín
+---
+information: 
+<p>Para conmemorar el día de la mujer 💜, preparamos este gran evento en conjunto las comunidades de Python Medellín, PyLadies Medellin, Data Science Fem y Machine Learning Colombia. Esperamos puedas participar de este evento PRESENCIAL! 🤗<br/>Aquí esta nuestra próxima agenda:<br/>➡️ Visión Artificial con Python - Construyendo soluciones inteligentes por Maria Camila Camacho<br/>Descripción: En este espacio vamos a dar un vistazo a los desafios actuales en el campo de la visión artificial y los pilares esenciales para incursionar en esta área.<br/>Descibrirás cómo utilizar las herramientas que brinda python para desarrollar soluciones de visión artificial y procesar imágenes de manera inteligente.</p> <p>➡️ MLOps para dummies: Modelos escalables y repetibles por Ana Maria López<br/>Descripción: El objetivo de esta charla es aprender como administrar el ciclo de vida de los modelos usando MLOps, para poder hacer estos repetibles y escalables.</p> <p>Agradecemos a Platzi, Softserve y Ruta N por patrocinar este evento!</p> <p>⚠ Para poder ingresar al lugar debes estar registrado en este form para reservar tu cupo: <a href="https://bit.ly/3YWYUXa" class="linkified">https://bit.ly/3YWYUXa</a> (cupos límitados) ⚠<br/>¡No se lo pierdan!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/292382908/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.56659698486328
+---
+latitude: 6.264863014221191
+---
+location: Ruta N. 
+---
+date_start: 2023-03-28 18:30 -0500
+---
+date_end: 2023-03-28 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

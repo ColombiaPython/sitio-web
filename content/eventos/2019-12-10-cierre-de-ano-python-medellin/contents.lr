@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/12/cierre-de-ano-python-medellin
+---
+title: Cierre de año Python Medellín
+---
+information: 
+<p>Hola a todos!</p> <p>📌 IMPORTANTE: Previa inscripción aquí: <a href="https://forms.gle/PyvDMcy5gsQdHgS36" class="linkified">https://forms.gle/PyvDMcy5gsQdHgS36</a> 📌</p> <p>Estamos felices de anunciar nuestro meetup de Diciembre, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:<br/>➡️ Migrando a Python 3 sin perder la cabeza por Jonathan Vallejo<br/>🔎 La era de Python 2 ha llegado a su fin. El 1 de Enero del 2020 se acaba el soporte oficial de Python 2. Así que ya no hay que esperar más. En esta charla te compartiré las experiencias que he obtenido con mi equipo de trabajo a lo largo de varios meses para poder soportar Python 3 en todo el proyecto. Retos, estrategias y demás tips que te van a ser de ayuda en este camino.</p> <p>➡️ Introducción a funciones y programación Funcional por Luis Fernando Vasquez Vergara<br/>🔎 Enseñar los conceptos de programación funcional, y entender como se usan las funciones en python.</p> <p>Lugar: 🏢 Calle 10 #32-115 - Oficina de Globant Vizcaya, Chill Out, Billar</p> <p>Agradecemos a nuestros patrocinadores Globant (<a href="https://www.globant.com/" class="linkified">https://www.globant.com/</a>) y Huge (<a href="https://www.hugeinc.com/" class="linkified">https://www.hugeinc.com/</a>) 💛💙</p> 
+---
+web: https://www.meetup.com/python-medellin/events/266753653/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.5635757446289
+---
+latitude: 6.2084479331970215
+---
+location: Vizcaya Business Center. Calle 10 #32-115
+---
+date_start: 2019-12-10 18:30 -0500
+---
+date_end: 2019-12-10 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

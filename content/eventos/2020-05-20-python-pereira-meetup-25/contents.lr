@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/05/python-pereira-meetup-25
+---
+title: 🐍💻 Python Pereira Meetup 25
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #25 de Python Pereira 🎉</p> <p>🔗 Online: <a href="https://youtu.be/LOC3lOyIeJE" class="embedded">https://youtu.be/LOC3lOyIeJE</a></p> <p>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉GINO orm: orm para trabajar con asyncio por Pedro rivera</p> <p>🔎 Descripción:<br/>Trata sobre las necesidades de un orm para trabajar con asyncio y la solución brindada por Gino, también de los planes que tenemos como mantenedores de la librería.</p> <p>👉 Administración de Protocolos de IoT por Gary Briceño</p> <p>🔎 Descripción:<br/>Revisaremos conceptos de IoT, Arquitectura de trabajo y finalmente llegaremos a los Administradores de Protocolos de IoT, la importancia de ellos y revisaremos como Python interactua con MQTT el protocolo más utilizado para IoT.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/270697294/
+---
+date_start: 2020-05-20 18:30 -0500
+---
+date_end: 2020-05-20 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

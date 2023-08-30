@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/03/que-es-gil-esta-para-quedarse-por-que-deberias-conocerlo
+---
+title: ¿Qué es GIL? ¿Está para quedarse? ¿Por qué deberías conocerlo?
+---
+information: 
+<p>¡Hola Pythonistas 🐍!</p> <p>Regresamos con un nuevo Meetup para este mes, donde veremos la siguiente charla:</p> <p>¿Qué es GIL? ¿Está para quedarse? ¿Por qué deberías conocerlo? | By: Gustavo Angulo (woakas)</p> <p>Introducción sencilla al Python Global Interpreter Language (GIL), un tema bastante importante para cualquier developer en tecnologías Python, independiente del nivel o aplicación que se quiera realizar.</p> <p>SPEAKER:</p> <p>Gustavo Angulo (woakas)<br/><a href="https://www.linkedin.com/in/woakas/" class="linkified">https://www.linkedin.com/in/woakas/</a></p> <p>CTO de Ubidots. Ponente en la PyCon Colombia.</p> <p>EQUIPO PYTHON BOGOTÁ 🐍</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/276584747/
+---
+date_start: 2021-03-06 11:00 -0500
+---
+date_end: 2021-03-06 11:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

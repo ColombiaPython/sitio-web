@@ -7,7 +7,7 @@ title: ORMs vs RAW SQL and Flask - Cyclone: Pros & Cons
 information: 
 <p>Hi everybody!!</p> <p>This session will start with 30 minutes of networking (19:00-19: 30), first talk of 30 min and 15 min of QA and the second talk of 45 min and 15 min of QA. The event should end around 09:45 pm.</p> <p>The talks detail are:</p> <p>Andres Duque: ORMs vs RAW SQL. <a href="https://www.linkedin.com/in/saduqz/en">Linkedin</a>, <a href="https://github.com/saduqz">GitHub</a>, <a href="https://twitter.com/saduqz">Twitter</a>.</p> <p>Description:</p> <p>Pros and Cons using ORMs and RAW SQL, learn when to use ORM or RAW SQL and comparison making queries.</p> <p>Mariano Aguirre Giraldo: Flask - Cyclone: Pros &amp; Cons. <a href="https://twitter.com/nano_mag">Twitter</a>, <a href="https://github.com/nanomag">GitHub</a>, <a href="https://www.linkedin.com/in/marianoaguirregiraldo/en">Linkedin</a>, <a href="http://www.nanomag.co/">Website</a></p> <p>Description:</p> <p>Let’s know about pros and cons about two Python frameworks with a great potential in the industry. Learn when you have to implement them and how effective are depending of project type.</p> 
 ---
-web: https://www.meetup.com/Python-Medellin/events/231527770/
+web: https://www.meetup.com/python-medellin/events/231527770/
 ---
 city: Medellín
 ---

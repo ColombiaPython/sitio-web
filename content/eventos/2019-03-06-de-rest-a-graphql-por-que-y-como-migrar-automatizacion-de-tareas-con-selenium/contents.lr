@@ -7,17 +7,17 @@ title: De Rest a GraphQL, por qué y como migrar + Automatización de Tareas con
 information: 
 <p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro primer meetup de este año, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:<br/>----&gt; Carlos Martinez &lt;----<br/>De Rest a GraphQL, por qué y como migrar</p> <p>En esta charla vamos a hablar de Rest y GraphQL. Qué tienen en común? Que los diferencias? Ventajas que trae GraphQL y como implementarlo en un entorno Django. Incluso en cómo usar un API Rest junto con un API GraphQL.</p> <p>----&gt; Carolina Gómez &lt;----<br/>Automatización de Tareas con Selenium</p> <p>Cuando trabajamos con redes sociales o realizamos pruebas funcionales a una aplicación web, muchas veces tenemos tareas que son repetitivas o nos demandan mucho tiempo, pero podemos automatizarlas? La respuesta es sí, en esta charla aprenderás cómo automatizar estas tareas en un navegador con las diferentes herramientas que nos proporciona Selenium.</p> <p>Esta sesión comenzará con tiempo de Networking y continuará con las super charlas de Carlos Martinez y Carolina Gómez. Al final del evento, compartiremos un delicioso refrigerio.</p> <p>Gracias a nuestros patrocinadores, Huge y Ruta N.</p> 
 ---
-web: https://www.meetup.com/Python-Medellin/events/259371914/
+web: https://www.meetup.com/python-medellin/events/259371914/
 ---
 city: Medellín
 ---
 country: Colombia
 ---
-longitude: -75.56660461425781
+longitude: -75.56659698486328
 ---
-latitude: 6.264625072479248
+latitude: 6.264863014221191
 ---
-location: Ruta N. Cl. Barranquilla #52-20
+location: Ruta N. 
 ---
 date_start: 2019-03-06 18:30 -0500
 ---

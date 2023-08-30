@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2022/04/escribe-mejores-programas-en-python-con-pytest
+---
+title: Escribe mejores programas en Python con pytest
+---
+information: 
+<p>📣 Queremos invitarlos a nuestro meetup virtual de Abril, en esta ocasión contaremos con una interesante charla 🐍💻:</p> <p>👉 Escribe mejores programas en Python con pytest por Gonzalo Peña-Castellanos<br/>🔎 Descripción: !pytest te ayuda a escribir mejores programas!</p> <p>Pytest es un librería de python que te facilita la escritura de pruebas unitarias, cortas y legibles, y te permite escalar para crear pruebas funcionales complejas para aplicaciones y bibliotecas.</p> <p>En esta charla veremos como utilizar pytest y su ecosistema de complementos.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/285497638/
+---
+date_start: 2022-04-27 18:30 -0500
+---
+date_end: 2022-04-27 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

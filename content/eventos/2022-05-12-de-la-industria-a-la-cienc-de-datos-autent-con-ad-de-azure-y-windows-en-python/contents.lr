@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2022/05/de-la-industria-a-la-cienc-de-datos-autent-con-ad-de-azure-y-windows-en-python
+---
+title: De la Industria a la Cienc. de Datos-Autent. con AD de Azure y Windows en Python
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Mayo, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion PRESENCIAL con cupos limitados y online via youtube 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: De la Industria a la Ciencia de Datos</p> <p>➡️ Por: Juan Camilo Ramirez Mejia</p> <p>Descripción: A veces cambiar el rumbo de tu profesión resulta no solo emocionante sino altamente gratificante. La idea es enseñar cómo los datos han cambiado diferentes aspectos en mi vida profesional y el impacto que estos continuarán teniendo para la humanidad.</p> <p>➡️ Titulo: Autenticaciones con AD de Azure y Windows en Python</p> <p>➡️ Por: Miguel Alejandro Cepeda</p> <p>Descripción: Un tema que me costó bastante implementar en mis proyectos, fue la autenticación de usuarios en el sistema mediante servicios de directorio activo de Microsoft y de Azure AD, utilizando autenticación doble factor; lo cual me gustaría mucho compartir con otros colegas que estén en el mundo del desarrollo web con Python y Django.</p> <p>Agradecemos a nuestro patrocinador Gorilla Logic (<a href="https://gorillalogic.com/" class="linkified">https://gorillalogic.com/</a>) ❤️</p> <p>Recuerda que si vas a asistir presencialmente debes inscribirte en este Google Form para reservar tu cupo: <a href="https://forms.gle/t46VdYnHrPaKQXx96" class="linkified">https://forms.gle/t46VdYnHrPaKQXx96</a> (cupos límitados),<br/>No se lo pierdan!</p> <p>En caso tal de que estes en otra ciudad o no alcances un cupo presencial puedes ver el evento en el canal de youtube de Python Colombia y en nuestra pagina de facebook: <a href="https://youtu.be/qaxVJWD0LD4" class="embedded">https://youtu.be/qaxVJWD0LD4</a></p> 
+---
+web: https://www.meetup.com/python-medellin/events/285655121/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.5728530883789
+---
+latitude: 6.202645778656006
+---
+location: Centro Empresarial Buro 4.0. Carrera 43B
+---
+date_start: 2022-05-12 19:00 -0500
+---
+date_end: 2022-05-12 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

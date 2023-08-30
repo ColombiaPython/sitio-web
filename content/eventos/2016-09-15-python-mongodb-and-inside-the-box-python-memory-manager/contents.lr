@@ -7,7 +7,7 @@ title: Python + MongoDB and Inside the box: Python Memory Manager
 information: 
 <p>Hi everybody!! </p> <p>This session will start with 30 minutes of networking (19:00-19:30), first talk of 30 min and 15 min of QA, the second talk of 45 min and 15 min of QA. The event should end around 09:45 pm.</p> <p>Jairo Antonio Cuartas Molina</p> <p><a href="https://www.facebook.com/jacumol">Facebook</a>, <a href="https://twitter.com/Jacumol">Twitter</a></p> <p>* Introduction to MongoDB and Python + MongoDB = PyMongo </p> <p>- In this talk, we'll introduce us to the world of not relational, hand of MongoDB. MongoDB is a NoSQL Database (No only SQL) that allows us to store information on more natural or intuitive formats and simultaneously have a scalability that hardly seen in other databases. PyMongo also present the library that allows you to integrate MongoDB in any project with python.</p> <p>Juan Carlos Rodriguez</p> <p><a href="https://twitter.com/jcrodriguezu">Twitter</a>, <a href="https://www.facebook.com/jcrodriguezu">Facebook</a></p> <p>* Inside the box: Python Memory Manager</p> <p>- In this talk, we'll look what happens behind the scenes in Python, how memory management and variables, also talk about some useful tools for finding memory leaks.</p> 
 ---
-web: https://www.meetup.com/Python-Medellin/events/233856903/
+web: https://www.meetup.com/python-medellin/events/233856903/
 ---
 city: Medellín
 ---

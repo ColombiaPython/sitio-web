@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/09/segundo-meetup-python-tulua
+---
+title: Segundo Meetup Python Tuluá
+---
+information: 
+<p>En este segundo meetup tendremos una charla básica donde @CarMoreno nos introducirá a las estructuras de datos en Python y otra charla más avanzada, donde @ppsirg nos mostrará blockchain a través de una implementación mínima realizada en python.</p> <p>Estructuras de Datos en Python</p> <p>Haremos un recorrido por las principales estructuras de datos que nos ofrece este maravilloso lenguaje de programación de forma nativa, tales como listas, diccionarios y tuplas.</p> <p>Blockchain desde los ojos de python</p> <p>Usando el framework flask se realizó una implementación funcional de un nodo de bitcoin con fines educativos en el que se pueden apreciar todas las funciones que componen dicha tecnología.</p> 
+---
+web: https://www.meetup.com/python-tulua/events/253961876/
+---
+city: Tuluá
+---
+country: Colombia
+---
+longitude: -76.19063568115234
+---
+latitude: 4.070479869842529
+---
+location: Universidad del Valle Tuluá,  Sede Villa campestre . Al frente de la escuela Simón Bolivar
+---
+date_start: 2018-09-01 09:30 -0500
+---
+date_end: 2018-09-01 09:30 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-tulua

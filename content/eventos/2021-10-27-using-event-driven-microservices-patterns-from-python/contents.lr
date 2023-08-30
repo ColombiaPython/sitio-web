@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/10/using-event-driven-microservices-patterns-from-python
+---
+title: Using Event-Driven Microservices Patterns from Python
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Octubre, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion online via youtube 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: Using Event-Driven Microservices Patterns from Python</p> <p>➡️ Por: José Danilo Sánchez Torres - <a href="https://www.linkedin.com/in/jos%C3%A9-danilo-s%C3%A1nchez-torres-a599355a/" class="linkified">https://www.linkedin.com/in/jos%C3%A9-danilo-s%C3%A1nchez-torres-a599355a/</a></p> <p>Descripción: There are many business processes that are necessary to execute its in an asynchronous way. In this space we are going to see some scenarios on how to use Event-Driven Microservices Patterns when we need to develop distributed applications using Python Language.</p> <p>No se lo pierdan, tendremos premios!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/281525506/
+---
+date_start: 2021-10-27 19:00 -0500
+---
+date_end: 2021-10-27 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/09/rust-seguridad-velocidad-y-concurrencia
+---
+title: Rust: Seguridad, Velocidad y concurrencia!
+---
+information: 
+<p>Rust: Seguridad, Velocidad y concurrencia!</p> <p>* ¿Por qué tanto interés con Rust?<br/>* Comparación con Python<br/>* Aspectos técnicos (Ownership &amp; Borrowing, Traits, Generics Types and Zero Abstraction)<br/>* Arena de juego con el lenguaje</p> <p>Ponente: Gustavo Diaz Jaimes - Backend Developer en Ubidots</p> <p>Los esperamos con empanadas y nueva gente por conocer!</p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/264331130/
+---
+city: Bucaramanga
+---
+country: Colombia
+---
+longitude: -73.12242126464844
+---
+latitude: 7.104380130767822
+---
+location: Vivelab Bucaramanga. Centro Comercial Acropolis La Ciudadela
+---
+date_start: 2019-09-05 19:00 -0500
+---
+date_end: 2019-09-05 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/07/reencuentro-presencial-comunidad-python-cali-middlewares-y-context-processors
+---
+title: Reencuentro presencial Comunidad Python Cali - Middlewares y context processors
+---
+information: 
+<p>**AGENDA**</p> <p>* 9:30AM Inicio de Ingreso Asistentes.<br/>* 10:00AM - Historia y Futuro Python en Cali<br/>* 10:30AM - Middlewares y context processors: Cómo modificar el request antes de la vista en Django por José Luis Ariza.<br/>* 11:30 - Pizza time.</p> <p>El evento de meetup se llevará a cabo en El Lab Coworking, situado en San Fernando. Su principal objetivo es reunir a la comunidad de Python Cali después de un largo tiempo sin encontrarse. La intención es reactivar y revitalizar la comunidad.</p> <p>Durante el evento, se llevará a cabo una charla titulada "Middlewares y context processors: Cómo modificar el request antes de la vista en Django". Esta charla abordará temas relacionados con el desarrollo web utilizando el framework Django y se centrará específicamente en el uso de Middlewares y context processors para modificar las solicitudes antes de que se procesen en las vistas. Los asistentes tendrán la oportunidad de aprender sobre estas técnicas y su aplicación en proyectos de Django.</p> <p>Además de la charla, el evento también contará con un espacio para la socialización y el reencuentro entre los miembros de la comunidad. Se busca fomentar el intercambio de ideas, experiencias y conocimientos en un ambiente informal y amigable.</p> <p>Finalmente, para cerrar el evento, se ofrecerá pizza para todos los asistentes. Esta será una oportunidad para continuar las conversaciones y establecer conexiones con otros entusiastas de Python en Cali.</p> 
+---
+web: https://www.meetup.com/python-cali/events/294725188/
+---
+city: Cali
+---
+country: Colombia
+---
+longitude: -76.54611206054688
+---
+latitude: 3.4333689212799072
+---
+location: El Lab - Coworking Space. Calle 4b # 35a - 11 Barrio San Fernando
+---
+date_start: 2023-07-15 10:00 -0500
+---
+date_end: 2023-07-15 10:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali

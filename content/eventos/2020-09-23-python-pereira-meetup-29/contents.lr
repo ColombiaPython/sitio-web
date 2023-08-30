@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/09/python-pereira-meetup-29
+---
+title: 🐍💻 Python Pereira Meetup 29
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión Online #29 de Python Pereira 🎉</p> <p>En esta ocasión contaremos con una interesante charla 🐍💻:</p> <p>👉 Procesamiento de Imágenes con Python por Carlos Alberto Bustillo López<br/>🔎 Descripción:<br/>Introducción:<br/>Esta charla será una breve explicación para iniciarse en el amplió campo del procesamiento de imágenes basándonos en la librería OpenCV.<br/>En primera instancia mostraremos un caso de uso sobre un agente racional que aprende, no omnisciente, que al entrenarlo aprenda a partir de sus percepciones y le permita ser autónomo gracias a la experiencia adquirida.<br/>Luego se hablará de las etapas esenciales que se debe tener en cuenta para el procesamiento de imágenes tales como: Adquisición de imágenes; Transformación; Prepocesamiento; Filtración; Extracción de rasgos y Clasificación de objetos.</p> <p>El objetivo es que aprendamos las bases del procesamiento de imágenes mediante un ejemplo teórico-práctico. Muy útil cuando tenemos las ganas de arrancar con un proyecto de este tipo pero no sabemos por donde arrancar.</p> <p>Presentación:<br/>Yo vivo en la capital del vino Mendoza, Argentina. La provincia, representa más del 60% de la producción de vino del país.<br/>Hay una gran variedad de varietales, y para alguien que no es de la región es difícil reconocer cada uno a simple vista.<br/>Se pueden clasificar a partir de distintas características: color, pH, acidez, momentos de Hu, etc.<br/>Propongo un modelo de juguete para analizar uvas blancas, rosadas y azules.<br/>En el cual le presentamos una imagen al algoritmo y éste nos diga a qué clase de uva pertenece.</p> <p>Recursos:<br/>Se analizaron las clases grape Blue, Pink y White del dataset Fruits 360 en Kaggle.<br/>Ver: <a href="https://www.kaggle.com/moltean/fruits" class="linkified">https://www.kaggle.com/moltean/fruits</a></p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/273409202/
+---
+date_start: 2020-09-23 18:00 -0500
+---
+date_end: 2020-09-23 18:00 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

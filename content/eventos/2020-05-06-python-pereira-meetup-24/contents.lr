@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/05/python-pereira-meetup-24
+---
+title: 🐍💻 Python Pereira Meetup 24
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #24 de Python Pereira 🎉</p> <p>🔗 Online: <a href="https://youtu.be/GLHUeDFJ2VM" class="embedded">https://youtu.be/GLHUeDFJ2VM</a></p> <p>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉Mejorando la Movilidad de Médicos y Enfermeras durante el COVID-19 con Python por Mónica Ramírez</p> <p>🔎 Descripción:<br/>Resultados de la Hackaton para mejorar la movilidad del personal que trabaja en Salud y Seguridad en Bogotá durante la crísis del COVID-19. Se obtuvo el tercer puesto usando análisis exploratorio y georeferenciado y algunas de nuestras propuestas fueron aplicadas inmediatamente en la ciudad. Ideas para aplicar este tipo de análisis en otras ciudades, como Pereira</p> <p>👉 Regresión Lineal con Scikit-Learn por Sergio Andres Rubiano Rodriguez</p> <p>🔎 Descripción:<br/>Como dar los primero pasos en machine learning con la libreria scikit learn, en el cual se implementara un modelo de regresión lineal en un caso particular.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/270412517/
+---
+date_start: 2020-05-06 18:30 -0500
+---
+date_end: 2020-05-06 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

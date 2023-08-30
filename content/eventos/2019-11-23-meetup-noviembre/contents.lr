@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/11/meetup-noviembre
+---
+title: Meetup Noviembre
+---
+information: 
+<p>Meetup del mes de Noviembre 2019<br/>Alejandra Aguiar nos presenta su trabajo con machine learning y Manuel Alvarado nos muestra qué es la esteganografía.</p> 
+---
+web: https://www.meetup.com/python-tulua/events/266417172/
+---
+city: Tuluá
+---
+country: Colombia
+---
+longitude: -76.19013977050781
+---
+latitude: 4.070552825927734
+---
+location: Universidad del Valle - Sede Villa Campestre. Cl. 43 #48-77
+---
+date_start: 2019-11-23 14:30 -0500
+---
+date_end: 2019-11-23 14:30 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-tulua

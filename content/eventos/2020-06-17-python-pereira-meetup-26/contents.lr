@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/06/python-pereira-meetup-26
+---
+title: 🐍💻 Python Pereira Meetup 26
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión Online #26 de Python Pereira 🎉</p> <p>En esta ocasión contaremos con una interesante charla 🐍💻:</p> <p>👉Aplica el análisis de sentimientos a tu red social desde cero por Angelica Alexandra Landazabal Maldonado</p> <p>🔎 Descripción:<br/>El motivo de esta charla es enseñar al público presente la utilización de herramientas capaces de detectar el sentimiento alrededor de un tópico a través del análisis sentimental, por medio de las publicaciones o comentarios que se generan en la plataforma de una red social, expresando de ésta manera su emoción y analizando los factores que hacen que la comunidad genere dicho sentimiento. Así mismo, la contextualización que se genera a través de estas herramientas es de gran utilidad debido a que ayudan a un análisis profundo en base a una publicación realizada o una situación en particular, por ejemplo, cómo la está pasando la comunidad de Python en la conferencia SciPy 2019 según los comentarios publicados en Twitter. También facilita la captura de palabras claves para tratar de especificar las causas que generen el sentimiento en tiempo real y a bajo coste, debido a que se elimina la utilización de las herramientas para la realización de recolección de datos con técnicas tradicionales como las encuestas o entrevistas.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/271102964/
+---
+date_start: 2020-06-17 18:30 -0500
+---
+date_end: 2020-06-17 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

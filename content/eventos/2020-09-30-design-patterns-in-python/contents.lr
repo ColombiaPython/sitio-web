@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/09/design-patterns-in-python
+---
+title: Design Patterns in Python
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Septiembre, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion online via youtube 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Title: Design Patterns in Python por William Gómez</p> <p>🔎 Description: We solve problems daily as developers, and we normally know approaches to solve common problems, but what I also see daily is a bunch of repetitive code that could be implemented in a way that your code: 1. will be more reusable 2. will not use hardcode logic. In this talk, we will explore some python design patterns that maybe will improve your next feature.</p> <p>Github: <a href="https://github.com/williamegomezo" class="linkified">https://github.com/williamegomezo</a></p> 
+---
+web: https://www.meetup.com/python-medellin/events/273503497/
+---
+date_start: 2020-09-30 19:00 -0500
+---
+date_end: 2020-09-30 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

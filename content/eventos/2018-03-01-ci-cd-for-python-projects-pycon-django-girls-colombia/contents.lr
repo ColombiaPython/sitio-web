@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/03/ci-cd-for-python-projects-pycon-django-girls-colombia
+---
+title: CI/CD for Python Projects, PyCon & Django Girls Colombia
+---
+information: 
+<p>Importante: Para ingresar al sitio del evento se debe diligenciar el siguiente formulario: <a href="https://goo.gl/forms/rUMYd3EbnrbeAuiY2" class="linkified">https://goo.gl/forms/rUMYd3EbnrbeAuiY2</a></p> <p>¡Hola a todos!</p> <p>Anunciamos nuestro primer meetup del año, donde veremos las siguientes charlas:</p> <p>- Setting up a simple CI/CD for Python Projects</p> <p>Do you have an aside project and want to build a pipeline for CI/CD for it? this talk is for you!</p> <p>- Pycon Colombia 2018</p> <p>Resultados de la Pycon Colombia 2018, e invitación a participar en la Pycon Colombia 2019.</p> <p>- Django Girls Colombia: Inclusión tecnológica y resultados alcanzados en 2017</p> <p>Presentación de Django Girls Colombia resultados de la gestión y eventos que hemos organizado a nivel nacional, e inicio de la organización de un Django Girls en Bogotá.</p> <p>AGENDA:<br/>------------</p> <p>7:00 PM - 7:10 PM - Ingreso</p> <p>7:10 PM - 7:50 PM - Setting up a simple CI/CD for Python Projects (Jorge Galvis)</p> <p>7:50 PM - 8:10 PM - Pycon Colombia 2018 (Carlos Andres Sierra)</p> <p>8:10PM - 8:20 PM - Python Bogotá ¿En qué vamos?</p> <p>8:20PM - 8:40 PM - Django Girls Colombia: Inclusión tecnológica y resultados alcanzados en 2017 (Johanna Sanchez Vallejo)</p> <p>8:40 PM - 9:00 PM - Networking</p> <p>SPEAKERS:<br/>---------------</p> <p>Jorge Galvis<br/>Senior Python Developer at Globant<br/><a href="https://twitter.com/jorlugaqui" class="linkified">https://twitter.com/jorlugaqui</a></p> <p>Carlos Andres Sierra<br/>PhD. student of Computer Engineering / Pycon Colombia Co-Organizer<br/><a href="https://www.twitter.com/casierrav_alife" class="linkified">https://www.twitter.com/casierrav_alife</a></p> <p>Johanna Sanchez Vallejo<br/>Química / Fundadora Django Girls Colombia / Co-Organizadora Pycon Colombia / Copiloto Argentina en Python<br/><a href="https://twitter.com/ellaquimica" class="linkified">https://twitter.com/ellaquimica</a></p> <p>SPONSORS:</p> <p><a href="https://comparamejor.com/" class="linkified">https://comparamejor.com/</a><br/><a href="https://motecnologias.com/" class="linkified">https://motecnologias.com/</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/247872286/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0566177368164
+---
+latitude: 4.667305946350098
+---
+location: Comparamejor.  carrera 15 # 80 - 90
+---
+date_start: 2018-03-01 19:00 -0500
+---
+date_end: 2018-03-01 19:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota
