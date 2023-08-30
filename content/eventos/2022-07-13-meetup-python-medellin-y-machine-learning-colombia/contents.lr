@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2022/07/meetup-python-medellin-y-machine-learning-colombia
+---
+title: Meetup Python Medellín y Machine Learning Colombia
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Julio, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion nos unimos con la comunidad de Machine Learning Colombia para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: Introducción al manejo de información Geoespacial con Geopandas</p> <p>➡️ Por: Luis Vasquez</p> <p>Descripción: Uso de información geográfica usando Python</p> <p>➡️ Titulo: Clasificación de especies maderables utilizando redes neuronales livianas</p> <p>➡️ Por: Andrés Vélez Echeverri. Machine learning Engineer @ Factored</p> <p>Descripción: La correcta identificación de las especies maderables es una tarea complicada para el industria maderera e instituciones gubernamentales que regulan las diferentes leyes que aseguren un comercio legal y transparente. Actualmente, los expertos realizan este proceso utilizando las características organolépticas de la madera. Esta metodología es lenta y presenta problemas de escalabilidad, ya que adquirir dicho conocimiento toma tiempo y es laborioso. En este trabajo usamos modelos de redes neuronales adecuados para ejecutarse en dispositivos móviles. (menos de 5M parámetros). Durante la presentación examinaremos los principales retos del proyecto, las diferentes arquitecturas utilizadas así como los resultados de latencia y throughput de cada una de ellas. Al final concluimos con la arquitectura que mejor se adapta para la futura integración con aplicaciones móviles.</p> <p>Agradecemos a nuestros patrocinadores Gorilla Logic (<a href="https://gorillalogic.com/" class="linkified">https://gorillalogic.com/</a>) y Turing (<a href="https://www.turing.com/" class="linkified">https://www.turing.com/</a>)❤️</p> <p>En caso tal de que estes en otra ciudad o no alcances un cupo presencial puedes ver el evento en el canal de youtube de Python Colombia y en nuestra pagina de facebook: <a href="https://youtu.be/RMnRP-0_Qdk" class="embedded">https://youtu.be/RMnRP-0_Qdk</a></p> 
+---
+web: https://www.meetup.com/python-medellin/events/287076131/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2022-07-13 18:30 -0500
+---
+date_end: 2022-07-13 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

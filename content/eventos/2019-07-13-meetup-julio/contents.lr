@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/07/meetup-julio
+---
+title: Meetup Julio
+---
+information: 
+<p>Meetup del mes de Julio en que tendremos nuestro primer taller, para crear una aplicación con el framework Django.<br/>Previo al taller, conoceremos de entornos virtuales en python para manejar e instalar librerias.</p> 
+---
+web: https://www.meetup.com/python-tulua/events/262984909/
+---
+city: Tuluá
+---
+country: Colombia
+---
+longitude: -76.19013977050781
+---
+latitude: 4.070552825927734
+---
+location: Universidad del Valle - Sede Villa Campestre. Cl. 43 #48-77
+---
+date_start: 2019-07-13 09:00 -0500
+---
+date_end: 2019-07-13 09:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-tulua

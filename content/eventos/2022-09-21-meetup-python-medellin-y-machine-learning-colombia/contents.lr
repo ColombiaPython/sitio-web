@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2022/09/meetup-python-medellin-y-machine-learning-colombia
+---
+title: Meetup Python Medellín y Machine Learning Colombia
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Septiembre, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasión nos unimos con la comunidad de Machine Learning Colombia para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: How to choose the stack for your next website</p> <p>➡️ Por: William Gómez</p> <p>Descripción: Frequently as web developers, we are asked about implementing a new website for a client. Most of the time, we tend to propose the same solution we have implemented before even if that solution is not the most optimal for the client's needs. In this talk, we will review some stacks and architectures that can be used to create a site with optimal performance. We will tend to use python frameworks as Wagtail, Django, and Flask. Note: This talk will have also frontend code.<br/>Language: Decided on site by audience</p> <p>➡️ Titulo: GANs 101 - Una introducción práctica al mundo de las redes generativas</p> <p>➡️ Por: Andrés Felipe Zapata Palacio<br/>Descripción: Será una sesión de aprendizaje teórico-práctico en el que los asistentes entenderan qué son las redes generativas, cómo funcionan por dentro y podrán recibir una introducción práctica al tema. La parte práctica de la sesión se realizará usando Keras y PyGANs.<br/>PyGANs es un pequeño Framework que desarrollé cuando trabajé como investigador en la Universidad de Satakunta (Finlandia) en 2019. La idea detrás del Framework es establecer unas reglas comunes que faciliten el desarrollo de GANs en un ambiente académico/educativo.</p> <p>Agradecemos a nuestro patrocinador Sotfserve (<a href="https://www.softserveinc.com/en-us" class="linkified">https://www.softserveinc.com/en-us</a>) ❤️</p> <p>En caso tal de que estes en otra ciudad o no alcances un cupo presencial puedes ver el evento en el canal de youtube de Python Colombia y en nuestra pagina de facebook: <a href="https://youtu.be/xH0L2qvx62k" class="embedded">https://youtu.be/xH0L2qvx62k</a></p> 
+---
+web: https://www.meetup.com/python-medellin/events/288378466/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57303619384766
+---
+latitude: 6.197181224822998
+---
+location: WeWork Espacios de Oficinas Amobladas & Coworking. Calle 7 Sur #42-145
+---
+date_start: 2022-09-21 19:00 -0500
+---
+date_end: 2022-09-21 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

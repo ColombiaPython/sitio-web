@@ -7,17 +7,17 @@ title: Aplicación web con Framework Flask/Python y Ipywidgets: Personaliza tu j
 information: 
 <p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de mayo, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:</p> <p>----&gt; José Danilo Sánchez Torres &lt;----<br/>Aplicación web con framework flask y python</p> <p>Pasos necesarios para la instalación y pruebas de Flask y Python en aplicaciones web</p> <p>----&gt; David Hincapie &lt;----<br/>Ipywidgets: personaliza tu jupyter notebook</p> <p>Esta sesión comenzará con tiempo de Networking y continuará con las super charlas de José Danilo Sánchez Torres y David Hincapie. Al final del evento, compartiremos un delicioso refrigerio.</p> <p>Gracias a nuestros patrocinadores, Huge y Ruta N.</p> 
 ---
-web: https://www.meetup.com/Python-Medellin/events/261030025/
+web: https://www.meetup.com/python-medellin/events/261030025/
 ---
 city: Medellín
 ---
 country: Colombia
 ---
-longitude: -75.56660461425781
+longitude: -75.56659698486328
 ---
-latitude: 6.264625072479248
+latitude: 6.264863014221191
 ---
-location: Ruta N. Cl. Barranquilla ##52-20
+location: Ruta N. 
 ---
 date_start: 2019-05-09 18:30 -0500
 ---

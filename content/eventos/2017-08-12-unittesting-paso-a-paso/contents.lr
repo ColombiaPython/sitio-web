@@ -7,7 +7,7 @@ title: Unittesting paso a paso
 information: 
 <p><img src="https://secure.meetupstatic.com/photos/event/b/e/c/9/600_463548841.jpeg" /></p> <p>En esta ocasión les traemos dos nuevas e interesantes charlas </p> <p><b>Slicing en Python por Kevin Cardona Giraldo</b></p> <p>Kevin nos compartirá un poco sobre una característica muy util que tiene Python mediante la cual podemos obtener sub-iterables a partir de un iterable. </p> <p><b>Unittesting paso a paso por Milton Lenis</b></p> <p>El testing es una de las características más importantes en el desarrollo de aplicaciones, literalmente puede salvar trabajos, dinero y hasta vidas! únete a nosotros para descubrir por qué es tan importante el testing y que tiene Python para ofrecernos en esta materia.</p> <p>Para esta charla se presentará el tema y luego se hará testing en vivo a un pequeño juego del 'Ahorcado' hecho en Python. Les recomendamos entonces que si quieren seguir el código en vivo, traigan sus portátiles bien cargados (también traigan sus cargadores y extensiones) tengan Python 3 instalado y lean previamente el código del juego el cual está publicado <a href="https://gist.github.com/MiltonLn/72f4342ee938bf45881939e43b3230dc">Aquí</a>. Este código será explicado durante la charla antes de hacerle testing.</p> <p>Entonces los esperamos a todos a las 9:45 en El Lab para que compartamos un rato de calidad y discutamos de esto que tanto nos apasiona llamado Python, ¡Tendremos refrigerios!</p> 
 ---
-web: https://www.meetup.com/Python-Cali/events/242279852/
+web: https://www.meetup.com/python-cali/events/242279852/
 ---
 city: Cali
 ---

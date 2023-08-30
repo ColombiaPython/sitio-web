@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2022/12/pydata-global-2022-global-online-conference
+---
+title: PyData Global 2022 (GLOBAL ONLINE CONFERENCE)
+---
+information: 
+<p>The [PyData Global Online Conference](<a href="https://pydata.org/global2022/" class="linkified">https://pydata.org/global2022/</a>) is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.<br/>This three-day online event consists of talks, tutorials, and discussions to bring attendees the latest project features along with cutting-edge use cases.<br/>The time span of the conference stretches beyond any single time zone, reflecting the global nature of our community. To accommodate our attendees, each session will be recorded and made available to attendees the following day. Following the Conference, all recordings will be posted to the PyData YouTube channel.</p> <p>Tickets follow a pay-what-you-can model and can be found here: [<a href="https://pydata.org/global2022/tickets/](https://pydata.org/global2022/tickets/" class="linkified">https://pydata.org/global2022/tickets/](https://pydata.org/global2022/tickets/</a>)</p> <p>**Why Charge for an Online Conference?**</p> <p>Revenue from the event will go to PyData and NumFOCUS, a nonprofit organization that supports open source scientific computer programming. NumFOCUS currently sponsors 43 Open Source Projects, and organizes community-driven educational programs for users and developers of open source scientific tools.<br/>While the 2022 PyData Global Conference has no costs for venue or catering, there are still costs associated with bringing the event online. We also need to continue paying fixed costs to keep NumFOCUS healthy, as well as continue supporting the open source community.<br/>For this reason, we have chosen to sell tickets with a pay-what-you-can pricing model. We appreciate your support for us during this time so that we can keep supporting you in the future.</p> 
+---
+web: https://www.meetup.com/pydata-bogota/events/288055637/
+---
+date_start: 2022-12-01 01:30 -0500
+---
+date_end: 2022-12-01 01:30 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: pydata-bogota

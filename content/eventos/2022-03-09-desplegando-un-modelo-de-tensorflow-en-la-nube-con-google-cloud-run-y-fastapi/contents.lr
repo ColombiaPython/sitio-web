@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2022/03/desplegando-un-modelo-de-tensorflow-en-la-nube-con-google-cloud-run-y-fastapi
+---
+title: Desplegando un modelo de Tensorflow en la nube con Google Cloud Run y FastAPI
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Marzo, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion online via youtube 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Titulo: Desplegando un modelo de Tensorflow en la nube con Google Cloud Run y FastAPI</p> <p>➡️ Por: Jose Laruta - Software Developer Engineer</p> <p>Descripción: Se tiene bastante información acerca de distintas etapas en el entrenamiento y evaluación inicial de un modelo de machine learning/deep learning, sin embargo, a la hora de desplegar este modelo en una aplicación de la vida real la información es más escasa o dispersa. En esta charla veremos cómo desplegar un modelo personalizado de TensorFlow en forma de una API REST usando contenedores docker y una plataforma serverless en Google Cloud Platform. Usaremos Python y FastAPI para crear la API REST, Docker para empaquetar la aplicación en un contenedor, Google Cloud Run para desplegarla y Google Cloud Build para configurar un mecanismo de despliegue contínuo.</p> <p>Agradecemos a nuestro patrocinador Landing AI (<a href="https://landing.ai/" class="linkified">https://landing.ai/</a>) ❤️</p> <p>No se lo pierdan, tendremos premios!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/284403119/
+---
+date_start: 2022-03-09 19:00 -0500
+---
+date_end: 2022-03-09 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

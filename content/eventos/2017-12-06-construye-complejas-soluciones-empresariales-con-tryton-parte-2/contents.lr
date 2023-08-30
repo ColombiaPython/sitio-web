@@ -7,7 +7,7 @@ title: Construye complejas soluciones empresariales (con Tryton) - Parte 2
 information: 
 <p>Material: <a href="https://drive.google.com/open?id=1N9GSXWy3hBlC743ayM3F65qWY-nKZYwF" class="linkified">https://drive.google.com/open?id=1N9GSXWy3hBlC743ayM3F65qWY-nKZYwF</a></p> <p>• Lo que haremos<br/>Oscar Alvarez Montero - Gerente en Presik (<a href="http://www.presik.com" class="linkified">http://www.presik.com</a>), nos estará hablando de Tryton ahora si manos a la obra!</p> <p>Sobre Tryton:<br/>Aplicación de tres capas licenciado en GPL-3, escrito en lenguaje Python y usa PostgreSQL como base de datos. Es el núcleo base de complejas soluciones empresariales que es modular, escalable y seguro.</p> <p><a href="https://www.tryton.org/es/" class="linkified">https://www.tryton.org/es/</a></p> <p>• Nivel de dificultad<br/>Medio: Estaremos usando Linux, pip, ambientes virtuales y python básico es un requisito! Arrancaremos con una maquina virtual y haremos el proceso de arranque con un script para poder entrar en materia rápidamente!</p> <p>• Lo que hay que traer<br/>Vamos a continuar el ciclo de talleres aplicados de Python Bucaramanga. Vamos a tener disponibilidad de 20 computadores con las instalaciones de los módulos y programas necesarios. y 5 puestos de trabajo para personas con computador portátil.</p> <p>• Información importante<br/>Es importante estar registrado en el Meetup para poder asistir al evento, son cupos limitados.</p> 
 ---
-web: https://www.meetup.com/PythonBucaramanga/events/245519843/
+web: https://www.meetup.com/pythonbucaramanga/events/245519843/
 ---
 city: Bucaramanga
 ---

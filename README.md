@@ -43,14 +43,12 @@ https://colombiapython.github.io/sitio-web-produccion/
 
 ### Instalación
 
-* Instalar [virtualenv](https://virtualenv.pypa.io/en/stable/installation/)
+Activar virtual env
 
 * ⚠️️ Requiere previa instalación de Python ⚠️
 
-### Crear entorno virtual
-
-```
-$ virtualenv <nombre_entorno>
+```bash
+python -m venv <nombre_entorno>
 ```
 
 ### Activar entorno virtual

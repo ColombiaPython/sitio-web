@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2022/07/automatizacion-de-ui-en-python-aplicando-el-patron-screenplay
+---
+title: Automatización de UI en Python aplicando el patrón Screenplay
+---
+information: 
+<p>Vamos a tomar el sitio de Python Barranquilla y otra página de ejemplo adicional para aprender cómo podemos hacer automatizaciones de ui usando una alternativa al patrón pague object model, el patrón screenplay para desarrollar pruebas de ui fácilmente extensibles.<br/>Ponente: Sergio Orozco<br/>Co-organizador de Python Barranquilla. Trabaja en Perficient como QA automation engineer, lleva 9 años trabajando en desarrollo de software de los cuales los últimos 4 los ha dedicado al área de QA.</p> <p>***</p> <p>Adicionales:</p> <p>Transmitiremos por el canal del YouTube de Python Colombia. Suscríbete y dale click a la campanita para estar pendiente de eventos en otras comunidades xD</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/287291051/
+---
+date_start: 2022-07-28 19:30 -0500
+---
+date_end: 2022-07-28 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

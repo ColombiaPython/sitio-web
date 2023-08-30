@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/05/aplicaciones-de-machine-learning-en-paralelo-con-dask
+---
+title: Aplicaciones de Machine Learning en paralelo con Dask.
+---
+information: 
+<p>Buenos dias Pythonistas!!!</p> <p>Para nuestro tercer evento del año, estaremos hablando sobre aplicaciones de Machine Learning en paralelo con Dask. Daremos una introducción al uso de la herramienta Dask, como una de las formas más eficaces de llevar aplicaciones de machine learning a sistemas de cómputo distribuido.</p> <p>Ponente: Julian Vega.</p> <p>Julián Vega es un Ingeniero de Machine Learning con 4 años de experiencia implementando modelos en producción para compañías como Rappi, Movistar, Claro, Enel, entre otras. Es un apasionado por la unión entre música y la tecnología.</p> <p>Redes sociales:<br/><a href="https://www.linkedin.com/in/julianvai/" class="linkified">https://www.linkedin.com/in/julianvai/</a><br/><a href="https://github.com/JulianVai" class="linkified">https://github.com/JulianVai</a></p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/278097941/
+---
+date_start: 2021-05-20 19:00 -0500
+---
+date_end: 2021-05-20 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

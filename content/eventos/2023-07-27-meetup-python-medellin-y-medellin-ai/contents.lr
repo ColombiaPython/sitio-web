@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/07/meetup-python-medellin-y-medellin-ai
+---
+title: Meetup Python Medellín y Medellín AI
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Julio 🎉, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasión nos unimos con la comunidad de Medellín AI para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:<br/>➡️ **AIOHTTP - Asynchronous HTTP Request**<br/>**Por:** William Gómez<br/>En esta charla, William nos hablará sobre aiohttp, una librería de Python que nos permite tener peticiones HTTP de forma asíncrona desde el lado del cliente o servidor. 💻 ¿Qué significa que las peticiones sean asíncronas y cómo incrementa esto el perfomance? 🚀 ¡Esto y mucho más lo descubriremos en esta charla! 🤓</p> <p>➡️ **Dynabench**<br/>**Por:** Juan Manuel Ciro<br/>Durante esta charla, Juan Manuel nos presentará Dynabench, la primera plataforma dinámica de evaluación comparativa para Machine Learning. 🤖 Dynabench aborda una necesidad crítica en nuestra comunidad: los modelos contemporáneos rápidamente logran un rendimiento sobresaliente en tareas de evaluación comparativa pero, sin embargo, fallan en ejemplos simples y tambalean en escenarios del mundo real. 😱</p> <p>¡No te pierdas esta oportunidad única de aprender y conectarte con otros entusiastas de AI y Python! 🤝 ¡Te esperamos! 🎊</p> <p>Agradecemos a nuestros patrocinadores Source Meridian y Nodo EAFIT</p> <p>⚠ Para poder ingresar al lugar debes estar registrado en este form para reservar tu cupo: [<a href="https://forms.gle/3yF9uwWQb6h4kY1C9](https://forms.gle/3yF9uwWQb6h4kY1C9" class="linkified">https://forms.gle/3yF9uwWQb6h4kY1C9](https://forms.gle/3yF9uwWQb6h4kY1C9</a>) (cupos límitados) ⚠</p> <p>¡No se lo pierdan!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/295006312/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2023-07-27 18:30 -0500
+---
+date_end: 2023-07-27 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

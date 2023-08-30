@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/09/building-an-etl-with-apache-beam-and-python-getting-started-with-google-bigquery
+---
+title: Building an ETL with Apache Beam and Python-Getting Started with Google BigQuery
+---
+information: 
+<p>Hola a todos!</p> <p>📌 IMPORTANTE: Previa inscripción aquí: <a href="https://forms.gle/Lth8LQKVRaUg5oxn9" class="linkified">https://forms.gle/Lth8LQKVRaUg5oxn9</a> 📌</p> <p>Estamos felices de anunciar nuestro meetup de Septiembre, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:<br/>➡️ Building an ETL with Apache Beam and Python por Esteban Maya Cadavid<br/>➡️ Getting Started with Google BigQuery por William Gomez<br/>Lugar: 🏢 Calle 10 #32-115 - Oficina de Globant Vizcaya, Chill Out, Billar</p> <p>Agradecemos a nuestros patrocinadores Globant (<a href="https://www.globant.com/" class="linkified">https://www.globant.com/</a>) y Huge (<a href="https://www.hugeinc.com/" class="linkified">https://www.hugeinc.com/</a>) 💛💙</p> 
+---
+web: https://www.meetup.com/python-medellin/events/264761038/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.5635757446289
+---
+latitude: 6.2084479331970215
+---
+location: Vizcaya Business Center. Calle 10 #32-115
+---
+date_start: 2019-09-24 18:30 -0500
+---
+date_end: 2019-09-24 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

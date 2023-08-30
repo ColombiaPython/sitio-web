@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/08/segundo-meetup-python-pasto
+---
+title: Segundo Meetup Python Pasto
+---
+information: 
+<p>En este segundo meetup daremos una introducción a Django Rest Framework con el cual podrás construir APIs e implementaremos una capa de seguridad con OAuth y OpenID</p> 
+---
+web: https://www.meetup.com/python-pasto/events/253612928/
+---
+city: Pasto
+---
+country: Colombia
+---
+longitude: -77.28285217285156
+---
+latitude: 1.224045991897583
+---
+location: Auditorio Jesús de Nazareth. Calle 18 No 34-104 Pasto (N)
+---
+date_start: 2018-08-30 18:00 -0500
+---
+date_end: 2018-08-30 18:00 -0500
+---
+province: Nariño
+---
+organizers: 
+
+#### organization ####
+username: python-pasto

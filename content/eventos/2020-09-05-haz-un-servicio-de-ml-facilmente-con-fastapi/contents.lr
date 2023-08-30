@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/09/haz-un-servicio-de-ml-facilmente-con-fastapi
+---
+title: Haz un servicio de ML fácilmente con FastAPI
+---
+information: 
+<p>¡Hola Pythonistas 🐍!</p> <p>Regresamos con un nuevo Meetup para este mes, donde veremos la siguiente charla:</p> <p>Haz un servicio de ML fácilmente con FastAPI | By: Sebastián Ramírez (tiangolo)</p> <p>Sabes Machine Learning, tus modelos funcionan bien, al equipo le gustan los resultados... pero ahora necesitas "servir" los modelos en un API para que otros puedan interactuar con el (desarrolladores / equipo de frontend / otros sistemas).</p> <p>En esta charla aprenderás cómo hacer fácilmente un API web (JSON), listo para producción, para tus modelos de ML, con FastAPI, incluyendo las mejores prácticas por defecto... explicado con memes.</p> <p>Con muy poco código tendrás documentación automática e interactiva, validación de datos, estándares abiertos (OpenAPI, JSON Schema, OAuth2), y de los mejores desempeños disponibles para Python (a la par con Go y NodeJS).</p> <p>Encima de eso, tendrás autocompletado y chequeos de errores de tipos en tu editor, incluso para tus propios datos, sin importar la complejidad que tengan.</p> <p>La charla está dirigida a desarrolladores de Machine Learning que solo saben lo básico de desarrollo web: qué es un API web, HTTP, JSON, etc. Pero puede ser apropiada para cualquier persona interesada en construir APIs web. Es una charla muy práctica, basada en ejemplos de código.</p> <p>SPEAKER:</p> <p>Sebastián Ramírez (tiangolo)<br/><a href="https://twitter.com/tiangolo" class="linkified">https://twitter.com/tiangolo</a></p> <p>Soy Sebastián Ramírez (tiangolo), creador de FastAPI, Typer y otras herramientas de código libre.</p> <p>En este momento soy desarrollador en Explosion, en Berlín, Alemania.</p> <p>EQUIPO PYTHON BOGOTÁ 🐍</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/272884973/
+---
+date_start: 2020-09-05 11:00 -0500
+---
+date_end: 2020-09-05 11:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

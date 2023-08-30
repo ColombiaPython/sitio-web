@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2022/03/introduccion-a-pyspark
+---
+title: Introducción a PySpark
+---
+information: 
+<p>Buenos días a todos!</p> <p>Retomamos actividades con la comunidad Python Bucaramanga para este año 2022 y para nuestro primer evento, estaremos hablando de PySpark.</p> <p>Veremos una panorámica general de Spark y su aplicación para manipulación de big data mediante los lenguajes de Python y SQL. Se explicará la arquitectura computacional de Spark y algunos ejemplo utilizando Google Colab.</p> <p>**Ponentes:**</p> <p>**María Valentina Ariza Gómez:** Valentina es ingeniera de datos en Dataknow, le gusta mucho todo lo relacionado con ETL, ELT, y análisis de datos. Le gusta mucho el cine, leer y admirar atardeceres.</p> <p>**Laura López Bedoya:** Laura López es ingeniera de telecomunicaciones y científica de datos. Le gusta responder preguntas con ayuda de los datos, NLP y crear visualizaciones. Apasionada por la fotografía y armar rompecabezas 3D.</p> <p>**Redes (Linkedin, Twitter, Instagram, Medium)**<br/>**@valearizag**<br/>**@lauralpezb**</p> <p>¡Nos vemos pronto!</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/284548980/
+---
+date_start: 2022-03-22 19:00 -0500
+---
+date_end: 2022-03-22 19:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

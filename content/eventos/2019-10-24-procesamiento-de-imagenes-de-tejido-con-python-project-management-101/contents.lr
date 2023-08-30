@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/10/procesamiento-de-imagenes-de-tejido-con-python-project-management-101
+---
+title: Procesamiento de imágenes de tejido con Python + Project Management 101
+---
+information: 
+<p>El ÚNICO REGISTRO para este evento será por el siguiente formulario<br/><a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a></p> <p>---------------</p> <p>Charla: **Un método de evaluación de borrosidad y superposición integral de imágenes para optimizar el escaneo de tejidos desde microscopio con Python**</p> <p>Esta presentación propone un algoritmo optimizado para la detección de borrosidad mientras se realiza un escaneo de muestra de tejido patológico en tiempo real, asegurando que cada imagen escaneada<br/>estará enfocada, utilizando la comparación de zonas superpuestas de dos imágenes consecutivas, y la regresión lineal multivariada de una serie de funciones para detectar enfoque.</p> <p>Ponente: Jaisir Bayuelo</p> <p>Desarrollador con 2 años de experiencia en la construcción de aplicaciones web y móviles con amplio interés en la investigación y la ciencia de datos</p> <p>---------------</p> <p>**Charla: Project Management 101**</p> <p>Una de las opciones de carrera más valorada por las industrias digitales es la figura del Project Manager. En esta charla nos enfocaremos a descargar las características y habilidades de esta carrera y los tipos de roles que puede abarcar como el de Scrum Master.</p> <p>Ponente: Juan Sebastián Quintero</p> <p>Project Manager con 5 años de experiencia, trabajando actualmente en Zemoga liderando equipos de desarrollo para clientes como Play Station y Morningstar</p> <p>-----</p> <p>Adicionales:</p> <p>1. El evento es gratuito.<br/>2. Las charlas serán en español<br/>3. Para el acceso al edificio y ÚNICO REGISTRO de este evento, por favor diligencia este formulario<br/>( <a href="https://goo.gl/forms/emO5cJshnrhQsvO92" class="linkified">https://goo.gl/forms/emO5cJshnrhQsvO92</a>)<br/>(obligatorio para ingresar al lugar)</p> <p>Agenda:</p> <p>• 6:30-7:00pm - Llegada, networking<br/>• 7:00-7:40pm - Charla 1<br/>• 7:40-8:00pm - Receso, pizza<br/>• 8:00-8:40pm - Talk 2<br/>• 8:40-9:00pm - Cierre</p> <p>Observaciones:</p> <p>• El lugar tiene una capacidad limitada, por lo que le pedimos el favor a los que no puedan asistir que se den de baja de la lista de confirmados, para que otras personas tengan la oportunidad de participar.</p> <p>* La pizza es GRATIS gracias a PYTHON SOFTWARE FOUNDATION.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/265770066/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81707763671875
+---
+latitude: 11.007957458496094
+---
+location: Koombea. Calle 85 # 53-14
+---
+date_start: 2019-10-24 19:00 -0500
+---
+date_end: 2019-10-24 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

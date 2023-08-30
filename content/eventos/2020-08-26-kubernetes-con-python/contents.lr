@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/08/kubernetes-con-python
+---
+title: Kubernetes con Python
+---
+information: 
+<p>¡Hola Pythonista 🐍!</p> <p>Regresamos con un nuevo Meetup para este mes, donde veremos la siguiente charla:</p> <p>Kubernetes con Python | By: Alvaro Bohorquez &amp; Ricardo Urrego</p> <p>Introducción a Kubernetes explicando sus generalidades, conceptos clave, capacidades, casos de uso y su forma de trabajo para desplegar una aplicación web de Python de manera local o en IBM Cloud.</p> <p>SPEAKERS:</p> <p>Alvaro Bohorquez<br/><a href="https://www.linkedin.com/public-profile/in/aalejandrobc/" class="linkified">https://www.linkedin.com/public-profile/in/aalejandrobc/</a></p> <p>Ricardo Urrego<br/><a href="https://co.linkedin.com/public-profile/in/ricardo-urrego-arias/" class="linkified">https://co.linkedin.com/public-profile/in/ricardo-urrego-arias/</a></p> <p>Ejercemos el rol de Client Technical Specialist en IBM Colombia, especialistas en los servicios de Cloud de IBM y con experiencia de desarrollo en Python.</p> <p>EQUIPO PYTHON BOGOTÁ 🐍</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/272792724/
+---
+date_start: 2020-08-26 18:30 -0500
+---
+date_end: 2020-08-26 18:30 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

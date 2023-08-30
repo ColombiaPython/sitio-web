@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/03/python-bogota-meetup-presencial-miercoles-1-marzo-2023-6-45-pm
+---
+title: Python Bogotá - Meetup Presencial, Miércoles 1 Marzo 2023, 6:45 PM
+---
+information: 
+<p>**IMPORTANTE. PARA ASISTIR AL EVENTO DEBES DILIGENCIAR ESTE FORMULARIO** Regístrate: <a href="https://forms.gle/o8XKfj69c5Qh9X8dA" class="linkified">https://forms.gle/o8XKfj69c5Qh9X8dA</a>. **DE LO CONTRARIO** **NO PODRÁS INGRESAR**, (CUPOS LIMITADOS)</p> <p>¡Hola a toda nuestra comunidad Pythonistas🐍🐍!</p> <p>Regresamos con un nuevo Meetup para este año, el evento será el **Miércoles 1 de Marzo 2023**, a las 6:45 pm. No olvides LLEGAR PUNTUAL.</p> <p>**AGENDA:**</p> <p>6:45pm - 7:00pm: Apertura del evento espacio networking<br/>7:00pm - 7:45pm: Fast API para impacientes, por Oscar Riojas<br/>7:50pm - 8:30pm: Microservicios con FastAPI y Poetry, por Daniel Andrés<br/>8:30pm - 9:00pm Networking 🍕🍕🍕</p> <p>**NOTA:** *No olvides llevar tu documento de identidad, el cual registraste en el formulario, ya que lo solicita la seguridad del edificio.*</p> <p>**PATROCINADORES:**</p> <p>**Axiacore** (<a href="https://axiacore.com/" class="linkified">https://axiacore.com/</a>)<br/>Axiacore es una consultora digital, especializada en estrategia de producto y tecnología, diseño de experiencias y desarrollo de software.<br/>**Platzi** (<a href="https://platzi.com/" class="linkified">https://platzi.com/</a>)<br/>Platzi es una plataforma latinoamericana de educación en línea. Nos apoya en la reactivación de eventos presenciales.</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/291690039/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.06330871582031
+---
+latitude: 4.656693935394287
+---
+location: Cra. 14a #69-35. Carrera 14a #69-35
+---
+date_start: 2023-03-01 18:45 -0500
+---
+date_end: 2023-03-01 18:45 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota

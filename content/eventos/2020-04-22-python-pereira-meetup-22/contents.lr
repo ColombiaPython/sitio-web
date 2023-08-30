@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/04/python-pereira-meetup-22
+---
+title: 🐍💻 Python Pereira Meetup 22
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #22 de Python Pereira 🎉</p> <p>🔗 Online: <a href="https://youtu.be/Rd-KrHZYxZE" class="embedded">https://youtu.be/Rd-KrHZYxZE</a></p> <p>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 #StayHome: Modelando Epidemias con Python por Fabio Andrés Pinto Oviedo</p> <p>🔎 Descripción:<br/>Estaré explicando el concepto de modelización matemática y los modelos SIR y SEIR para modelado de enfermedades infecciosas utilizando el paquete científico de python.</p> <p>👉 View and Analyze logs of your applications in Python por José Danilo Sánchez Torres</p> <p>🔎 Descripción:<br/>Currently it is important to define metrics at the different stages of software development. In our cloud applications and local applications is an added value in our work to use information from the logs generated in our applications in python as part of possible decisions either to fix an error in your application or analyze our application more detailed way</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/270083966/
+---
+date_start: 2020-04-22 18:30 -0500
+---
+date_end: 2020-04-22 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

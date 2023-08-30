@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2020/08/python-under-the-hood
+---
+title: Python under the hood
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Agosto, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasion online via youtube y será en Ingles 🤗</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Title: Python under the hood.<br/>🔎 Description: Every abstraction brings some cost. While coding in Python we usually don’t care about memory management, objects sizes and allocated resources. That’s actually good since we can focus on solving domain level problems. However, it is also worth being aware what’s happening under Python’s hood. Within this presentation I will focus on some lower level details related to built-in containers and some interpreter level facts.<br/>Speaker: Paweł Stoworowicz (<a href="https://www.linkedin.com/in/pawel-stoworowicz/" class="linkified">https://www.linkedin.com/in/pawel-stoworowicz/</a>)<br/>Language: English</p> 
+---
+web: https://www.meetup.com/python-medellin/events/272654928/
+---
+date_start: 2020-08-22 10:00 -0500
+---
+date_end: 2020-08-22 10:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

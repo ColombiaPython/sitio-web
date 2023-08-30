@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/08/hola-epico-visualizacion-con-python-matplotlib-plotly
+---
+title: ¡Hola Épico! Visualización con Python: Matplotlib & Plotly
+---
+information: 
+<p>RECUERDA INSCRIBIRTE AQUÍ: <a href="http://bit.ly/epicobogota" class="linkified">http://bit.ly/epicobogota</a></p> <p>Este es nuestro tercer meetup. Y estamos en el marco del evento Épico por Bogotá, un evento único donde puedes conocer muchas comunidades y hacer un networking increíble.</p> <p>Contaremos con nuestro maravilloso ponente:<br/>David Delgado, quien nos contará sobre visualización con python usando Matplotlib &amp; Plotly.</p> <p>Estaremos en la Sala 4 con nuestro ponente desde las 7:25 hasta las 8:15</p> <p>¡Será brutal!</p> <p>Los esperamos</p> 
+---
+web: https://www.meetup.com/pyladies-co-bogota/events/253349790/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.0511474609375
+---
+latitude: 4.677831172943115
+---
+location: Cámara de Comercio de Bogotá. Carrera 15 # 93A-10
+---
+date_start: 2018-08-06 17:30 -0500
+---
+date_end: 2018-08-06 17:30 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: pyladies-bogota

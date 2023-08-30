@@ -7,7 +7,7 @@ title: MongoDB + Django
 information: 
 <p>Agenda:</p> <p>10:00 AM Llegada de Asistentes</p> <p>10:15 AM MongoDB con Python por <b>Julián Cantillo</b></p> <p>11:00 AM Caso de Exito: Collector Formularios para dispositivos móviles (Django + MongoDB + Mobile apps) por <b>Andrés Buitrago</b>.</p> <p>En esa ocasión las comunidades de MongoDB y Django se unen para realizar este evento, en el cual discutiremos la integración de estas dos tecnologías a partir de nuestras experiencias y tendremos la oportunidad de conocer acerca de un proyecto de uno de los integrantes de la comunidad que usa estas tecnologías en su producto.</p> 
 ---
-web: https://www.meetup.com/Python-Cali/events/225469370/
+web: https://www.meetup.com/python-cali/events/225469370/
 ---
 city: Cali
 ---

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2020/02/pub-sub-queue-server-with-postgresql-the-magic-of-python-generators
+---
+title: Pub/Sub & Queue Server with Postgresql - The magic of python generators
+---
+information: 
+<p>Hola a todos!</p> <p>📌 IMPORTANTE: Previa inscripción aquí: <a href="https://forms.gle/tqPmJ52Cans7Px4Y9" class="linkified">https://forms.gle/tqPmJ52Cans7Px4Y9</a> 📌</p> <p>Estamos felices de anunciar nuestro meetup de Febrero, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ Pub/Sub &amp; Queue Server with Postgresql por Daniel Valencia<br/>🔎 Descripción: En ocasiones, es probable que lleguemos a necesitar un servidor Pub/Sub (publish and subscribe). Daniel nos mostrará Postgresql como alternativa de solución y presentará un ejemplo de pub/sub &amp; queue server usando Postgresql</p> <p>➡️ The magic of python generators: make your code better now! por Kevin Jose Hernandez Gonzalez<br/>🔎 Descripción: En esta charla hablo sobre diferentes casos de usos de generadores en Python y explico porque son una solución genial y elegante. Hablo sobre como mejorar porciones de código ya existente con solo implementar generadores. Todo con ejemplos :)</p> <p>Lugar: 🏢 Av. El Poblado #5A 113, One plaza - Oficinas de Globant, Terraza piso 18</p> <p>Agradecemos a nuestros patrocinadores Globant (<a href="https://www.globant.com/" class="linkified">https://www.globant.com/</a>) y Huge (<a href="https://www.hugeinc.com/" class="linkified">https://www.hugeinc.com/</a>) 💛💙</p> 
+---
+web: https://www.meetup.com/python-medellin/events/268854644/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57189178466797
+---
+latitude: 6.207071781158447
+---
+location: Centro Empresarial One Plaza. Avenida El Poblado #5A-113
+---
+date_start: 2020-02-27 18:30 -0500
+---
+date_end: 2020-02-27 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

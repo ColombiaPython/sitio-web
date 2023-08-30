@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2019/10/python-pereira-meetup-16-aniversario-2
+---
+title: 🐍💻 Python Pereira Meetup #16 - Aniversario 2
+---
+information: 
+<p>📣Queremos invitarlos a la Reunión #16 de Python Pereira 🎉- Aniversario 2!<br/>En esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 MongoDB Aggregation Framework por Germán Grandas</p> <p>🔎 Descripción:<br/>En esta charla se hablará sobre el framework de agregaciones de mongoDB, el cuál proporciona una serie de funciones que facilitan realizar determinados trabajos sobre ese motor de base de datos.</p> <p>👦 Sobre Germán:<br/>Estudiante de décimo semestre de ingeniería de sistemas y computación, Apasionado por la ciencia de los datos.<br/><a href="https://github.com/GermanGrandas" class="linkified">https://github.com/GermanGrandas</a></p> <p>👉 integrando Django REST, Google-maps y React Native en una aplicación móvil por Juan Diego Castaño Gómez</p> <p>🔎 Descripción:<br/>Se presentará una forma para interactuar, a través de react-native, con Google-maps y Django REST en un ejemplo practico de una app móvil de rutas de ciclismo.</p> <p>👦 Sobre Juan Diego:<br/>Estudiante de 7 semestre de ingeniería de sistemas. Entusiasta por el desarrollo web moderno. Participo actualmente en un proyecto de investigación de análisis de datos en la UTP.<br/><a href="https://www.linkedin.com/in/juan-diego-casta%C3%B1o-gomez-ba9459158/" class="linkified">https://www.linkedin.com/in/juan-diego-casta%C3%B1o-gomez-ba9459158/</a></p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito<br/>🚩Contamos con cupos limitados, así que es importante inscribirse para cuestiones de logística.<br/>🚩Al final tendremos un espacio de networking para charlar y compartir, acompañado de un delicioso refrigerio aportado por nuestros patrocinadores<br/>🚩Agradecemos a elastic.co, julianX.com y monoku.com por apoyarnos en nuestros eventos 😍</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/265117661/
+---
+city: Pereira
+---
+country: Colombia
+---
+longitude: -75.6898422241211
+---
+latitude: 4.796055793762207
+---
+location: Centro de innovación (CIDT-UTP). Carrera 27 #10-02
+---
+date_start: 2019-10-17 18:30 -0500
+---
+date_end: 2019-10-17 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

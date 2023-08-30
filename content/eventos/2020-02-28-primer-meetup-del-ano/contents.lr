@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2020/02/primer-meetup-del-ano
+---
+title: 🐍Primer Meetup del año
+---
+information: 
+<p>💚💚💚💚💚💚💚💚</p> <p>Esperamos que se encuentre muy bien. Estamos felices de compartir con toda la comunidad este año. En el proximo meetup nos acompañaran:</p> <p>⭐⭐⭐⭐⭐⭐⭐⭐<br/>Danilo Britto<br/>Titulo: Introducción a Serverless con AWS Chalice y Python<br/>Descripción:<br/>Breve introducción de qué es Serverless computing, AWS lambda, AWS Chalice, y por último finaliceremos con una Demo.</p> <p>🦄🦄🦄🦄🦄🦄🦄🦄<br/>Maris Botero<br/>Aprendamos Lógica de programación con python<br/>Introducción para resolver problemas y no morir en el intento</p> 
+---
+web: https://www.meetup.com/pyladies-co-medellin/events/268935063/
+---
+city: Medellín
+---
+country: Colombia
+---
+longitude: -75.566650390625
+---
+latitude: 6.264953136444092
+---
+location: Ruta N - Sala multiple #1  . Calle 67 Nº 52-20, Medellín
+---
+date_start: 2020-02-28 18:30 -0500
+---
+date_end: 2020-02-28 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: pyladies-medellin

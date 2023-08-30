@@ -1,0 +1,46 @@
+name: "Desplegar pagina"
+
+on:
+  pull_request:
+    branches:
+      - "*"
+  push:
+    branches:
+      - "develop"
+      - "production"
+  workflow_dispatch:
+
+env:
+  DEPLOY: >-
+    ${{
+    github.event_name != 'pull_request'
+    &&
+      (github.ref == 'refs/heads/develop' || github.ref == 'refs/heads/production')
+    }}
+  OUTPUT: _html
+  TZ: America/Bogota
+
+jobs:
+  build:
+    name: Construir sitio web lektor
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Instalar Lektor
+        run: |
+          pipx ensurepath
+          pipx install lektor
+
+      - name: Construir pagina
+        run: lektor build -O '${{ env.OUTPUT }}'
+
+      - name: Desplegar pagina
+        if: env.DEPLOY == 'true'
+        run: lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/}
+        env:
+          LEKTOR_DEPLOY_USERNAME: ColombiaPython
+          LEKTOR_DEPLOY_PASSWORD: ${{ secrets.GITHUB_TOKEN }}

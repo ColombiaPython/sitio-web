@@ -7,7 +7,7 @@ title: Taller: Construyendo un sitio estático con Lektor
 information: 
 <p>Muchas librería en muchos lenguajes nos permiten escribir código del lado del servidor (backend) para poder procesar y volver nuestros sitios dinámicos. A veces no necesitamos toda la complejidad de un servidor dinámico y para esos casos podemos usar generadores estáticos como Lektor CMS escrito en Python. Adicionalmente si hospedamos nuestro código en lugares como Github, podemos servir nuestras páginas gratis, o a muy bajo costo comprando un dominio personalizado.</p> <p>Vamos a ver:</p> <p>1.) Como iniciar un proyecto<br/>2.) Crear unos modelos básicos (Si, lektor nos permite crear modelos!)<br/>3.) Crear contenido usando la interfaz administrativa (Si, lektor nos incluye una!)<br/>4.) Ajustar una plantilla (Usando Bootstrap) y Jinja2<br/>5.) Desplegar el sitio usando github pages e integración continua con Travis</p> <p>Requisitos<br/>1.) Computador portatil (o los del vivelab)<br/>2.) Python instalado<br/>3.) Git instalado y configurado + una cuenta con Github.com<br/>4.) Alguna idea de sitio web (Opcional)<br/>5.) Alguna plantilla (Opcional)</p> <p>Esto es un taller por ende vamos a estar trabajando sobre el computador. Hay computadores en la sala del Vivelab pero si tienes un equipo portatil, traelo y así puedes trabajar en él directamente!</p> <p>Nos vemos!</p> 
 ---
-web: https://www.meetup.com/PythonBucaramanga/events/250990647/
+web: https://www.meetup.com/pythonbucaramanga/events/250990647/
 ---
 city: Bucaramanga
 ---

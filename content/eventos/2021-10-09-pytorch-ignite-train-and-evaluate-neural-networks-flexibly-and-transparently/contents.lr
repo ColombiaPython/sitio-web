@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/10/pytorch-ignite-train-and-evaluate-neural-networks-flexibly-and-transparently
+---
+title: PyTorch-Ignite: train and evaluate neural networks flexibly and transparently
+---
+information: 
+<p>PyTorch-Ignite: train and evaluate neural networks flexibly and transparently</p> <p>- Language:<br/>This talk will be given in english.</p> <p>- Description:<br/>PyTorch-Ignite is an open-source project helping users to train and evaluate neural networks in PyTorch.</p> <p>Being unique in its way to build user custom training pipelines the tool provides interoperable components: engine, handlers, metrics etc</p> <p>In this presentation you will learn about the library, a quick-start example, how to convert pure PyTorch code to PyTorch + Ignite.</p> <p>Finally, we will talk about the project and its community involvement.</p> <p>- Speaker:<br/>Victor is Software Engineer at Quansight, based in France and working on AI-related open source projects, like PyTorch, Torchvision and PyTorch-Ignite. Previously worked as a deep learning computer vision applications engineer.</p> <p>------------</p> <p>PyTorch-Ignite: proyecto de código abierto para entrenar y evaluar redes neuronales de forma flexible y transparente</p> <p>- Language:<br/>Esta charla va a ser dada en inglés.</p> <p>- Descripción:<br/>PyTorch-Ignite es un proyecto de código abierto que ayuda a los usuarios a entrenar y evaluar redes neuronales en PyTorch.</p> <p>Al ser única en su forma de crear flujos de trabajo personalizados para el usuario, la herramienta proporciona componentes interoperables: motor, controladores, métricas, etc.</p> <p>En esta presentación, aprenderá sobre la biblioteca, un ejemplo de inicio rápido, cómo convertir código PyTorch puro a PyTorch + Ignite.</p> <p>Finalmente, hablaremos sobre el proyecto y su participación comunitaria.</p> <p>- Ponente:<br/>Victor es ingeniero de software en Quansight, con sede en Francia y trabaja en proyectos de código abierto relacionados con la inteligencia artificial, como PyTorch, Torchvision y PyTorch-Ignite. Anteriormente trabajó como ingeniero de aplicaciones de visión artificial de aprendizaje profundo.</p> 
+---
+web: https://www.meetup.com/pythonbucaramanga/events/280989498/
+---
+date_start: 2021-10-09 11:00 -0500
+---
+date_end: 2021-10-09 11:00 -0500
+---
+province: Santander
+---
+organizers: 
+
+#### organization ####
+username: python-bucaramanga

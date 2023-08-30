@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2021/03/creando-un-microservicio-usando-fastapi-mongo-vscode-mas-que-un-editor
+---
+title: Creando un microservicio usando FastAPI + Mongo - VSCode, más que un editor
+---
+information: 
+<p>📣 Queremos invitarlos al primer meetup virtual del año, en esta ocasión contaremos con dos interesantes charlas 🐍💻:</p> <p>👉 Creando un microservicio para almacenar archivos usando FastAPI + Mongo por Germán Grandas.<br/>🔎 Descripción: Dentro de todas las funcionalidades de MongoDb existe una diseñada para el almacenamiento de archivos llamada GridFS. En esta charla veremos cómo crear un GridFS, cómo agregar y descargar archivos del Grid usando como interfaz para comunicarnos con este servicio Motor, finalmente pondremos a disposición de los usuarios esta funcionalidad construyendo un servicio REST usando FastAPI.</p> <p>👉 VSCode, más que un editor (Introducción al Debugging) por Alejandro E. Rendon.<br/>🔎 Descripción: En el campo de la programación es común encontrarse con que nuestro código no funciona y simplemente no encontramos la razón. En algunas ocasiones, dedicamos mucho tiempo recorriendo las implementaciones y tratando de revisar las salidas para detectar posibles fallas, pistas o simplemente realizar pruebas. Ese tipo de operaciones podrían ser ejecutadas con eficiencia utilizando un Debugger.</p> <p>El debugger o depurador es una herramienta que permite crear ambientes controlados en los cuales podemos comprobar la funcionalidad o simular cierto tipo de acciones en una implementación.</p> <p>En esta ocasión hablaré sobre las ventajas y desventajas de usar este tipos de herramientas. Además, usaré VSCode como caso de estudio.</p> <p>⚠️Información importante⚠️<br/>🚩Evento Gratuito</p> <p>📄P.D.📄 Si estas interesado en participar como ponente o patrocinar nuestros Meetups, contáctanos por este medio o escríbenos a nuestro buzón en [masked] .</p> 
+---
+web: https://www.meetup.com/pythonpereira/events/276812873/
+---
+date_start: 2021-03-18 18:30 -0500
+---
+date_end: 2021-03-18 18:30 -0500
+---
+province: Risaralda
+---
+organizers: 
+
+#### organization ####
+username: python-pereira

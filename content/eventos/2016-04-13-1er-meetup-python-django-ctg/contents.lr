@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2016/04/1er-meetup-python-django-ctg
+---
+title: 1er MeetUp Python/Django CTG
+---
+information: 
+<p>Agendate enseguida!<br/>Vamos a hablar de los objetivos de la comunidad, cúales son los beneficios de estar en una comunidad como esta, comunidades en Colombia y más. No se te olvide traer para hacer la vaca!</p> 
+---
+web: https://www.meetup.com/pythonctg/events/230135037/
+---
+city: Cartagena
+---
+country: Colombia
+---
+longitude: -75.50599670410156
+---
+latitude: 10.402413368225098
+---
+location: Universidad de Cartagena, Sede Piedra de Bolivar. Avenida del Consulado #Calle 30 No. 48 – 152
+---
+date_start: 2016-04-13 18:00 -0500
+---
+date_end: 2016-04-13 18:00 -0500
+---
+province: Bolivar
+---
+organizers: 
+
+#### organization ####
+username: python-cartagena

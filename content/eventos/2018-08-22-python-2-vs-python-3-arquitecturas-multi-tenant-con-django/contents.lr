@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2018/08/python-2-vs-python-3-arquitecturas-multi-tenant-con-django
+---
+title: Python 2 vs. Python 3 + Arquitecturas Multi-Tenant con Django
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar un nuevo meetup donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí está nuestra próxima agenda:</p> <p>----&gt;&gt; Isabella López &lt;&lt;----<br/>* Python 2 vs. Python 3<br/>Github: ilopte</p> <p>----&gt;&gt; Daniel Correa &lt;&lt;----<br/>* Multi-Tenant con Django<br/>Github: danielcb29<br/>WebSite: <a href="https://danielcb29.github.io/" class="linkified">https://danielcb29.github.io/</a></p> <p>Esta sesión comenzará con tiempo de Networking y continuará con las super charlas de Isabella López y Daniel Correa. Al final del evento, compartiremos un delicioso refrigerio gracias a nuestro patrocinador, Huge!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/253812585/
+---
+city: Medellin
+---
+country: Colombia
+---
+longitude: -75.5738525390625
+---
+latitude: 6.209245204925537
+---
+location: NODO Space Coworking. Calle 7D # 43C – 134
+---
+date_start: 2018-08-22 18:30 -0500
+---
+date_end: 2018-08-22 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
