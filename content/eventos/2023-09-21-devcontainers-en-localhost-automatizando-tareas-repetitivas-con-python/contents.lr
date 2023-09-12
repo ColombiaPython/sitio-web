@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/09/devcontainers-en-localhost-automatizando-tareas-repetitivas-con-python
+---
+title: Devcontainers en localhost + automatizando tareas repetitivas con Python
+---
+information: 
+<p>⏰ \*\*\* Recordatorio:\*\*\* Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/G2ZDu3tYSEfuh4pd9](https://forms.gle/G2ZDu3tYSEfuh4pd9" class="linkified">https://forms.gle/G2ZDu3tYSEfuh4pd9](https://forms.gle/G2ZDu3tYSEfuh4pd9</a>)</p> <p>**📣 Solucionando el tipico "en mi local funciona" usando DevContainers, Docker y Github codespaces**</p> <p>📄 La charla busca mostrar algunos ejemplos de implementación de devcontainers con Github codespaces que facilitan la ejecución de proyectos con Django y Lektor.</p> <p>**👨‍💻Ponente:** Sergio Orozco</p> <p>Ingeniero de sistemas de la Corporación Universitaria Americana originario de Barranquilla con 11 años de experiencia en desarrollo de software, Co-Organizador de Python Barranquilla, Trabajo actualmente en Perficient como software developer</p> <p>**📣 Automatización de tareas repetitivas con Python: deja que los Scripts trabajen por tí.**</p> <p>📄 Se busca mostrar cómo Python puede ser utilizado para automatizar tareas repetitivas en el ámbito laboral o personal. Presenta ejemplos de automatización de procesos como:</p> <p>* La descarga de archivos<br/>* El procesamiento de datos<br/>* El envío de correos electrónicos.</p> <p>Con ejemplos prácticos, los asistentes podrán comprender cómo ahorrar tiempo y esfuerzo mediante la programación de scripts.</p> <p>**👨‍💻Ponente:** Pedro Bonilla</p> <p>Soy estudiante de física, en doble programa de lic. en matemáticas de la universidad del Atlántico, desarrollador web, hacker ético con experiencia en Cyberseguridad, seguridad en dispositivos IoT, backend. Investigo acerca de cómo combinar la estenografía con el álgebra abstracta.</p> <p>***</p> <p>🗓 Adicionales:</p> <p>1. 🎥 El evento será híbrido. Presencial en Barranquilla y transmisión vía el **YouTube** de Python Colombia: [<a href="https://www.youtube.com/watch?v=jnZatfMc6rM](https://www.youtube.com/watch?v=jnZatfMc6rM" class="embedded">https://www.youtube.com/watch?v=jnZatfMc6rM](https://www.youtube.com/watch?v=jnZatfMc6rM</a>)<br/>2. 🏢 \*\*\* Para el ingreso\*\*\* al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/G2ZDu3tYSEfuh4pd9](https://forms.gle/G2ZDu3tYSEfuh4pd9" class="linkified">https://forms.gle/G2ZDu3tYSEfuh4pd9](https://forms.gle/G2ZDu3tYSEfuh4pd9</a>)<br/>3. ⏰ El formulario cierra a las 12 del medio día del día del evento.<br/>4. 🏃‍♂️🏃‍♀️ Solo las primeras 50 personas podrán tener su cupo asegurado debido al aforo máximo del lugar</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/295962620/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81694793701172
+---
+latitude: 11.00793743133545
+---
+location: Koombea. Calle 85 #53-14
+---
+date_start: 2023-09-21 19:30 -0500
+---
+date_end: 2023-09-21 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla
