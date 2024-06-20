@@ -2,7 +2,7 @@ name: "Actualizar eventos meetup"
 
 on:
   schedule:
-    - cron: "0 12 * * 6" # Todos los sabados a las 12:00
+    - cron: "0 17 1 * *" # El primero de cada mes a mediodia UTC-5 Github esta en formato UTC
   workflow_dispatch:
 
 jobs:
