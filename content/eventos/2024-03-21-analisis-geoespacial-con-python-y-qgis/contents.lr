@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/03/analisis-geoespacial-con-python-y-qgis
+---
+title: Análisis Geoespacial con Python y QGIS
+---
+information: 
+<p>\*\*\* Recordatorio:\*\*\* Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**:<br/>[<a href="https://forms.gle/jdB9eNS5Kow9PVBP6](https://www.google.com/url?q=https://forms.gle/jdB9eNS5Kow9PVBP6&amp;amp;sa=D&amp;amp;source=calendar&amp;amp;usd=2&amp;amp;usg=AOvVaw352p2UOxNHzxmf3yuLgWdh" class="linkified">https://forms.gle/jdB9eNS5Kow9PVBP6](https://www.google.com/url?q=https://forms.gle/jdB9eNS5Kow9PVBP6&amp;amp;sa=D&amp;amp;source=calendar&amp;amp;usd=2&amp;amp;usg=AOvVaw352p2UOxNHzxmf3yuLgWdh</a>)</p> <p>Esta charla busca aprovechar el runtime de Python dentro de QGIS para desarrollar algoritmos que automaticen procesos utilizados generalmente en el contexto de emergencias y desastres. Mediante cortos scripts, se mostrarán como manejar los datos geoespaciales para obtener un resultado y la integración de estos dentro de procesos más complejos.</p> <p>**Ponente:** Jorge Martinez</p> <p>Ingeniero electronico de la universidad del norte. Actualmente laboro en la division de emergencias del Programa Mundial de Alimentos (WFP).</p> <p>**Nivel de la charla:** Intermedio</p> <p>***</p> <p>Adicionales:</p> <p>1. El evento será híbrido. Presencial en Barranquilla y transmisión vía el **YouTube** de Python Colombia [<a href="https://www.youtube.com/watch?v=3bwIca0m6_U](https://www.youtube.com/watch?v=3bwIca0m6_U" class="embedded">https://www.youtube.com/watch?v=3bwIca0m6_U](https://www.youtube.com/watch?v=3bwIca0m6_U</a>)<br/>2. Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/jdB9eNS5Kow9PVBP6](https://www.google.com/url?q=https://forms.gle/jdB9eNS5Kow9PVBP6&amp;amp;sa=D&amp;amp;source=calendar&amp;amp;usd=2&amp;amp;usg=AOvVaw352p2UOxNHzxmf3yuLgWdh" class="linkified">https://forms.gle/jdB9eNS5Kow9PVBP6](https://www.google.com/url?q=https://forms.gle/jdB9eNS5Kow9PVBP6&amp;amp;sa=D&amp;amp;source=calendar&amp;amp;usd=2&amp;amp;usg=AOvVaw352p2UOxNHzxmf3yuLgWdh</a>)<br/>3. El formulario cierra a las 12 del medio día del día del evento.<br/>4. Solo las primeras 50 personas podrán tener su cupo asegurado debido al aforo máximo del lugar.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/299736886/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81694793701172
+---
+latitude: 11.00793743133545
+---
+location: Koombea. Calle 85 #53-14
+---
+date_start: 2024-03-21 19:30 -0500
+---
+date_end: 2024-03-21 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

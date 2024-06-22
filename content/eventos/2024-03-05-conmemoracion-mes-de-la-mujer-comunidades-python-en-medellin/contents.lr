@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/03/conmemoracion-mes-de-la-mujer-comunidades-python-en-medellin
+---
+title: Conmemoración Mes de la Mujer - Comunidades Python en Medellín
+---
+information: 
+<p>¡Primer meetup del año! 🥳🎉</p> <p>No te pierdas este próximo 5 de marzo a las 6:30pm, nuestro primer evento presencial donde tendremos dos grandes charlas:</p> <p>👨🏻‍💻Aprendizaje reforzado: Modelos de Machine Learning que juegan videojuegos - Edsel Manuel Laucho</p> <p>➡️ Descripción: Veremos qué es el aprendizaje reforzado, los conceptos esenciales y para qué se usa. Además veremos un ejemplo practico de un modelo que aprende a jugar un videojuego sencillo con la libreria GYM de OpenAI     </p> <p>👩🏻‍💻 ¡Haz que tus datos hablen! Resalta los datos de valor que encontraste con Python - Sharon Camacho<br/>➡️ Descripción: Ahora que sus datos están limpios y sus modelos están calibrados con precisión, ¿Cómo resaltamos patrones o valores que tienen un mayor impacto?<br/>¡Una imagen vale más que mil palabras! y en esta charla aprenderás cómo aplicar los atributos de pre-atención usando librerías como Matplotlib, Seaborn y Plotly.</p> <p>Además estaremos unidos con las comunidades Pyladies y Django Girls Colombia en conmemoración al mes de la mujer 💜🌸🎉</p> <p>¡No te lo puedes perder! (Cupos Limitados)</p> <p>Agradecemos a nuestro patrocinador [Gorilla Logic](<a href="https://www.instagram.com/gorilla_logic/" class="linkified">https://www.instagram.com/gorilla_logic/</a>) 💛💙</p> <p>Recuerda que si vas a asistir presencialmente debes inscribirte en este Google Form para reservar tu cupo: [<a href="https://forms.gle/MT5dAeXedsntYKsX9](https://forms.gle/MT5dAeXedsntYKsX9" class="linkified">https://forms.gle/MT5dAeXedsntYKsX9](https://forms.gle/MT5dAeXedsntYKsX9</a>) (Si no estas inscrito en este form no podrás ingresar)</p> 
+---
+web: https://www.meetup.com/python-medellin/events/299299304/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.5731201171875
+---
+latitude: 6.2025251388549805
+---
+location: Centro Empresarial Buro 4.0. Carrera 43B
+---
+date_start: 2024-03-05 18:30 -0500
+---
+date_end: 2024-03-05 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
