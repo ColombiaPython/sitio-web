@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/05/meetup-python-medellin-y-medellin-ai
+---
+title: Meetup Python Medellín y Medellín AI
+---
+information: 
+<p>👋 ¡Hola a todos!<br/>Estamos felices de anunciar nuestro meetup de Mayo 🎉, En esta ocasión nos unimos con la comunidad de Medellín AI para hacer un evento PRESENCIAL 🤗</p> <p>Fecha: 9 de mayo 🗓<br/>Hora: 6:30pm ⏰<br/>Lugar: Bloque 38 Auditorio 101 de la Universidad EAFIT 🏫</p> <p>Aquí esta nuestra próxima agenda:</p> <p>🎙 En la primera charla, Johnny Montoya, nos hablará sobre Sam, the AI real estate specialist at La Haus: Learnings and Challenges with LLM at scale. 🤖</p> <p>🎙 En la segunda charla, Cesar Quintero, nos hablará sobre Cómo prevenir el Fraude con Machine Learning: ¿Misión Imposible o Éxito Inevitable? 💻</p> <p>👉 ¡Aprovechen esta gran oportunidad de aprender, compartir y conectar! ¡Los esperamos! 🙌</p> <p>Agradecemos a nuestros patrocinadores Jetbridge y Nodo EAFIT.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/300760495/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2024-05-09 18:30 -0500
+---
+date_end: 2024-05-09 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/11/analisis-y-estadistica-de-fifa-24
+---
+title: Análisis y estadística de FIFA 24
+---
+information: 
+<p>\*\*\* Recordatorio:\*\*\* Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/PvkVwwZ7TK9NpmMeA](https://forms.gle/PvkVwwZ7TK9NpmMeA" class="linkified">https://forms.gle/PvkVwwZ7TK9NpmMeA](https://forms.gle/PvkVwwZ7TK9NpmMeA</a>)</p> <p>A través de librerías como Pandas, me gustaría compartir esto con la comunidad, ya que en los últimos días he podido estudiar esta temática. Me parece interesante como puedo manipular la información de manera masiva, y exportar información desde archivos **.CSV**, sacando conclusiones que para diferentes usos son útiles para nuestro uso laboral o personal.</p> <p>**Ponente:** Carlos Andrés Castañeda</p> <p>Soy desarrollador de software, estudiante de último semestre de ingeniería de Sistemas de la corporación universitaria de Salamanca, tengo 1 año de experiencia de desarrollo con .Net y Angular. He cursado y realizado cursos de desarrollo en Python, tengo hobbies como tocar la batería, viajar y probar todas las hamburguesas 🍔 que se crucen en el camino.</p> <p>***</p> <p>Adicionales:</p> <p>1. El evento será híbrido. Presencial en Barranquilla y transmisión vía el **YouTube** de Python Colombia [<a href="https://www.youtube.com/watch?v=9YOtG3K9tYo](https://www.youtube.com/watch?v=9YOtG3K9tYo" class="embedded">https://www.youtube.com/watch?v=9YOtG3K9tYo](https://www.youtube.com/watch?v=9YOtG3K9tYo</a>)<br/>2. Para el ingreso al edificio de Koombea **será obligatorio diligenciar el siguiente formulario**: [<a href="https://forms.gle/PvkVwwZ7TK9NpmMeA](https://forms.gle/PvkVwwZ7TK9NpmMeA" class="linkified">https://forms.gle/PvkVwwZ7TK9NpmMeA](https://forms.gle/PvkVwwZ7TK9NpmMeA</a>)<br/>3. El formulario cierra a las 12 del medio día del día del evento.<br/>4. Solo las primeras 50 personas podrán tener su cupo asegurado debido al aforo máximo del lugar.</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/297406811/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.81694793701172
+---
+latitude: 11.00793743133545
+---
+location: Koombea. Calle 85 #53-14
+---
+date_start: 2023-11-30 19:30 -0500
+---
+date_end: 2023-11-30 19:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/10/pyday-cali-2023
+---
+title: PyDay Cali 2023
+---
+information: 
+<p>PyDay Cali es un evento gratuito y apasionante de un día de duración que busca ayudar en la difusión de uno de los lenguajes de programación con más crecimiento del momento: Python. En este evento podrás asistir a charlas que tratan sobre herramientas, librerías, buenas prácticas y otros detalles relacionados con el lenguaje y su comunidad.</p> <p>Evento totalmente gratuito!!!<br/>Separa tu boleto, cupos limitados<br/>[Registro aquí](<a href="https://www.eventbrite.co/e/pyday-cali-2023-tickets-716034798357" class="linkified">https://www.eventbrite.co/e/pyday-cali-2023-tickets-716034798357</a>)</p> 
+---
+web: https://www.meetup.com/python-cali/events/296256613/
+---
+city: Jamundí, Cali
+---
+country: Colombia
+---
+longitude: -76.52298736572266
+---
+latitude: 3.3536529541015625
+---
+location: Universidad Autónoma de Occidente. Vía Cali - Puerto Tejada #115-85
+---
+date_start: 2023-10-21 09:00 -0500
+---
+date_end: 2023-10-21 09:00 -0500
+---
+province: Valle del Cauca
+---
+organizers: 
+
+#### organization ####
+username: python-cali
