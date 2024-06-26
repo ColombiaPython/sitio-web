@@ -48,6 +48,11 @@ jobs:
 
       - name: Desplegar pagina
         if: env.DEPLOY == 'true'
-        run: lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/} --key $DEPLOY_TOKEN
         env:
-          DEPLOY_TOKEN: ${{ steps.generate_access_token.outputs.token }}
+          GITHUB_TOKEN: ${{ steps.generate_access_token.outputs.token }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ env.GITHUB_TOKEN }}@github.com/ColombiaPython/sitio-web-desarrollo.git
+          lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/}
+
