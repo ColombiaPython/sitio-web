@@ -55,20 +55,7 @@ jobs:
       - name: Deploy Lektor site
         if: env.DEPLOY == 'true'
         env:
-          GITHUB_TOKEN: ${{ steps.generate_access_token.outputs.token }}
+          LEKTOR_DEPLOY_USERNAME: lektor
+          LEKTOR_DEPLOY_PASSWORD: ${{ steps.generate_access_token.outputs.token }}
         run: |
-          git config --global user.name "pythonco-auth[bot]"
-          git config --global user.email "pythonco-auth[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ steps.generate_access_token.outputs.token }}@github.com/ColombiaPython/sitio-web-desarrollo.git
-          
-          # Ensure that the 'gh-pages' branch exists
-          if ! git rev-parse --verify origin/gh-pages; then
-            git checkout --orphan gh-pages
-            git reset --hard
-            echo "Initializing gh-pages branch" > README.md
-            git add README.md
-            git commit -m "Initialize gh-pages branch"
-            git push origin gh-pages
-          fi
-          
           lektor deploy -O '${{ env.OUTPUT }}'
