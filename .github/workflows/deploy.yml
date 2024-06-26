@@ -9,6 +9,8 @@ on:
       - "develop"
       - "production"
   workflow_dispatch:
+permissions:
+  contents: write
 
 env:
   DEPLOY: >-
