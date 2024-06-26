@@ -52,14 +52,10 @@ jobs:
       - name: Build Lektor site
         run: lektor build -O '${{ env.OUTPUT }}'
 
-      - name: Get current branch name
-        id: get_branch_name
-        run: echo "branch_name=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
-
       - name: Deploy Lektor site
         if: env.DEPLOY == 'true'
         env:
           LEKTOR_DEPLOY_USERNAME: lektor
           LEKTOR_DEPLOY_PASSWORD: ${{ steps.generate_access_token.outputs.token }}
         run: |
-          lektor deploy -O '${{ env.OUTPUT }} $BRANCH_NAME'
+          lektor deploy -O '${{ env.OUTPUT }}' ${{ github.head_ref || github.ref_name }}
