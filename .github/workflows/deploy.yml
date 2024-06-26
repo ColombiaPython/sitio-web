@@ -25,6 +25,14 @@ jobs:
     name: Construir sitio web lektor
     runs-on: ubuntu-latest
     steps:
+      - name: Generate access token
+        if: always()
+        id: generate_access_token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.PYTHON_CO_APP_ID }}
+          private-key: ${{ secrets.PYTHON_CO_APP_KEY }}
+          owner: ${{ github.repository_owner }}
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
@@ -43,4 +51,4 @@ jobs:
         run: lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/}
         env:
           LEKTOR_DEPLOY_USERNAME: ColombiaPython
-          LEKTOR_DEPLOY_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
+          LEKTOR_DEPLOY_PASSWORD: ${{ steps.generate_access_token.outputs.token }}
