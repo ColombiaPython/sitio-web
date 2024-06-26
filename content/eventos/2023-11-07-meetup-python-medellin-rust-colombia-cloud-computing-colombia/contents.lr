@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/11/meetup-python-medellin-rust-colombia-cloud-computing-colombia
+---
+title: Meetup Python Medellín - Rust Colombia - Cloud Computing Colombia
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Noviembre 🎉, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!! En esta ocasión nos unimos con las comunidades de Rust Colombia y Cloud Computing Colombia para hacer un evento PRESENCIAL 🤗</p> <p>Aquí esta nuestra próxima agenda:<br/>➡️ **Como garantizar backwards compability con distintas versiones de Python**<br/>**Por:** Juan Felipe Hernandez</p> <p>➡️ **Speeding Python with Rust: introduction to PyO3**<br/>**Por:** Cristian García<br/>**Descripción:** In this talk we will learn about PyO3, a framework that lets you create Python modules with Rust. As a practical example we will see how to expose some of Rust's ordered data structures like BTreeMap to Python and benchmark it against current Python solutions.</p> <p>¡No te pierdas esta oportunidad única de aprender y conectarte con otros entusiastas de Rust y Python! 🤝 ¡Te esperamos! 🎊</p> <p>Agradecemos a nuestros patrocinadores Source Meridian y Nodo EAFIT</p> <p>¡No se lo pierdan!</p> 
+---
+web: https://www.meetup.com/python-medellin/events/297114342/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2023-11-07 19:00 -0500
+---
+date_end: 2023-11-07 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2023/12/meetup-python-medellin-y-medellin-ai
+---
+title: Meetup Python Medellín y Medellín AI
+---
+information: 
+<p>👋 ¡Hola a todos! ¿Están listos para el último meetup del año entre Medellín AI y Python Medellín? 🎉<br/>Fecha: 5 de diciembre 🗓<br/>Hora: 6:30pm ⏰<br/>Lugar: Bloque 38 Auditorio 101 de la Universidad EAFIT 🏫<br/>🎙 En la primera charla, José Alberto Arango Sánchez, Machine learning Engineer de Konecta, nos mostrará cómo hacer que los modelos de lenguaje interactúen con el mundo usando LangChain, un framework open source que simplifica el proceso de construir aplicaciones como chatbots y agentes virtuales. 📚<br/>🎙 En la segunda charla, Sebastián Rodríguez Colina, Machine learning Engineer de Landing AI, nos hablará sobre la relación entre la productividad, la costo efectividad y la estrategia de testing en el proceso de despliegue de software, con ejemplos de código. 💻<br/>👉 ¡Aprovechen esta gran oportunidad de aprender, compartir y conectar! ¡Los esperamos! 🙌</p> <p>Agradecemos a nuestros patrocinadores Factored y Nodo EAFIT.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/297545375/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2023-12-05 18:30 -0500
+---
+date_end: 2023-12-05 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

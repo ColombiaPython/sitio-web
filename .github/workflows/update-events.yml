@@ -1,0 +1,63 @@
+name: "Actualizar eventos meetup"
+
+on:
+  schedule:
+    - cron: "0 17 1 * *" # El primero de cada mes a mediodia UTC-5 Github esta en formato UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    if: github.repository_owner == 'ColombiaPython'
+    name: Actualizar eventos meetup
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout@v4
+        uses: actions/checkout@v4
+
+      - name: setup-python@v5
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar requirements
+        run: |
+          python -m pip install -U Lektor unidecode
+
+      - name: Ejecutar download_meetup_data.py
+        run: python scripts/download_meetup_data.py
+
+      - name: Ejecutar create_events.py
+        run: python scripts/create_events.py  
+
+      - name: Rama actual
+        run: git branch
+
+      - name: Verificar cambios
+        id: check_changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "HAS_CHANGES=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "HAS_CHANGES=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Obtener la fecha y hora
+        id: date
+        run: echo "date=$(date +'%Y%m%d-%H%M%S')" >> "$GITHUB_OUTPUT"
+
+      - name: Git crear rama y commit
+        if: steps.check_changes.outputs.HAS_CHANGES == 'true'
+        run: |
+          git config --global user.name "ColombiaPython Bot"
+          git config --global user.email "colombiapython@gmail.com"
+          git checkout -b actualizar-eventos-${{ steps.date.outputs.date }}
+          git add content/eventos
+          git commit -m "Actualizacion eventos meetup"
+          git push -u origin actualizar-eventos-${{ steps.date.outputs.date }}
+
+
+      - name: Crear pull request
+        if: steps.check_changes.outputs.HAS_CHANGES == 'true'
+        run: gh pr create -B develop -H actualizar-eventos-${{ steps.date.outputs.date }} --title 'Actualizar eventos meetup into master' --body 'Created by ColombiaPython Bot'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

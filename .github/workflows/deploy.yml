@@ -9,6 +9,8 @@ on:
       - "develop"
       - "production"
   workflow_dispatch:
+permissions:
+  contents: write
 
 env:
   DEPLOY: >-
@@ -25,22 +27,39 @@ jobs:
     name: Construir sitio web lektor
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Generate access token
+        if: always()
+        id: generate_access_token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.PYTHON_CO_APP_ID }}
+          private-key: ${{ secrets.PYTHON_CO_APP_KEY }}
+          owner: ${{ github.repository_owner }}
+      
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      - name: Instalar Lektor
+      - name: Install Lektor
         run: |
           pipx ensurepath
           pipx install lektor
 
-      - name: Construir pagina
+      - name: Build Lektor site
         run: lektor build -O '${{ env.OUTPUT }}'
 
-      - name: Desplegar pagina
+      - name: Get current branch name
+        id: get_branch_name
+        run: echo "branch_name=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
+
+      - name: Deploy Lektor site
         if: env.DEPLOY == 'true'
-        run: lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/}
         env:
-          LEKTOR_DEPLOY_USERNAME: ColombiaPython
-          LEKTOR_DEPLOY_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
+          LEKTOR_DEPLOY_USERNAME: lektor
+          LEKTOR_DEPLOY_PASSWORD: ${{ steps.generate_access_token.outputs.token }}
+        run: |
+          lektor deploy -O '${{ env.OUTPUT }} $BRANCH_NAME'
