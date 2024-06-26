@@ -48,7 +48,6 @@ jobs:
 
       - name: Desplegar pagina
         if: env.DEPLOY == 'true'
-        run: lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/}
+        run: lektor deploy -O '${{ env.OUTPUT }}' ${GITHUB_REF##*/} --key $DEPLOY_TOKEN
         env:
-          LEKTOR_DEPLOY_USERNAME: ColombiaPython
-          LEKTOR_DEPLOY_PASSWORD: ${{ steps.generate_access_token.outputs.token }}
+          DEPLOY_TOKEN: ${{ steps.generate_access_token.outputs.token }}
