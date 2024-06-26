@@ -55,8 +55,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ steps.generate_access_token.outputs.token }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "pythonco-auth[bot]"
+          git config --global user.email "pythonco-auth[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ steps.generate_access_token.outputs.token }}@github.com/ColombiaPython/sitio-web-desarrollo.git
           
           # Ensure that the 'gh-pages' branch exists
