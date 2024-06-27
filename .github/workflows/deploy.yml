@@ -47,7 +47,7 @@ jobs:
       - name: Install Lektor
         run: |
           pipx ensurepath
-          pipx install lektor
+          pipx install -U Lektor unidecode
 
       - name: Build Lektor site
         run: lektor build -O '${{ env.OUTPUT }}'
