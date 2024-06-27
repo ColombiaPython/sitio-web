@@ -47,12 +47,12 @@ jobs:
       - name: Install Lektor
         run: |
           pipx ensurepath
-          pipx install lektor
+          pipx install Lektor unidecode
 
       - name: Build Lektor site
         run: lektor build -O '${{ env.OUTPUT }}'
 
-      - name: Deploy Lektor site
+      - name: Deploy Lektor site - ${{ github.head_ref || github.ref_name }}
         if: env.DEPLOY == 'true'
         env:
           LEKTOR_DEPLOY_USERNAME: lektor
