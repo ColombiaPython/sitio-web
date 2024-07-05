@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/07/meetup-python-medellin-julio
+---
+title: Meetup Python Medellín Julio
+---
+information: 
+<p>👋 ¡Hola a todos! Estamos felices de anunciar nuestro meetup de Julio 🎉</p> <p>Fecha: 11 de Julio 🗓<br/>Hora: 7:00pm ⏰<br/>Lugar: Bloque 38 Auditorio 110 de la Universidad EAFIT 🏫</p> <p>Aquí esta nuestra próxima agenda:</p> <p>🎙 En la primera charla, Carlos Sierra - Machine learning engineer, nos hará una introducción a MLOps: desplegando un modelo en un servicio web</p> <p>🎙 En la segunda charla, Gustavo Angulo - CTO/CoFounder Ubidots, nos hablará sobre cómo construir un API Gateway usando Fast API, para alta concurrencia 💻</p> <p>👉 ¡Aprovechen esta gran oportunidad de aprender, compartir y conectar! ¡Los esperamos! 🙌</p> <p>Agradecemos a nuestros patrocinadores Ubidots y Nodo EAFIT.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/302063948/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2024-07-11 19:00 -0500
+---
+date_end: 2024-07-11 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
