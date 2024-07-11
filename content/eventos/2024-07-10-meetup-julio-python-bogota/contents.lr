@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/07/meetup-julio-python-bogota
+---
+title: Meetup Julio - Python Bogotá 
+---
+information: 
+<p>Hola a tod@s! [Hay link de formulario al final del mensaje]</p> <p>Desde la organización de Python Bogotá es un gusto invitarlos a nuestro próximo meetup, a realizarse el próximo 10 de Julio de 2024 a las 6 pm en las instalaciones de Endava (Cl. 96 # 10 - 38, Edificio Box XI, Bogotá).</p> <p>Contaremos con speakers de lujo, espacio de networking, y lo lindo de reencontrarnos todos de nuevo.<br/>- [Valentina Vasquez](<a href="https://www.linkedin.com/in/valentina-vasquez-hernandez-48275214b/" class="linkified">https://www.linkedin.com/in/valentina-vasquez-hernandez-48275214b/</a>): Científica de Datos Senior en Mercado Libre<br/>- [Oscar Clavijo:](<a href="https://www.linkedin.com/in/oscar-andres-clavijo/" class="linkified">https://www.linkedin.com/in/oscar-andres-clavijo/</a>) Líder Técnico de Machine Learning en Mercado Libre<br/>- [Elkin Prada](<a href="https://www.linkedin.com/in/elkin-daniel-prada-gomez-342b6913b/" class="linkified">https://www.linkedin.com/in/elkin-daniel-prada-gomez-342b6913b/</a>): Coordinador de Desarrollo y Tecnología en TICSocial</p> <p>Agradecemos a Endava por el apoyo en la realización de este evento.</p> <p>Por favor, es necesario diligenciar el formulario que se deja a continuación para el registro y acceso al edificio. Te esperamos!<br/><a href="https://forms.gle/HWHmerixUrLmSeg9A" class="linkified">https://forms.gle/HWHmerixUrLmSeg9A</a></p> 
+---
+web: https://www.meetup.com/pythonbogota/events/302083831/
+---
+city: Bogota
+---
+country: Colombia
+---
+longitude: -74.0446548461914
+---
+latitude: 4.678825855255127
+---
+location: Endava. Calle 96 # 10-38,  Piso 7
+---
+date_start: 2024-07-10 18:00 -0500
+---
+date_end: 2024-07-10 18:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota
