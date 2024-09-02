@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/08/meetup-python-medellin-agosto
+---
+title: Meetup Python Medellín Agosto
+---
+information: 
+<p>👋 ¡Hola a todos! Estamos felices de anunciar nuestro meetup de Agosto 🎉</p> <p>Fecha: 22 de Agosto 🗓<br/>Hora: 7:00pm ⏰<br/>Lugar: Bloque 38 Auditorio 110 de la Universidad EAFIT 🏫</p> <p>Aquí esta nuestra próxima agenda:</p> <p>🎙 En la primera charla, Juan Camilo Diaz Ortega - Solutions Big Data Architect &amp; GenAI nos hablará sobre **AI Agents: Automatizando las decisiones de los LLM**<br/>🎙 En la segunda charla, Daniel Arango Sohm - Estudiante de EAFIT, nos hablará sobre **Deruuk: a multilingual programing language made in python** 💻</p> <p>👉 ¡Aprovechen esta gran oportunidad de aprender, compartir y conectar!<br/>También vamos a contar con la presencia de Sebastián Ramírez Montaño, creador de FastAPI. ¡Los esperamos! 🙌</p> <p>Agradecemos a nuestros patrocinadores FastAPI y Nodo EAFIT.</p> <p>🚨Ingreso sólo para las primeras 130 personas, llega temprano! 🏃🏻‍♀️🏃‍♂️</p> 
+---
+web: https://www.meetup.com/python-medellin/events/302946896/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2024-08-22 19:00 -0500
+---
+date_end: 2024-08-22 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
