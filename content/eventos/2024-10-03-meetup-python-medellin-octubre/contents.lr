@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/10/meetup-python-medellin-octubre
+---
+title: Meetup Python Medellín Octubre
+---
+information: 
+<p>**¿Te imaginas qué pueden contarnos los datos de quienes ya no están con nosotros?** 🕊️ **¿Y qué podemos aprender para los vivos?**<br/>En este meetup de las comunidades Paralaxy y Python Medellín, **Juan Diego Cardona** y **Álvaro López** nos contarán su experiencia en el proyecto en el que trabajan hoy en día.</p> <p>En este proyecto se extraen datos 📊 de personas fallecidas, se consolidan y se convierten en información muy relevante para muchos actores. Juan Diego y Álvaro han crecido como Ingenieros de Datos, luego de haber estudiado Ingeniería Electrónica. ⚙️<br/>Ahora están en el corazón de uno de los proyectos más desafiantes de Source Meridian. 🌐 Ellos te compartirán cómo utilizando herramientas de punta pueden transformar los datos en información valiosa. 💡</p> <p>**¿Por qué no puedes faltar?** 🤔<br/>Explorarás un mundo en el que los datos menos pensados 💀 se combinan con tecnología e ingeniería para cambiar nuestro entorno. 🌍<br/>Aprenderás cómo herramientas como Databricks se aplican en proyectos reales. 💻<br/>Te irás con más ganas de seguir explorando el mundo de los datos. 📈<br/>No importa si estás empezando o si ya llevas tiempo en el mundo de los datos, ¡aquí hay algo para ti! 🎓💼</p> <p>**Presentadores:**<br/>**Juan Diego Cardona:** Ingeniero de datos apasionado por el manejo de volúmenes masivos de información 📊 y por llevar los datos a su máxima expresión. 🚀<br/>**Álvaro López:** Experto en automatización de pruebas 🛠️ que encontró su verdadera vocación en la ingeniería de datos tras años de exploración en el mundo de la tecnología. 🔄</p> <p>🍕 Pizza, datos y buena charla te esperan.<br/>📅 **Fecha:** 03 de octubre<br/>⏰ **Hora:** 6:30 pm.<br/>📍 **Lugar:** Universidad EAFIT, Bloque 38, Entrada 4 sur, auditorio 101.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/303629005/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2024-10-03 18:30 -0500
+---
+date_end: 2024-10-03 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
