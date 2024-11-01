@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/10/desarrollo-basado-en-pruebas-codificando-con-calidad-superior-de-cero-a-gpt
+---
+title: Desarrollo basado en pruebas: codificando con calidad superior & De cero a GPT
+---
+information: 
+<p>**\*\*\* Recordatorio:\*\*\*** Para el ingreso a Lyd House será obligatorio diligenciar el siguiente formulario:<br/>[<a href="https://forms.gle/hL7PLqHsvJskXR2HA](https://forms.gle/hL7PLqHsvJskXR2HA" class="linkified">https://forms.gle/hL7PLqHsvJskXR2HA](https://forms.gle/hL7PLqHsvJskXR2HA</a>)</p> <p>**Desarrollo basado en pruebas: codificando con calidad superior**<br/>Nivel: Principiante</p> <p>La charla tiene como objetivo mostrar las ventajas del Test Driven Development al momento de desarrollar software, despertar la curiosidad para que las personas después de la charla investiguen el tema y hagan sus primeros tests y como puede a largo plazo brindar un software más seguro y confiable después de hacer cambios en el software. Evitaré hacer código en vivo para no aburrir a la gente, sino explicar las ventajas, posibles desventajas y algunos mitos.</p> <p>**Ponente:** Jorge Rueda</p> <p>Soy Ingeniero Electrónico de la Universidad Javeriana, desde 2019 hice un cambio en mi carrera hacia el mundo del software. Actualmente soy Ingeniero de backend en Genial.io orientado a Python, Linux, MongoDB, Docker y Django.</p> <p>**De cero a GPT**<br/>Nivel: Principiante</p> <p>La finalidad es que cada asistente entienda cómo funcionan las estrategias/algoritmos de IA mas usados en el mundo real desde el punto de vista matemático; desde una regresión lineal hasta como funciona un LLM. La charla se haría con terminos sencillos y faciles de entender por cualquier persona sin conocimientos tecnicos. Dependiendo al tiempo disponible algunos algoritmos podrian incluir implementación en Python sin usar librerías.</p> <p>**Ponente:** Jeffrey Saavedra</p> <p>Autodidacta con 15 años de experiencia en tecnología (back, front, IA, seguridad, cloud, mas). Actualmente me dedico a escalar startups.</p> <p>**Agenda:**</p> <p>* 6:30: Ingreso<br/>* 7:00-7:40: Charla 1<br/>* 7:40-7:55: Espacio Avvy<br/>* 8:00-8:40: Charla 2<br/>* 8:40-8:50: Anuncio importante<br/>* 8:50-9:30: Networking</p> <p>**Adicionales:**</p> <p>* El evento será presencial en el coworking Lyd House 98<br/>* Para el ingreso al coworking será necesario diligenciar el siguiente formulario: [<a href="https://forms.gle/hL7PLqHsvJskXR2HA](https://forms.gle/hL7PLqHsvJskXR2HA" class="linkified">https://forms.gle/hL7PLqHsvJskXR2HA](https://forms.gle/hL7PLqHsvJskXR2HA</a>)<br/>* El formulario cierra el jueves 17 de octubre a las 12:00pm.<br/>* Favor ser puntuales</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/303816975/
+---
+city: Barranquilla
+---
+country: Colombia
+---
+longitude: -74.82435607910156
+---
+latitude: 11.016629219055176
+---
+location: Lyd House 98. Calle 98 # 57 esquina. Ubicado en el 2do piso de Mall 98
+---
+date_start: 2024-10-17 18:30 -0500
+---
+date_end: 2024-10-17 18:30 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

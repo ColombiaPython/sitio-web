@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2024/11/testing-con-pytest-y-fastapi
+---
+title: Testing con Pytest y FastAPI
+---
+information: 
+<p>La charla será sobre cómo usar la librería Pytest para realizar tests unitarios. Se desarrollará un pequeño servicio y el objetivo es realizar tests para cubrir las funcionalidades de un caso de uso que tendría el servicio desarrollado con FastAPI.</p> <p>**Ponente:** Kevin Espejel</p> <p>Hola soy Kevin y actualmente soy Ingeniero de Software enfocado en el área de Backend, tengo 3 años de experiencia y he estado trabajando con Python desde hace 5 años. Cuento con un canal pequeño en YouTube y los temas que se cubren son sobre los fundamentos de programación con Python.</p> <p>**Nivel de la charla:** Intermedio</p> <p>***</p> <p>Adicionales:</p> <p>1. El evento será 100% online por el canal de **YouTube** de Python Colombia<br/>2. El ponente tiene canal de youtube: [<a href="https://www.youtube.com/channel/UCnjBZYZCze_uohKz1TCJoKQ](https://www.youtube.com/channel/UCnjBZYZCze_uohKz1TCJoKQ" class="embedded">https://www.youtube.com/channel/UCnjBZYZCze_uohKz1TCJoKQ](https://www.youtube.com/channel/UCnjBZYZCze_uohKz1TCJoKQ</a>)</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/304295753/
+---
+date_start: 2024-11-13 19:00 -0500
+---
+date_end: 2024-11-13 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla
