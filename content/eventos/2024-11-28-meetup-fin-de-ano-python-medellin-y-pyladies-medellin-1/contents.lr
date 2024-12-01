@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/11/meetup-fin-de-ano-python-medellin-y-pyladies-medellin-1
+---
+title: Meetup Fin de Año - Python Medellín y PyLadies Medellín
+---
+information: 
+<p>👋 ¡Hola a todos!<br/>Estamos felices de anunciar nuestro último meetup del año 🎉, En esta ocasión nos unimos con la comunidad de PyLadies Medellín para hacer un evento PRESENCIAL 🤗</p> <p>📅 **Fecha:** 28 de Noviembre<br/>⏰ **Hora:** 7:00 pm.<br/>📍 **Lugar:** Universidad EAFIT, Bloque 38, auditorio 101.</p> <p>Aquí esta nuestra próxima agenda:<br/>🎙 En la primera charla, [Esteban Maya](<a href="https://www.linkedin.com/in/esteban-x64/" class="linkified">https://www.linkedin.com/in/esteban-x64/</a>), nos hablará sobre **Testing in Containers: Una inmersión profunda en Docker Testcontainers**.<br/>👉 Descripción: Docker Testcontainers puede revolucionar su estrategia de pruebas al permitir pruebas rápidas, confiables y aisladas. Esta charla explorará cómo integrar Testcontainers en sus proyectos, desde la configuración básica hasta los casos de uso avanzados, asegurando que sus aplicaciones siempre se prueban en entornos que imitan de cerca la producción.<br/>🎙 La segunda charla, estará a cargo de [Carolina Gómez](<a href="https://www.linkedin.com/in/carolinagomezt/" class="linkified">https://www.linkedin.com/in/carolinagomezt/</a>), donde nos hablará **Del Backend al Big Data: Mi Camino hacia la Ingeniería de Datos**.<br/>👉 Descripción: El mundo de la tecnología cambia rápidamente, y con él, los roles y habilidades que demanda el mercado. En esta charla, compartiré mi experiencia de transicionar de desarrolladora backend, a ingeniera de datos.<br/>Exploraremos las diferencias clave entre estos dos roles, desde las habilidades técnicas, hasta los retos que enfrenté al cambiar de camino. También reflexionaremos sobre cómo ha evolucionado la industria tecnológica en los últimos años, y las implicaciones de este cambio en el rol del desarrollador de software.<br/>Si estás considerando un cambio de carrera, enfrentando nuevos desafíos tecnológicos o simplemente quieres entender mejor cómo conectan el desarrollo y los datos, esta charla es para ti.</p> <p>👉 ¡Aprovechen esta gran oportunidad de aprender, compartir y conectar! ¡Los esperamos! 🙌</p> <p>Agradecemos a nuestro patrocinador Nodo EAFIT.</p> <p>Tendremos streaming por el canal de [youtube de Python Colombia](<a href="https://www.youtube.com/live/zZ7c-TNQZgk?feature=shared" class="embedded">https://www.youtube.com/live/zZ7c-TNQZgk?feature=shared</a>).</p> 
+---
+web: https://www.meetup.com/python-medellin/events/304691566/
+---
+city: Medellín, El Poblado, Medellín
+---
+country: Colombia
+---
+longitude: -75.57926940917969
+---
+latitude: 6.199708938598633
+---
+location: EAFIT. Calle 7 Sur #50
+---
+date_start: 2024-11-28 19:00 -0500
+---
+date_end: 2024-11-28 19:00 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin

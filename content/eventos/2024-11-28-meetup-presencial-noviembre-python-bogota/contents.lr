@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2024/11/meetup-presencial-noviembre-python-bogota
+---
+title: Meetup Presencial Noviembre - Python Bogotá
+---
+information: 
+<p>Hola a tod@s<br/>súper invitad@s al último meetup del año de Python Bogotá<br/>los esperamos, en la imagen toda la información, es de libre acceso<br/>nos vemos pronto</p> 
+---
+web: https://www.meetup.com/pythonbogota/events/304796758/
+---
+city: Bogotá
+---
+country: Colombia
+---
+longitude: -74.06891632080078
+---
+latitude: 4.595217227935791
+---
+location: Universidad Externado de Colombia, Edificio G, Salón 305, Calle 12 No. 1-17 Este, Bogotá. Edificio G, Salón 401, Calle 12 No. 1-17 Este
+---
+date_start: 2024-11-28 17:30 -0500
+---
+date_end: 2024-11-28 17:30 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: python-bogota
