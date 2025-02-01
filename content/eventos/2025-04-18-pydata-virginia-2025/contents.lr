@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2025/04/pydata-virginia-2025
+---
+title: PyData Virginia 2025
+---
+information: 
+<p>Mark your calendars for PyData Virginia 2025, coming to Charlottesville on April 18-19! This two-day, in-person event at the Violet Crown Cinema is the ultimate place for data scientists, engineers, and developers to swap ideas and learn new info.</p> <p>Want to share your ideas?<br/>[Submit your talk proposal by Feb. 10](<a href="https://pydata.org/virginia2025/call-for-proposals" class="linkified">https://pydata.org/virginia2025/call-for-proposals</a>)!</p> <p>Snag your tickets before they're gone!<br/>[Buy Here](<a href="https://ti.to/pydata/pydata-virginia-2025" class="linkified">https://ti.to/pydata/pydata-virginia-2025</a>)</p> 
+---
+web: https://www.meetup.com/pydata-bogota/events/305754720/
+---
+city: Charlottesville
+---
+country: USA
+---
+longitude: -78.4825210571289
+---
+latitude: 38.03084182739258
+---
+location: Violet Crown Charlottesville. 200 W Main St
+---
+date_start: 2025-04-18 07:00 -0500
+---
+date_end: 2025-04-18 07:00 -0500
+---
+province: Cundinamarca
+---
+organizers: 
+
+#### organization ####
+username: pydata-bogota
