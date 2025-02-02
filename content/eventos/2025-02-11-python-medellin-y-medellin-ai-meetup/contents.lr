@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2025/02/python-medellin-y-medellin-ai-meetup
+---
+title: Python Medellín y Medellín AI Meetup
+---
+information: 
+<p>Hola a todos!</p> <p>Estamos felices de anunciar nuestro meetup de Febrero, donde nos encontraremos a compartir conocimiento, aprender y conocer nuevas personas. No te lo pierdas!!!</p> <p>Aquí esta nuestra próxima agenda:</p> <p>➡️ **An Introduction to Memory Management in Python by Jorge Galvis**<br/>ℹ️ **Description:** This talk provides a structured overview of memory management in Python, focusing on key concepts and mechanisms. Topics include the Garbage Collector and its role in automatic memory reclamation, memory reference counting, and the organization of data in the stack and memory heap. Practical examples will illustrate how these concepts are applied.</p> <p>➡️ I**ntroduction to AI Agents by Andres Velez**<br/>ℹ️ **Description:** This meetup will explore the concept of generative AI agents and how they can be used to supplement human knowledge and capabilities. We will discuss how these models can be trained to use tools and access real-time information, allowing them to suggest real-world actions and complete tasks in a self-directed fashion.</p> <p>Lugar: 🏢 [Cra43B # 1 A sur 70](<a href="https://goo.gl/maps/8jquhbVdRVkuJ9DR7" class="linkified">https://goo.gl/maps/8jquhbVdRVkuJ9DR7</a>) \- Oficina de Gorilla Logic Buró 4\.0\, Piso 5<br/>Hora: 6:30pm</p> <p>Agradecemos a nuestro patrocinador [Gorilla Logic](<a href="https://www.instagram.com/gorilla_logic/" class="linkified">https://www.instagram.com/gorilla_logic/</a>) 💛💙</p> <p>No olvides inscribirte acá para poder ingresar: <a href="https://forms.gle/aHMAvQNFTRoBA5Xk9" class="linkified">https://forms.gle/aHMAvQNFTRoBA5Xk9</a></p> <p>‼️🚨 SOLO PODRÁN INGRESAR LAS PRIMERAS 100 PERSONAS 🚨</p> 
+---
+web: https://www.meetup.com/python-medellin/events/305899169/
+---
+city: Medellin
+---
+country: Colombia
+---
+longitude: -75.57284545898438
+---
+latitude: 6.202649116516113
+---
+location: Centro Empresarial Buro 4.0.  Cra. 43B #1a Sur-70
+---
+date_start: 2025-02-11 18:30 -0500
+---
+date_end: 2025-02-11 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
