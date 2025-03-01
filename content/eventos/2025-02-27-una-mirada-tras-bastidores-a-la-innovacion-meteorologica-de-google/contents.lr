@@ -1,0 +1,21 @@
+_model: event
+---
+_slug: 2025/02/una-mirada-tras-bastidores-a-la-innovacion-meteorologica-de-google
+---
+title: Una mirada tras bastidores a la innovación meteorológica de Google
+---
+information: 
+<p>Esta presentación ofrece una mirada exclusiva al desarrollo de nowcasting meteorológico en Google. Exploraremos el proceso de investigación llevado a cabo en Google Research, desde la concepción de la idea hasta la implementación de modelos de aprendizaje automático de vanguardia. Abordaremos los desafíos de predecir eventos meteorológicos a corto plazo y cómo nuestra tecnología está revolucionando la precisión de los pronósticos.</p> <p>**Ponente:** Santiago Hincapie</p> <p>Hago parte del equipo de Gemini AudioGen en Google DeepMind, antes de ingresar a GDM, trabaje por dos años en el equipo del clima en Google Research donde trabaje en hacer las tecnologías del clima mas incluyentes.</p> <p>**Nivel de la charla:** Intermedio</p> <p>***</p> <p>Adicionales:</p> <p>1. El evento será 100% online por el canal de **YouTube** de Python Colombia</p> 
+---
+web: https://www.meetup.com/pythonbaq/events/306220996/
+---
+date_start: 2025-02-27 19:00 -0500
+---
+date_end: 2025-02-27 19:00 -0500
+---
+province: Atlántico
+---
+organizers: 
+
+#### organization ####
+username: python-barranquilla

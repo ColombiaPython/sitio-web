@@ -1,0 +1,31 @@
+_model: event
+---
+_slug: 2025/03/meetup-python-medellin-y-medellin-ai-con-mercado-libre
+---
+title: Meetup Python Medellín y Medellín AI con Mercado Libre
+---
+information: 
+<p>¡Acompáñanos en una jornada dinámica y enriquecedora! 🌟 En colaboración con Medellin AI y Mercado Libre. Separa tu cupo en el siguiente [forms](<a href="https://forms.gle/wfbmddPtqnymcgfx9" class="linkified">https://forms.gle/wfbmddPtqnymcgfx9</a>) de inscripción.</p> <p>Te traemos dos charlas imperdibles que fusionan marketing y Embeddings:</p> <p>**1\. Kairós: Inferencia Causal y Optimización de Audiencias**<br/>🗣️ **Presentado por:** Valentina Vásquez H y Laura López B. Descubre Kairós, una innovadora herramienta de Mercado Libre que utiliza inferencia causal y técnicas de optimización para maximizar el impacto de las campañas de marketing, identificando las audiencias más receptivas. ¡No te lo puedes perder! 📈🎯</p> <p>**2\. Distance Based Journey in the Embedding Space Geometries**<br/>🗣️ **Presentado por:** Andrés Fernández, ingeniero Senior en Machine Learning de John Snow Labs. En esta sesión, profundizaremos en la construcción e interpretación de pipelines de embeddings. Aprenderás a analizar similitudes, visualizar vecindarios y comprender las métricas de distancia. ¡Trae tu laptop y prepárate para codificar en vivo! 💻✨</p> <p>📅 **Fecha y Lugar**: Nos vemos el **Miércoles 5 de marzo** en las oficinas de Mercado Libre Ubicado en el C.C. Vizcaya: 📍 (Carrera 10 No. 32-115, Sótano 2 Local 9806, Medellín)<br/>⌛ Hora **6:30 PM**</p> <p>**¡Te Invitamos a Participar!**<br/>Este es el espacio perfecto para ampliar tus conocimientos, hacer networking y compartir ideas con otros apasionados del sector. ¡Inscríbete ahora y no dejes pasar esta oportunidad única! 🎉👩‍💻👨‍💻 ¡Te esperamos con mucho entusiasmo! No olvides llenar el [forms](<a href="https://forms.gle/wfbmddPtqnymcgfx9" class="linkified">https://forms.gle/wfbmddPtqnymcgfx9</a>) ya que son cupos LIMITADOS.</p> 
+---
+web: https://www.meetup.com/python-medellin/events/306457787/
+---
+city: Medellín 
+---
+country: Colombia
+---
+longitude: -75.56320190429688
+---
+latitude: 6.208301067352295
+---
+location: C.C Vizcaya . Cl 10 #32-115
+---
+date_start: 2025-03-05 18:30 -0500
+---
+date_end: 2025-03-05 18:30 -0500
+---
+province: Antioquia
+---
+organizers: 
+
+#### organization ####
+username: python-medellin
