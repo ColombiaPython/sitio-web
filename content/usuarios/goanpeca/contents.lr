@@ -12,9 +12,9 @@ facebook_handle: goanpeca
 ---
 github_handle: goanpeca
 ---
-last_name: Peña C.
+last_name: Peña Castellanos
 ---
-name: Gonzalo A.
+name: Gonzalo
 ---
 province: Santander
 ---
@@ -30,10 +30,45 @@ type: persona
 ---
 information:
 
-Soy Ingeniero de Recursos Hídricos con un pregrado en Ingeniería Civil, una Maestría en Hidro-Informática y una maestría en Ingeniería Sanitaria. Desde 2009, he estado trabajando con el lenguaje Python y su stack de informática científica para resolver problemas relacionados con la hidrología (escalado estocástica de precipitación), hidráulica (modelado de dinámica de ríos) y calidad del agua (simulación de reactores biológicos). Desde 2015 he trabajado a tiempo parcial como Ingeniero de Software usando Flask, PyQt en conjunto con el ecosistema de Conda, Miniconda y Anaconda, y medio tiempo como Ingeniero de Proyectos en temas relacionados con el agua.
+Arquitecto las herramientas que impulsan la ciencia de datos moderna—desde contribuir a proyectos de Scientific Python usados por millones hasta construir aplicaciones de IA de próxima generación en Datalayer.
 
-Actualmente soy el Líder Técnico del proyecto Anaconda Navigator en [Anaconda, Inc](https://www.anaconda.com/) y desarrollador principal para el **Entorno de Desarrollo Científico** - [Spyder](http://www.spyder-ide.org) y proyectos relacionados (QtPy, QtAwesome, Conda-Manager), Líder de área del proyecto [PyBee](https://github.com/pybee/pybee.github.io/wiki/Project-Area%20-Leaders), colaborador en la iniciativa [Open Water Analytics](https://github.com/openwateranalytics/) e Ingeniero de Proyectos en [Sistemas Hidráulicos y Sanitarios Ltda](http://sihsa.co).
+🚀 Lo Que Estoy Construyendo Ahora
+En Datalayer, estoy revolucionando cómo los científicos de datos trabajan con Jupyter, creando herramientas basadas en Electron que llevan el rendimiento de escritorio a la computación en notebooks. Mi trabajo impacta directamente a miles de investigadores e ingenieros diariamente.
+
+💡 Mi Ventaja Única
+Conecto tres mundos que raramente se cruzan:
+• Liderazgo Open Source: Contribuidor principal de Spyder IDE, JupyterLab, napari y PyTorch-Ignite—herramientas descargadas 50M+ veces
+• Profundidad Técnica: 10+ años dominando Python, +2 TypeScript en computación científica, backends web y aplicaciones de escritorio
+• Visión Empresarial: Fundé y escalé un gimnasio de escalada a 200+ miembros, entendiendo tanto código como clientes
+
+🎯 Impacto Que Importa
+• Lideré la internacionalización de Scientific Python, haciendo herramientas accesibles a 500M+ hispanohablantes
+• Desarrollé Anaconda Navigator como Líder Técnico, optimizando la gestión de paquetes para millones
+• Organicé PyCon Colombia (2018-2020) y SciPy Latam, construyendo puentes entre tecnología global y Latinoamérica
+
+🛠️ Arsenal Técnico
+Frontend: React, TypeScript, Electron, Qt/PyQt
+Backend: Django, Flask, FastAPI, PostgreSQL, MongoDB
+Científico: NumPy, Pandas, Dask, Matplotlib, ecosistema Jupyter
+Cloud/DevOps: AWS, Docker, GitHub Actions, CI/CD
+
+🌎 Más Allá del Código
+Creo que la tecnología debe romper barreras, no crearlas. Por eso lidero comunidades Python en Latinoamérica, soy mentor en Django Girls Colombia, y aseguro que las herramientas científicas hablen el idioma de todos—literalmente.
+
+📫 Conectemos Si Estás:
+• Construyendo herramientas de desarrollo que necesitan escalar globalmente
+• Buscando alguien que pueda construir soluciones desde investigación hasta producción
+• Apasionado por hacer la computación científica más accesible
+• Interesado en la intersección de IA, herramientas de desarrollo y open source
+
+🎸 Cuando no estoy programando: Escalando paredes en mi gimnasio Trepa, haciendo música, o volando drones sobre paisajes colombianos.
+
+🗣️ Idiomas: Español (Nativo), Inglés (Fluido), Francés (Profesional), Portugués (Aprendiendo)
 ---
 instagram_handle: goanpeca
 ---
-web: https://www.linkedin.com/in/goanpeca
+web: https://goanpeca.co
+---
+city: Bucaramanga
+---
+summary: Ingeniero Senior de IA en Datalayer ≡  | Contribuidor Principal de Scientific Python | Construyendo Herramientas Usadas por 100K+ Desarrolladores | Spyder IDE, JupyterLab, PyTorch-Ignite
